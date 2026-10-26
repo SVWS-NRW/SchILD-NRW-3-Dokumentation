@@ -1,0 +1,3381 @@
+{
+  "tabs": [
+    {
+      "id": "verwaltung",
+      "text": "Verwaltung",
+      "link": "/programmreferenz/verwaltung",
+      "items": [
+        {
+          "id": "verwaltung-1",
+          "text": "Schule",
+          "link": "/einstieg/erste-schritte/schule-verwaltung",
+          "source_title": "Schule (Verwaltung)",
+          "items": [
+            {
+              "id": "verwaltung-2",
+              "text": "Vorschau",
+              "link": "/schild3/schueler/vorschau-verwaltung-schule",
+              "source_title": "Vorschau (Verwaltung Schule)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-3",
+              "text": "Allgemeine Angaben",
+              "link": "/schild3/schueler/allgemeine-angaben-verwaltung-schule",
+              "source_title": "Allgemeine Angaben (Verwaltung Schule)",
+              "sections": [
+                {
+                  "id": "verwaltung-3-section-6",
+                  "text": "Aufbau und Herkunft der Schuldaten",
+                  "link": "/schild3/schueler/allgemeine-angaben-verwaltung-schule#aufbau-und-herkunft-der-schuldaten"
+                },
+                {
+                  "id": "verwaltung-3-section-7",
+                  "text": "Schulname und Kontaktdaten",
+                  "link": "/schild3/schueler/allgemeine-angaben-verwaltung-schule#schulname-und-kontaktdaten"
+                },
+                {
+                  "id": "verwaltung-3-section-8",
+                  "text": "Mehrzeiliger Schulname",
+                  "link": "/schild3/schueler/allgemeine-angaben-verwaltung-schule#mehrzeiliger-schulname"
+                },
+                {
+                  "id": "verwaltung-3-section-2",
+                  "text": "Organisatorische Angaben",
+                  "link": "/schild3/schueler/allgemeine-angaben-verwaltung-schule#organisatorische-angaben"
+                },
+                {
+                  "id": "verwaltung-3-section-3",
+                  "text": "Gliederungen",
+                  "link": "/schild3/schueler/allgemeine-angaben-verwaltung-schule#gliederungen"
+                },
+                {
+                  "id": "verwaltung-3-section-4",
+                  "text": "Angaben zu Abschnitten",
+                  "link": "/schild3/schueler/allgemeine-angaben-verwaltung-schule#angaben-zu-abschnitten"
+                },
+                {
+                  "id": "verwaltung-3-section-5",
+                  "text": "Schulleitung",
+                  "link": "/schild3/schueler/allgemeine-angaben-verwaltung-schule#schulleitung"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-4",
+              "text": "Weitere Angaben",
+              "link": "/schild3/schueler/weitere-angaben-verwaltung-schule",
+              "source_title": "Weitere Angaben (Verwaltung Schule)",
+              "sections": []
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "verwaltung-5",
+          "text": "Benutzer",
+          "link": "/administration/benutzer-einstellungen/benutzer-verwaltung-schule",
+          "source_title": "Benutzer (Verwaltung Schule)",
+          "items": [
+            {
+              "id": "verwaltung-6",
+              "text": "Benutzerverwaltung",
+              "link": "/administration/benutzer-einstellungen/benutzerverwaltung-verwaltung-schule",
+              "source_title": "Benutzerverwaltung (Verwaltung Schule)",
+              "sections": [
+                {
+                  "id": "verwaltung-6-section-0",
+                  "text": "Überblick",
+                  "link": "/administration/benutzer-einstellungen/benutzerverwaltung-verwaltung-schule#uberblick"
+                },
+                {
+                  "id": "verwaltung-6-section-1",
+                  "text": "Bearbeitung",
+                  "link": "/administration/benutzer-einstellungen/benutzerverwaltung-verwaltung-schule#bearbeitung"
+                },
+                {
+                  "id": "verwaltung-6-section-2",
+                  "text": "Benutzergruppen",
+                  "link": "/administration/benutzer-einstellungen/benutzerverwaltung-verwaltung-schule#benutzergruppen"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-7",
+              "text": "Kennwort ändern",
+              "link": "/administration/benutzer-einstellungen/kennwort-aendern-verwaltung-schule",
+              "source_title": "Kennwort ändern (Verwaltung Schule)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-8",
+              "text": "Aktuelle Datenbankbenutzer zeigen",
+              "link": "/administration/datenbanken/aktuelle-datenbankbenutzer-zeigen-verwaltung-schule",
+              "source_title": "Aktuelle Datenbankbenutzer zeigen (Verwaltung Schule)",
+              "sections": []
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "verwaltung-9",
+          "text": "Import und Export",
+          "link": "/schild3/import-export-statistik/im-und-export-verwaltung",
+          "source_title": "Im- und Export (Verwaltung)",
+          "items": [
+            {
+              "id": "verwaltung-10",
+              "text": "Vorbemerkungen zur Schnittstelle von SchILD-NRW",
+              "link": "/schild3/import-export-statistik/schnittstelle-schild-vorbemerkungen",
+              "source_title": "Schnittstelle SchILD - Vorbemerkungen",
+              "sections": [
+                {
+                  "id": "verwaltung-10-section-0",
+                  "text": "Hinweise",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-vorbemerkungen#hinweise"
+                },
+                {
+                  "id": "verwaltung-10-section-1",
+                  "text": "Beispiel",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-vorbemerkungen#beispiel"
+                },
+                {
+                  "id": "verwaltung-10-section-2",
+                  "text": "Für alle Textdateien gelten folgende Bedingungen",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-vorbemerkungen#fur-alle-textdateien-gelten-folgende-bedingungen"
+                },
+                {
+                  "id": "verwaltung-10-section-3",
+                  "text": "Umgang mit leeren Feldern",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-vorbemerkungen#umgang-mit-leeren-feldern"
+                },
+                {
+                  "id": "verwaltung-10-section-4",
+                  "text": "Datentypen",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-vorbemerkungen#datentypen"
+                },
+                {
+                  "id": "verwaltung-10-section-5",
+                  "text": "Partielle bzw. additive Importe",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-vorbemerkungen#partielle-bzw-additive-importe"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-11",
+              "text": "Schnittstellenbeschreibung SchILD-NRW",
+              "link": "/schild3/import-export-statistik/schnittstellenbeschreibung",
+              "source_title": "Schnittstellenbeschreibung",
+              "sections": [
+                {
+                  "id": "verwaltung-11-section-0",
+                  "text": "Adressen.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#adressen-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-1",
+                  "text": "Ansprechpartner.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#ansprechpartner-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-2",
+                  "text": "Faecher.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#faecher-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-3",
+                  "text": "Jahrgaenge.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#jahrgaenge-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-4",
+                  "text": "Klassen.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#klassen-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-5",
+                  "text": "Kurse.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#kurse-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-35",
+                  "text": "Kurse.dat im alten Format",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#kurse-dat-im-alten-format"
+                },
+                {
+                  "id": "verwaltung-11-section-7",
+                  "text": "KurseLehrkraefte.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#kurselehrkraefte-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-8",
+                  "text": "Lehrkraefte.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#lehrkraefte-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-9",
+                  "text": "LehrkraefteLehraemter.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#lehrkraeftelehraemter-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-10",
+                  "text": "LehrkraefteLernplattformen.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#lehrkraeftelernplattformen-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-11",
+                  "text": "LehrkraefteSonderzeiten.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#lehrkraeftesonderzeiten-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-12",
+                  "text": "SchuelerAbiFaecher.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerabifaecher-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-13",
+                  "text": "SchuelerAbitur.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerabitur-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-14",
+                  "text": "SchuelerAdressen.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schueleradressen-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-15",
+                  "text": "SchuelerASV.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerasv-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-16",
+                  "text": "SchuelerBasisdaten.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerbasisdaten-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-17",
+                  "text": "SchuelerBisherigeSchulen.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerbisherigeschulen-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-18",
+                  "text": "SchuelerErzieher.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelererzieher-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-19",
+                  "text": "SchuelerFachBemerkungen.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerfachbemerkungen-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-20",
+                  "text": "SchuelerFehlstunden.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerfehlstunden-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-21",
+                  "text": "SchuelerGSDaten.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelergsdaten-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-22",
+                  "text": "SchuelerLeistungsdaten.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerleistungsdaten-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-23",
+                  "text": "SchuelerLELS.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerlels-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-24",
+                  "text": "SchuelerLernabschnittsdaten.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerlernabschnittsdaten-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-25",
+                  "text": "SchuelerLernplattformen.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerlernplattformen-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-26",
+                  "text": "SchuelerMerkmale.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelermerkmale-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-27",
+                  "text": "SchuelerSprachenfolgen.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelersprachenfolgen-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-28",
+                  "text": "SchuelerTeilleistungen.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerteilleistungen-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-29",
+                  "text": "SchuelerTelefonnummern.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelertelefonnummern-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-30",
+                  "text": "SchuelerVermerke.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelervermerke-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-31",
+                  "text": "SchuelerZeugnisBemerkungen.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerzeugnisbemerkungen-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-32",
+                  "text": "SchuelerZusatzdaten.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schuelerzusatzdaten-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-33",
+                  "text": "SchuleMerkmale.dat",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#schulemerkmale-dat"
+                },
+                {
+                  "id": "verwaltung-11-section-34",
+                  "text": "Anhang",
+                  "link": "/schild3/import-export-statistik/schnittstellenbeschreibung#anhang"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "verwaltung-group-3",
+          "text": "Import",
+          "items": [
+            {
+              "id": "verwaltung-13",
+              "text": "Schnittstelle SchILD-NRW",
+              "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export",
+              "source_title": "Schnittstelle SchILD-NRW (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-13-section-0",
+                  "text": "Export",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export#export"
+                },
+                {
+                  "id": "verwaltung-13-section-2",
+                  "text": "Weitere Export-Optionen",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export#weitere-export-optionen"
+                },
+                {
+                  "id": "verwaltung-13-section-1",
+                  "text": "Import",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export#import"
+                },
+                {
+                  "id": "verwaltung-13-section-3",
+                  "text": "Fehlerprotokoll",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export#fehlerprotokoll"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-14",
+              "text": "Unterrichts-Daten (als Excel-Daten)",
+              "link": "/schild3/import-export-statistik/unterrichts-daten-als-excel-daten-verwaltung-import",
+              "source_title": "Unterrichts-Daten (als Excel-Daten) (Verwaltung Import)",
+              "sections": [
+                {
+                  "id": "verwaltung-14-section-0",
+                  "text": "Import",
+                  "link": "/schild3/import-export-statistik/unterrichts-daten-als-excel-daten-verwaltung-import#import"
+                },
+                {
+                  "id": "verwaltung-14-section-1",
+                  "text": "Erläuterungen zum Format",
+                  "link": "/schild3/import-export-statistik/unterrichts-daten-als-excel-daten-verwaltung-import#erlauterungen-zum-format"
+                },
+                {
+                  "id": "verwaltung-14-section-2",
+                  "text": "Beispiele",
+                  "link": "/schild3/import-export-statistik/unterrichts-daten-als-excel-daten-verwaltung-import#beispiele"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-15",
+              "text": "Unterrichts-Daten als UVD-TXT",
+              "link": "/schild3/import-export-statistik/unterrichts-daten-als-uvd-txt-verwaltung-import",
+              "source_title": "Unterrichts-Daten als UVD-TXT (Verwaltung Import)",
+              "sections": [
+                {
+                  "id": "verwaltung-15-section-0",
+                  "text": "UVD-Datei auswählen und übernehmen",
+                  "link": "/schild3/import-export-statistik/unterrichts-daten-als-uvd-txt-verwaltung-import#uvd-datei-auswahlen-und-ubernehmen"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-16",
+              "text": "ZP10-Daten",
+              "link": "/schild3/import-export-statistik/zp10-daten-verwaltung-import",
+              "source_title": "ZP10-Daten (Verwaltung Import)",
+              "sections": [
+                {
+                  "id": "verwaltung-16-section-0",
+                  "text": "Dateibeispiel",
+                  "link": "/schild3/import-export-statistik/zp10-daten-verwaltung-import#dateibeispiel"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-17",
+              "text": "Aufnahmebestätigung",
+              "link": "/schild3/import-export-statistik/aufnahmebestaetigung-verwaltung-import",
+              "source_title": "Aufnahmebestätigung (Verwaltung Import)",
+              "sections": []
+            }
+          ],
+          "link": "/programmreferenz/bereiche/verwaltung-group-3"
+        },
+        {
+          "id": "verwaltung-group-4",
+          "text": "Exporte Allgemein",
+          "items": [
+            {
+              "id": "verwaltung-18",
+              "text": "Schnittstelle SchILD-NRW",
+              "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export",
+              "source_title": "Schnittstelle SchILD-NRW (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-18-section-0",
+                  "text": "Export",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export#export"
+                },
+                {
+                  "id": "verwaltung-18-section-2",
+                  "text": "Weitere Export-Optionen",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export#weitere-export-optionen"
+                },
+                {
+                  "id": "verwaltung-18-section-1",
+                  "text": "Import",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export#import"
+                },
+                {
+                  "id": "verwaltung-18-section-3",
+                  "text": "Fehlerprotokoll",
+                  "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export#fehlerprotokoll"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-19",
+              "text": "Als Excel-/Text-Datei",
+              "link": "/schild3/import-export-statistik/datenexport-im-xlsx-oder-txt-format-tutorial",
+              "source_title": "Als Excel-/Text-Datei (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-19-section-0",
+                  "text": "Videotutorial zum Datenexport im xlsx- oder txt-Format",
+                  "link": "/schild3/import-export-statistik/datenexport-im-xlsx-oder-txt-format-tutorial#videotutorial-zum-datenexport-im-xlsx-oder-txt-format"
+                },
+                {
+                  "id": "verwaltung-19-section-2",
+                  "text": "Daten nach Excel oder als CSV exportieren",
+                  "link": "/schild3/import-export-statistik/datenexport-im-xlsx-oder-txt-format-tutorial#daten-nach-excel-oder-als-csv-exportieren"
+                },
+                {
+                  "id": "verwaltung-19-section-3",
+                  "text": "Zeugnisdaten",
+                  "link": "/schild3/import-export-statistik/datenexport-im-xlsx-oder-txt-format-tutorial#zeugnisdaten"
+                },
+                {
+                  "id": "verwaltung-19-section-4",
+                  "text": "Export-Optionen",
+                  "link": "/schild3/import-export-statistik/datenexport-im-xlsx-oder-txt-format-tutorial#export-optionen"
+                },
+                {
+                  "id": "verwaltung-19-section-5",
+                  "text": "Vorlagen speichern und laden",
+                  "link": "/schild3/import-export-statistik/datenexport-im-xlsx-oder-txt-format-tutorial#vorlagen-speichern-und-laden"
+                },
+                {
+                  "id": "verwaltung-19-section-6",
+                  "text": "Feldzuordnungsdatei für Serienbriefdruck",
+                  "link": "/schild3/import-export-statistik/datenexport-im-xlsx-oder-txt-format-tutorial#feldzuordnungsdatei-fur-serienbriefdruck"
+                },
+                {
+                  "id": "verwaltung-19-section-7",
+                  "text": "Word Seriendruck",
+                  "link": "/schild3/import-export-statistik/datenexport-im-xlsx-oder-txt-format-tutorial#word-seriendruck"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-20",
+              "text": "Für Schulträger",
+              "link": "/schild3/import-export-statistik/fuer-schultraeger-verwaltung-export",
+              "source_title": "Für Schulträger (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-20-section-0",
+                  "text": "Verschlüsselungsverfahren wählen",
+                  "link": "/schild3/import-export-statistik/fuer-schultraeger-verwaltung-export#verschlusselungsverfahren-wahlen"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-21",
+              "text": "Jahrgang und Nationalität",
+              "link": "/schild3/import-export-statistik/jahrgang-und-nationalitaet-verwaltung-export",
+              "source_title": "Jahrgang und Nationalität (Verwaltung Export)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-22",
+              "text": "Export für BAN-Portal",
+              "link": "/schild3/import-export-statistik/export-fuer-ban-portal-verwaltung-export",
+              "source_title": "Export für BAN-Portal (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-22-section-0",
+                  "text": "Schüler vorbereiten",
+                  "link": "/schild3/import-export-statistik/export-fuer-ban-portal-verwaltung-export#schuler-vorbereiten"
+                },
+                {
+                  "id": "verwaltung-22-section-1",
+                  "text": "BAN-Export",
+                  "link": "/schild3/import-export-statistik/export-fuer-ban-portal-verwaltung-export#ban-export"
+                },
+                {
+                  "id": "verwaltung-22-section-2",
+                  "text": "Bedeutung der Tabellenwerte",
+                  "link": "/schild3/import-export-statistik/export-fuer-ban-portal-verwaltung-export#bedeutung-der-tabellenwerte"
+                }
+              ]
+            }
+          ],
+          "link": "/programmreferenz/bereiche/verwaltung-group-4"
+        },
+        {
+          "id": "verwaltung-24",
+          "text": "Excel-Notendateien",
+          "link": "/zeugnisse/vorbereitung/excel-notendateien-verwaltung-export",
+          "source_title": "Excel-Notendateien (Verwaltung Export)",
+          "sections": [
+            {
+              "id": "verwaltung-24-section-0",
+              "text": "Export",
+              "link": "/zeugnisse/vorbereitung/excel-notendateien-verwaltung-export#export"
+            },
+            {
+              "id": "verwaltung-24-section-1",
+              "text": "Import",
+              "link": "/zeugnisse/vorbereitung/excel-notendateien-verwaltung-export#import"
+            }
+          ]
+        },
+        {
+          "id": "verwaltung-group-6",
+          "text": "Export Lernplattformen",
+          "items": [
+            {
+              "id": "verwaltung-25",
+              "text": "Logineo NRW (XML)",
+              "link": "/schild3/import-export-statistik/export-fuer-logineo-nrw-xml-verwaltung-export",
+              "source_title": "Export für Logineo NRW (XML) (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-25-section-0",
+                  "text": "Export aus SchILD",
+                  "link": "/schild3/import-export-statistik/export-fuer-logineo-nrw-xml-verwaltung-export#export-aus-schild"
+                },
+                {
+                  "id": "verwaltung-25-section-1",
+                  "text": "Import in Logineo NRW",
+                  "link": "/schild3/import-export-statistik/export-fuer-logineo-nrw-xml-verwaltung-export#import-in-logineo-nrw"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-26",
+              "text": "Export für iServ",
+              "link": "/schild3/import-export-statistik/export-fuer-iserv-verwaltung-export",
+              "source_title": "Export für iServ (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-26-section-0",
+                  "text": "Export aus SchILD",
+                  "link": "/schild3/import-export-statistik/export-fuer-iserv-verwaltung-export#export-aus-schild"
+                },
+                {
+                  "id": "verwaltung-26-section-1",
+                  "text": "Import in iServ",
+                  "link": "/schild3/import-export-statistik/export-fuer-iserv-verwaltung-export#import-in-iserv"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-27",
+              "text": "Logineo LMS (CSV)",
+              "link": "/schild3/import-export-statistik/export-fuer-logineo-lms-csv-verwaltung-export",
+              "source_title": "Export für Logineo LMS (CSV) (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-27-section-0",
+                  "text": "Exportumfang und Gruppen festlegen",
+                  "link": "/schild3/import-export-statistik/export-fuer-logineo-lms-csv-verwaltung-export#exportumfang-und-gruppen-festlegen"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-28",
+              "text": "Microsoft Teams/SDS (MNS-Pro)",
+              "link": "/schild3/import-export-statistik/export-fuer-sds-mns-pro-verwaltung-export",
+              "source_title": "Export für SDS (MNS-Pro)(Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-28-section-0",
+                  "text": "Export aus SchILD-NRW",
+                  "link": "/schild3/import-export-statistik/export-fuer-sds-mns-pro-verwaltung-export#export-aus-schild-nrw"
+                },
+                {
+                  "id": "verwaltung-28-section-2",
+                  "text": "Weiterverarbeitung im Zielsystem",
+                  "link": "/schild3/import-export-statistik/export-fuer-sds-mns-pro-verwaltung-export#weiterverarbeitung-im-zielsystem"
+                }
+              ]
+            }
+          ],
+          "link": "/programmreferenz/bereiche/verwaltung-group-6"
+        },
+        {
+          "id": "verwaltung-group-7",
+          "text": "Export Fotos",
+          "items": [
+            {
+              "id": "verwaltung-29",
+              "text": "Fotoliste",
+              "link": "/schild3/import-export-statistik/fotoliste-verwaltung-export",
+              "source_title": "Fotoliste (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-29-section-0",
+                  "text": "Inhalt der Fotoliste",
+                  "link": "/schild3/import-export-statistik/fotoliste-verwaltung-export#inhalt-der-fotoliste"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-30",
+              "text": "Fotos",
+              "link": "/schild3/import-export-statistik/fotos-verwaltung-export",
+              "source_title": "Fotos (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-30-section-0",
+                  "text": "Dateinamensmuster auswählen",
+                  "link": "/schild3/import-export-statistik/fotos-verwaltung-export#dateinamensmuster-auswahlen"
+                }
+              ]
+            }
+          ],
+          "link": "/programmreferenz/bereiche/verwaltung-group-7"
+        },
+        {
+          "id": "verwaltung-group-8",
+          "text": "Weitere Exporte",
+          "items": [
+            {
+              "id": "verwaltung-31",
+              "text": "Abiturdaten",
+              "link": "/zeugnisse/sekundarstufen/abiturdaten-verwaltung-export",
+              "source_title": "Abiturdaten (Verwaltung Export)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-32",
+              "text": "Startklar",
+              "link": "/schild3/import-export-statistik/startklar-verwaltung-export",
+              "source_title": "Startklar (Verwaltung Export)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-33",
+              "text": "ZP10-Daten",
+              "link": "/schild3/import-export-statistik/zk-daten-verwaltung-export",
+              "source_title": "ZK-Daten (Verwaltung Export)",
+              "sections": [
+                {
+                  "id": "verwaltung-33-section-0",
+                  "text": "Jahrgänge und Zielordner wählen",
+                  "link": "/schild3/import-export-statistik/zk-daten-verwaltung-export#jahrgange-und-zielordner-wahlen"
+                }
+              ]
+            }
+          ],
+          "link": "/programmreferenz/bereiche/verwaltung-group-8"
+        },
+        {
+          "id": "verwaltung-group-9",
+          "text": "Datenbank",
+          "items": [
+            {
+              "id": "verwaltung-34",
+              "text": "Datenbank sichern",
+              "link": "/administration/datenbanken/datenbank-sichern-verwaltung-datenbank",
+              "source_title": "Datenbank sichern (Verwaltung Datenbank)",
+              "sections": [
+                {
+                  "id": "verwaltung-34-section-0",
+                  "text": "1. Das Sicherungsverzeichnis festlegen",
+                  "link": "/administration/datenbanken/datenbank-sichern-verwaltung-datenbank#_1-das-sicherungsverzeichnis-festlegen"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-35",
+              "text": "Datenbank wiederherstellen",
+              "link": "/administration/datenbanken/datenbank-wiederherstellen-verwaltung-datenbank",
+              "source_title": "Datenbank wiederherstellen (Verwaltung Datenbank)",
+              "sections": [
+                {
+                  "id": "verwaltung-35-section-0",
+                  "text": "1. Benutzer abmelden und Berechtigung prüfen",
+                  "link": "/administration/datenbanken/datenbank-wiederherstellen-verwaltung-datenbank#_1-benutzer-abmelden-und-berechtigung-prufen"
+                },
+                {
+                  "id": "verwaltung-35-section-1",
+                  "text": "2. Die Wiederherstellung starten",
+                  "link": "/administration/datenbanken/datenbank-wiederherstellen-verwaltung-datenbank#_2-die-wiederherstellung-starten"
+                }
+              ]
+            }
+          ],
+          "link": "/programmreferenz/bereiche/verwaltung-group-9"
+        },
+        {
+          "id": "verwaltung-39",
+          "text": "Statistik für IT.NRW",
+          "link": "/schild3/import-export-statistik/statistik-fuer-it-nrw-verwaltung",
+          "source_title": "Statistik für IT.NRW (Verwaltung)",
+          "items": [
+            {
+              "id": "verwaltung-40",
+              "text": "Gesamtprüfung der Daten",
+              "link": "/zeugnisse/vorbereitung/gesamtpruefung-der-daten-verwaltung-statistik-fuer-it-nrw",
+              "source_title": "Gesamtprüfung der Daten (Verwaltung Statistik für IT-NRW)",
+              "sections": [
+                {
+                  "id": "verwaltung-40-section-0",
+                  "text": "Durchführen der Prüfung",
+                  "link": "/zeugnisse/vorbereitung/gesamtpruefung-der-daten-verwaltung-statistik-fuer-it-nrw#durchfuhren-der-prufung"
+                },
+                {
+                  "id": "verwaltung-40-section-1",
+                  "text": "Arbeit mit den gefundenen Fehlern",
+                  "link": "/zeugnisse/vorbereitung/gesamtpruefung-der-daten-verwaltung-statistik-fuer-it-nrw#arbeit-mit-den-gefundenen-fehlern"
+                },
+                {
+                  "id": "verwaltung-40-section-2",
+                  "text": "Das PDF-Fehlerprotokoll",
+                  "link": "/zeugnisse/vorbereitung/gesamtpruefung-der-daten-verwaltung-statistik-fuer-it-nrw#das-pdf-fehlerprotokoll"
+                },
+                {
+                  "id": "verwaltung-40-section-3",
+                  "text": "Auswahl ➜ Schüler mit Statistikfehlern anzeigen",
+                  "link": "/zeugnisse/vorbereitung/gesamtpruefung-der-daten-verwaltung-statistik-fuer-it-nrw#auswahl-➜-schuler-mit-statistikfehlern-anzeigen"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-41",
+              "text": "Fehlerprotokoll anzeigen",
+              "link": "/schild3/import-export-statistik/fehlerprotokoll-anzeigen-verwaltung-statistik-fuer-it-nrw",
+              "source_title": "Fehlerprotokoll anzeigen (Verwaltung Statistik für IT-NRW)",
+              "sections": [
+                {
+                  "id": "verwaltung-41-section-0",
+                  "text": "Das PDF-Fehlerprotokoll",
+                  "link": "/schild3/import-export-statistik/fehlerprotokoll-anzeigen-verwaltung-statistik-fuer-it-nrw#das-pdf-fehlerprotokoll"
+                },
+                {
+                  "id": "verwaltung-41-section-1",
+                  "text": "Bearbeiten von Statistikfehlern in SchILD-NRW",
+                  "link": "/schild3/import-export-statistik/fehlerprotokoll-anzeigen-verwaltung-statistik-fuer-it-nrw#bearbeiten-von-statistikfehlern-in-schild-nrw"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-42",
+              "text": "Daten Exportieren",
+              "link": "/schild3/import-export-statistik/daten-exportieren-verwaltung-statistik-fuer-it-nrw",
+              "source_title": "Daten Exportieren (Verwaltung Statistik für IT-NRW)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-43",
+              "text": "Hilfe bei Problemen",
+              "link": "/hilfe/probleme/hilfe-bei-problemen-verwaltung-statistik-fuer-it-nrw",
+              "source_title": "Hilfe bei Problemen (Verwaltung Statistik für IT-NRW)",
+              "sections": [
+                {
+                  "id": "verwaltung-43-section-0",
+                  "text": "SchILD-NRW als Windows-Administrator starten",
+                  "link": "/hilfe/probleme/hilfe-bei-problemen-verwaltung-statistik-fuer-it-nrw#schild-nrw-als-windows-administrator-starten"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "verwaltung-44",
+          "text": "Einstellungen",
+          "link": "/administration/benutzer-einstellungen/einstellungen-verwaltung",
+          "source_title": "Einstellungen (Verwaltung)",
+          "items": [
+            {
+              "id": "verwaltung-45",
+              "text": "Individuelle Einstellungen",
+              "link": "/administration/benutzer-einstellungen/individuelle-einstellungen-verwaltung-einstellungen",
+              "source_title": "Individuelle Einstellungen (Verwaltung Einstellungen)",
+              "sections": [
+                {
+                  "id": "verwaltung-45-section-0",
+                  "text": "Allgemeines",
+                  "link": "/administration/benutzer-einstellungen/individuelle-einstellungen-verwaltung-einstellungen#allgemeines"
+                },
+                {
+                  "id": "verwaltung-45-section-1",
+                  "text": "Weitere Einstellungen",
+                  "link": "/administration/benutzer-einstellungen/individuelle-einstellungen-verwaltung-einstellungen#weitere-einstellungen"
+                },
+                {
+                  "id": "verwaltung-45-section-2",
+                  "text": "Benutzeroberfläche",
+                  "link": "/administration/benutzer-einstellungen/individuelle-einstellungen-verwaltung-einstellungen#benutzeroberflache"
+                },
+                {
+                  "id": "verwaltung-45-section-3",
+                  "text": "Andere",
+                  "link": "/administration/benutzer-einstellungen/individuelle-einstellungen-verwaltung-einstellungen#andere"
+                },
+                {
+                  "id": "verwaltung-45-section-4",
+                  "text": "Sichtbare Spalten",
+                  "link": "/administration/benutzer-einstellungen/individuelle-einstellungen-verwaltung-einstellungen#sichtbare-spalten"
+                },
+                {
+                  "id": "verwaltung-45-section-5",
+                  "text": "Report-Schnellzugriff konfigurieren",
+                  "link": "/administration/benutzer-einstellungen/individuelle-einstellungen-verwaltung-einstellungen#report-schnellzugriff-konfigurieren"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-46",
+              "text": "Globale Einstellungen",
+              "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen",
+              "source_title": "Globale Einstellungen (Verwaltung Einstellungen)",
+              "items": [
+                {
+                  "id": "verwaltung-47",
+                  "text": "Allgemeines",
+                  "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen",
+                  "source_title": "Allgemeines (Verwaltung Globale Einstellungen)",
+                  "sections": [
+                    {
+                      "id": "verwaltung-47-section-0",
+                      "text": "Allgemeines",
+                      "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen#allgemeines"
+                    },
+                    {
+                      "id": "verwaltung-47-section-1",
+                      "text": "Ansicht",
+                      "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen#ansicht"
+                    },
+                    {
+                      "id": "verwaltung-47-section-2",
+                      "text": "Sonstige",
+                      "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen#sonstige"
+                    },
+                    {
+                      "id": "verwaltung-47-section-3",
+                      "text": "Wiedervorlage",
+                      "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen#wiedervorlage"
+                    },
+                    {
+                      "id": "verwaltung-47-section-4",
+                      "text": "Kennwortregeln",
+                      "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen#kennwortregeln"
+                    }
+                  ]
+                },
+                {
+                  "id": "verwaltung-48",
+                  "text": "Fächer, Noten",
+                  "link": "/administration/benutzer-einstellungen/faecher-noten-verwaltung-globale-einstellungen",
+                  "source_title": "Fächer, Noten (Verwaltung Globale Einstellungen)",
+                  "sections": [
+                    {
+                      "id": "verwaltung-48-section-0",
+                      "text": "Fächer, Noten",
+                      "link": "/administration/benutzer-einstellungen/faecher-noten-verwaltung-globale-einstellungen#facher-noten"
+                    },
+                    {
+                      "id": "verwaltung-48-section-1",
+                      "text": "Eingabemodus",
+                      "link": "/administration/benutzer-einstellungen/faecher-noten-verwaltung-globale-einstellungen#eingabemodus"
+                    },
+                    {
+                      "id": "verwaltung-48-section-2",
+                      "text": "Maximale Zeichenzahl für Bemerkungen",
+                      "link": "/administration/benutzer-einstellungen/faecher-noten-verwaltung-globale-einstellungen#maximale-zeichenzahl-fur-bemerkungen"
+                    },
+                    {
+                      "id": "verwaltung-48-section-3",
+                      "text": "Farbeinstellungen für Fächergruppen",
+                      "link": "/administration/benutzer-einstellungen/faecher-noten-verwaltung-globale-einstellungen#farbeinstellungen-fur-fachergruppen"
+                    }
+                  ]
+                },
+                {
+                  "id": "verwaltung-49",
+                  "text": "Dokumentenverwaltung",
+                  "link": "/reporting/zeugnisformulare/dokumentenverwaltung-und-zeugnisarchivierung",
+                  "source_title": "Dokumentenverwaltung und Zeugnisarchivierung",
+                  "sections": [
+                    {
+                      "id": "verwaltung-49-section-6",
+                      "text": "1. Dokumentenablage",
+                      "link": "/reporting/zeugnisformulare/dokumentenverwaltung-und-zeugnisarchivierung#_1-dokumentenablage"
+                    },
+                    {
+                      "id": "verwaltung-49-section-7",
+                      "text": "2. Archivierte Dokumente öffnen",
+                      "link": "/reporting/zeugnisformulare/dokumentenverwaltung-und-zeugnisarchivierung#_2-archivierte-dokumente-offnen"
+                    },
+                    {
+                      "id": "verwaltung-49-section-8",
+                      "text": "3. Zeugnisverzeichnis",
+                      "link": "/reporting/zeugnisformulare/dokumentenverwaltung-und-zeugnisarchivierung#_3-zeugnisverzeichnis"
+                    },
+                    {
+                      "id": "verwaltung-49-section-9",
+                      "text": "4. Verwendung der Verzeichnisse",
+                      "link": "/reporting/zeugnisformulare/dokumentenverwaltung-und-zeugnisarchivierung#_4-verwendung-der-verzeichnisse"
+                    },
+                    {
+                      "id": "verwaltung-49-section-10",
+                      "text": "5. Voraussetzungen im Report prüfen",
+                      "link": "/reporting/zeugnisformulare/dokumentenverwaltung-und-zeugnisarchivierung#_5-voraussetzungen-im-report-prufen"
+                    },
+                    {
+                      "id": "verwaltung-49-section-11",
+                      "text": "6. Datenquelle und Schülergruppe konfigurieren",
+                      "link": "/reporting/zeugnisformulare/dokumentenverwaltung-und-zeugnisarchivierung#_6-datenquelle-und-schulergruppe-konfigurieren"
+                    }
+                  ]
+                },
+                {
+                  "id": "verwaltung-50",
+                  "text": "E-Mail-Versand",
+                  "link": "/administration/benutzer-einstellungen/e-mail-versand-verwaltung-globale-einstellungen",
+                  "source_title": "E-Mail-Versand (Verwaltung Globale Einstellungen)",
+                  "sections": [
+                    {
+                      "id": "verwaltung-50-section-0",
+                      "text": "Aufruf des Standard-E-Mail-Programmes",
+                      "link": "/administration/benutzer-einstellungen/e-mail-versand-verwaltung-globale-einstellungen#aufruf-des-standard-e-mail-programmes"
+                    },
+                    {
+                      "id": "verwaltung-50-section-1",
+                      "text": "Direkt per SMTP",
+                      "link": "/administration/benutzer-einstellungen/e-mail-versand-verwaltung-globale-einstellungen#direkt-per-smtp"
+                    }
+                  ]
+                }
+              ],
+              "sections": [
+                {
+                  "id": "verwaltung-46-section-0",
+                  "text": "Allgemeines",
+                  "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen#allgemeines"
+                },
+                {
+                  "id": "verwaltung-46-section-1",
+                  "text": "Ansicht",
+                  "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen#ansicht"
+                },
+                {
+                  "id": "verwaltung-46-section-2",
+                  "text": "Sonstige",
+                  "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen#sonstige"
+                },
+                {
+                  "id": "verwaltung-46-section-3",
+                  "text": "Wiedervorlage",
+                  "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen#wiedervorlage"
+                },
+                {
+                  "id": "verwaltung-46-section-4",
+                  "text": "Kennwortregeln",
+                  "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen#kennwortregeln"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-51",
+              "text": "Reporteinstellungen und Schnellzugriff",
+              "link": "/reporting/reportverwaltung/reports-ueber-den-schnellzugriff-aufrufen",
+              "source_title": "Reports über den Schnellzugriff aufrufen",
+              "sections": [
+                {
+                  "id": "verwaltung-51-section-0",
+                  "text": "1. Den Schnellzugriff aktivieren",
+                  "link": "/reporting/reportverwaltung/reports-ueber-den-schnellzugriff-aufrufen#_1-den-schnellzugriff-aktivieren"
+                },
+                {
+                  "id": "verwaltung-51-section-1",
+                  "text": "2. Die Reports bereitstellen",
+                  "link": "/reporting/reportverwaltung/reports-ueber-den-schnellzugriff-aufrufen#_2-die-reports-bereitstellen"
+                },
+                {
+                  "id": "verwaltung-51-section-2",
+                  "text": "3. Die persönliche Auswahl festlegen",
+                  "link": "/reporting/reportverwaltung/reports-ueber-den-schnellzugriff-aufrufen#_3-die-personliche-auswahl-festlegen"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-52",
+              "text": "Interne Texte",
+              "link": "/reporting/reportdesigner/interne-texte-verwaltung-einstellungen",
+              "source_title": "Interne Texte (Verwaltung Einstellungen)",
+              "sections": [
+                {
+                  "id": "verwaltung-52-section-0",
+                  "text": "Standardtexte festlegen",
+                  "link": "/reporting/reportdesigner/interne-texte-verwaltung-einstellungen#standardtexte-festlegen"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "verwaltung-53",
+          "text": "Werkzeuge",
+          "link": "/schild3/schueler/werkzeuge-verwaltung",
+          "source_title": "Werkzeuge (Verwaltung)",
+          "items": [
+            {
+              "id": "verwaltung-54",
+              "text": "Automatische Prozesse ausführen",
+              "link": "/schild3/schueler/automatische-prozesse-ausfuehren-verwaltung-werkzeuge",
+              "source_title": "Automatische Prozesse ausführen (Verwaltung Werkzeuge)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-55",
+              "text": "Fehlende Abschnittsdaten anlegen",
+              "link": "/schild3/schueler/fehlende-abschnittsdaten-anlegen-verwaltung-werkzeuge",
+              "source_title": "Fehlende Abschnittsdaten anlegen (Verwaltung Werkzeuge)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-56",
+              "text": "Fotos neu skalieren",
+              "link": "/schild3/schueler/fotos-neu-skalieren-verwaltung-werkzeuge",
+              "source_title": "Fotos neu skalieren (Verwaltung Werkzeuge)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-57",
+              "text": "Ausweisnummern löschen",
+              "link": "/schild3/schueler/ausweisnummern-loeschen-verwaltung-werkzeuge",
+              "source_title": "Ausweisnummern löschen (Verwaltung Werkzeuge)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-58",
+              "text": "Daten gemäß Löschfristen löschen",
+              "link": "/schild3/schueler/daten-gemaess-loeschfristen-loeschen-verwaltung-werkzeuge",
+              "source_title": "Daten gemäß löschfristen löschen (Verwaltung Werkzeuge)",
+              "sections": [
+                {
+                  "id": "verwaltung-58-section-0",
+                  "text": "Prüfung auf abgelaufene Löschfristen",
+                  "link": "/schild3/schueler/daten-gemaess-loeschfristen-loeschen-verwaltung-werkzeuge#prufung-auf-abgelaufene-loschfristen"
+                },
+                {
+                  "id": "verwaltung-58-section-1",
+                  "text": "Daten löschen",
+                  "link": "/schild3/schueler/daten-gemaess-loeschfristen-loeschen-verwaltung-werkzeuge#daten-loschen"
+                },
+                {
+                  "id": "verwaltung-58-section-2",
+                  "text": "Manuelles Prüfen auf abgelaufene Löschfristen anstoßen",
+                  "link": "/schild3/schueler/daten-gemaess-loeschfristen-loeschen-verwaltung-werkzeuge#manuelles-prufen-auf-abgelaufene-loschfristen-anstoßen"
+                }
+              ]
+            },
+            {
+              "id": "verwaltung-59",
+              "text": "Aufräumen",
+              "link": "/schild3/schueler/aufraeumen-verwaltung-werkzeuge",
+              "source_title": "Aufräumen (Verwaltung Werkzeuge)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-60",
+              "text": "SQL-Befehle eingeben",
+              "link": "/schild3/schueler/sql-befehle-eingeben-verwaltung-werkzeuge",
+              "source_title": "SQL-Befehle eingeben (Verwaltung Werkzeuge)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-61",
+              "text": "Transaktionsprotokoll verwenden",
+              "link": "/schild3/schueler/transaktionsprotokoll-verwenden-verwaltung-werkzeuge",
+              "source_title": "Transaktionsprotokoll verwenden (Verwaltung Werkzeuge)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-62",
+              "text": "Zeichentabelle von Windows aufrufen",
+              "link": "/schild3/schueler/zeichentabelle-von-windows-aufrufen-verwaltung-werkzeuge",
+              "source_title": "Zeichentabelle von Windows aufrufen (Verwaltung Werkzeuge)",
+              "sections": []
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "verwaltung-63",
+          "text": "Hilfe",
+          "link": "/schild3/schueler/hilfe-verwaltung",
+          "source_title": "Hilfe (Verwaltung)",
+          "items": [
+            {
+              "id": "verwaltung-64",
+              "text": "Notenliste zeigen",
+              "link": "/zeugnisse/vorbereitung/notenliste-zeigen-verwaltung-hilfe",
+              "source_title": "Notenliste zeigen (Verwaltung Hilfe)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-65",
+              "text": "Datenschutzhinweise",
+              "link": "/schild3/schueler/datenschutzhinweise-verwaltung-hilfe",
+              "source_title": "Datenschutzhinweise (Verwaltung Hilfe)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-66",
+              "text": "Forum SchILD-NRW besuchen",
+              "link": "/schild3/schueler/forum-schild-nrw-besuchen-verwaltung-hilfe",
+              "source_title": "Forum SchILD-NRW besuchen (Verwaltung Hilfe)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-67",
+              "text": "Online-Supportprogramm starten",
+              "link": "/schild3/schueler/online-supportprogramm-starten-verwaltung-hilfe",
+              "source_title": "Online-Supportprogramm starten (Verwaltung Hilfe)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-68",
+              "text": "Versionsgeschichte zeigen",
+              "link": "/schild3/schueler/versionsgeschichte-zeigen-verwaltung-hilfe",
+              "source_title": "Versionsgeschichte zeigen (Verwaltung Hilfe)",
+              "sections": []
+            },
+            {
+              "id": "verwaltung-69",
+              "text": "Info",
+              "link": "/schild3/schueler/info-verwaltung-hilfe",
+              "source_title": "Info (Verwaltung Hilfe)",
+              "sections": []
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "verwaltung-70",
+          "text": "Programm beenden",
+          "link": "/schild3/schueler/programm-beenden-verwaltung",
+          "source_title": "Programm beenden (Verwaltung)",
+          "items": [],
+          "sections": []
+        }
+      ]
+    },
+    {
+      "id": "lehrkraefte",
+      "text": "Lehrkräfte",
+      "link": "/programmreferenz/lehrkraefte",
+      "items": [
+        {
+          "id": "lehrkraefte-71",
+          "text": "Menüband",
+          "link": "/schild3/lehrkraefte/menueband-lehrkraefte",
+          "source_title": "Menüband (Lehrkräfte)",
+          "sections": []
+        },
+        {
+          "id": "lehrkraefte-72",
+          "text": "Basisdaten",
+          "link": "/schild3/lehrkraefte/basisdaten-lehrkraefte",
+          "source_title": "Basisdaten (Lehrkräfte)",
+          "sections": [
+            {
+              "id": "lehrkraefte-72-section-0",
+              "text": "Individualdaten",
+              "link": "/schild3/lehrkraefte/basisdaten-lehrkraefte#individualdaten"
+            },
+            {
+              "id": "lehrkraefte-72-section-1",
+              "text": "Kontaktdaten",
+              "link": "/schild3/lehrkraefte/basisdaten-lehrkraefte#kontaktdaten"
+            },
+            {
+              "id": "lehrkraefte-72-section-4",
+              "text": "Für SchILD-NRW relevante Daten",
+              "link": "/schild3/lehrkraefte/basisdaten-lehrkraefte#fur-schild-nrw-relevante-daten"
+            },
+            {
+              "id": "lehrkraefte-72-section-3",
+              "text": "Fotos einbinden",
+              "link": "/schild3/lehrkraefte/basisdaten-lehrkraefte#fotos-einbinden"
+            }
+          ]
+        },
+        {
+          "id": "lehrkraefte-73",
+          "text": "Schulbezogene Daten",
+          "link": "/schild3/lehrkraefte/schulbezogene-daten-lehrkraefte",
+          "source_title": "Schulbezogene Daten (Lehrkräfte)",
+          "sections": [
+            {
+              "id": "lehrkraefte-73-section-0",
+              "text": "Statistikschlüssel nachschlagen",
+              "link": "/schild3/lehrkraefte/schulbezogene-daten-lehrkraefte#statistikschlussel-nachschlagen"
+            }
+          ]
+        },
+        {
+          "id": "lehrkraefte-74",
+          "text": "Zeitabhängige Daten",
+          "link": "/schild3/lehrkraefte/zeitabhaengige-daten-lehrkraefte",
+          "source_title": "Zeitabhängige Daten (Lehrkräfte)",
+          "items": [
+            {
+              "id": "lehrkraefte-75",
+              "text": "Unterricht zeigen",
+              "link": "/schild3/lehrkraefte/zeitabhaengige-daten-lehrkraefte#Unterricht_zeigen",
+              "source_title": "Unterricht zeigen (Lehrkräfte Zeitabhängige Daten)"
+            }
+          ],
+          "sections": [
+            {
+              "id": "lehrkraefte-74-section-0",
+              "text": "Zeitabhängige Daten",
+              "link": "/schild3/lehrkraefte/zeitabhaengige-daten-lehrkraefte#zeitabhangige-daten"
+            },
+            {
+              "id": "lehrkraefte-74-section-2",
+              "text": "Stammschule und Stundenangaben prüfen",
+              "link": "/schild3/lehrkraefte/zeitabhaengige-daten-lehrkraefte#stammschule-und-stundenangaben-prufen"
+            },
+            {
+              "id": "lehrkraefte-74-section-1",
+              "text": "Unterricht zeigen",
+              "link": "/schild3/lehrkraefte/zeitabhaengige-daten-lehrkraefte#unterricht-zeigen"
+            }
+          ]
+        },
+        {
+          "id": "lehrkraefte-76",
+          "text": "Einwilligungen",
+          "link": "/schild3/lehrkraefte/einwilligungen-lehrkraefte",
+          "source_title": "Einwilligungen (Lehrkräfte)",
+          "sections": []
+        },
+        {
+          "id": "lehrkraefte-77",
+          "text": "Kontextmenü",
+          "link": "/schild3/lehrkraefte/kontextmenue-lehrkraefte",
+          "source_title": "Kontextmenü (Lehrkräfte)",
+          "sections": [
+            {
+              "id": "lehrkraefte-77-section-0",
+              "text": "Kontextmenü der Lehrkräfte",
+              "link": "/schild3/lehrkraefte/kontextmenue-lehrkraefte#kontextmenu-der-lehrkrafte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schueler",
+      "text": "Schüler",
+      "link": "/programmreferenz/schueler",
+      "items": [
+        {
+          "id": "schueler-78",
+          "text": "Menüband",
+          "link": "/schild3/schueler/menueband-schueler",
+          "source_title": "Menüband (Schüler)",
+          "sections": []
+        },
+        {
+          "id": "schueler-79",
+          "text": "Schülersuche",
+          "link": "/schild3/suchen-gruppenprozesse/schuelersuche-schueler",
+          "source_title": "Schülersuche (Schüler)",
+          "sections": [
+            {
+              "id": "schueler-79-section-0",
+              "text": "Schülersuche",
+              "link": "/schild3/suchen-gruppenprozesse/schuelersuche-schueler#schulersuche"
+            },
+            {
+              "id": "schueler-79-section-1",
+              "text": "Videotutorial",
+              "link": "/schild3/suchen-gruppenprozesse/schuelersuche-schueler#videotutorial"
+            }
+          ]
+        },
+        {
+          "id": "schueler-80",
+          "text": "Schülercontainer",
+          "link": "/schild3/suchen-gruppenprozesse/schuelercontainer-schueler",
+          "source_title": "Schülercontainer (Schüler)",
+          "sections": [
+            {
+              "id": "schueler-80-section-0",
+              "text": "Videotutorial",
+              "link": "/schild3/suchen-gruppenprozesse/schuelercontainer-schueler#videotutorial"
+            }
+          ]
+        },
+        {
+          "id": "schueler-81",
+          "text": "Individualdaten I",
+          "link": "/schild3/schueler/individualdaten-i-schueler",
+          "source_title": "Individualdaten I (Schüler)",
+          "sections": [
+            {
+              "id": "schueler-81-section-0",
+              "text": "Basisdaten",
+              "link": "/schild3/schueler/individualdaten-i-schueler#basisdaten"
+            },
+            {
+              "id": "schueler-81-section-1",
+              "text": "Zusatzdaten",
+              "link": "/schild3/schueler/individualdaten-i-schueler#zusatzdaten"
+            },
+            {
+              "id": "schueler-81-section-2",
+              "text": "Weitere Funktionen",
+              "link": "/schild3/schueler/individualdaten-i-schueler#weitere-funktionen"
+            },
+            {
+              "id": "schueler-81-section-3",
+              "text": "Aktuelle Laufbahndaten",
+              "link": "/schild3/schueler/individualdaten-i-schueler#aktuelle-laufbahndaten"
+            },
+            {
+              "id": "schueler-81-section-5",
+              "text": "EP-Jahr anzeigen und korrigieren",
+              "link": "/schild3/schueler/individualdaten-i-schueler#ep-jahr-anzeigen-und-korrigieren"
+            },
+            {
+              "id": "schueler-81-section-4",
+              "text": "Weitere Angaben",
+              "link": "/schild3/schueler/individualdaten-i-schueler#weitere-angaben"
+            }
+          ]
+        },
+        {
+          "id": "schueler-82",
+          "text": "Individualdaten II",
+          "link": "/schild3/schueler/individualdaten-ii-schueler",
+          "source_title": "Individualdaten II (Schüler)",
+          "sections": [
+            {
+              "id": "schueler-82-section-0",
+              "text": "Migrationshintergrund",
+              "link": "/schild3/schueler/individualdaten-ii-schueler#migrationshintergrund"
+            },
+            {
+              "id": "schueler-82-section-4",
+              "text": "Weitere Felder nach Schulform",
+              "link": "/schild3/schueler/individualdaten-ii-schueler#weitere-felder-nach-schulform"
+            },
+            {
+              "id": "schueler-82-section-2",
+              "text": "Aktuelle Förderung und Deutschförderung",
+              "link": "/schild3/schueler/individualdaten-ii-schueler#aktuelle-forderung-und-deutschforderung"
+            },
+            {
+              "id": "schueler-82-section-3",
+              "text": "Besondere Merkmale",
+              "link": "/schild3/schueler/individualdaten-ii-schueler#besondere-merkmale"
+            }
+          ]
+        },
+        {
+          "id": "schueler-83",
+          "text": "Erz.-Berechtigte / Telefonnummern",
+          "link": "/schild3/schueler/erz-berechtigte-telefonnummern-schueler",
+          "source_title": "Erz.-Berechtigte / Telefonnummern (Schüler)",
+          "sections": [
+            {
+              "id": "schueler-83-section-0",
+              "text": "Erziehungsberechtigte",
+              "link": "/schild3/schueler/erz-berechtigte-telefonnummern-schueler#erziehungsberechtigte"
+            },
+            {
+              "id": "schueler-83-section-1",
+              "text": "Detaildaten",
+              "link": "/schild3/schueler/erz-berechtigte-telefonnummern-schueler#detaildaten"
+            },
+            {
+              "id": "schueler-83-section-2",
+              "text": "Telefonnummern",
+              "link": "/schild3/schueler/erz-berechtigte-telefonnummern-schueler#telefonnummern"
+            }
+          ]
+        },
+        {
+          "id": "schueler-84",
+          "text": "Schulbesuch",
+          "link": "/schild3/schueler/schulbesuch-schueler",
+          "source_title": "Schulbesuch (Schüler)",
+          "items": [
+            {
+              "id": "schueler-85",
+              "text": "Grundschuldaten eingeben",
+              "link": "/schild3/schueler/grundschuldaten-eingeben-schueler-schulbesuch",
+              "source_title": "Grundschuldaten eingeben (Schüler Schulbesuch)",
+              "sections": []
+            }
+          ],
+          "sections": [
+            {
+              "id": "schueler-84-section-0",
+              "text": "Herkunft des Schülers",
+              "link": "/schild3/schueler/schulbesuch-schueler#herkunft-des-schulers"
+            },
+            {
+              "id": "schueler-84-section-1",
+              "text": "Grundschuldaten eingeben",
+              "link": "/schild3/schueler/schulbesuch-schueler#grundschuldaten-eingeben"
+            },
+            {
+              "id": "schueler-84-section-2",
+              "text": "Entlassung von eigener Schule",
+              "link": "/schild3/schueler/schulbesuch-schueler#entlassung-von-eigener-schule"
+            },
+            {
+              "id": "schueler-84-section-3",
+              "text": "Wechsel zu aufnehmender Schule",
+              "link": "/schild3/schueler/schulbesuch-schueler#wechsel-zu-aufnehmender-schule"
+            },
+            {
+              "id": "schueler-84-section-4",
+              "text": "Alle bisher besuchten Schulen",
+              "link": "/schild3/schueler/schulbesuch-schueler#alle-bisher-besuchten-schulen"
+            }
+          ]
+        },
+        {
+          "id": "schueler-86",
+          "text": "Weitere Adressen",
+          "link": "/schild3/schueler/weitere-adressen-schueler",
+          "source_title": "Weitere Adressen (Schüler)",
+          "sections": [
+            {
+              "id": "schueler-86-section-0",
+              "text": "Adressen einem Lernenden zuordnen",
+              "link": "/schild3/schueler/weitere-adressen-schueler#adressen-einem-lernenden-zuordnen"
+            },
+            {
+              "id": "schueler-86-section-1",
+              "text": "Anlegen einer neuen Adresse",
+              "link": "/schild3/schueler/weitere-adressen-schueler#anlegen-einer-neuen-adresse"
+            }
+          ]
+        },
+        {
+          "id": "schueler-87",
+          "text": "Aktuelles Halbjahr / Aktueller Abschnitt",
+          "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler",
+          "source_title": "Aktuelles Halbjahr / Aktueller Abschnitt (Schüler)",
+          "items": [
+            {
+              "id": "schueler-88",
+              "text": "Allgemeine Angaben",
+              "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler",
+              "source_title": "Allgemeine Angaben (Schüler Aktuelles Halbjahr / Aktueller Abschnitt)",
+              "sections": [
+                {
+                  "id": "schueler-88-section-0",
+                  "text": "Lernabschnittsübersicht",
+                  "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler#lernabschnittsubersicht"
+                },
+                {
+                  "id": "schueler-88-section-1",
+                  "text": "Allgemeine Angaben",
+                  "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler#allgemeine-angaben"
+                },
+                {
+                  "id": "schueler-88-section-2",
+                  "text": "Allgemeine Angaben II",
+                  "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler#allgemeine-angaben-ii"
+                },
+                {
+                  "id": "schueler-88-section-5",
+                  "text": "Vor- und Rücktritt im Schuljahr",
+                  "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler#vor-und-rucktritt-im-schuljahr"
+                },
+                {
+                  "id": "schueler-88-section-4",
+                  "text": "Zeugnis/Abschluss",
+                  "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler#zeugnis-abschluss"
+                }
+              ]
+            },
+            {
+              "id": "schueler-89",
+              "text": "Bemerkungen",
+              "link": "/schild3/schueler/bemerkungen-aktuelles-halbjahr-aktueller-abschnitt",
+              "source_title": "Bemerkungen (Aktuelles Halbjahr / Aktueller Abschnitt",
+              "sections": []
+            },
+            {
+              "id": "schueler-90",
+              "text": "Leistungsdaten",
+              "link": "/schild3/schueler/leistungsdaten-aktuelles-halbjahr-aktueller-abschnitt",
+              "source_title": "Leistungsdaten (Aktuelles Halbjahr / Aktueller Abschnitt",
+              "sections": [
+                {
+                  "id": "schueler-90-section-3",
+                  "text": "Fächer und Kurse zuordnen und auswerten",
+                  "link": "/schild3/schueler/leistungsdaten-aktuelles-halbjahr-aktueller-abschnitt#facher-und-kurse-zuordnen-und-auswerten"
+                },
+                {
+                  "id": "schueler-90-section-1",
+                  "text": "Versetzungs- und Abschlussberechnung",
+                  "link": "/schild3/schueler/leistungsdaten-aktuelles-halbjahr-aktueller-abschnitt#versetzungs-und-abschlussberechnung"
+                },
+                {
+                  "id": "schueler-90-section-2",
+                  "text": "Erfassung der Leistungsdaten",
+                  "link": "/schild3/schueler/leistungsdaten-aktuelles-halbjahr-aktueller-abschnitt#erfassung-der-leistungsdaten"
+                }
+              ]
+            },
+            {
+              "id": "schueler-91",
+              "text": "Fehlzeiten",
+              "link": "/schild3/schueler/fehlzeiten-aktuelles-halbjahr-aktueller-abschnitt",
+              "source_title": "Fehlzeiten (Aktuelles Halbjahr / Aktueller Abschnitt",
+              "sections": [
+                {
+                  "id": "schueler-91-section-0",
+                  "text": "Fehlzeiten tagesbezogen verwalten",
+                  "link": "/schild3/schueler/fehlzeiten-aktuelles-halbjahr-aktueller-abschnitt#fehlzeiten-tagesbezogen-verwalten"
+                },
+                {
+                  "id": "schueler-91-section-1",
+                  "text": "Einstellen der Fehlzeitenverwaltungsart",
+                  "link": "/schild3/schueler/fehlzeiten-aktuelles-halbjahr-aktueller-abschnitt#einstellen-der-fehlzeitenverwaltungsart"
+                },
+                {
+                  "id": "schueler-91-section-2",
+                  "text": "Auswerten von Fehlzeiten",
+                  "link": "/schild3/schueler/fehlzeiten-aktuelles-halbjahr-aktueller-abschnitt#auswerten-von-fehlzeiten"
+                },
+                {
+                  "id": "schueler-91-section-3",
+                  "text": "Der Schülerfilter",
+                  "link": "/schild3/schueler/fehlzeiten-aktuelles-halbjahr-aktueller-abschnitt#der-schulerfilter"
+                },
+                {
+                  "id": "schueler-91-section-4",
+                  "text": "Datenquellen im Reportbaukasten",
+                  "link": "/schild3/schueler/fehlzeiten-aktuelles-halbjahr-aktueller-abschnitt#datenquellen-im-reportbaukasten"
+                }
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "schueler-87-section-0",
+              "text": "Lernabschnittsübersicht",
+              "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler#lernabschnittsubersicht"
+            },
+            {
+              "id": "schueler-87-section-1",
+              "text": "Allgemeine Angaben",
+              "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler#allgemeine-angaben"
+            },
+            {
+              "id": "schueler-87-section-2",
+              "text": "Allgemeine Angaben II",
+              "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler#allgemeine-angaben-ii"
+            },
+            {
+              "id": "schueler-87-section-5",
+              "text": "Vor- und Rücktritt im Schuljahr",
+              "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler#vor-und-rucktritt-im-schuljahr"
+            },
+            {
+              "id": "schueler-87-section-4",
+              "text": "Zeugnis/Abschluss",
+              "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler#zeugnis-abschluss"
+            }
+          ]
+        },
+        {
+          "id": "schueler-92",
+          "text": "Vermerke",
+          "link": "/schild3/schueler/vermerke-schueler",
+          "source_title": "Vermerke (Schüler)",
+          "sections": [
+            {
+              "id": "schueler-92-section-0",
+              "text": "Lange Bemerkungen anzeigen",
+              "link": "/schild3/schueler/vermerke-schueler#lange-bemerkungen-anzeigen"
+            }
+          ]
+        },
+        {
+          "id": "schueler-93",
+          "text": "Laufbahninfo",
+          "link": "/schild3/schueler/laufbahninfo-schueler",
+          "source_title": "Laufbahninfo (Schüler)",
+          "sections": [
+            {
+              "id": "schueler-93-section-0",
+              "text": "Sprachenfolgen",
+              "link": "/schild3/schueler/laufbahninfo-schueler#sprachenfolgen"
+            },
+            {
+              "id": "schueler-93-section-1",
+              "text": "Gruppenprozesse zu Sprachenfolgen",
+              "link": "/schild3/schueler/laufbahninfo-schueler#gruppenprozesse-zu-sprachenfolgen"
+            },
+            {
+              "id": "schueler-93-section-2",
+              "text": "Sprachprüfungen",
+              "link": "/schild3/schueler/laufbahninfo-schueler#sprachprufungen"
+            },
+            {
+              "id": "schueler-93-section-3",
+              "text": "Erreichte Abschlüsse und Berechtigungen an aktueller Schule",
+              "link": "/schild3/schueler/laufbahninfo-schueler#erreichte-abschlusse-und-berechtigungen-an-aktueller-schule"
+            }
+          ]
+        },
+        {
+          "id": "schueler-94",
+          "text": "Fördermaßnahmen",
+          "link": "/schild3/schueler/foerdermassnahmen-schueler",
+          "source_title": "Fördermaßnahmen (Schüler)",
+          "sections": [
+            {
+              "id": "schueler-94-section-0",
+              "text": "Allgemeine Fördermaßnahmen",
+              "link": "/schild3/schueler/foerdermassnahmen-schueler#allgemeine-fordermaßnahmen"
+            },
+            {
+              "id": "schueler-94-section-1",
+              "text": "Fachbezogene Fördermaßnahmen",
+              "link": "/schild3/schueler/foerdermassnahmen-schueler#fachbezogene-fordermaßnahmen"
+            },
+            {
+              "id": "schueler-94-section-2",
+              "text": "Reporting",
+              "link": "/schild3/schueler/foerdermassnahmen-schueler#reporting"
+            }
+          ]
+        },
+        {
+          "id": "schueler-95",
+          "text": "Einwilligung",
+          "link": "/schild3/schueler/einwilligung-schueler",
+          "source_title": "Einwilligung (Schüler)",
+          "sections": [
+            {
+              "id": "schueler-95-section-0",
+              "text": "Individuelle Schülerinnen und Schüler",
+              "link": "/schild3/schueler/einwilligung-schueler#individuelle-schulerinnen-und-schuler"
+            },
+            {
+              "id": "schueler-95-section-1",
+              "text": "Einwilligungen",
+              "link": "/schild3/schueler/einwilligung-schueler#einwilligungen"
+            },
+            {
+              "id": "schueler-95-section-2",
+              "text": "Lernplattformen",
+              "link": "/schild3/schueler/einwilligung-schueler#lernplattformen"
+            },
+            {
+              "id": "schueler-95-section-3",
+              "text": "Gruppenprozesse",
+              "link": "/schild3/schueler/einwilligung-schueler#gruppenprozesse"
+            }
+          ]
+        },
+        {
+          "id": "schueler-96",
+          "text": "Übersicht",
+          "link": "/schild3/schueler/uebersicht-schueler",
+          "source_title": "Übersicht (Schüler)",
+          "sections": []
+        },
+        {
+          "id": "schueler-group-19",
+          "text": "Weitere optionale Reiter",
+          "items": [
+            {
+              "id": "schueler-97",
+              "text": "Abitur",
+              "link": "/zeugnisse/sekundarstufen/abitur-schueler",
+              "source_title": "Abitur (Schüler)",
+              "sections": [
+                {
+                  "id": "schueler-97-section-0",
+                  "text": "Berechnungsoptionen und Ergebnisse prüfen",
+                  "link": "/zeugnisse/sekundarstufen/abitur-schueler#berechnungsoptionen-und-ergebnisse-prufen"
+                }
+              ]
+            },
+            {
+              "id": "schueler-98",
+              "text": "BK-Abschluss",
+              "link": "/zeugnisse/berufskolleg/bk-abschluss-schueler",
+              "source_title": "BK-Abschluss (Schüler)",
+              "sections": [
+                {
+                  "id": "schueler-98-section-0",
+                  "text": "Leistungsdaten holen",
+                  "link": "/zeugnisse/berufskolleg/bk-abschluss-schueler#leistungsdaten-holen"
+                },
+                {
+                  "id": "schueler-98-section-1",
+                  "text": "Teilleistungen und Prüfungsnoten",
+                  "link": "/zeugnisse/berufskolleg/bk-abschluss-schueler#teilleistungen-und-prufungsnoten"
+                },
+                {
+                  "id": "schueler-98-section-2",
+                  "text": "Zulassung berechnen",
+                  "link": "/zeugnisse/berufskolleg/bk-abschluss-schueler#zulassung-berechnen"
+                },
+                {
+                  "id": "schueler-98-section-3",
+                  "text": "Mündliche Prüfungen festlegen",
+                  "link": "/zeugnisse/berufskolleg/bk-abschluss-schueler#mundliche-prufungen-festlegen"
+                },
+                {
+                  "id": "schueler-98-section-4",
+                  "text": "Abschluss berechnen",
+                  "link": "/zeugnisse/berufskolleg/bk-abschluss-schueler#abschluss-berechnen"
+                },
+                {
+                  "id": "schueler-98-section-6",
+                  "text": "Abschlussnoten in Leistungsdaten übertragen",
+                  "link": "/zeugnisse/berufskolleg/bk-abschluss-schueler#abschlussnoten-in-leistungsdaten-ubertragen"
+                }
+              ]
+            },
+            {
+              "id": "schueler-99",
+              "text": "Ergebnis Versetzungs-/Abschluss-Berechnung",
+              "link": "/zeugnisse/vorbereitung/ergebnis-versetzungs-abschluss-berechnung-aktuelles-halbjahr-aktueller-abschnitt",
+              "source_title": "Ergebnis Versetzungs-/Abschluss-Berechnung (Aktuelles Halbjahr / Aktueller Abschnitt",
+              "sections": []
+            },
+            {
+              "id": "schueler-100",
+              "text": "Dokumentenverwaltung",
+              "link": "/schild3/schueler/dokumentenverwaltung-schueler",
+              "source_title": "Dokumentenverwaltung (Schüler)",
+              "sections": [
+                {
+                  "id": "schueler-100-section-0",
+                  "text": "Reportausgaben ablegen",
+                  "link": "/schild3/schueler/dokumentenverwaltung-schueler#reportausgaben-ablegen"
+                }
+              ]
+            },
+            {
+              "id": "schueler-101",
+              "text": "FHR",
+              "link": "/schild3/schueler/fhr-schueler",
+              "source_title": "FHR (Schüler)",
+              "sections": []
+            },
+            {
+              "id": "schueler-102",
+              "text": "KAoA",
+              "link": "/schild3/schueler/kaoa-schueler",
+              "source_title": "KAoA (Schüler)",
+              "sections": [
+                {
+                  "id": "schueler-102-section-0",
+                  "text": "Anzeigen des KAoA-Reiters",
+                  "link": "/schild3/schueler/kaoa-schueler#anzeigen-des-kaoa-reiters"
+                },
+                {
+                  "id": "schueler-102-section-1",
+                  "text": "Anlegen von absolvierten Modulen",
+                  "link": "/schild3/schueler/kaoa-schueler#anlegen-von-absolvierten-modulen"
+                },
+                {
+                  "id": "schueler-102-section-2",
+                  "text": "Gruppenprozesse",
+                  "link": "/schild3/schueler/kaoa-schueler#gruppenprozesse"
+                }
+              ]
+            },
+            {
+              "id": "schueler-103",
+              "text": "Kompetenzen für Ankreuzzeugnisse",
+              "link": "/zeugnisse/vorbereitung/kompetenzen-fuer-ankreuzzeugnisse-aktuelles-halbjahr-aktueller-abschnitt",
+              "source_title": "Kompetenzen für Ankreuzzeugnisse ((Aktuelles Halbjahr / Aktueller Abschnitt)",
+              "sections": []
+            },
+            {
+              "id": "schueler-104",
+              "text": "ZP 10",
+              "link": "/schild3/schueler/zp10-zk-schueler",
+              "source_title": "ZP10 ZK (Schüler)",
+              "sections": [
+                {
+                  "id": "schueler-104-section-0",
+                  "text": "ZP10 und Zentrale Klausur unterscheiden",
+                  "link": "/schild3/schueler/zp10-zk-schueler#zp10-und-zentrale-klausur-unterscheiden"
+                }
+              ]
+            }
+          ],
+          "link": "/programmreferenz/bereiche/schueler-group-19"
+        }
+      ]
+    },
+    {
+      "id": "auswahl",
+      "text": "Auswahl",
+      "link": "/programmreferenz/auswahl",
+      "items": [
+        {
+          "id": "auswahl-105",
+          "text": "Menüband",
+          "link": "/schild3/schueler/menueband-auswahl",
+          "source_title": "Menüband (Auswahl)",
+          "sections": []
+        },
+        {
+          "id": "auswahl-106",
+          "text": "Schülerfilter",
+          "link": "/schild3/suchen-gruppenprozesse/schuelerfilter-auswahl",
+          "source_title": "Schülerfilter (Auswahl)",
+          "sections": [
+            {
+              "id": "auswahl-106-section-0",
+              "text": "Der Schülerfilter",
+              "link": "/schild3/suchen-gruppenprozesse/schuelerfilter-auswahl#der-schulerfilter"
+            },
+            {
+              "id": "auswahl-106-section-1",
+              "text": "Verknüpfungen",
+              "link": "/schild3/suchen-gruppenprozesse/schuelerfilter-auswahl#verknupfungen"
+            },
+            {
+              "id": "auswahl-106-section-2",
+              "text": "Beispiel: Leistungsdaten filtern",
+              "link": "/schild3/suchen-gruppenprozesse/schuelerfilter-auswahl#beispiel-leistungsdaten-filtern"
+            },
+            {
+              "id": "auswahl-106-section-3",
+              "text": "Beispiel: Filtern über mehrere Reiter hinweg",
+              "link": "/schild3/suchen-gruppenprozesse/schuelerfilter-auswahl#beispiel-filtern-uber-mehrere-reiter-hinweg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gruppenprozesse",
+      "text": "Gruppenprozesse",
+      "link": "/programmreferenz/gruppenprozesse",
+      "items": [
+        {
+          "id": "gruppenprozesse-group-0",
+          "text": "Allgemein",
+          "items": [
+            {
+              "id": "gruppenprozesse-107",
+              "text": "Individualdaten ändern",
+              "link": "/schild3/suchen-gruppenprozesse/individualdaten-aendern-gruppenprozesse-allgemein",
+              "source_title": "Individualdaten ändern (Gruppenprozesse Allgemein)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-108",
+              "text": "Eintrag in die Wiedervorlage machen",
+              "link": "/schild3/suchen-gruppenprozesse/eintrag-in-die-wiedervorlage-machen-gruppenprozesse-allgemein",
+              "source_title": "Eintrag in die Wiedervorlage machen (Gruppenprozesse Allgemein)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-108-section-0",
+                  "text": "Videotutorial",
+                  "link": "/schild3/suchen-gruppenprozesse/eintrag-in-die-wiedervorlage-machen-gruppenprozesse-allgemein#videotutorial"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-109",
+              "text": "Abschlussdatum neu berechnen",
+              "link": "/zeugnisse/vorbereitung/abschlussdatum-neu-berechnen-gruppenprozesse-allgemein",
+              "source_title": "Abschlussdatum neu berechnen (Gruppenprozesse Allgemein)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-109-section-0",
+                  "text": "Videotutorial",
+                  "link": "/zeugnisse/vorbereitung/abschlussdatum-neu-berechnen-gruppenprozesse-allgemein#videotutorial"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-110",
+              "text": "Schulbesuchsjahre neu berechnen",
+              "link": "/schild3/suchen-gruppenprozesse/schulbesuchsjahre-neu-berechnen-gruppenprozesse-allgemein",
+              "source_title": "Schulbesuchsjahre neu berechnen (Gruppenprozesse Allgemein)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-110-section-0",
+                  "text": "Videotutorial",
+                  "link": "/schild3/suchen-gruppenprozesse/schulbesuchsjahre-neu-berechnen-gruppenprozesse-allgemein#videotutorial"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-111",
+              "text": "Schüler-Datensätze löschen",
+              "link": "/schild3/suchen-gruppenprozesse/schueler-datensaetze-loeschen-gruppenprozesse-allgemein",
+              "source_title": "Schüler-Datensätze löschen (Gruppenprozesse Allgemein)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-111-section-0",
+                  "text": "1. Die Datensätze im Papierkorb auswählen",
+                  "link": "/schild3/suchen-gruppenprozesse/schueler-datensaetze-loeschen-gruppenprozesse-allgemein#_1-die-datensatze-im-papierkorb-auswahlen"
+                },
+                {
+                  "id": "gruppenprozesse-111-section-1",
+                  "text": "2. Endgültige Löschung starten und bestätigen",
+                  "link": "/schild3/suchen-gruppenprozesse/schueler-datensaetze-loeschen-gruppenprozesse-allgemein#_2-endgultige-loschung-starten-und-bestatigen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-112",
+              "text": "Eigene Schule in Abgangsliste setzen",
+              "link": "/schild3/suchen-gruppenprozesse/eigene-schule-in-abgangsliste-setzen-gruppenprozesse-allgemein",
+              "source_title": "Eigene Schule in Abgangsliste setzen (Gruppenprozesse Allgemein)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-112-section-0",
+                  "text": "Videotutorial",
+                  "link": "/schild3/suchen-gruppenprozesse/eigene-schule-in-abgangsliste-setzen-gruppenprozesse-allgemein#videotutorial"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-113",
+              "text": "Fotos löschen",
+              "link": "/schild3/suchen-gruppenprozesse/fotos-loeschen-gruppenprozesse-allgemein",
+              "source_title": "Fotos löschen (Gruppenprozesse Allgemein)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-114",
+              "text": "Vermerke/Merkmale löschen",
+              "link": "/schild3/suchen-gruppenprozesse/vermerke-merkmale-loeschen-gruppenprozesse-allgemein",
+              "source_title": "Vermerke/Merkmale löschen (Gruppenprozesse Allgemein)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-115",
+              "text": "Ausweisnummern automatisch generieren",
+              "link": "/schild3/suchen-gruppenprozesse/ausweisnummern-automatisch-generieren-gruppenprozesse-allgemein",
+              "source_title": "Ausweisnummern automatisch generieren (Gruppenprozesse Allgemein)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-115-section-0",
+                  "text": "Vorhandene und frei gewordene Nummern behandeln",
+                  "link": "/schild3/suchen-gruppenprozesse/ausweisnummern-automatisch-generieren-gruppenprozesse-allgemein#vorhandene-und-frei-gewordene-nummern-behandeln"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-116",
+              "text": "Migrationshintergrund automatisch setzen",
+              "link": "/administration/datenbanken/migrationshintergrund-automatisch-setzen-gruppenprozesse-allgemein",
+              "source_title": "Migrationshintergrund automatisch setzen (Gruppenprozesse Allgemein)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-116-section-0",
+                  "text": "Videotutorial",
+                  "link": "/administration/datenbanken/migrationshintergrund-automatisch-setzen-gruppenprozesse-allgemein#videotutorial"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-117",
+              "text": "Sprachenfolge aus Leistungsdaten ermitteln",
+              "link": "/schild3/suchen-gruppenprozesse/sprachenfolge-aus-leistungsdaten-ermitteln-gruppenprozesse-allgemein",
+              "source_title": "Sprachenfolge aus Leistungsdaten ermitteln (Gruppenprozesse Allgemein)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-117-section-0",
+                  "text": "Mit Überschreiben vorhandener Daten",
+                  "link": "/schild3/suchen-gruppenprozesse/sprachenfolge-aus-leistungsdaten-ermitteln-gruppenprozesse-allgemein#mit-uberschreiben-vorhandener-daten"
+                },
+                {
+                  "id": "gruppenprozesse-117-section-1",
+                  "text": "Ohne Überschreiben vorhandener Daten",
+                  "link": "/schild3/suchen-gruppenprozesse/sprachenfolge-aus-leistungsdaten-ermitteln-gruppenprozesse-allgemein#ohne-uberschreiben-vorhandener-daten"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-118",
+              "text": "Sprachenfolge zuweisen",
+              "link": "/schild3/suchen-gruppenprozesse/sprachenfolge-zuweisen-gruppenprozesse-allgemein",
+              "source_title": "Sprachenfolge zuweisen (Gruppenprozesse Allgemein)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-119",
+              "text": "Sprach-Referenzniveaus ermitteln",
+              "link": "/zeugnisse/vorbereitung/sprach-referenzniveaus-ermitteln-gruppenprozesse-allgemein",
+              "source_title": "Sprach-Referenzniveaus ermitteln (Gruppenprozesse Allgemein)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-120",
+              "text": "Betrieb/Adresse zuweisen",
+              "link": "/schild3/suchen-gruppenprozesse/betrieb-adresse-zuweisen-gruppenprozesse-allgemein",
+              "source_title": "Betrieb/Adresse zuweisen (Gruppenprozesse Allgemein)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-121",
+              "text": "Grundschuldaten löschen",
+              "link": "/schild3/suchen-gruppenprozesse/grundschuldaten-loeschen-gruppenprozesse-allgemein",
+              "source_title": "Grundschuldaten löschen (Gruppenprozesse Allgemein)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-122",
+              "text": "Alle Vornamen anpassen",
+              "link": "/schild3/suchen-gruppenprozesse/alle-vornamen-anpassen-gruppenprozesse-allgemein",
+              "source_title": "Alle Vornamen anpassen (Gruppenprozesse Allgemein)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-122-section-0",
+                  "text": "Angabe des Vornamen unter Individualdaten I",
+                  "link": "/schild3/suchen-gruppenprozesse/alle-vornamen-anpassen-gruppenprozesse-allgemein#angabe-des-vornamen-unter-individualdaten-i"
+                },
+                {
+                  "id": "gruppenprozesse-122-section-1",
+                  "text": "Beispiele",
+                  "link": "/schild3/suchen-gruppenprozesse/alle-vornamen-anpassen-gruppenprozesse-allgemein#beispiele"
+                },
+                {
+                  "id": "gruppenprozesse-122-section-2",
+                  "text": "Der Gruppenprozess Alle Vornamen anpassen",
+                  "link": "/schild3/suchen-gruppenprozesse/alle-vornamen-anpassen-gruppenprozesse-allgemein#der-gruppenprozess-alle-vornamen-anpassen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-123",
+              "text": "Fachhochschulreife prüfen",
+              "link": "/schild3/suchen-gruppenprozesse/fachhochschulreife-pruefen-gruppenprozesse-allgemein",
+              "source_title": "Fachhochschulreife prüfen (Gruppenprozesse Allgemein)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-124",
+              "text": "KAoA-Daten eingeben",
+              "link": "/schild3/suchen-gruppenprozesse/kaoa-daten-eingeben-gruppenprozesse-allgemein",
+              "source_title": "KAoA-Daten eingeben (Gruppenprozesse Allgemein)",
+              "sections": []
+            }
+          ],
+          "link": "/programmreferenz/bereiche/gruppenprozesse-group-0"
+        },
+        {
+          "id": "gruppenprozesse-group-1",
+          "text": "Fächer",
+          "items": [
+            {
+              "id": "gruppenprozesse-125",
+              "text": "Stundentafeln zuweisen",
+              "link": "/schild3/suchen-gruppenprozesse/stundentafeln-zuweisen-gruppenprozesse-faecher",
+              "source_title": "Stundentafeln zuweisen (Gruppenprozesse Fächer)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-125-section-0",
+                  "text": "1. Die Stundentafel und Fächer wählen",
+                  "link": "/schild3/suchen-gruppenprozesse/stundentafeln-zuweisen-gruppenprozesse-faecher#_1-die-stundentafel-und-facher-wahlen"
+                },
+                {
+                  "id": "gruppenprozesse-125-section-1",
+                  "text": "2. Ergänzen oder Löschen festlegen",
+                  "link": "/schild3/suchen-gruppenprozesse/stundentafeln-zuweisen-gruppenprozesse-faecher#_2-erganzen-oder-loschen-festlegen"
+                },
+                {
+                  "id": "gruppenprozesse-125-section-2",
+                  "text": "3. Die Zuweisung übernehmen",
+                  "link": "/schild3/suchen-gruppenprozesse/stundentafeln-zuweisen-gruppenprozesse-faecher#_3-die-zuweisung-ubernehmen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-126",
+              "text": "Klassenunterrichte bearbeiten",
+              "link": "/schild3/suchen-gruppenprozesse/klassenunterrichte-bearbeiten-gruppenprozesse-faecher",
+              "source_title": "Klassenunterrichte bearbeiten (Gruppenprozesse Fächer)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-127",
+              "text": "Details zu Fächern bei Schülern ändern",
+              "link": "/schild3/suchen-gruppenprozesse/details-zu-faechern-bei-schuelern-aendern-gruppenprozesse-faecher",
+              "source_title": "Details zu Fächern bei Schülern ändern (Gruppenprozesse Fächer)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-127-section-0",
+                  "text": "1. Fach und Zielabschnitt festlegen",
+                  "link": "/schild3/suchen-gruppenprozesse/details-zu-faechern-bei-schuelern-aendern-gruppenprozesse-faecher#_1-fach-und-zielabschnitt-festlegen"
+                },
+                {
+                  "id": "gruppenprozesse-127-section-1",
+                  "text": "2. Angaben ändern oder gezielt leeren",
+                  "link": "/schild3/suchen-gruppenprozesse/details-zu-faechern-bei-schuelern-aendern-gruppenprozesse-faecher#_2-angaben-andern-oder-gezielt-leeren"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-128",
+              "text": "Einzelne Fächer bei Schülern löschen",
+              "link": "/schild3/suchen-gruppenprozesse/einzelne-faecher-bei-schuelern-loeschen-gruppenprozesse-faecher",
+              "source_title": "Einzelne Fächer bei Schülern löschen (Gruppenprozesse Fächer)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-129",
+              "text": "Alle Fächer bei Schülern löschen",
+              "link": "/schild3/suchen-gruppenprozesse/alle-faecher-bei-schuelern-loeschen-gruppenprozesse-faecher",
+              "source_title": "Alle Fächer bei Schülern löschen (Gruppenprozesse Fächer)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-130",
+              "text": "Einzelne Fächer bei Schülern hinzufügen",
+              "link": "/schild3/suchen-gruppenprozesse/einzelne-faecher-bei-schuelern-hinzufuegen-gruppenprozesse-faecher",
+              "source_title": "Einzelne Fächer bei Schülern hinzufügen (Gruppenprozesse Fächer)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-131",
+              "text": "Fächer zuweisen (tabellarisch)",
+              "link": "/schild3/suchen-gruppenprozesse/faecher-zuweisen-tabellarisch-gruppenprozesse-faecher",
+              "source_title": "Fächer zuweisen (tabellarisch) (Gruppenprozesse Fächer)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-131-section-0",
+                  "text": "Löschen",
+                  "link": "/schild3/suchen-gruppenprozesse/faecher-zuweisen-tabellarisch-gruppenprozesse-faecher#loschen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-132",
+              "text": "Kurse zuweisen",
+              "link": "/schild3/suchen-gruppenprozesse/kurse-zuweisen-gruppenprozesse-faecher",
+              "source_title": "Kurse zuweisen (Gruppenprozesse Fächer)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-132-section-2",
+                  "text": "1. Vorbereitungen",
+                  "link": "/schild3/suchen-gruppenprozesse/kurse-zuweisen-gruppenprozesse-faecher#_1-vorbereitungen"
+                },
+                {
+                  "id": "gruppenprozesse-132-section-3",
+                  "text": "2. Kurse zuweisen",
+                  "link": "/schild3/suchen-gruppenprozesse/kurse-zuweisen-gruppenprozesse-faecher#_2-kurse-zuweisen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-133",
+              "text": "Noten von Epochal-Fächern ergänzen",
+              "link": "/zeugnisse/vorbereitung/noten-von-epochal-faechern-ergaenzen-gruppenprozesse-faecher",
+              "source_title": "Noten von Epochal-Fächern ergänzen (Gruppenprozesse Fächer)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-134",
+              "text": "Fächer aus vorherigem Abschnitt holen",
+              "link": "/schild3/suchen-gruppenprozesse/faecher-aus-vorherigem-abschnitt-holen-gruppenprozesse-faecher",
+              "source_title": "Fächer aus vorherigem Abschnitt holen (Gruppenprozesse Fächer)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-135",
+              "text": "Doppelte Fächer löschen",
+              "link": "/schild3/suchen-gruppenprozesse/doppelte-faecher-loeschen-gruppenprozesse-faecher",
+              "source_title": "Doppelte Fächer löschen (Gruppenprozesse Fächer)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-136",
+              "text": "Fächer in Leistungsdaten neu sortieren",
+              "link": "/schild3/suchen-gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren-gruppenprozesse-faecher",
+              "source_title": "Fächer in Leistungsdaten neu sortieren (Gruppenprozesse Fächer)",
+              "sections": []
+            }
+          ],
+          "link": "/programmreferenz/bereiche/gruppenprozesse-group-1"
+        },
+        {
+          "id": "gruppenprozesse-group-2",
+          "text": "Teilleistungen",
+          "items": [
+            {
+              "id": "gruppenprozesse-137",
+              "text": "Teilleistungsarten aus Vorlage zuweisen",
+              "link": "/schild3/suchen-gruppenprozesse/teilleistungsarten-aus-vorlage-zuweisen-gruppenprozesse-teilleistungen",
+              "source_title": "Teilleistungsarten aus Vorlage zuweisen (Gruppenprozesse Teilleistungen)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-137-section-0",
+                  "text": "Vorarbeiten",
+                  "link": "/schild3/suchen-gruppenprozesse/teilleistungsarten-aus-vorlage-zuweisen-gruppenprozesse-teilleistungen#vorarbeiten"
+                },
+                {
+                  "id": "gruppenprozesse-137-section-1",
+                  "text": "Vorbereitung der Teilleistungsarten",
+                  "link": "/schild3/suchen-gruppenprozesse/teilleistungsarten-aus-vorlage-zuweisen-gruppenprozesse-teilleistungen#vorbereitung-der-teilleistungsarten"
+                },
+                {
+                  "id": "gruppenprozesse-137-section-2",
+                  "text": "Zuweisung zu den Unterrichtsfächern",
+                  "link": "/schild3/suchen-gruppenprozesse/teilleistungsarten-aus-vorlage-zuweisen-gruppenprozesse-teilleistungen#zuweisung-zu-den-unterrichtsfachern"
+                },
+                {
+                  "id": "gruppenprozesse-137-section-3",
+                  "text": "Gruppenprozess \"Teilleistungsarten aus Vorlage zuweisen\"",
+                  "link": "/schild3/suchen-gruppenprozesse/teilleistungsarten-aus-vorlage-zuweisen-gruppenprozesse-teilleistungen#gruppenprozess-teilleistungsarten-aus-vorlage-zuweisen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-138",
+              "text": "Teilleistungsarten individuell zuweisen",
+              "link": "/schild3/suchen-gruppenprozesse/teilleistungsarten-individuell-zuweisen-gruppenprozesse-teilleistungen",
+              "source_title": "Teilleistungsarten individuell zuweisen (Gruppenprozesse Teilleistungen)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-139",
+              "text": "Teilleistungen für einen Abschnitt löschen",
+              "link": "/schild3/suchen-gruppenprozesse/teilleistungen-fuer-einen-abschnitt-loeschen-gruppenprozesse-teilleistungen",
+              "source_title": "Teilleistungen für einen Abschnitt löschen (Gruppenprozesse Teilleistungen)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-140",
+              "text": "Noteneingabe (nur vorbereitete TL)",
+              "link": "/zeugnisse/vorbereitung/noteneingabe-nur-vorbereitete-tl-gruppenprozesse-teilleistungen",
+              "source_title": "Noteneingabe (nur vorbereitete TL) (Gruppenprozesse Teilleistungen)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-141",
+              "text": "Teilleistungsarten global zuweisen",
+              "link": "/schild3/suchen-gruppenprozesse/teilleistungsarten-global-zuweisen-gruppenprozesse-teilleistungen",
+              "source_title": "Teilleistungsarten global zuweisen (Gruppenprozesse Teilleistungen)",
+              "sections": []
+            }
+          ],
+          "link": "/programmreferenz/bereiche/gruppenprozesse-group-2"
+        },
+        {
+          "id": "gruppenprozesse-group-3",
+          "text": "Noten, Zeugnisvorbereitung",
+          "items": [
+            {
+              "id": "gruppenprozesse-142",
+              "text": "Noten, Mahnungen und Fehlstd. eingeben",
+              "link": "/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstd-eingeben-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Noten, Mahnungen und Fehlstd. eingeben (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-142-section-0",
+                  "text": "1. Lernabschnitt und Sortierung wählen",
+                  "link": "/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstd-eingeben-gruppenprozesse-noten-zeugnisvorbereitung#_1-lernabschnitt-und-sortierung-wahlen"
+                },
+                {
+                  "id": "gruppenprozesse-142-section-1",
+                  "text": "2. Noten, Mahnungen und Fehlstunden erfassen",
+                  "link": "/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstd-eingeben-gruppenprozesse-noten-zeugnisvorbereitung#_2-noten-mahnungen-und-fehlstunden-erfassen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-143",
+              "text": "Lernbereichsnoten eingeben",
+              "link": "/zeugnisse/vorbereitung/lernbereichsnoten-eingeben-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Lernbereichsnoten eingeben (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-144",
+              "text": "Fächer ohne Noten suchen",
+              "link": "/zeugnisse/vorbereitung/faecher-ohne-noten-suchen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Fächer ohne Noten suchen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-145",
+              "text": "Fächer ohne Lehrkraft suchen",
+              "link": "/zeugnisse/vorbereitung/faecher-ohne-lehrkraft-suchen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Fächer ohne Lehrkraft suchen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-146",
+              "text": "Mahnungen automatisch setzen",
+              "link": "/zeugnisse/vorbereitung/mahnungen-automatisch-setzen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Mahnungen automatisch setzen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-146-section-0",
+                  "text": "Mahnungen aus den vorhandenen Noten setzen",
+                  "link": "/zeugnisse/vorbereitung/mahnungen-automatisch-setzen-gruppenprozesse-noten-zeugnisvorbereitung#mahnungen-aus-den-vorhandenen-noten-setzen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-147",
+              "text": "Mahnungensdruck einleiten",
+              "link": "/reporting/zeugnisformulare/mahnungsdruck-einleiten-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Mahnungsdruck einleiten (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-147-section-0",
+                  "text": "Den Gruppenprozess aufrufen",
+                  "link": "/reporting/zeugnisformulare/mahnungsdruck-einleiten-gruppenprozesse-noten-zeugnisvorbereitung#den-gruppenprozess-aufrufen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-148",
+              "text": "Fehlstunden-Summen manuell eingeben",
+              "link": "/zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Fehlstunden-Summen manuell eingeben (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-148-section-0",
+                  "text": "Fehlstunden erfassen und übernehmen",
+                  "link": "/zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben-gruppenprozesse-noten-zeugnisvorbereitung#fehlstunden-erfassen-und-ubernehmen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-149",
+              "text": "Fehlstunden-Summen autom. berechnen",
+              "link": "/zeugnisse/vorbereitung/fehlstunden-summen-autom-berechnen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Fehlstunden-Summen autom. berechnen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-150",
+              "text": "Konferenz-/Zeugnis-Datum setzen",
+              "link": "/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Konferenz-/Zeugnis-Datum setzen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-150-section-0",
+                  "text": "Datum für die ausgewählte Gruppe setzen",
+                  "link": "/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen-gruppenprozesse-noten-zeugnisvorbereitung#datum-fur-die-ausgewahlte-gruppe-setzen"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-151",
+              "text": "Zeugnisbemerkungen eintragen",
+              "link": "/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Zeugnisbemerkungen eintragen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-151-section-0",
+                  "text": "1. Bemerkungsart und Erhalt vorhandener Texte wählen",
+                  "link": "/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen-gruppenprozesse-noten-zeugnisvorbereitung#_1-bemerkungsart-und-erhalt-vorhandener-texte-wahlen"
+                },
+                {
+                  "id": "gruppenprozesse-151-section-1",
+                  "text": "2. Bemerkungen eingeben oder Floskeln verwenden",
+                  "link": "/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen-gruppenprozesse-noten-zeugnisvorbereitung#_2-bemerkungen-eingeben-oder-floskeln-verwenden"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-152",
+              "text": "Platzhalter in Memo-Feldern ersetzen",
+              "link": "/zeugnisse/vorbereitung/platzhalter-in-memo-feldern-ersetzen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Platzhalter in Memo-Feldern ersetzen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-153",
+              "text": "Abgeschlossene Fächer holen",
+              "link": "/zeugnisse/vorbereitung/abgeschlossene-faecher-holen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Abgeschlossene Fächer holen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-154",
+              "text": "Abgeschlossene Fächer löschen",
+              "link": "/zeugnisse/vorbereitung/abgeschlossene-faecher-loeschen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Abgeschlossene Fächer löschen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-155",
+              "text": "Zugeordnete Zeugnisformulare drucken",
+              "link": "/zeugnisse/vorbereitung/zugeordnete-zeugnisformulare-drucken-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Zugeordnete Zeugnisformulare drucken (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-156",
+              "text": "Zeugnisse drucken und Schüler ausschulen",
+              "link": "/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Zeugnisse drucken und Schüler ausschulen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-157",
+              "text": "Noten des akt. Abschnittes löschen",
+              "link": "/zeugnisse/vorbereitung/noten-des-akt-abschnittes-loeschen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Noten des akt. Abschnittes löschen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-158",
+              "text": "Ankreuzkompetenzen eintragen",
+              "link": "/zeugnisse/vorbereitung/ankreuzkompetenzen-eintragen-gruppenprozesse-noten-zeugnisvorbereitung",
+              "source_title": "Ankreuzkompetenzen eintragen (Gruppenprozesse Noten, Zeugnisvorbereitung)",
+              "sections": []
+            }
+          ],
+          "link": "/programmreferenz/bereiche/gruppenprozesse-group-3"
+        },
+        {
+          "id": "gruppenprozesse-group-4",
+          "text": "Lernabschnitte, Versetzung",
+          "items": [
+            {
+              "id": "gruppenprozesse-159",
+              "text": "Versetzungs-Abschluss-Berechnungen",
+              "link": "/zeugnisse/vorbereitung/versetzungs-abschluss-berechnungen-gruppenprozesse-lernabschnitte-versetzung",
+              "source_title": "Versetzungs-Abschluss-berechnungen (Gruppenprozesse Lernabschnitte, Versetzung)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-160",
+              "text": "Versetzung/Übertrag ins neue Halbjahr oder Abschluss",
+              "link": "/zeugnisse/vorbereitung/versetzung-uebertrag-ins-neue-halbjahr-oder-abschluss-gruppenprozesse-lernabschnitte-versetzung",
+              "source_title": "Versetzung/Übertrag ins neue Halbjahr oder Abschluss (Gruppenprozesse Lernabschnitte, Versetzung)",
+              "sections": [
+                {
+                  "id": "gruppenprozesse-160-section-0",
+                  "text": "Vorbereitungen",
+                  "link": "/zeugnisse/vorbereitung/versetzung-uebertrag-ins-neue-halbjahr-oder-abschluss-gruppenprozesse-lernabschnitte-versetzung#vorbereitungen"
+                },
+                {
+                  "id": "gruppenprozesse-160-section-1",
+                  "text": "Starten des Gruppenprozesses",
+                  "link": "/zeugnisse/vorbereitung/versetzung-uebertrag-ins-neue-halbjahr-oder-abschluss-gruppenprozesse-lernabschnitte-versetzung#starten-des-gruppenprozesses"
+                }
+              ]
+            },
+            {
+              "id": "gruppenprozesse-161",
+              "text": "Abschnittsdaten löschen",
+              "link": "/zeugnisse/vorbereitung/abschnittsdaten-loeschen-gruppenprozesse-lernabschnitte-versetzung",
+              "source_title": "Abschnittsdaten löschen (Gruppenprozesse Lernabschnitte, Versetzung)",
+              "sections": []
+            }
+          ],
+          "link": "/programmreferenz/bereiche/gruppenprozesse-group-4"
+        },
+        {
+          "id": "gruppenprozesse-zp10",
+          "text": "ZP 10 / Zentrale Klausuren",
+          "items": [
+            {
+              "id": "gruppenprozesse-162",
+              "text": "Zentrale Prüfung Jahrgang 10",
+              "link": "/zeugnisse/sekundarstufen/zentrale-pruefung-jahrgang-10-gruppenprozesse-zp-10-zk",
+              "source_title": "Zentrale Prüfung Jahrgang 10 (Gruppenprozesse ZP 10/ZK)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-163",
+              "text": "Leistungsdaten holen",
+              "link": "/schild3/suchen-gruppenprozesse/leistungsdaten-holen-gruppenprozesse-zentrale-klausuren",
+              "source_title": "Leistungsdaten holen (Gruppenprozesse Zentrale Klausuren)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-164",
+              "text": "Prüfungsnoten aus Teilleistungen holen",
+              "link": "/zeugnisse/sekundarstufen/pruefungsnoten-aus-teilleistungen-holen-gruppenprozesse-zentrale-klausuren",
+              "source_title": "Prüfungsnoten aus Teilleistungen holen (Gruppenprozesse Zentrale Klausuren)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-165",
+              "text": "Prüfungsnoten eingeben",
+              "link": "/zeugnisse/sekundarstufen/noten-eingeben-gruppenprozesse-zentrale-klausuren",
+              "source_title": "Noten eingeben (Gruppenprozesse Zentrale Klausuren)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-166",
+              "text": "Mündliche Prüfungen festlegen",
+              "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-festlegen-gruppenprozesse-zentrale-klausuren",
+              "source_title": "Mündliche Prüfungen festlegen (Gruppenprozesse Zentrale Klausuren)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-167",
+              "text": "Abschluss berechnen",
+              "link": "/zeugnisse/sekundarstufen/abschluss-berechnen-gruppenprozesse-zentrale-klausuren",
+              "source_title": "Abschluss berechnen (Gruppenprozesse Zentrale Klausuren)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-168",
+              "text": "Abschlussnote in Leistungsdaten übertragen",
+              "link": "/zeugnisse/sekundarstufen/abschlussnote-in-leistungsdaten-uebertragen-gruppenprozesse-zentrale-klausuren",
+              "source_title": "Abschlussnote in Leistungsdaten übertragen (Gruppenprozesse Zentrale Klausuren)",
+              "sections": []
+            }
+          ],
+          "link": "/programmreferenz/bereiche/gruppenprozesse-zp10"
+        },
+        {
+          "id": "gruppenprozesse-abitur",
+          "text": "Abitur",
+          "items": [
+            {
+              "id": "gruppenprozesse-169",
+              "text": "Abitur",
+              "link": "/zeugnisse/sekundarstufen/abitur-gruppenprozesse-abitur",
+              "source_title": "Abitur (Gruppenprozesse Abitur)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-170",
+              "text": "Leistungsdaten holen",
+              "link": "/zeugnisse/sekundarstufen/leistungsdaten-holen-gruppenprozesse-abitur",
+              "source_title": "Leistungsdaten holen (Gruppenprozesse Abitur)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-171",
+              "text": "Kurse algorithmisch markieren",
+              "link": "/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren-gruppenprozesse-abitur",
+              "source_title": "Kurse algorithmisch markieren (Gruppenprozesse Abitur)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-172",
+              "text": "Abitur-Zulassung berechnen",
+              "link": "/zeugnisse/sekundarstufen/abitur-zulassung-berechnen-gruppenprozesse-abitur",
+              "source_title": "Abitur-Zulassung berechnen (Gruppenprozesse Abitur)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-173",
+              "text": "Prüfungsergebnisse eingeben",
+              "link": "/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben-gruppenprozesse-abitur",
+              "source_title": "Prüfungsergebnisse eingeben (Gruppenprozesse Abitur)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-174",
+              "text": "Mdl. Prüfungen A1-A3 festlegen",
+              "link": "/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen-gruppenprozesse-abitur",
+              "source_title": "Mdl. Prüfungen A1-A3 festlegen (Gruppenprozesse Abitur)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-175",
+              "text": "Zusatzdaten (Latinum...) eingeben",
+              "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben-gruppenprozesse-abitur",
+              "source_title": "Zusatzdaten (Latinum...) eingeben (Gruppenprozesse Abitur)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-176",
+              "text": "Abitur-Jahr setzen (für Statistik)",
+              "link": "/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik-gruppenprozesse-abitur",
+              "source_title": "Abitur-Jahr setzen (für Statistik) (Gruppenprozesse Abitur)",
+              "sections": []
+            }
+          ],
+          "link": "/programmreferenz/bereiche/gruppenprozesse-abitur"
+        },
+        {
+          "id": "gruppenprozesse-group-7",
+          "text": "BK-Abschluss",
+          "items": [
+            {
+              "id": "gruppenprozesse-177",
+              "text": "Leistungsdaten holen",
+              "link": "/zeugnisse/berufskolleg/leistungsdaten-holen-gruppenprozesse-bk-abschluss",
+              "source_title": "Leistungsdaten holen (Gruppenprozesse BK-Abschluss)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-178",
+              "text": "Prüfungsnoten aus Teilleistungen holen",
+              "link": "/zeugnisse/berufskolleg/kurse-algorithmisch-markieren-gruppenprozesse-bk-abschluss",
+              "source_title": "Kurse algorithmisch markieren (Gruppenprozesse BK-Abschluss)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-179",
+              "text": "Zulassung prüfen",
+              "link": "/zeugnisse/berufskolleg/zulassung-pruefen-gruppenprozesse-bk-abschluss",
+              "source_title": "Zulassung prüfen(Gruppenprozesse BK-Abschluss)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-180",
+              "text": "Prüfungsnoten eingeben",
+              "link": "/zeugnisse/berufskolleg/pruefungsergebnisse-eingeben-gruppenprozesse-bk-abschluss",
+              "source_title": "Prüfungsergebnisse eingeben (Gruppenprozesse BK-Abschluss)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-181",
+              "text": "Mdl. Prüfungen festlegen",
+              "link": "/zeugnisse/berufskolleg/mdl-pruefungen-festlegen-gruppenprozesse-bk-abschluss",
+              "source_title": "Mdl. Prüfungen festlegen (Gruppenprozesse BK-Abschluss)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-182",
+              "text": "(Vorläufige) Abschlussnoten berechnen",
+              "link": "/zeugnisse/berufskolleg/vorlaeufige-abschlussnoten-berechnen-gruppenprozesse-bk-abschluss",
+              "source_title": "Vorläufige Abschlussnoten berechnen (Gruppenprozesse BK-Abschluss)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-183",
+              "text": "Abschluss berechnen",
+              "link": "/zeugnisse/berufskolleg/abschluss-berechnen-gruppenprozesse-bk-abschluss",
+              "source_title": "Abschluss berechnen (Gruppenprozesse BK-Abschluss)",
+              "sections": []
+            },
+            {
+              "id": "gruppenprozesse-184",
+              "text": "Abschlussnoten in Leistungsdaten übertragen",
+              "link": "/zeugnisse/berufskolleg/abschlussnoten-in-leistungsdaten-uebertragen-gruppenprozesse-bk-abschluss",
+              "source_title": "Abschlussnoten in Leistungsdaten übertragen(Gruppenprozesse BK-Abschluss)",
+              "sections": []
+            }
+          ],
+          "link": "/programmreferenz/bereiche/gruppenprozesse-group-7"
+        }
+      ]
+    },
+    {
+      "id": "kataloge",
+      "text": "Kataloge",
+      "link": "/programmreferenz/kataloge",
+      "items": [
+        {
+          "id": "kataloge-185",
+          "text": "Allgemeine Kataloge",
+          "link": "/schild3/unterricht-kataloge/allgemeine-kataloge-kataloge",
+          "source_title": "Allgemeine Kataloge (Kataloge)",
+          "items": [
+            {
+              "id": "kataloge-186",
+              "text": "Erzieherarten",
+              "link": "/schild3/unterricht-kataloge/erzieher-arten-allgemeine-kataloge",
+              "source_title": "Erzieher-Arten (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-187",
+              "text": "Förderschwerpunkte",
+              "link": "/schild3/unterricht-kataloge/foerderschwerpunkte-allgemeine-kataloge",
+              "source_title": "Förderschwerpunkte (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-188",
+              "text": "Fahrschülerarten",
+              "link": "/schild3/unterricht-kataloge/fahrschueler-arten-allgemeine-kataloge",
+              "source_title": "Fahrschüler-Arten (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-189",
+              "text": "Telef. Ansprechpartner",
+              "link": "/schild3/unterricht-kataloge/telef-ansprechpartner-allgemeine-kataloge",
+              "source_title": "Telef. Ansprechpartner (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-190",
+              "text": "Konfessionen",
+              "link": "/schild3/unterricht-kataloge/konfessionen-allgemeine-kataloge",
+              "source_title": "Konfessionen (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-191",
+              "text": "Sportbefreiungen",
+              "link": "/schild3/unterricht-kataloge/sportbefreiungen-allgemeine-kataloge",
+              "source_title": "Sportbefreiungen (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-192",
+              "text": "Entlassungsbemerkungen",
+              "link": "/schild3/unterricht-kataloge/entlassungs-bemerkungen-allgemeine-kataloge",
+              "source_title": "Entlassungs-Bemerkungen (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-193",
+              "text": "Adressarten",
+              "link": "/schild3/unterricht-kataloge/adress-arten-allgemeine-kataloge",
+              "source_title": "Adress-Arten (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-194",
+              "text": "Allgemeine Adressen",
+              "link": "/schild3/unterricht-kataloge/allgemeine-adressen-allgemeine-kataloge",
+              "source_title": "Allgemeine Adressen (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-195",
+              "text": "Orte",
+              "link": "/schild3/unterricht-kataloge/orte-allgemeine-kataloge",
+              "source_title": "Orte (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-196",
+              "text": "Ortsteile",
+              "link": "/schild3/unterricht-kataloge/ortsteile-allgemeine-kataloge",
+              "source_title": "Ortsteile (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-197",
+              "text": "Haltestellen",
+              "link": "/schild3/unterricht-kataloge/haltestellen-allgemeine-kataloge",
+              "source_title": "Haltestellen (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-198",
+              "text": "Schulen in NRW",
+              "link": "/schild3/unterricht-kataloge/schulen-in-nrw-allgemeine-kataloge",
+              "source_title": "Schulen in NRW (Allgemeine Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-199",
+              "text": "Andere Schulen und Schulnummern",
+              "link": "/schild3/unterricht-kataloge/andere-schulen-und-schulnummern-allgemeine-kataloge",
+              "source_title": "Andere Schulen und Schulnummern (Allgemeine Kataloge)",
+              "sections": []
+            }
+          ],
+          "sections": [
+            {
+              "id": "kataloge-185-section-0",
+              "text": "Gemeinsamkeiten aller Kataloge",
+              "link": "/schild3/unterricht-kataloge/allgemeine-kataloge-kataloge#gemeinsamkeiten-aller-kataloge"
+            },
+            {
+              "id": "kataloge-185-section-1",
+              "text": "Einfügen und Löschen von Einträgen",
+              "link": "/schild3/unterricht-kataloge/allgemeine-kataloge-kataloge#einfugen-und-loschen-von-eintragen"
+            },
+            {
+              "id": "kataloge-185-section-2",
+              "text": "Suchen",
+              "link": "/schild3/unterricht-kataloge/allgemeine-kataloge-kataloge#suchen"
+            },
+            {
+              "id": "kataloge-185-section-3",
+              "text": "Sortierung",
+              "link": "/schild3/unterricht-kataloge/allgemeine-kataloge-kataloge#sortierung"
+            },
+            {
+              "id": "kataloge-185-section-4",
+              "text": "Sichtbarkeit",
+              "link": "/schild3/unterricht-kataloge/allgemeine-kataloge-kataloge#sichtbarkeit"
+            },
+            {
+              "id": "kataloge-185-section-5",
+              "text": "Excel-Export",
+              "link": "/schild3/unterricht-kataloge/allgemeine-kataloge-kataloge#excel-export"
+            }
+          ]
+        },
+        {
+          "id": "kataloge-200",
+          "text": "Schulbezogene Kataloge",
+          "link": "/schild3/unterricht-kataloge/schulbezogene-kataloge-kataloge",
+          "source_title": "Schulbezogene Kataloge (Kataloge)",
+          "items": [
+            {
+              "id": "kataloge-201",
+              "text": "Jahrgänge",
+              "link": "/schild3/unterricht-kataloge/jahrgaenge-schulbezogene-kataloge",
+              "source_title": "Jahrgänge (Schulbezogene Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-202",
+              "text": "Fachklassen (BK)",
+              "link": "/schild3/unterricht-kataloge/fachklassen-schulbezogene-kataloge",
+              "source_title": "Fachklassen (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-202-section-0",
+                  "text": "Fachklassendetails und Berufsangaben pflegen",
+                  "link": "/schild3/unterricht-kataloge/fachklassen-schulbezogene-kataloge#fachklassendetails-und-berufsangaben-pflegen"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-203",
+              "text": "Klassen-/Versetzungstabelle",
+              "link": "/zeugnisse/vorbereitung/klassen-versetzungstabelle-schulbezogene-kataloge",
+              "source_title": "Klassen-/Versetzungstabelle (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-203-section-0",
+                  "text": "Folgeklasse und Klassendetails pflegen",
+                  "link": "/zeugnisse/vorbereitung/klassen-versetzungstabelle-schulbezogene-kataloge#folgeklasse-und-klassendetails-pflegen"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-204",
+              "text": "Klassengruppen/Abteilungen",
+              "link": "/schild3/unterricht-kataloge/klassengruppen-abteilungen-schulbezogene-kataloge",
+              "source_title": "Klassengruppen/Abteilungen (Schulbezogene Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-205",
+              "text": "Schwerpunkte (BK)",
+              "link": "/schild3/unterricht-kataloge/schwerpunkte-schulbezogene-kataloge",
+              "source_title": "Schwerpunkte (Schulbezogene Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-206",
+              "text": "Unterrichtsfächer",
+              "link": "/schild3/unterricht-kataloge/unterrichtsfaecher-schulbezogene-kataloge",
+              "source_title": "Unterrichtsfächer (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-206-section-0",
+                  "text": "Die Übersichtsliste",
+                  "link": "/schild3/unterricht-kataloge/unterrichtsfaecher-schulbezogene-kataloge#die-ubersichtsliste"
+                },
+                {
+                  "id": "kataloge-206-section-1",
+                  "text": "Zusätzliche Unterrichtsveranstaltungen und andere Fächer",
+                  "link": "/schild3/unterricht-kataloge/unterrichtsfaecher-schulbezogene-kataloge#zusatzliche-unterrichtsveranstaltungen-und-andere-facher"
+                },
+                {
+                  "id": "kataloge-206-section-5",
+                  "text": "Filtern, Sortieren und Fächer global ersetzen",
+                  "link": "/schild3/unterricht-kataloge/unterrichtsfaecher-schulbezogene-kataloge#filtern-sortieren-und-facher-global-ersetzen"
+                },
+                {
+                  "id": "kataloge-206-section-2",
+                  "text": "Details zu den Fächern",
+                  "link": "/schild3/unterricht-kataloge/unterrichtsfaecher-schulbezogene-kataloge#details-zu-den-fachern"
+                },
+                {
+                  "id": "kataloge-206-section-6",
+                  "text": "Teilleistungen",
+                  "link": "/schild3/unterricht-kataloge/unterrichtsfaecher-schulbezogene-kataloge#teilleistungen"
+                },
+                {
+                  "id": "kataloge-206-section-3",
+                  "text": "Sonstige Einstellungen",
+                  "link": "/schild3/unterricht-kataloge/unterrichtsfaecher-schulbezogene-kataloge#sonstige-einstellungen"
+                },
+                {
+                  "id": "kataloge-206-section-4",
+                  "text": "Export nach Excel",
+                  "link": "/schild3/unterricht-kataloge/unterrichtsfaecher-schulbezogene-kataloge#export-nach-excel"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-207",
+              "text": "Stundentafel",
+              "link": "/schild3/unterricht-kataloge/stundentafel-schulbezogene-kataloge",
+              "source_title": "Stundentafel (Schulbezogene Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-208",
+              "text": "Kurse",
+              "link": "/schild3/unterricht-kataloge/kurse-schulbezogene-kataloge",
+              "source_title": "Kurse (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-208-section-2",
+                  "text": "Die Kursauswahl einschränken",
+                  "link": "/schild3/unterricht-kataloge/kurse-schulbezogene-kataloge#die-kursauswahl-einschranken"
+                },
+                {
+                  "id": "kataloge-208-section-0",
+                  "text": "Die Kurstabelle",
+                  "link": "/schild3/unterricht-kataloge/kurse-schulbezogene-kataloge#die-kurstabelle"
+                },
+                {
+                  "id": "kataloge-208-section-1",
+                  "text": "Optionen über die rechte Maustaste",
+                  "link": "/schild3/unterricht-kataloge/kurse-schulbezogene-kataloge#optionen-uber-die-rechte-maustaste"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-209",
+              "text": "Teilleistungsarten",
+              "link": "/schild3/unterricht-kataloge/teilleistungs-arten-schulbezogene-kataloge",
+              "source_title": "Teilleistungs-Arten (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-209-section-0",
+                  "text": "Anlegen neuer Teilleistungsarten",
+                  "link": "/schild3/unterricht-kataloge/teilleistungs-arten-schulbezogene-kataloge#anlegen-neuer-teilleistungsarten"
+                },
+                {
+                  "id": "kataloge-209-section-1",
+                  "text": "Sortierung der Teilleistungsarten",
+                  "link": "/schild3/unterricht-kataloge/teilleistungs-arten-schulbezogene-kataloge#sortierung-der-teilleistungsarten"
+                },
+                {
+                  "id": "kataloge-209-section-2",
+                  "text": "Bearbeiten von Teilleistungsarten",
+                  "link": "/schild3/unterricht-kataloge/teilleistungs-arten-schulbezogene-kataloge#bearbeiten-von-teilleistungsarten"
+                },
+                {
+                  "id": "kataloge-209-section-3",
+                  "text": "Export in eine Excel-Tabelle",
+                  "link": "/schild3/unterricht-kataloge/teilleistungs-arten-schulbezogene-kataloge#export-in-eine-excel-tabelle"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-210",
+              "text": "\"Floskeln\" bearbeiten",
+              "link": "/schild3/unterricht-kataloge/floskeln-bearbeiten-schulbezogene-kataloge",
+              "source_title": "Floskeln bearbeiten (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-210-section-0",
+                  "text": "Verwaltung von Floskeln",
+                  "link": "/schild3/unterricht-kataloge/floskeln-bearbeiten-schulbezogene-kataloge#verwaltung-von-floskeln"
+                },
+                {
+                  "id": "kataloge-210-section-1",
+                  "text": "Floskelgruppen",
+                  "link": "/schild3/unterricht-kataloge/floskeln-bearbeiten-schulbezogene-kataloge#floskelgruppen"
+                },
+                {
+                  "id": "kataloge-210-section-2",
+                  "text": "Floskeln",
+                  "link": "/schild3/unterricht-kataloge/floskeln-bearbeiten-schulbezogene-kataloge#floskeln"
+                },
+                {
+                  "id": "kataloge-210-section-3",
+                  "text": "Platzhalter",
+                  "link": "/schild3/unterricht-kataloge/floskeln-bearbeiten-schulbezogene-kataloge#platzhalter"
+                },
+                {
+                  "id": "kataloge-210-section-4",
+                  "text": "Massenhaftes Bearbeiten von Floskeln",
+                  "link": "/schild3/unterricht-kataloge/floskeln-bearbeiten-schulbezogene-kataloge#massenhaftes-bearbeiten-von-floskeln"
+                },
+                {
+                  "id": "kataloge-210-section-5",
+                  "text": "Verwendung von Floskeln",
+                  "link": "/schild3/unterricht-kataloge/floskeln-bearbeiten-schulbezogene-kataloge#verwendung-von-floskeln"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-211",
+              "text": "Ankreuzkompetenzen",
+              "link": "/schild3/unterricht-kataloge/ankreuzkompetenzen-schulbezogene-kataloge",
+              "source_title": "Ankreuzkompetenzen (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-211-section-0",
+                  "text": "Ankreuzkompetenzen anlegen",
+                  "link": "/schild3/unterricht-kataloge/ankreuzkompetenzen-schulbezogene-kataloge#ankreuzkompetenzen-anlegen"
+                },
+                {
+                  "id": "kataloge-211-section-1",
+                  "text": "Unterkategorien",
+                  "link": "/schild3/unterricht-kataloge/ankreuzkompetenzen-schulbezogene-kataloge#unterkategorien"
+                },
+                {
+                  "id": "kataloge-211-section-2",
+                  "text": "Zeilenumbrüche",
+                  "link": "/schild3/unterricht-kataloge/ankreuzkompetenzen-schulbezogene-kataloge#zeilenumbruche"
+                },
+                {
+                  "id": "kataloge-211-section-3",
+                  "text": "Stufen definieren",
+                  "link": "/schild3/unterricht-kataloge/ankreuzkompetenzen-schulbezogene-kataloge#stufen-definieren"
+                },
+                {
+                  "id": "kataloge-211-section-4",
+                  "text": "Frei definierbare Zeugnisrubrik",
+                  "link": "/schild3/unterricht-kataloge/ankreuzkompetenzen-schulbezogene-kataloge#frei-definierbare-zeugnisrubrik"
+                },
+                {
+                  "id": "kataloge-211-section-5",
+                  "text": "Begründung der Übergangsempfehlung mit Ankreuzkompetenzen",
+                  "link": "/schild3/unterricht-kataloge/ankreuzkompetenzen-schulbezogene-kataloge#begrundung-der-ubergangsempfehlung-mit-ankreuzkompetenzen"
+                },
+                {
+                  "id": "kataloge-211-section-6",
+                  "text": "Nutzung von Ankreuzkompetenzen",
+                  "link": "/schild3/unterricht-kataloge/ankreuzkompetenzen-schulbezogene-kataloge#nutzung-von-ankreuzkompetenzen"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-212",
+              "text": "Schülerspezifische Kursarten",
+              "link": "/schild3/unterricht-kataloge/schuelerspezifische-kursarten-schulbezogene-kataloge",
+              "source_title": "Schülerspezifische Kursarten (Schulbezogene Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-213",
+              "text": "Zeugnisvorlagen zuordnen",
+              "link": "/zeugnisse/vorbereitung/zeugnisvorlagen-zuordnen-schulbezogene-kataloge",
+              "source_title": "Zeugnisvorlagen zuordnen (Schulbezogene Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-214",
+              "text": "DSGVO-Einwilligungen",
+              "link": "/schild3/unterricht-kataloge/dsgvo-einwilligungen-schulbezogene-kataloge",
+              "source_title": "DSGVO-Einwilligungen (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-214-section-0",
+                  "text": "Anlegen neuer Einwilligungen",
+                  "link": "/schild3/unterricht-kataloge/dsgvo-einwilligungen-schulbezogene-kataloge#anlegen-neuer-einwilligungen"
+                },
+                {
+                  "id": "kataloge-214-section-1",
+                  "text": "Sortierung der DSGVO-Einwilligungen",
+                  "link": "/schild3/unterricht-kataloge/dsgvo-einwilligungen-schulbezogene-kataloge#sortierung-der-dsgvo-einwilligungen"
+                },
+                {
+                  "id": "kataloge-214-section-2",
+                  "text": "Bearbeiten von DSGVO-Einwilligungen",
+                  "link": "/schild3/unterricht-kataloge/dsgvo-einwilligungen-schulbezogene-kataloge#bearbeiten-von-dsgvo-einwilligungen"
+                },
+                {
+                  "id": "kataloge-214-section-3",
+                  "text": "Export in eine Excel-Tabelle",
+                  "link": "/schild3/unterricht-kataloge/dsgvo-einwilligungen-schulbezogene-kataloge#export-in-eine-excel-tabelle"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-215",
+              "text": "Lernplattformen",
+              "link": "/schild3/unterricht-kataloge/lernplattformen-schulbezogene-kataloge",
+              "source_title": "Lernplattformen (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-215-section-0",
+                  "text": "Anlegen neuer Lernplattformen",
+                  "link": "/schild3/unterricht-kataloge/lernplattformen-schulbezogene-kataloge#anlegen-neuer-lernplattformen"
+                },
+                {
+                  "id": "kataloge-215-section-1",
+                  "text": "Bearbeiten von Lernplattformen",
+                  "link": "/schild3/unterricht-kataloge/lernplattformen-schulbezogene-kataloge#bearbeiten-von-lernplattformen"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-216",
+              "text": "Vermerkarten",
+              "link": "/schild3/unterricht-kataloge/vermerk-arten-schulbezogene-kataloge",
+              "source_title": "Vermerk-Arten (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-216-section-0",
+                  "text": "Anlegen neuer Vermerk-Arten",
+                  "link": "/schild3/unterricht-kataloge/vermerk-arten-schulbezogene-kataloge#anlegen-neuer-vermerk-arten"
+                },
+                {
+                  "id": "kataloge-216-section-1",
+                  "text": "Sortierung der Vermerk-Arten",
+                  "link": "/schild3/unterricht-kataloge/vermerk-arten-schulbezogene-kataloge#sortierung-der-vermerk-arten"
+                },
+                {
+                  "id": "kataloge-216-section-2",
+                  "text": "Bearbeiten von Vermerk-Arten",
+                  "link": "/schild3/unterricht-kataloge/vermerk-arten-schulbezogene-kataloge#bearbeiten-von-vermerk-arten"
+                },
+                {
+                  "id": "kataloge-216-section-3",
+                  "text": "Export in eine Excel-Tabelle",
+                  "link": "/schild3/unterricht-kataloge/vermerk-arten-schulbezogene-kataloge#export-in-eine-excel-tabelle"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-217",
+              "text": "Schulinterne Funktionen",
+              "link": "/schild3/unterricht-kataloge/schulinterne-funktionen-schulbezogene-kataloge",
+              "source_title": "Schulinterne Funktionen (Schulbezogene Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-218",
+              "text": "Zertifikate (BK)",
+              "link": "/schild3/unterricht-kataloge/zertifikate-schulbezogene-kataloge",
+              "source_title": "Zertifikate (Schulbezogene Kataloge)",
+              "sections": []
+            },
+            {
+              "id": "kataloge-219",
+              "text": "Schülergruppe bearbeiten",
+              "link": "/schild3/unterricht-kataloge/schuelergruppe-bearbeiten-schulbezogene-kataloge",
+              "source_title": "Schülergruppe bearbeiten (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-219-section-0",
+                  "text": "Anlegen neuer Schülergruppen",
+                  "link": "/schild3/unterricht-kataloge/schuelergruppe-bearbeiten-schulbezogene-kataloge#anlegen-neuer-schulergruppen"
+                },
+                {
+                  "id": "kataloge-219-section-1",
+                  "text": "Bearbeiten von Schülergruppen",
+                  "link": "/schild3/unterricht-kataloge/schuelergruppe-bearbeiten-schulbezogene-kataloge#bearbeiten-von-schulergruppen"
+                }
+              ]
+            },
+            {
+              "id": "kataloge-220",
+              "text": "Personengruppen",
+              "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge",
+              "source_title": "Personengruppen (Schulbezogene Kataloge)",
+              "sections": [
+                {
+                  "id": "kataloge-220-section-0",
+                  "text": "Anlegen oder Löschen einer Personengruppe",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#anlegen-oder-loschen-einer-personengruppe"
+                },
+                {
+                  "id": "kataloge-220-section-1",
+                  "text": "Hinzufügen von Personen zur Gruppe",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#hinzufugen-von-personen-zur-gruppe"
+                },
+                {
+                  "id": "kataloge-220-section-2",
+                  "text": "Schülerin oder Schüler hinzufügen",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#schulerin-oder-schuler-hinzufugen"
+                },
+                {
+                  "id": "kataloge-220-section-3",
+                  "text": "Lehrkraft hinzufügen",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#lehrkraft-hinzufugen"
+                },
+                {
+                  "id": "kataloge-220-section-4",
+                  "text": "Erziehungsberechtigte hinzufügen",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#erziehungsberechtigte-hinzufugen"
+                },
+                {
+                  "id": "kataloge-220-section-5",
+                  "text": "Neue Personen hinzufügen",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#neue-personen-hinzufugen"
+                },
+                {
+                  "id": "kataloge-220-section-6",
+                  "text": "Entfernen von Personen aus einer Personengruppe",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#entfernen-von-personen-aus-einer-personengruppe"
+                },
+                {
+                  "id": "kataloge-220-section-7",
+                  "text": "Exportieren von Personengruppen",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#exportieren-von-personengruppen"
+                },
+                {
+                  "id": "kataloge-220-section-8",
+                  "text": "In eine Excel-Tabelle",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#in-eine-excel-tabelle"
+                },
+                {
+                  "id": "kataloge-220-section-9",
+                  "text": "In eine Schnittstellen-DAT-Datei",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#in-eine-schnittstellen-dat-datei"
+                },
+                {
+                  "id": "kataloge-220-section-10",
+                  "text": "Personengruppen drucken",
+                  "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge#personengruppen-drucken"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        }
+      ]
+    },
+    {
+      "id": "reportverwaltung",
+      "text": "Reportverwaltung",
+      "link": "/programmreferenz/reportverwaltung",
+      "items": [
+        {
+          "id": "reportverwaltung-221",
+          "text": "Menüband",
+          "link": "/reporting/reportverwaltung/menueband-reportverwaltung",
+          "source_title": "Menüband (Reportverwaltung)",
+          "sections": [
+            {
+              "id": "reportverwaltung-221-section-0",
+              "text": "Reportbearbeitung",
+              "link": "/reporting/reportverwaltung/menueband-reportverwaltung#reportbearbeitung"
+            },
+            {
+              "id": "reportverwaltung-221-section-1",
+              "text": "Allgemeine Reportfunktionen",
+              "link": "/reporting/reportverwaltung/menueband-reportverwaltung#allgemeine-reportfunktionen"
+            },
+            {
+              "id": "reportverwaltung-221-section-2",
+              "text": "Ansicht und ausgewähltes Schuljahr",
+              "link": "/reporting/reportverwaltung/menueband-reportverwaltung#ansicht-und-ausgewahltes-schuljahr"
+            }
+          ]
+        },
+        {
+          "id": "reportverwaltung-222",
+          "text": "Information: Ordner Header_Footer und Subreports",
+          "link": "/reporting/reportverwaltung/die-ordnerstruktur-der-reportverwaltung",
+          "source_title": "Die Ordnerstruktur der Reportverwaltung",
+          "sections": [
+            {
+              "id": "reportverwaltung-222-section-0",
+              "text": "Besondere Ordner",
+              "link": "/reporting/reportverwaltung/die-ordnerstruktur-der-reportverwaltung#besondere-ordner"
+            },
+            {
+              "id": "reportverwaltung-222-section-1",
+              "text": "Beispiele für gemeinsam verwendete Bestandteile",
+              "link": "/reporting/reportverwaltung/die-ordnerstruktur-der-reportverwaltung#beispiele-fur-gemeinsam-verwendete-bestandteile"
+            },
+            {
+              "id": "reportverwaltung-222-section-2",
+              "text": "Eigene Ordner anlegen",
+              "link": "/reporting/reportverwaltung/die-ordnerstruktur-der-reportverwaltung#eigene-ordner-anlegen"
+            }
+          ]
+        },
+        {
+          "id": "reportverwaltung-reportdesigner",
+          "text": "Schnelleinstieg Reporting",
+          "link": "/reporting/reportdesigner/reportdesigner",
+          "source_title": "Reportdesigner",
+          "sections": [
+            {
+              "id": "reportverwaltung-reportdesigner-section-0",
+              "text": "Aufruf und Funktionsweise des Reportdesigners",
+              "link": "/reporting/reportdesigner/reportdesigner#aufruf-und-funktionsweise-des-reportdesigners"
+            },
+            {
+              "id": "reportverwaltung-reportdesigner-section-1",
+              "text": "Die Basisreportsammlungen",
+              "link": "/reporting/reportdesigner/reportdesigner#die-basisreportsammlungen"
+            },
+            {
+              "id": "reportverwaltung-reportdesigner-section-2",
+              "text": "Einführung in den Reportdesigner",
+              "link": "/reporting/reportdesigner/reportdesigner#einfuhrung-in-den-reportdesigner"
+            },
+            {
+              "id": "reportverwaltung-reportdesigner-section-3",
+              "text": "Vertiefende PDF-Tutorials und Support",
+              "link": "/reporting/reportdesigner/reportdesigner#vertiefende-pdf-tutorials-und-support"
+            },
+            {
+              "id": "reportverwaltung-reportdesigner-section-4",
+              "text": "Weitere Tipps zur Reportverwaltung",
+              "link": "/reporting/reportdesigner/reportdesigner#weitere-tipps-zur-reportverwaltung"
+            },
+            {
+              "id": "reportverwaltung-reportdesigner-section-5",
+              "text": "Problemlösungen",
+              "link": "/reporting/reportdesigner/reportdesigner#problemlosungen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

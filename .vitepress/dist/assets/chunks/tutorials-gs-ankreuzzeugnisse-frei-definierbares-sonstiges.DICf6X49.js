@@ -1,0 +1,1 @@
+const e="/bilder/unterricht-kataloge/tutorials-gs-ankreuzzeugnisse-kompetenzen-benennen.png",n="/bilder/unterricht-kataloge/tutorials-gs-ankreuzzeugnisse-frei-definierbares-sonstiges.png";export{e as _,n as a};

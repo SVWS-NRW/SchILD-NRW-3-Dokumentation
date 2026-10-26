@@ -1,0 +1,1 @@
+const e="/bilder/suchen-gruppenprozesse/gruppenprozesse-schueler-loeschen-auswahl.png",s="/bilder/suchen-gruppenprozesse/gruppenprozesse-schuelerdatensaetze-loeschenl.png",p="/bilder/suchen-gruppenprozesse/gruppenprozesse-schuelerdatensaetze-loeschen-ja.png";export{e as _,s as a,p as b};

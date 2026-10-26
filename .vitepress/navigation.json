@@ -1,0 +1,1873 @@
+{
+  "nav": [
+    {
+      "text": "Einstieg",
+      "link": "/einstieg/"
+    },
+    {
+      "text": "Arbeiten mit SchILD",
+      "link": "/schild3/"
+    },
+    {
+      "text": "Zeugnisse",
+      "link": "/zeugnisse/"
+    },
+    {
+      "text": "Reporting",
+      "link": "/reporting/"
+    },
+    {
+      "text": "Programmreferenz",
+      "link": "/programmreferenz/"
+    },
+    {
+      "text": "Administration",
+      "link": "/administration/"
+    },
+    {
+      "text": "Hilfe",
+      "link": "/hilfe/",
+      "activeMatch": "^/(?:hilfe|bilder)/"
+    }
+  ],
+  "sidebar": {
+    "/einstieg/": [
+      {
+        "text": "Einstieg",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/einstieg/"
+          },
+          {
+            "text": "Grundlagen",
+            "link": "/einstieg/grundlagen",
+            "items": [
+              {
+                "text": "SchILD-NRW 3 kennenlernen",
+                "link": "/einstieg/grundlagen/uebersicht-schild-nrw-3-einfuehrung"
+              },
+              {
+                "text": "Installation",
+                "link": "/einstieg/grundlagen/installation"
+              },
+              {
+                "text": "Benutzeroberfläche",
+                "link": "/administration/benutzer-einstellungen/benutzeroberflaeche-von-schild-nrw-3"
+              },
+              {
+                "text": "Unterschiede zu SchILD 2",
+                "link": "/einstieg/grundlagen/wesentliche-unterschiede-zu-schild-nrw-2"
+              },
+              {
+                "text": "Vom Katalog zum Eintrag",
+                "link": "/einstieg/grundlagen/vom-katalog-zum-eintrag-einfuehrung"
+              },
+              {
+                "text": "Was ist ein Report?",
+                "link": "/einstieg/grundlagen/was-ist-ein-report-einfuehrung"
+              }
+            ]
+          },
+          {
+            "text": "Erste Schritte",
+            "link": "/einstieg/erste-schritte"
+          }
+        ]
+      },
+      {
+        "text": "Weitere Bereiche",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "Arbeiten mit SchILD",
+            "link": "/schild3/"
+          },
+          {
+            "text": "Zeugnisse",
+            "link": "/zeugnisse/"
+          },
+          {
+            "text": "Reporting",
+            "link": "/reporting/"
+          },
+          {
+            "text": "Programmreferenz",
+            "link": "/programmreferenz/"
+          },
+          {
+            "text": "Administration",
+            "link": "/administration/"
+          },
+          {
+            "text": "Hilfe",
+            "link": "/hilfe/"
+          }
+        ]
+      }
+    ],
+    "/schild3/": [
+      {
+        "text": "Arbeiten mit SchILD",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/schild3/"
+          },
+          {
+            "text": "Schülerinnen und Schüler",
+            "link": "/schild3/schueler",
+            "items": [
+              {
+                "text": "Neuaufnahmen",
+                "link": "/einstieg/erste-schritte/neuaufnahmen-in-schild-nrw-tutorial"
+              },
+              {
+                "text": "Menüband der Schülerdaten",
+                "link": "/schild3/schueler/menueband-schueler"
+              },
+              {
+                "text": "Individualdaten I",
+                "link": "/schild3/schueler/individualdaten-i-schueler"
+              },
+              {
+                "text": "Individualdaten II",
+                "link": "/schild3/schueler/individualdaten-ii-schueler"
+              },
+              {
+                "text": "Erziehungsberechtigte",
+                "link": "/schild3/schueler/erz-berechtigte-telefonnummern-schueler"
+              },
+              {
+                "text": "Funktionen der Erziehungsberechtigten",
+                "link": "/schild3/schueler/erzieher-mit-funktionen-tutorial"
+              },
+              {
+                "text": "Weitere Adressen",
+                "link": "/schild3/schueler/weitere-adressen-schueler"
+              },
+              {
+                "text": "Schulbesuch und Schulwechsel",
+                "link": "/schild3/schueler/schulbesuch-schueler"
+              },
+              {
+                "text": "Grundschuldaten",
+                "link": "/schild3/schueler/grundschuldaten-eingeben-schueler-schulbesuch"
+              },
+              {
+                "text": "Einwilligungen",
+                "link": "/schild3/schueler/einwilligung-schueler"
+              },
+              {
+                "text": "Vermerke",
+                "link": "/schild3/schueler/vermerke-schueler"
+              },
+              {
+                "text": "KAoA",
+                "link": "/schild3/schueler/kaoa-schueler"
+              },
+              {
+                "text": "Fördermaßnahmen",
+                "link": "/schild3/schueler/foerdermassnahmen-schueler"
+              },
+              {
+                "text": "Ganztag und Betreuung",
+                "link": "/schild3/schueler/eintragung-der-schueler-im-offenen-ganztag-tutorial"
+              },
+              {
+                "text": "Geflüchtete Kinder erfassen",
+                "link": "/schild3/schueler/eingabe-von-fluechtlingskindern-tutorial"
+              },
+              {
+                "text": "Dokumentenablage",
+                "link": "/schild3/schueler/dokumentenverwaltung-schueler"
+              }
+            ]
+          },
+          {
+            "text": "Lernabschnitte und Leistungen",
+            "link": "/schild3/lernabschnitte",
+            "items": [
+              {
+                "text": "Aktueller Lernabschnitt",
+                "link": "/schild3/schueler/aktuelles-halbjahr-aktueller-abschnitt-schueler"
+              },
+              {
+                "text": "Leistungsdaten",
+                "link": "/schild3/schueler/leistungsdaten-aktuelles-halbjahr-aktueller-abschnitt"
+              },
+              {
+                "text": "Fehlzeiten",
+                "link": "/schild3/schueler/fehlzeiten-aktuelles-halbjahr-aktueller-abschnitt"
+              },
+              {
+                "text": "Laufbahninfo",
+                "link": "/schild3/schueler/laufbahninfo-schueler"
+              },
+              {
+                "text": "Leistungsübersicht",
+                "link": "/schild3/schueler/uebersicht-schueler"
+              }
+            ]
+          },
+          {
+            "text": "Lehrkräfte",
+            "link": "/schild3/lehrkraefte",
+            "items": [
+              {
+                "text": "Menüband",
+                "link": "/schild3/lehrkraefte/menueband-lehrkraefte"
+              },
+              {
+                "text": "Basisdaten",
+                "link": "/schild3/lehrkraefte/basisdaten-lehrkraefte"
+              },
+              {
+                "text": "Schulbezogene Daten",
+                "link": "/schild3/lehrkraefte/schulbezogene-daten-lehrkraefte"
+              },
+              {
+                "text": "Zeitabhängige Daten",
+                "link": "/schild3/lehrkraefte/zeitabhaengige-daten-lehrkraefte"
+              },
+              {
+                "text": "Einwilligungen",
+                "link": "/schild3/lehrkraefte/einwilligungen-lehrkraefte"
+              },
+              {
+                "text": "Kontextmenü",
+                "link": "/schild3/lehrkraefte/kontextmenue-lehrkraefte"
+              }
+            ]
+          },
+          {
+            "text": "Klassen und Unterricht",
+            "link": "/schild3/unterricht-kataloge",
+            "items": [
+              {
+                "text": "Unterrichtsfächer",
+                "link": "/schild3/unterricht-kataloge/unterrichtsfaecher-schulbezogene-kataloge"
+              },
+              {
+                "text": "Jahrgänge",
+                "link": "/schild3/unterricht-kataloge/jahrgaenge-schulbezogene-kataloge"
+              },
+              {
+                "text": "Klassen- und Versetzungstabelle",
+                "link": "/zeugnisse/vorbereitung/klassen-versetzungstabelle-schulbezogene-kataloge"
+              },
+              {
+                "text": "Abteilungen und Klassengruppen",
+                "link": "/schild3/unterricht-kataloge/klassengruppen-abteilungen-schulbezogene-kataloge"
+              },
+              {
+                "text": "Stundentafeln",
+                "link": "/schild3/unterricht-kataloge/stundentafel-schulbezogene-kataloge"
+              },
+              {
+                "text": "Klassenunterricht anlegen",
+                "link": "/schild3/unterricht-kataloge/klassenunterrichte-anlegen-tutorial"
+              },
+              {
+                "text": "Kurskatalog",
+                "link": "/schild3/unterricht-kataloge/kurse-schulbezogene-kataloge"
+              },
+              {
+                "text": "Schülerspezifische Kursarten",
+                "link": "/schild3/unterricht-kataloge/schuelerspezifische-kursarten-schulbezogene-kataloge"
+              },
+              {
+                "text": "Kursunterricht anlegen",
+                "link": "/schild3/unterricht-kataloge/kursunterrichte-anlegen-tutorial"
+              },
+              {
+                "text": "Projektkurse und Facharbeiten",
+                "link": "/schild3/schueler/thema-von-projektkurs-und-facharbeit-erfassen-tutorial"
+              }
+            ]
+          },
+          {
+            "text": "Kataloge",
+            "link": "/schild3/kataloge",
+            "items": [
+              {
+                "text": "Kataloge bedienen",
+                "link": "/schild3/unterricht-kataloge/allgemeine-kataloge-kataloge"
+              },
+              {
+                "text": "Schulbezogene Kataloge",
+                "link": "/schild3/unterricht-kataloge/schulbezogene-kataloge-kataloge"
+              },
+              {
+                "text": "Schulinterne Funktionen",
+                "link": "/schild3/unterricht-kataloge/schulinterne-funktionen-schulbezogene-kataloge"
+              },
+              {
+                "text": "Floskeln",
+                "link": "/schild3/unterricht-kataloge/floskeln-bearbeiten-schulbezogene-kataloge"
+              },
+              {
+                "text": "Teilleistungsarten",
+                "link": "/schild3/unterricht-kataloge/teilleistungs-arten-schulbezogene-kataloge"
+              },
+              {
+                "text": "DSGVO-Einwilligungen",
+                "link": "/schild3/unterricht-kataloge/dsgvo-einwilligungen-schulbezogene-kataloge"
+              },
+              {
+                "text": "Lernplattformen",
+                "link": "/schild3/unterricht-kataloge/lernplattformen-schulbezogene-kataloge"
+              },
+              {
+                "text": "Personengruppen",
+                "link": "/schild3/unterricht-kataloge/personengruppen-schulbezogene-kataloge"
+              },
+              {
+                "text": "Erzieherarten",
+                "link": "/schild3/unterricht-kataloge/erzieher-arten-allgemeine-kataloge"
+              },
+              {
+                "text": "Telefonische Ansprechpartner",
+                "link": "/schild3/unterricht-kataloge/telef-ansprechpartner-allgemeine-kataloge"
+              },
+              {
+                "text": "Adressarten",
+                "link": "/schild3/unterricht-kataloge/adress-arten-allgemeine-kataloge"
+              },
+              {
+                "text": "Allgemeine Adressen",
+                "link": "/schild3/unterricht-kataloge/allgemeine-adressen-allgemeine-kataloge"
+              },
+              {
+                "text": "Schulen in NRW",
+                "link": "/schild3/unterricht-kataloge/schulen-in-nrw-allgemeine-kataloge"
+              },
+              {
+                "text": "Andere Schulen und Schulnummern",
+                "link": "/schild3/unterricht-kataloge/andere-schulen-und-schulnummern-allgemeine-kataloge"
+              },
+              {
+                "text": "Orte",
+                "link": "/schild3/unterricht-kataloge/orte-allgemeine-kataloge"
+              },
+              {
+                "text": "Ortsteile",
+                "link": "/schild3/unterricht-kataloge/ortsteile-allgemeine-kataloge"
+              },
+              {
+                "text": "Haltestellen",
+                "link": "/schild3/unterricht-kataloge/haltestellen-allgemeine-kataloge"
+              },
+              {
+                "text": "Fahrschülerarten",
+                "link": "/schild3/unterricht-kataloge/fahrschueler-arten-allgemeine-kataloge"
+              },
+              {
+                "text": "Förderschwerpunkte",
+                "link": "/schild3/unterricht-kataloge/foerderschwerpunkte-allgemeine-kataloge"
+              },
+              {
+                "text": "Sportbefreiungen",
+                "link": "/schild3/unterricht-kataloge/sportbefreiungen-allgemeine-kataloge"
+              },
+              {
+                "text": "Entlassungsbemerkungen",
+                "link": "/schild3/unterricht-kataloge/entlassungs-bemerkungen-allgemeine-kataloge"
+              },
+              {
+                "text": "Konfessionen",
+                "link": "/schild3/unterricht-kataloge/konfessionen-allgemeine-kataloge"
+              },
+              {
+                "text": "Vermerkarten",
+                "link": "/schild3/unterricht-kataloge/vermerk-arten-schulbezogene-kataloge"
+              }
+            ]
+          },
+          {
+            "text": "Auswahl und Suche",
+            "link": "/schild3/suchen-gruppenprozesse",
+            "items": [
+              {
+                "text": "Schülercontainer",
+                "link": "/schild3/suchen-gruppenprozesse/schuelercontainer-schueler"
+              },
+              {
+                "text": "Schülersuche",
+                "link": "/schild3/suchen-gruppenprozesse/schuelersuche-schueler"
+              },
+              {
+                "text": "Menüband der Auswahl",
+                "link": "/schild3/schueler/menueband-auswahl"
+              },
+              {
+                "text": "Schülerfilter anwenden",
+                "link": "/schild3/suchen-gruppenprozesse/benutzung-des-schuelerfilters-tutorial"
+              },
+              {
+                "text": "Schülerfilter nachschlagen",
+                "link": "/schild3/suchen-gruppenprozesse/schuelerfilter-auswahl"
+              },
+              {
+                "text": "Schülerauswahl sortieren",
+                "link": "/schild3/suchen-gruppenprozesse/sortierung-des-schuelercontainers-aendern-tutorial"
+              },
+              {
+                "text": "Individuelle Schülergruppen",
+                "link": "/schild3/schueler/individuelle-schuelergruppen-bearbeiten-und-nutzen-tutorial"
+              },
+              {
+                "text": "Schülergruppen im Katalog",
+                "link": "/schild3/unterricht-kataloge/schuelergruppe-bearbeiten-schulbezogene-kataloge"
+              }
+            ]
+          },
+          {
+            "text": "Allgemeine Gruppenprozesse",
+            "link": "/schild3/gruppenprozesse",
+            "items": [
+              {
+                "text": "Gruppenprozesse verstehen",
+                "link": "/einstieg/grundlagen/einfuehrung-in-die-gruppenprozesse-einfuehrung-in-schild-nrw"
+              },
+              {
+                "text": "Individualdaten ändern",
+                "link": "/schild3/suchen-gruppenprozesse/individualdaten-aendern-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Vornamen anpassen",
+                "link": "/schild3/suchen-gruppenprozesse/alle-vornamen-anpassen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Wiedervorlagen anlegen",
+                "link": "/schild3/suchen-gruppenprozesse/eintrag-in-die-wiedervorlage-machen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Migrationshintergrund setzen",
+                "link": "/administration/datenbanken/migrationshintergrund-automatisch-setzen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Schulbesuchsjahre berechnen",
+                "link": "/schild3/suchen-gruppenprozesse/schulbesuchsjahre-neu-berechnen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Ausweisnummern vergeben",
+                "link": "/schild3/suchen-gruppenprozesse/ausweisnummern-automatisch-generieren-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Sprachenfolge zuweisen",
+                "link": "/schild3/suchen-gruppenprozesse/sprachenfolge-zuweisen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Sprachenfolge ermitteln",
+                "link": "/schild3/suchen-gruppenprozesse/sprachenfolge-aus-leistungsdaten-ermitteln-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Betrieb oder Adresse zuweisen",
+                "link": "/schild3/suchen-gruppenprozesse/betrieb-adresse-zuweisen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Eigene Schule im Schulbesuch",
+                "link": "/schild3/suchen-gruppenprozesse/eigene-schule-in-abgangsliste-setzen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Schülerfotos löschen",
+                "link": "/schild3/suchen-gruppenprozesse/fotos-loeschen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Vermerke und Merkmale löschen",
+                "link": "/schild3/suchen-gruppenprozesse/vermerke-merkmale-loeschen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Grundschuldaten löschen",
+                "link": "/schild3/suchen-gruppenprozesse/grundschuldaten-loeschen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "KAoA-Daten eingeben",
+                "link": "/schild3/suchen-gruppenprozesse/kaoa-daten-eingeben-gruppenprozesse-allgemein"
+              }
+            ]
+          },
+          {
+            "text": "Fächer und Kurse zuweisen",
+            "link": "/schild3/faecher-kurse",
+            "items": [
+              {
+                "text": "Stundentafeln zuweisen",
+                "link": "/schild3/suchen-gruppenprozesse/stundentafeln-zuweisen-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Fächer tabellarisch zuweisen",
+                "link": "/schild3/suchen-gruppenprozesse/faecher-zuweisen-tabellarisch-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Einzelne Fächer ergänzen",
+                "link": "/schild3/suchen-gruppenprozesse/einzelne-faecher-bei-schuelern-hinzufuegen-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Klassenunterricht bearbeiten",
+                "link": "/schild3/suchen-gruppenprozesse/klassenunterrichte-bearbeiten-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Fachdetails ändern",
+                "link": "/schild3/suchen-gruppenprozesse/details-zu-faechern-bei-schuelern-aendern-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Kurse zuweisen",
+                "link": "/schild3/suchen-gruppenprozesse/kurse-zuweisen-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Fächer übernehmen",
+                "link": "/schild3/suchen-gruppenprozesse/faecher-aus-vorherigem-abschnitt-holen-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Fächer am BK sortieren",
+                "link": "/schild3/suchen-gruppenprozesse/faecher-in-leistungsdaten-neu-sortieren-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Doppelte Fächer entfernen",
+                "link": "/schild3/suchen-gruppenprozesse/doppelte-faecher-loeschen-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Einzelne Fächer löschen",
+                "link": "/schild3/suchen-gruppenprozesse/einzelne-faecher-bei-schuelern-loeschen-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Alle Fächer löschen",
+                "link": "/schild3/suchen-gruppenprozesse/alle-faecher-bei-schuelern-loeschen-gruppenprozesse-faecher"
+              }
+            ]
+          },
+          {
+            "text": "Import und Export",
+            "link": "/schild3/import-export-statistik",
+            "items": [
+              {
+                "text": "Import und Export im Überblick",
+                "link": "/schild3/import-export-statistik/im-und-export-verwaltung"
+              },
+              {
+                "text": "Schnittstelle anwenden",
+                "link": "/schild3/import-export-statistik/schnittstelle-schild-nrw-verwaltung-export"
+              },
+              {
+                "text": "Schnittstellenregeln",
+                "link": "/schild3/import-export-statistik/schnittstelle-schild-vorbemerkungen"
+              },
+              {
+                "text": "Schnittstellenbeschreibung",
+                "link": "/schild3/import-export-statistik/schnittstellenbeschreibung"
+              },
+              {
+                "text": "Excel- und Textexport",
+                "link": "/schild3/import-export-statistik/datenexport-im-xlsx-oder-txt-format-tutorial"
+              },
+              {
+                "text": "Unterricht aus Excel",
+                "link": "/schild3/import-export-statistik/unterrichts-daten-als-excel-daten-verwaltung-import"
+              },
+              {
+                "text": "Unterricht aus UVD.TXT",
+                "link": "/schild3/import-export-statistik/unterrichts-daten-als-uvd-txt-verwaltung-import"
+              },
+              {
+                "text": "Aufnahmebestätigungen",
+                "link": "/schild3/import-export-statistik/aufnahmebestaetigung-verwaltung-import"
+              },
+              {
+                "text": "Fotoliste exportieren",
+                "link": "/schild3/import-export-statistik/fotoliste-verwaltung-export"
+              },
+              {
+                "text": "Fotos exportieren",
+                "link": "/schild3/import-export-statistik/fotos-verwaltung-export"
+              },
+              {
+                "text": "Schulträgerexport",
+                "link": "/schild3/import-export-statistik/fuer-schultraeger-verwaltung-export"
+              },
+              {
+                "text": "JaNa-Export",
+                "link": "/schild3/import-export-statistik/jahrgang-und-nationalitaet-verwaltung-export"
+              },
+              {
+                "text": "SDS und MNSpro",
+                "link": "/schild3/import-export-statistik/export-fuer-sds-mns-pro-verwaltung-export"
+              },
+              {
+                "text": "iServ",
+                "link": "/schild3/import-export-statistik/export-fuer-iserv-verwaltung-export"
+              },
+              {
+                "text": "LOGINEO NRW als XML",
+                "link": "/schild3/import-export-statistik/export-fuer-logineo-nrw-xml-verwaltung-export"
+              },
+              {
+                "text": "LOGINEO NRW LMS als CSV",
+                "link": "/schild3/import-export-statistik/export-fuer-logineo-lms-csv-verwaltung-export"
+              },
+              {
+                "text": "Startklar-Export",
+                "link": "/schild3/import-export-statistik/startklar-verwaltung-export"
+              },
+              {
+                "text": "BAN-Portal",
+                "link": "/schild3/import-export-statistik/export-fuer-ban-portal-verwaltung-export"
+              },
+              {
+                "text": "Werkzeuge für Dateien",
+                "link": "/schild3/schueler/weitere-programme-fuer-dateioperationen-tipps"
+              },
+              {
+                "text": "JSON-Dateiformat",
+                "link": "/schild3/schueler/das-json-dateiformat-tutorial"
+              }
+            ]
+          },
+          {
+            "text": "Statistik",
+            "link": "/schild3/statistik",
+            "items": [
+              {
+                "text": "Statistik vorbereiten",
+                "link": "/schild3/import-export-statistik/vorbereitende-massnahmen-zur-statistik-in-schild-nrw-tutorial"
+              },
+              {
+                "text": "Statistikfunktionen",
+                "link": "/schild3/import-export-statistik/statistik-fuer-it-nrw-verwaltung"
+              },
+              {
+                "text": "Gesamtprüfung",
+                "link": "/zeugnisse/vorbereitung/gesamtpruefung-der-daten-verwaltung-statistik-fuer-it-nrw"
+              },
+              {
+                "text": "Statistikfehlerprotokoll",
+                "link": "/schild3/import-export-statistik/fehlerprotokoll-anzeigen-verwaltung-statistik-fuer-it-nrw"
+              },
+              {
+                "text": "Statistikdaten exportieren",
+                "link": "/schild3/import-export-statistik/daten-exportieren-verwaltung-statistik-fuer-it-nrw"
+              },
+              {
+                "text": "Statistikdateien registrieren",
+                "link": "/hilfe/probleme/hilfe-bei-problemen-verwaltung-statistik-fuer-it-nrw"
+              },
+              {
+                "text": "Statistikfehler beheben",
+                "link": "/hilfe/probleme/fehleranalyse-zur-statistik-tutorial"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Weitere Bereiche",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "Einstieg",
+            "link": "/einstieg/"
+          },
+          {
+            "text": "Zeugnisse",
+            "link": "/zeugnisse/"
+          },
+          {
+            "text": "Reporting",
+            "link": "/reporting/"
+          },
+          {
+            "text": "Programmreferenz",
+            "link": "/programmreferenz/"
+          },
+          {
+            "text": "Administration",
+            "link": "/administration/"
+          },
+          {
+            "text": "Hilfe",
+            "link": "/hilfe/"
+          }
+        ]
+      }
+    ],
+    "/zeugnisse/": [
+      {
+        "text": "Zeugnisse und Abschlüsse",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/zeugnisse/"
+          },
+          {
+            "text": "Zeugnisse vorbereiten",
+            "link": "/zeugnisse/vorbereitung",
+            "items": [
+              {
+                "text": "GradeHub und WeNoM",
+                "link": "/zeugnisse/noteneingabe"
+              },
+              {
+                "text": "Ablauf der Zeugnisphase",
+                "link": "/einstieg/grundlagen/zeugnisvorbereitungen-und-zeugnisdruck-einfuehrung-in-schild-nrw"
+              },
+              {
+                "text": "Zulässige Noten",
+                "link": "/zeugnisse/vorbereitung/notenliste-zeigen-verwaltung-hilfe"
+              },
+              {
+                "text": "Noten und Mahnungen",
+                "link": "/zeugnisse/vorbereitung/noten-mahnungen-und-fehlstd-eingeben-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Excel-Notendateien",
+                "link": "/zeugnisse/vorbereitung/excel-notendateien-verwaltung-export"
+              },
+              {
+                "text": "Fehlende Lehrkräfte suchen",
+                "link": "/zeugnisse/vorbereitung/faecher-ohne-lehrkraft-suchen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Fehlende Noten suchen",
+                "link": "/zeugnisse/vorbereitung/faecher-ohne-noten-suchen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Mahnungen automatisch setzen",
+                "link": "/zeugnisse/vorbereitung/mahnungen-automatisch-setzen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Bemerkungen",
+                "link": "/schild3/schueler/bemerkungen-aktuelles-halbjahr-aktueller-abschnitt"
+              },
+              {
+                "text": "Bemerkungen gruppenweise",
+                "link": "/zeugnisse/vorbereitung/zeugnisbemerkungen-eintragen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Platzhalter ersetzen",
+                "link": "/zeugnisse/vorbereitung/platzhalter-in-memo-feldern-ersetzen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Fachbezogene Bemerkungen",
+                "link": "/schild3/schueler/fachbezogene-bemerkungen-tutorial"
+              },
+              {
+                "text": "Fehlstundensummen eingeben",
+                "link": "/zeugnisse/vorbereitung/fehlstunden-summen-manuell-eingeben-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Fehlstundensummen berechnen",
+                "link": "/zeugnisse/vorbereitung/fehlstunden-summen-autom-berechnen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Konferenz- und Zeugnisdatum",
+                "link": "/zeugnisse/vorbereitung/konferenz-zeugnis-datum-setzen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Abgeschlossene Fächer holen",
+                "link": "/zeugnisse/vorbereitung/abgeschlossene-faecher-holen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Abgeschlossene Fächer löschen",
+                "link": "/zeugnisse/vorbereitung/abgeschlossene-faecher-loeschen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Epochalfächer ergänzen",
+                "link": "/zeugnisse/vorbereitung/noten-von-epochal-faechern-ergaenzen-gruppenprozesse-faecher"
+              },
+              {
+                "text": "Aktuelle Noten löschen",
+                "link": "/zeugnisse/vorbereitung/noten-des-akt-abschnittes-loeschen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Fehler beim Zeugnisdruck",
+                "link": "/zeugnisse/vorbereitung/beliebte-fehler-beim-zeugnisdruck-tutorial"
+              }
+            ]
+          },
+          {
+            "text": "Teilleistungen",
+            "link": "/zeugnisse/teilleistungen",
+            "items": [
+              {
+                "text": "Teilleistungen verwalten",
+                "link": "/schild3/schueler/teilleistungen-einrichten-und-verwalten-tutorial"
+              },
+              {
+                "text": "Teilleistungen aus Vorlage",
+                "link": "/schild3/suchen-gruppenprozesse/teilleistungsarten-aus-vorlage-zuweisen-gruppenprozesse-teilleistungen"
+              },
+              {
+                "text": "Teilleistungen individuell",
+                "link": "/schild3/suchen-gruppenprozesse/teilleistungsarten-individuell-zuweisen-gruppenprozesse-teilleistungen"
+              },
+              {
+                "text": "Teilleistungsarten global",
+                "link": "/schild3/suchen-gruppenprozesse/teilleistungsarten-global-zuweisen-gruppenprozesse-teilleistungen"
+              },
+              {
+                "text": "Teilleistungsnoten eingeben",
+                "link": "/zeugnisse/vorbereitung/noteneingabe-nur-vorbereitete-tl-gruppenprozesse-teilleistungen"
+              },
+              {
+                "text": "Teilleistungen löschen",
+                "link": "/schild3/suchen-gruppenprozesse/teilleistungen-fuer-einen-abschnitt-loeschen-gruppenprozesse-teilleistungen"
+              }
+            ]
+          },
+          {
+            "text": "Versetzung und Abschnittswechsel",
+            "link": "/zeugnisse/versetzung",
+            "items": [
+              {
+                "text": "Prüfungsordnung zuordnen",
+                "link": "/zeugnisse/pruefungsordnungen"
+              },
+              {
+                "text": "Lernbereichsnoten",
+                "link": "/zeugnisse/vorbereitung/lernbereichsnoten-eingeben-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Versetzung und Abschlüsse",
+                "link": "/zeugnisse/vorbereitung/versetzungs-abschluss-berechnungen-gruppenprozesse-lernabschnitte-versetzung"
+              },
+              {
+                "text": "Berechnungsergebnisse",
+                "link": "/zeugnisse/vorbereitung/ergebnis-versetzungs-abschluss-berechnung-aktuelles-halbjahr-aktueller-abschnitt"
+              },
+              {
+                "text": "Abschlussdatum berechnen",
+                "link": "/zeugnisse/vorbereitung/abschlussdatum-neu-berechnen-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Abschnitt wechseln",
+                "link": "/einstieg/grundlagen/versetzung-ins-neue-schuljahr-und-abschnittswechsel-durchfuehren-einfuehrung-in-schild-nrw"
+              },
+              {
+                "text": "Gruppenweise übertragen",
+                "link": "/zeugnisse/vorbereitung/versetzung-uebertrag-ins-neue-halbjahr-oder-abschluss-gruppenprozesse-lernabschnitte-versetzung"
+              },
+              {
+                "text": "Lernabschnitte löschen",
+                "link": "/zeugnisse/vorbereitung/abschnittsdaten-loeschen-gruppenprozesse-lernabschnitte-versetzung"
+              }
+            ]
+          },
+          {
+            "text": "Zeugnisse drucken",
+            "link": "/zeugnisse/druck",
+            "items": [
+              {
+                "text": "Zeugnisvorlagen zuordnen",
+                "link": "/zeugnisse/vorbereitung/zeugnisvorlagen-zuordnen-schulbezogene-kataloge"
+              },
+              {
+                "text": "Zugeordnete Zeugnisse drucken",
+                "link": "/zeugnisse/vorbereitung/zugeordnete-zeugnisformulare-drucken-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Drucken und Ausschulen",
+                "link": "/zeugnisse/vorbereitung/zeugnisse-drucken-und-schueler-ausschulen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Broschürendruck",
+                "link": "/zeugnisse/vorbereitung/zeugnis-broschuerendruck-mit-dem-foxit-reader-tutorial"
+              }
+            ]
+          },
+          {
+            "text": "Grundschule",
+            "link": "/zeugnisse/grundschule",
+            "items": [
+              {
+                "text": "Zeugnisse vorbereiten",
+                "link": "/zeugnisse/grundschule/grundschulzeugnisse-vorbereitung-fuer-text-und-ankreuzzeugnisse-tutorial"
+              },
+              {
+                "text": "Textzeugnisse",
+                "link": "/zeugnisse/grundschule/grundschulzeugnisse-textzeugnis-tutorial"
+              },
+              {
+                "text": "Ankreuzzeugnisse",
+                "link": "/zeugnisse/grundschule/grundschulzeugnisse-ankreuzzeugnis-tutorial"
+              },
+              {
+                "text": "Ankreuzkompetenzen",
+                "link": "/schild3/unterricht-kataloge/ankreuzkompetenzen-schulbezogene-kataloge"
+              },
+              {
+                "text": "Kompetenzen zuweisen",
+                "link": "/zeugnisse/vorbereitung/ankreuzkompetenzen-eintragen-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Kompetenzen bewerten",
+                "link": "/zeugnisse/vorbereitung/kompetenzen-fuer-ankreuzzeugnisse-aktuelles-halbjahr-aktueller-abschnitt"
+              },
+              {
+                "text": "Hybridzeugnisse",
+                "link": "/zeugnisse/grundschule/grundschulzeugnisse-hybridzeugnis-tutorial"
+              },
+              {
+                "text": "Lernstandsberichte",
+                "link": "/zeugnisse/grundschule/grundschulzeugnisse-lernstandsberichte-tutorial"
+              },
+              {
+                "text": "Zeugnislayout konfigurieren",
+                "link": "/zeugnisse/grundschule/grundschulzeugnisse-konfiguration-des-erscheinungsbildes-von-zeugnissen-tutorial"
+              },
+              {
+                "text": "EP-Jahre erfassen",
+                "link": "/schild3/schueler/eintragung-der-ep-jahre-tutorial"
+              },
+              {
+                "text": "Übergangsempfehlungen",
+                "link": "/schild3/schueler/uebergangsempfehlungen-in-klasse-04-setzen-tutorial"
+              },
+              {
+                "text": "Versionshinweise",
+                "link": "/zeugnisse/grundschule/grundschulzeugnisse-versionsgeschichte-tutorial"
+              }
+            ]
+          },
+          {
+            "text": "ZP10 und Zentrale Klausuren",
+            "link": "/zeugnisse/zp10",
+            "items": [
+              {
+                "text": "Notenbildung und mündliche Prüfung",
+                "link": "/zeugnisse/zp10-rechtsstand"
+              },
+              {
+                "text": "Zentrale Prüfung 10",
+                "link": "/schild3/schueler/zp10-zk-schueler"
+              },
+              {
+                "text": "ZP10-Fächer vorbereiten",
+                "link": "/schild3/unterricht-kataloge/faecher-und-teilleistungen-fuer-zp-10-und-zk-tutorial"
+              },
+              {
+                "text": "ZP10-Gruppenprozesse",
+                "link": "/zeugnisse/sekundarstufen/zentrale-pruefung-jahrgang-10-gruppenprozesse-zp-10-zk"
+              },
+              {
+                "text": "ZP10-Leistungsdaten holen",
+                "link": "/schild3/suchen-gruppenprozesse/leistungsdaten-holen-gruppenprozesse-zentrale-klausuren"
+              },
+              {
+                "text": "ZP10-Noten aus Teilleistungen",
+                "link": "/zeugnisse/sekundarstufen/pruefungsnoten-aus-teilleistungen-holen-gruppenprozesse-zentrale-klausuren"
+              },
+              {
+                "text": "ZP10-Prüfungsnoten eingeben",
+                "link": "/zeugnisse/sekundarstufen/noten-eingeben-gruppenprozesse-zentrale-klausuren"
+              },
+              {
+                "text": "Mündliche ZP10-Prüfungen",
+                "link": "/zeugnisse/sekundarstufen/muendliche-pruefungen-festlegen-gruppenprozesse-zentrale-klausuren"
+              },
+              {
+                "text": "ZP10-Abschlussnoten",
+                "link": "/zeugnisse/sekundarstufen/abschluss-berechnen-gruppenprozesse-zentrale-klausuren"
+              },
+              {
+                "text": "ZP10-Noten übertragen",
+                "link": "/zeugnisse/sekundarstufen/abschlussnote-in-leistungsdaten-uebertragen-gruppenprozesse-zentrale-klausuren"
+              },
+              {
+                "text": "ZP10-Noten importieren",
+                "link": "/schild3/import-export-statistik/zp10-daten-verwaltung-import"
+              },
+              {
+                "text": "ZK-Daten exportieren",
+                "link": "/schild3/import-export-statistik/zk-daten-verwaltung-export"
+              }
+            ]
+          },
+          {
+            "text": "Abitur und Fachhochschulreife",
+            "link": "/zeugnisse/sekundarstufen",
+            "items": [
+              {
+                "text": "Abitur im Ablauf",
+                "link": "/zeugnisse/sekundarstufen/komplette-abiturberechnungen-durchfuehren-tutorial"
+              },
+              {
+                "text": "Abitur-Reiter",
+                "link": "/zeugnisse/sekundarstufen/abitur-schueler"
+              },
+              {
+                "text": "Abitur-Gruppenprozesse",
+                "link": "/zeugnisse/sekundarstufen/abitur-gruppenprozesse-abitur"
+              },
+              {
+                "text": "Abitur-Leistungsdaten holen",
+                "link": "/zeugnisse/sekundarstufen/leistungsdaten-holen-gruppenprozesse-abitur"
+              },
+              {
+                "text": "Abiturkurse markieren",
+                "link": "/zeugnisse/sekundarstufen/kurse-algorithmisch-markieren-gruppenprozesse-abitur"
+              },
+              {
+                "text": "Abiturzulassung berechnen",
+                "link": "/zeugnisse/sekundarstufen/abitur-zulassung-berechnen-gruppenprozesse-abitur"
+              },
+              {
+                "text": "Abiturprüfungsnoten",
+                "link": "/zeugnisse/sekundarstufen/pruefungsergebnisse-eingeben-gruppenprozesse-abitur"
+              },
+              {
+                "text": "Mündliche Abiturprüfungen",
+                "link": "/zeugnisse/sekundarstufen/mdl-pruefungen-a1-a3-festlegen-gruppenprozesse-abitur"
+              },
+              {
+                "text": "Sprachqualifikationen",
+                "link": "/zeugnisse/sekundarstufen/zusatzdaten-latinum-eingeben-gruppenprozesse-abitur"
+              },
+              {
+                "text": "Abiturjahr setzen",
+                "link": "/zeugnisse/sekundarstufen/abitur-jahr-setzen-fuer-statistik-gruppenprozesse-abitur"
+              },
+              {
+                "text": "Abiturdaten exportieren",
+                "link": "/zeugnisse/sekundarstufen/abiturdaten-verwaltung-export"
+              },
+              {
+                "text": "Fachhochschulreife",
+                "link": "/schild3/schueler/fhr-schueler"
+              },
+              {
+                "text": "Fachhochschulreife prüfen",
+                "link": "/schild3/suchen-gruppenprozesse/fachhochschulreife-pruefen-gruppenprozesse-allgemein"
+              }
+            ]
+          },
+          {
+            "text": "Sprachen und Sprachprüfungen",
+            "link": "/zeugnisse/sprachen",
+            "items": [
+              {
+                "text": "GeR-Sprachniveaus",
+                "link": "/schild3/schueler/eingabe-der-ger-niveaus-tutorial"
+              },
+              {
+                "text": "GeR-Niveaus berechnen",
+                "link": "/zeugnisse/vorbereitung/sprach-referenzniveaus-ermitteln-gruppenprozesse-allgemein"
+              },
+              {
+                "text": "Sprachen bei Seiteneinstieg",
+                "link": "/zeugnisse/vorbereitung/sprachenfolge-bei-seiteneinsteigern-des-gymnasiums-in-zeugnissen-korrekt-ausgeben-tutorial"
+              },
+              {
+                "text": "Sprachfeststellungsprüfung",
+                "link": "/zeugnisse/sekundarstufen/sprachpruefung-feststellungspruefung-anstelle-von-pflicht-oder-wahlpflichtfremdsprachen-tutorial"
+              },
+              {
+                "text": "Herkunftssprachlicher Unterricht",
+                "link": "/schild3/unterricht-kataloge/herkunftssprachlicher-unterricht-tutorial"
+              }
+            ]
+          },
+          {
+            "text": "Berufskolleg",
+            "link": "/zeugnisse/berufskolleg",
+            "items": [
+              {
+                "text": "BK-Abschluss im Ablauf",
+                "link": "/zeugnisse/berufskolleg/bk-abschluss-schueler"
+              },
+              {
+                "text": "BK-Leistungsdaten holen",
+                "link": "/zeugnisse/berufskolleg/leistungsdaten-holen-gruppenprozesse-bk-abschluss"
+              },
+              {
+                "text": "BK-Noten aus Teilleistungen",
+                "link": "/zeugnisse/berufskolleg/kurse-algorithmisch-markieren-gruppenprozesse-bk-abschluss"
+              },
+              {
+                "text": "BK-Prüfungsnoten eingeben",
+                "link": "/zeugnisse/berufskolleg/pruefungsergebnisse-eingeben-gruppenprozesse-bk-abschluss"
+              },
+              {
+                "text": "BK-Zulassung prüfen",
+                "link": "/zeugnisse/berufskolleg/zulassung-pruefen-gruppenprozesse-bk-abschluss"
+              },
+              {
+                "text": "Mündliche BK-Prüfungen",
+                "link": "/zeugnisse/berufskolleg/mdl-pruefungen-festlegen-gruppenprozesse-bk-abschluss"
+              },
+              {
+                "text": "Vorläufige BK-Abschlussnoten",
+                "link": "/zeugnisse/berufskolleg/vorlaeufige-abschlussnoten-berechnen-gruppenprozesse-bk-abschluss"
+              },
+              {
+                "text": "BK-Abschlüsse berechnen",
+                "link": "/zeugnisse/berufskolleg/abschluss-berechnen-gruppenprozesse-bk-abschluss"
+              },
+              {
+                "text": "BK-Noten übertragen",
+                "link": "/zeugnisse/berufskolleg/abschlussnoten-in-leistungsdaten-uebertragen-gruppenprozesse-bk-abschluss"
+              },
+              {
+                "text": "Berufsschulzeugnisse",
+                "link": "/zeugnisse/berufskolleg/erstellen-von-abschlusszeugnissen-am-bk-tutorial"
+              },
+              {
+                "text": "Schulische Herkunft",
+                "link": "/schild3/schueler/eintragung-herkunft-am-bk-wbk-tutorial"
+              },
+              {
+                "text": "Bildungsgangwechsel",
+                "link": "/schild3/schueler/umgang-mit-bildungsgangswechlsern-am-bk-tutorial"
+              },
+              {
+                "text": "Halbjahreswechsel am BK",
+                "link": "/schild3/schueler/halbjahreswechsel-am-bk-tutorial"
+              },
+              {
+                "text": "Schwerpunkte am BK",
+                "link": "/schild3/unterricht-kataloge/schwerpunkte-schulbezogene-kataloge"
+              },
+              {
+                "text": "Zertifikate",
+                "link": "/schild3/unterricht-kataloge/zertifikate-schulbezogene-kataloge"
+              },
+              {
+                "text": "Fachklassen",
+                "link": "/schild3/unterricht-kataloge/fachklassen-schulbezogene-kataloge"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Weitere Bereiche",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "Einstieg",
+            "link": "/einstieg/"
+          },
+          {
+            "text": "Arbeiten mit SchILD",
+            "link": "/schild3/"
+          },
+          {
+            "text": "Reporting",
+            "link": "/reporting/"
+          },
+          {
+            "text": "Programmreferenz",
+            "link": "/programmreferenz/"
+          },
+          {
+            "text": "Administration",
+            "link": "/administration/"
+          },
+          {
+            "text": "Hilfe",
+            "link": "/hilfe/"
+          }
+        ]
+      }
+    ],
+    "/reporting/": [
+      {
+        "text": "Reporting",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/reporting/"
+          },
+          {
+            "text": "Reports verwenden und verwalten",
+            "link": "/reporting/reportverwaltung",
+            "collapsed": true,
+            "items": [
+              {
+                "text": "Reports einfügen",
+                "link": "/reporting/reportverwaltung/reports-in-die-reportverwaltung-einfuegen"
+              },
+              {
+                "text": "Ordnerstruktur",
+                "link": "/reporting/reportverwaltung/die-ordnerstruktur-der-reportverwaltung"
+              },
+              {
+                "text": "Das Menüband der Reportverwaltung",
+                "link": "/reporting/reportverwaltung/menueband-reportverwaltung"
+              },
+              {
+                "text": "Frühere Lernabschnitte drucken",
+                "link": "/reporting/reportverwaltung/daten-aus-zurueckliegenden-abschnitten-drucken"
+              },
+              {
+                "text": "Schnellzugriff einrichten",
+                "link": "/reporting/reportverwaltung/reports-ueber-den-schnellzugriff-aufrufen"
+              },
+              {
+                "text": "Per E-Mail versenden",
+                "link": "/reporting/reportverwaltung/einen-report-per-e-mail-versenden-und-teilen"
+              }
+            ]
+          },
+          {
+            "text": "Reports erstellen und anpassen",
+            "link": "/reporting/reportdesigner",
+            "collapsed": true,
+            "items": [
+              {
+                "text": "Der Reportdesigner",
+                "link": "/reporting/reportdesigner/reportdesigner"
+              },
+              {
+                "text": "Einstieg nach Aufgabe",
+                "link": "/reporting/reportdesigner/reportdesigner-schnelleinstieg"
+              },
+              {
+                "text": "Aufbau eines Reports",
+                "link": "/reporting/reportdesigner/was-leistet-ein-report-in-schild-nrw-3"
+              },
+              {
+                "text": "Report selbst erstellen",
+                "link": "/reporting/reportdesigner/neuen-report-erstellen"
+              },
+              {
+                "text": "Berichtsassistent",
+                "link": "/reporting/reportdesigner/einen-neuen-report-mit-dem-berichtsassistenten-erstellen"
+              },
+              {
+                "text": "Report anpassen",
+                "link": "/reporting/reportdesigner/einen-vorhandenen-report-anpassen"
+              },
+              {
+                "text": "Begriffe nachschlagen",
+                "link": "/reporting/reportdesigner/glossar-zum-reportdesigner"
+              },
+              {
+                "text": "Grafikfehler beheben",
+                "link": "/reporting/reportdesigner/problem-bei-der-verwendung-von-grafiken-tutorial"
+              },
+              {
+                "text": "Schriftarten in PDFs",
+                "link": "/reporting/reportdesigner/probleme-mit-fehlenden-schriftarten-im-pdf-dokument-tutorial"
+              },
+              {
+                "text": "Erstellen und Bearbeiten",
+                "link": "/reporting/reportdesigner/reports-erstellen-anpassen-themenuebersicht"
+              },
+              {
+                "text": "Hilfe und Fortbildung",
+                "link": "/reporting/reportdesigner/reportdesigner-hilfe-wissen-themenuebersicht"
+              }
+            ]
+          },
+          {
+            "text": "Basisreports verwenden",
+            "link": "/reporting/basisreports",
+            "collapsed": true,
+            "items": [
+              {
+                "text": "Inhalt der Sammlung",
+                "link": "/reporting/basisreports/basisreportsammlung-ein-ueberblick"
+              },
+              {
+                "text": "Herunterladen und aktualisieren",
+                "link": "/reporting/basisreports/basisreportsammlung-herunterladen-und-aktualisieren"
+              },
+              {
+                "text": "Halbjahresübersichten",
+                "link": "/reporting/basisreports/basisreportsammlung-leistungsuebersichten-halbjahr"
+              },
+              {
+                "text": "Halbjahr und Schuljahr",
+                "link": "/reporting/basisreports/basisreportsammlung-leistungsuebersichten-halbjahr-schuljahr"
+              },
+              {
+                "text": "Qualifikationsphase",
+                "link": "/reporting/basisreports/basisreportsammlung-leistungsuebersichten-jg-q1-bis-q2"
+              },
+              {
+                "text": "Aufnahmebögen",
+                "link": "/reporting/basisreports/basisreportsammlung-aufnahmeboegen"
+              },
+              {
+                "text": "Gestaltungsrichtlinien",
+                "link": "/reporting/basisreports/basisreportsammlung-designrichtlinien"
+              },
+              {
+                "text": "Downloads und Einsatz",
+                "link": "/reporting/basisreports/basisreports-downloads-themenuebersicht"
+              }
+            ]
+          },
+          {
+            "text": "Serienbriefe und Bescheinigungen",
+            "link": "/reporting/serienbriefe",
+            "collapsed": true,
+            "items": [
+              {
+                "text": "Serienbriefe einrichten",
+                "link": "/reporting/serienbriefe/basisreportsammlung-serienbriefe"
+              },
+              {
+                "text": "Brieftexte erstellen",
+                "link": "/reporting/serienbriefe/basisreportsammlung-einen-serienbrieftext-erstellen-schritt-fuer-schritt"
+              },
+              {
+                "text": "Platzhalter",
+                "link": "/reporting/serienbriefe/platzhalter"
+              },
+              {
+                "text": "Mahnung zur Versetzung",
+                "link": "/reporting/serienbriefe/basisreportsammlung-serienbrief-mahnung-gefaehrdete-versetzung"
+              },
+              {
+                "text": "Mahnbriefe drucken",
+                "link": "/reporting/reportdesigner/mahnbriefe-drucken-tutorial"
+              },
+              {
+                "text": "Nichtversetzung",
+                "link": "/reporting/serienbriefe/basisreportsammlung-serienbrief-nichtversetzung"
+              },
+              {
+                "text": "Stammblatt und Bescheinigung",
+                "link": "/reporting/serienbriefe/direkter-zugriff-auf-das-schuelerstammblatt-und-die-schulbescheinigung"
+              },
+              {
+                "text": "Serien-E-Mails",
+                "link": "/reporting/reportdesigner/serien-e-mail-versand"
+              },
+              {
+                "text": "E-Mail-Standardtexte",
+                "link": "/reporting/reportdesigner/interne-texte-verwaltung-einstellungen"
+              },
+              {
+                "text": "Bilinguale Bescheinigungen",
+                "link": "/reporting/serienbriefe/basisreportsammlung-bescheinigungen-des-bilingualen-bildungsgangs"
+              }
+            ]
+          },
+          {
+            "text": "Zeugnisformulare und Archivierung",
+            "link": "/reporting/zeugnisformulare",
+            "collapsed": true,
+            "items": [
+              {
+                "text": "Zeugnispakete",
+                "link": "/reporting/zeugnisformulare/zeugnispakete-auf-github"
+              },
+              {
+                "text": "Formulare bereitstellen",
+                "link": "/reporting/zeugnisformulare/zeugnisformulare-herunterladen-und-aktualisieren"
+              },
+              {
+                "text": "Zeugnisoptionen",
+                "link": "/reporting/zeugnisformulare/inhalt-layout-von-zeugnissen-konfigurieren"
+              },
+              {
+                "text": "Dokumente archivieren",
+                "link": "/reporting/zeugnisformulare/dokumentenverwaltung-und-zeugnisarchivierung"
+              },
+              {
+                "text": "Ablageordner ändern",
+                "link": "/reporting/reportdesigner/verzeichnis-der-dokumentenverwaltung-aendern-tutorial"
+              },
+              {
+                "text": "Mahnungsdruck vorbereiten",
+                "link": "/reporting/zeugnisformulare/mahnungsdruck-einleiten-gruppenprozesse-noten-zeugnisvorbereitung"
+              },
+              {
+                "text": "Wege zum Zeugnisdruck",
+                "link": "/reporting/zeugnisformulare/zeugnisse-themenuebersicht"
+              }
+            ]
+          },
+          {
+            "text": "Reports programmieren",
+            "link": "/reporting/programmierung",
+            "collapsed": true,
+            "items": [
+              {
+                "text": "Object Pascal",
+                "link": "/reporting/programmierung/programmierung-in-reports"
+              },
+              {
+                "text": "Eigene Datenquellen",
+                "link": "/reporting/programmierung/eigene-datenquellen"
+              },
+              {
+                "text": "Subreports einbinden",
+                "link": "/reporting/programmierung/einen-subreport-dynamisch-in-einen-report-einbinden"
+              },
+              {
+                "text": "Programmieraufgaben",
+                "link": "/reporting/programmierung/programmierung-sonderlogik-themenuebersicht"
+              }
+            ]
+          },
+          {
+            "text": "RAP-Funktionsreferenz",
+            "link": "/reporting/rap"
+          },
+          {
+            "text": "Umstellung und Versionsgeschichte",
+            "link": "/reporting/archiv",
+            "collapsed": true,
+            "items": [
+              {
+                "text": "SchILD 2 und 3",
+                "link": "/reporting/archiv/kompatibilitaet-der-reports-in-schild-nrw-2-und-schild-nrw-3"
+              },
+              {
+                "text": "Versionsgeschichte",
+                "link": "/reporting/archiv/basisreportsammlung-versionsgeschichte"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Weitere Bereiche",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "Einstieg",
+            "link": "/einstieg/"
+          },
+          {
+            "text": "Arbeiten mit SchILD",
+            "link": "/schild3/"
+          },
+          {
+            "text": "Zeugnisse",
+            "link": "/zeugnisse/"
+          },
+          {
+            "text": "Programmreferenz",
+            "link": "/programmreferenz/"
+          },
+          {
+            "text": "Administration",
+            "link": "/administration/"
+          },
+          {
+            "text": "Hilfe",
+            "link": "/hilfe/"
+          }
+        ]
+      }
+    ],
+    "/administration/": [
+      {
+        "text": "Installation und Administration",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/administration/"
+          },
+          {
+            "text": "Installation und Betrieb",
+            "link": "/administration/installation",
+            "items": [
+              {
+                "text": "Hinweise für IT-Dienstleister",
+                "link": "/administration/installation/hinweise-fuer-it-dienstleister"
+              },
+              {
+                "text": "Installation und Updates",
+                "link": "/administration/installation/installation-svws-server-und-schild-nrw-3"
+              },
+              {
+                "text": "Häufige technische Fragen",
+                "link": "/einstieg/grundlagen/faq"
+              }
+            ]
+          },
+          {
+            "text": "Schuldaten und Organisation",
+            "link": "/administration/schuldaten",
+            "items": [
+              {
+                "text": "Schuleinstellungen",
+                "link": "/einstieg/erste-schritte/schule-verwaltung"
+              },
+              {
+                "text": "Vorschau der Schuldaten",
+                "link": "/schild3/schueler/vorschau-verwaltung-schule"
+              },
+              {
+                "text": "Allgemeine Schuldaten",
+                "link": "/schild3/schueler/allgemeine-angaben-verwaltung-schule"
+              },
+              {
+                "text": "Standorte und Merkmale",
+                "link": "/schild3/schueler/weitere-angaben-verwaltung-schule"
+              },
+              {
+                "text": "Semester am WBK",
+                "link": "/schild3/schueler/sommer-und-wintersemester-an-wbks-tutorial"
+              }
+            ]
+          },
+          {
+            "text": "Benutzer und Einstellungen",
+            "link": "/administration/benutzer-einstellungen",
+            "items": [
+              {
+                "text": "Einstellungen im Überblick",
+                "link": "/administration/benutzer-einstellungen/einstellungen-verwaltung"
+              },
+              {
+                "text": "Individuelle Einstellungen",
+                "link": "/administration/benutzer-einstellungen/individuelle-einstellungen-verwaltung-einstellungen"
+              },
+              {
+                "text": "Globale Einstellungen",
+                "link": "/administration/benutzer-einstellungen/globale-einstellungen-verwaltung-einstellungen"
+              },
+              {
+                "text": "Fächer und Noten",
+                "link": "/administration/benutzer-einstellungen/faecher-noten-verwaltung-globale-einstellungen"
+              },
+              {
+                "text": "E-Mail-Versand einrichten",
+                "link": "/administration/benutzer-einstellungen/e-mail-versand-verwaltung-globale-einstellungen"
+              },
+              {
+                "text": "Benutzerfunktionen",
+                "link": "/administration/benutzer-einstellungen/benutzer-verwaltung-schule"
+              },
+              {
+                "text": "Benutzerverwaltung",
+                "link": "/administration/benutzer-einstellungen/benutzerverwaltung-verwaltung-schule"
+              },
+              {
+                "text": "Kennwort ändern",
+                "link": "/administration/benutzer-einstellungen/kennwort-aendern-verwaltung-schule"
+              },
+              {
+                "text": "Angemeldete Benutzer",
+                "link": "/administration/datenbanken/aktuelle-datenbankbenutzer-zeigen-verwaltung-schule"
+              }
+            ]
+          },
+          {
+            "text": "Datenbanken",
+            "link": "/administration/datenbanken",
+            "items": [
+              {
+                "text": "Datenbank migrieren",
+                "link": "/administration/datenbanken/schild-nrw-daten-in-eine-andere-datenbank-uebertragen-migrieren-tutorial"
+              },
+              {
+                "text": "Datenbank sichern",
+                "link": "/administration/datenbanken/datenbank-sichern-verwaltung-datenbank"
+              },
+              {
+                "text": "Sicherung wiederherstellen",
+                "link": "/administration/datenbanken/datenbank-wiederherstellen-verwaltung-datenbank"
+              },
+              {
+                "text": "Verbindung aufrechterhalten",
+                "link": "/administration/datenbanken/datenbankverbindung-durch-automatische-pings-am-leben-erhalten-tutorial"
+              }
+            ]
+          },
+          {
+            "text": "Verwaltungswerkzeuge",
+            "link": "/administration/werkzeuge",
+            "items": [
+              {
+                "text": "Werkzeuge im Überblick",
+                "link": "/schild3/schueler/werkzeuge-verwaltung"
+              },
+              {
+                "text": "Automatische Prozesse",
+                "link": "/schild3/schueler/automatische-prozesse-ausfuehren-verwaltung-werkzeuge"
+              },
+              {
+                "text": "Fehlende Abschnitte",
+                "link": "/schild3/schueler/fehlende-abschnittsdaten-anlegen-verwaltung-werkzeuge"
+              },
+              {
+                "text": "Fotos skalieren",
+                "link": "/schild3/schueler/fotos-neu-skalieren-verwaltung-werkzeuge"
+              },
+              {
+                "text": "Ausweisnummern löschen",
+                "link": "/schild3/schueler/ausweisnummern-loeschen-verwaltung-werkzeuge"
+              },
+              {
+                "text": "SQL-Befehle",
+                "link": "/schild3/schueler/sql-befehle-eingeben-verwaltung-werkzeuge"
+              }
+            ]
+          },
+          {
+            "text": "Datenschutz und Löschen",
+            "link": "/administration/datenschutz",
+            "items": [
+              {
+                "text": "Datenschutzhinweise",
+                "link": "/schild3/schueler/datenschutzhinweise-verwaltung-hilfe"
+              },
+              {
+                "text": "Löschfristen prüfen",
+                "link": "/schild3/schueler/daten-gemaess-loeschfristen-loeschen-verwaltung-werkzeuge"
+              },
+              {
+                "text": "Schuljahre aufräumen",
+                "link": "/schild3/schueler/aufraeumen-verwaltung-werkzeuge"
+              },
+              {
+                "text": "Löschen und Wiederherstellen",
+                "link": "/schild3/schueler/schueler-loeschen-und-wiederherstellen-tutorial"
+              },
+              {
+                "text": "Datensätze endgültig löschen",
+                "link": "/schild3/suchen-gruppenprozesse/schueler-datensaetze-loeschen-gruppenprozesse-allgemein"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Weitere Bereiche",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "Einstieg",
+            "link": "/einstieg/"
+          },
+          {
+            "text": "Arbeiten mit SchILD",
+            "link": "/schild3/"
+          },
+          {
+            "text": "Zeugnisse",
+            "link": "/zeugnisse/"
+          },
+          {
+            "text": "Reporting",
+            "link": "/reporting/"
+          },
+          {
+            "text": "Programmreferenz",
+            "link": "/programmreferenz/"
+          },
+          {
+            "text": "Hilfe",
+            "link": "/hilfe/"
+          }
+        ]
+      }
+    ],
+    "/hilfe/": [
+      {
+        "text": "Hilfe und Problemlösungen",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/hilfe/"
+          },
+          {
+            "text": "Bedienung",
+            "link": "/hilfe/bedienung",
+            "items": [
+              {
+                "text": "Tipps zur Bedienung",
+                "link": "/hilfe/probleme/tipps-zur-bedienung-einfuehrung-in-schild-nrw"
+              },
+              {
+                "text": "Windows-Zeichentabelle",
+                "link": "/schild3/schueler/zeichentabelle-von-windows-aufrufen-verwaltung-werkzeuge"
+              },
+              {
+                "text": "Programm beenden",
+                "link": "/schild3/schueler/programm-beenden-verwaltung"
+              }
+            ]
+          },
+          {
+            "text": "Probleme und Support",
+            "link": "/hilfe/probleme",
+            "items": [
+              {
+                "text": "Hilfefunktionen",
+                "link": "/schild3/schueler/hilfe-verwaltung"
+              },
+              {
+                "text": "Installationsprobleme",
+                "link": "/hilfe/probleme/troubleshooting-installation-schild-nrw-3"
+              },
+              {
+                "text": "Transaktionsprotokoll",
+                "link": "/schild3/schueler/transaktionsprotokoll-verwenden-verwaltung-werkzeuge"
+              },
+              {
+                "text": "Online-Support",
+                "link": "/schild3/schueler/online-supportprogramm-starten-verwaltung-hilfe"
+              },
+              {
+                "text": "Forum nutzen",
+                "link": "/schild3/schueler/forum-schild-nrw-besuchen-verwaltung-hilfe"
+              },
+              {
+                "text": "Programminformationen",
+                "link": "/schild3/schueler/info-verwaltung-hilfe"
+              },
+              {
+                "text": "Versionsgeschichte öffnen",
+                "link": "/schild3/schueler/versionsgeschichte-zeigen-verwaltung-hilfe"
+              }
+            ]
+          },
+          {
+            "text": "Versionshinweise",
+            "link": "/hilfe/versionshinweise"
+          },
+          {
+            "text": "Frühere Verfahren",
+            "link": "/hilfe/fruehere-verfahren",
+            "items": [
+              {
+                "text": "Frühere Tabellenbeispiele",
+                "link": "/zeugnisse/grundschule/versetzungstabelle-bei-jahrgangsgemischten-klassen-tutorial"
+              },
+              {
+                "text": "G8 auf G9 umstellen",
+                "link": "/schild3/schueler/umstellung-der-gymnasien-von-g8-auf-g9-tutorial"
+              },
+              {
+                "text": "Versionsgeschichte und Releases",
+                "link": "/schild3/schueler/versionsgeschichte-von-schild-nrw"
+              },
+              {
+                "text": "Frühere Versionshinweise",
+                "link": "/schild3/schueler/versionsgeschichte-von-schild-nrw-3"
+              },
+              {
+                "text": "Leere Datenbank anlegen",
+                "link": "/administration/datenbanken/datenbank-anlegen-verwaltung-datenbank"
+              },
+              {
+                "text": "SQLite importieren",
+                "link": "/administration/datenbanken/datenbank-importieren-aus-sqlite-verwaltung-datenbank"
+              },
+              {
+                "text": "EP-Jahre für Ankreuzkompetenzen",
+                "link": "/hilfe/fruehere-verfahren/ep-jahre-kompetenzzuordnung"
+              },
+              {
+                "text": "Früheres Menüband der Reports",
+                "link": "/hilfe/fruehere-verfahren/menueband-reportverwaltung"
+              },
+              {
+                "text": "Lehrer.txt aus ASDPC importieren",
+                "link": "/hilfe/fruehere-verfahren/lehrer-txt-import"
+              },
+              {
+                "text": "Kursarten in SchILD-NRW 2",
+                "link": "/hilfe/fruehere-verfahren/kursarten-basisreports-schild2"
+              }
+            ]
+          },
+          {
+            "text": "Videotutorials",
+            "link": "/hilfe/videotutorials"
+          },
+          {
+            "text": "Artikel schreiben und bearbeiten",
+            "link": "/hilfe/artikel-schreiben"
+          },
+          {
+            "text": "Markdown und Gestaltung",
+            "link": "/hilfe/markdown-und-gestaltung"
+          },
+          {
+            "text": "Bilderkatalog",
+            "link": "/bilder/"
+          },
+          {
+            "text": "Dokumentation und Wiki im Vergleich",
+            "link": "/hilfe/artikel-wiki-zuordnung"
+          },
+          {
+            "text": "Alle Artikel A–Z",
+            "link": "/hilfe/alle-artikel"
+          }
+        ]
+      },
+      {
+        "text": "Weitere Bereiche",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "Einstieg",
+            "link": "/einstieg/"
+          },
+          {
+            "text": "Arbeiten mit SchILD",
+            "link": "/schild3/"
+          },
+          {
+            "text": "Zeugnisse",
+            "link": "/zeugnisse/"
+          },
+          {
+            "text": "Reporting",
+            "link": "/reporting/"
+          },
+          {
+            "text": "Programmreferenz",
+            "link": "/programmreferenz/"
+          },
+          {
+            "text": "Administration",
+            "link": "/administration/"
+          }
+        ]
+      }
+    ],
+    "/programmreferenz/": [
+      {
+        "text": "Programmreferenz",
+        "items": [
+          {
+            "text": "Übersicht",
+            "link": "/programmreferenz/"
+          }
+        ]
+      },
+      {
+        "text": "Weitere Bereiche",
+        "collapsed": true,
+        "items": [
+          {
+            "text": "Einstieg",
+            "link": "/einstieg/"
+          },
+          {
+            "text": "Arbeiten mit SchILD",
+            "link": "/schild3/"
+          },
+          {
+            "text": "Zeugnisse",
+            "link": "/zeugnisse/"
+          },
+          {
+            "text": "Reporting",
+            "link": "/reporting/"
+          },
+          {
+            "text": "Administration",
+            "link": "/administration/"
+          },
+          {
+            "text": "Hilfe",
+            "link": "/hilfe/"
+          }
+        ]
+      }
+    ]
+  }
+}
