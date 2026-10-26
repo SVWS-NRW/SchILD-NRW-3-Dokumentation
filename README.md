@@ -67,3 +67,5 @@ Nach dem Upload Startseite, tiefe Artikellinks, Suche, Bilder und Mobilmenü auf
 - Verbleibende Auditmeldungen der Werkzeugkette VitePress → Vite → esbuild separat prüfen und mit getesteten Updates beheben.
 
 Die einmaligen Migrationswerkzeuge und historischen Vergleichsberichte sind nicht mehr Teil des aktiven Bestands. Frühere Fassungen bleiben in der Git-Historie nachvollziehbar. Veröffentlichte Artikelbilder liegen unter `public/bilder/`.
+
+
