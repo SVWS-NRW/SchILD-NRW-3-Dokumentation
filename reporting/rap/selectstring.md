@@ -1,0 +1,41 @@
+---
+title: "SelectString"
+source_pageid: 103
+source_revision: 543
+---
+
+# SelectString
+
+## Beschreibung
+
+```pascal
+function SelectString(Prompt, Optionsliste: String): String;
+```
+
+## Parameter
+
+| Parameter      | Bedeutung                                                                                  |
+|----------------|--------------------------------------------------------------------------------------------|
+| `Prompt`       | Hinweistext                                                                                |
+| `Optionsliste` | Mit Komma separierte Liste von Zeichenketten, die in einem Auswahldialog angezeigt werden. |
+
+## Rückgabewert
+
+Gewählte Option.
+
+## Beispiel
+
+```pascal
+Procedure ReportBeforePrint;
+var
+  lSchulform : String;
+begin
+  lSchulform:=SelectString('Bitte Schulform wählen',
+ 'Gymnasium,Realschule,Hauptschule')
+```
+
+**Zurück zu [RAP-Funktionen](/reporting/rap)**
+
+---
+
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectString) · Quellrevision 543.
