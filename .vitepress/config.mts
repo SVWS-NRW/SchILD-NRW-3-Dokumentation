@@ -11,6 +11,7 @@ process.env.VITE_EXTRA_EXTENSIONS = extraExtensions
 export default defineConfig({
   lang: 'de-DE',
   vite: { define: { 'import.meta.env.VITE_EXTRA_EXTENSIONS': JSON.stringify(extraExtensions) } },
+  base: env.BASE === undefined ? '/SchILD-NRW-3-Dokumentation/' : env.BASE,
   title: 'SchILD-NRW 3',
   description: 'Dokumentation für SchILD-NRW 3.6.0: Praxisanleitungen, Reporting und Nachschlagewerk',
   srcExclude: ['README.md', 'CONTRIBUTING.md', 'tests/**', 'scripts/**', 'node_modules/**'],
