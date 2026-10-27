@@ -2,7 +2,11 @@
 
 Praxisanleitungen und Nachschlagewerk für die tägliche Arbeit mit SchILD-NRW 3: Schülerdaten, Unterricht, Zeugnisse, Abschlüsse, Reporting und Administration.
 
-Offizielles Repository: [SVWS-NRW/SchILD-NRW-3-Dokumentation](https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation).
+- Offizielles Repository: https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation
+
+- Veröffentlichte SchILD-NRW 3 Dokumentation: https://schild3.svws-nrw.de
+
+- Veröffentlichte SchILD-NRW 3 Dokumentation auf GitHub Pages: https://svws-nrw.github.io/SchILD-NRW-3-Dokumentation
 
 Die Dokumentation beschreibt den Zielstand **SchILD-NRW 3.6.0**. Die jeweils verfügbaren Installationspakete und passenden Serverversionen stehen in den [offiziellen Releasehinweisen](https://github.com/SVWS-NRW/Schild-NRW-3/releases).
 
