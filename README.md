@@ -60,7 +60,9 @@ npm run docs:build
 npm run docs:preview
 ```
 
-Veröffentlicht wird ausschließlich der Inhalt von `.vitepress/dist` über statisches HTTPS-Hosting. Entwicklungs- und Vorschau-Server werden nicht öffentlich betrieben. Der Standardbuild verwendet den Unterpfad `/SchILD-NRW-3-Dokumentation/`. Dieser ist in `.vitepress/site-base.mjs` festgelegt. Mit `DOCS_BASE=/` kann bei Bedarf für eine Domainwurzel gebaut werden. Hosting und Veröffentlichungsablauf werden mit David abgestimmt.
+Veröffentlicht wird ausschließlich der Inhalt von `.vitepress/dist` über statisches HTTPS-Hosting. Entwicklungs- und Vorschau-Server werden nicht öffentlich betrieben. Die Zieladresse ist `https://schild3.svws-nrw.de/`. Standardbuild und lokale Vorschau verwenden die Domainwurzel `/`; dies ist in `.vitepress/site-base.mjs` festgelegt. Ein anderer Unterpfad kann über `DOCS_BASE` angegeben werden.
+
+Ein Merge nach `master` startet `.github/workflows/deploy.yml`: Build, Link- und Bildprüfung sowie Veröffentlichung auf GitHub Pages. Manuelle Läufe auf anderen Branches prüfen nur den Build. Die Anbindung der Zieladresse auf dem bestehenden Nginx-Server erfolgt getrennt; der Workflow ändert weder DNS noch diesen Server.
 
 Die veröffentlichende Stelle legt Hosting und Zieladresse fest und ergänzt die benötigten Anbieter-/Datenschutzangaben und Nutzungsrechte. Externe Videoeinbettungen berücksichtigen. Die im Repository hinterlegte Lizenz steht in [LICENSE](LICENSE). Vorhandene Quellenverweise bleiben erhalten.
 
