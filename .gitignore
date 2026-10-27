@@ -1,17 +1,9 @@
 tmp
 node_modules/
+__pycache__/
 .vitepress/dist
 .vitepress/cache
-.project
-.settings
-.editorconfig
 .DS_Store
-
-# Ignore Gradle project-specific cache directory
-.gradle
-
-# Ignore Gradle build output directory
-build
 
 # local env files
 .env.local
@@ -32,6 +24,5 @@ yarn-error.log*
 *.sw?
 .eslintcache
 
-# Documentation checks
-__pycache__/
+# Local browser test output
 test-results/

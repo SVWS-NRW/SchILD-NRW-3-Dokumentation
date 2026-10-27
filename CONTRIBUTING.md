@@ -50,4 +50,4 @@ Den Artikel außerdem in der lokalen Vorschau gegenlesen und Bilder, Verweise un
 3. Im Pull Request kurz erklären, was geändert wurde, worauf fachliche Änderungen beruhen und was geprüft wurde.
 4. Die automatischen Prüfungen abwarten und gegebenenfalls Fehler beheben.
 
-`dev` und `main` werden nicht direkt beschrieben. Den Merge übernimmt der Verantwortliche. Fehler oder fachliche Ergänzungsvorschläge können auch über die [Issues des Repositorys](https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation/issues) gemeldet werden.
+`dev` und `master` werden nicht direkt beschrieben. Den Merge übernimmt der Verantwortliche. Fehler oder fachliche Ergänzungsvorschläge können auch über die [Issues des Repositorys](https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation/issues) gemeldet werden.
