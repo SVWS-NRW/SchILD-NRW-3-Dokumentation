@@ -1,7 +1,5 @@
 ---
 title: "Mehrfachauswahl"
-source_pageid: 68
-source_revision: 496
 ---
 
 # Mehrfachauswahl
@@ -40,4 +38,4 @@ end
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mehrfachauswahl) · Quellrevision 496.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mehrfachauswahl)

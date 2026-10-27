@@ -1,7 +1,5 @@
 ---
 title: "Lernplattformen im Katalog anlegen"
-source_pageid: 590
-source_revision: 5459
 ---
 
 # Lernplattformen im Katalog anlegen
@@ -40,4 +38,4 @@ Ein Klick auf das **-** löscht die angelegte Lernplattform nach Bestätigung ei
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Lernplattformen_(Schulbezogene_Kataloge)) · Quellrevision 5459.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Lernplattformen_(Schulbezogene_Kataloge))

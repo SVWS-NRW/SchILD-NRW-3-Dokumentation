@@ -1,7 +1,5 @@
 ---
 title: "Mahnungen aus dem Halbjahreszeugnis übernehmen"
-source_pageid: 343
-source_revision: 6302
 ---
 
 # Mahnungen aus dem Halbjahreszeugnis übernehmen
@@ -18,4 +16,4 @@ Nach der Bestätigung werden die Leistungsdaten durchsucht und beim betreffenden
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mahnungen_automatisch_setzen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 6302.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mahnungen_automatisch_setzen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

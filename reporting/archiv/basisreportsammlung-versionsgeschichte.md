@@ -1,7 +1,5 @@
 ---
 title: "Versionsgeschichte der Basisreportsammlung"
-source_pageid: 1518
-source_revision: 6677
 ---
 
 # Versionsgeschichte der Basisreportsammlung
@@ -23,4 +21,4 @@ Für SchILD-NRW 2 verweist die übernommene Dokumentation außerdem auf eine Ver
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Versionsgeschichte) · Quellrevision 6677.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Versionsgeschichte)

@@ -1,7 +1,5 @@
 ---
 title: "Von SchILD-NRW 2 auf SchILD-NRW 3 umsteigen"
-source_pageid: 1181
-source_revision: 6944
 ---
 
 # Von SchILD-NRW 2 auf SchILD-NRW 3 umsteigen
@@ -305,4 +303,4 @@ Die Notenerfassung mit GradeHub und WeNoM ist dem SVWS-Server zugeordnet. Einric
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Wesentliche_Unterschiede_zu_SchILD-NRW_2) · Quellrevision 6944.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Wesentliche_Unterschiede_zu_SchILD-NRW_2)

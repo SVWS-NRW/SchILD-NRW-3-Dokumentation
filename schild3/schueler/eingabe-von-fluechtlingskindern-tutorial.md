@@ -1,7 +1,5 @@
 ---
 title: "Geflüchtete Kinder und Jugendliche erfassen"
-source_pageid: 792
-source_revision: 5487
 ---
 
 # Geflüchtete Kinder und Jugendliche erfassen
@@ -142,4 +140,4 @@ Trennen Sie auch hier den Jahrgang **01 bis 04** vom zusätzlichen **EP-Jahr E1 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eingabe_von_Fl%C3%BCchtlingskindern_(Tutorial)) · Quellrevision 5487.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eingabe_von_Fl%C3%BCchtlingskindern_(Tutorial))

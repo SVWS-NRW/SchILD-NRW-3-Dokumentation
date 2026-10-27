@@ -1,7 +1,5 @@
 ---
 title: "Reports erstellen und anpassen"
-source_pageid: 1616
-source_revision: 6810
 ---
 
 # Reports erstellen und anpassen
@@ -55,4 +53,4 @@ Ein Assistent unterstützt Sie bei der Erstellung einfacher Reports
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reports_erstellen_%26_anpassen_Themen%C3%BCbersicht) · Quellrevision 6810.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reports_erstellen_%26_anpassen_Themen%C3%BCbersicht)

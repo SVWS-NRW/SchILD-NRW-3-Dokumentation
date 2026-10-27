@@ -1,7 +1,5 @@
 ---
 title: "SelectAdressName"
-source_pageid: 96
-source_revision: 536
 ---
 
 # SelectAdressName
@@ -34,4 +32,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectAdressName) · Quellrevision 536.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectAdressName)

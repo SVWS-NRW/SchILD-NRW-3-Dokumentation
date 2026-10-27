@@ -2,6 +2,8 @@
 
 Praxisanleitungen und Nachschlagewerk für die tägliche Arbeit mit SchILD-NRW 3: Schülerdaten, Unterricht, Zeugnisse, Abschlüsse, Reporting und Administration.
 
+Offizielles Repository: [SVWS-NRW/SchILD-NRW-3-Dokumentation](https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation).
+
 Die Dokumentation beschreibt den Zielstand **SchILD-NRW 3.6.0**. Die jeweils verfügbaren Installationspakete und passenden Serverversionen stehen in den [offiziellen Releasehinweisen](https://github.com/SVWS-NRW/Schild-NRW-3/releases).
 
 ## Lokal ansehen
@@ -41,9 +43,15 @@ npx playwright install chromium
 npm run docs:check-browser
 ```
 
-Sie prüft Themenmenü, Programmreferenz, Weiterblättern und breite Tabellen auf Desktop und Smartphone sowie Suche, Artikelindex und einen bestehenden Weiterleitungslink. Es gibt keinen vollständigen Artikelscan und keinen dauernden Vergleich mit alten Wiki-Fassungen.
+Sie prüft Themenmenü, Programmreferenz, Weiterblättern und breite Tabellen auf Desktop und Smartphone sowie Suche und Artikelindex. Es gibt keinen vollständigen Artikelscan und keinen dauernden Vergleich mit alten Wiki-Fassungen.
 
 Auf GitHub läuft **Dokumentation prüfen** bei jedem Pull Request nach `dev`. **Bedienung prüfen** läuft bei Änderungen an Theme, Werkzeugen, Tests, Abhängigkeiten und den ausgewählten Darstellungsseiten. Bei Bedarf kann der Browserlauf auch manuell gestartet werden. Fehleraufnahmen liegen als GitHub-Artefakt vor; lokale Ausgaben unter `test-results/` gehören nicht in Git.
+
+## Technischer Paketstand
+
+VitePress 1.6.4 und `markdown-it-container` 4.0.0 bleiben die stabilen Grundlagen. Die Vite-Abhängigkeit von VitePress ist über `overrides` in `package.json` auf **Vite 6.4.5** festgelegt. Diese gezielte Abweichung von der VitePress-Standardabhängigkeit behebt die gemeldeten Vite-/esbuild-Lücken und verwendet den vom vorhandenen Vue-Plugin unterstützten Vite-6-Zweig. Die mitgelieferten Build- und Browserprüfungen decken die verwendeten Funktionen ab.
+
+Bei einem späteren stabilen VitePress-Update prüfen, ob die Festlegung entfallen kann. Nach Paketänderungen `npm ci` ausführen. Entwicklungs- und Vorschau-Server bleiben lokal.
 
 ## Veröffentlichen
 
@@ -52,9 +60,11 @@ npm run docs:build
 npm run docs:preview
 ```
 
-Veröffentlicht wird ausschließlich der Inhalt von `.vitepress/dist` über statisches HTTPS-Hosting. Entwicklungs- und Vorschau-Server werden nicht öffentlich betrieben. Der Build ist für die Domainwurzel konfiguriert; für einen Unterpfad muss die VitePress-Option `base` angepasst werden.
+Veröffentlicht wird ausschließlich der Inhalt von `.vitepress/dist` über statisches HTTPS-Hosting. Entwicklungs- und Vorschau-Server werden nicht öffentlich betrieben. Die Zieladresse ist `https://schild3.svws-nrw.de/`. Standardbuild und lokale Vorschau verwenden die Domainwurzel `/`; dies ist in `.vitepress/site-base.mjs` festgelegt. Ein anderer Unterpfad kann über `DOCS_BASE` angegeben werden.
 
-Die veröffentlichende Stelle legt Hosting und Zieladresse fest und ergänzt die benötigten Anbieter-/Datenschutzangaben und Nutzungsrechte. Externe Videoeinbettungen berücksichtigen. Eine eigene Inhaltslizenz ist noch nicht festgelegt; vorhandene Quellenverweise bleiben erhalten.
+Ein Merge nach `master` startet `.github/workflows/deploy.yml`: Build, Link- und Bildprüfung sowie Veröffentlichung auf GitHub Pages. Manuelle Läufe auf anderen Branches prüfen nur den Build. Die Anbindung der Zieladresse auf dem bestehenden Nginx-Server erfolgt getrennt; der Workflow ändert weder DNS noch diesen Server.
+
+Die veröffentlichende Stelle legt Hosting und Zieladresse fest und ergänzt die benötigten Anbieter-/Datenschutzangaben und Nutzungsrechte. Externe Videoeinbettungen berücksichtigen. Die im Repository hinterlegte Lizenz steht in [LICENSE](LICENSE). Vorhandene Quellenverweise bleiben erhalten.
 
 Nach dem Upload Startseite, tiefe Artikellinks, Suche, Bilder und Mobilmenü auf der tatsächlichen Zieladresse prüfen.
 
@@ -64,114 +74,8 @@ Nach dem Upload Startseite, tiefe Artikellinks, Suche, Bilder und Mobilmenü auf
 - Bildungsgangwechsel am Berufskolleg und Versetzung bei jahrgangsgemischten Klassen fachlich nachprüfen.
 - Zielrelease 3.6.0 und passende Serverversion mit dem tatsächlich ausgelieferten Programm abgleichen.
 - Schnittstellen-Sonderfälle und den offenen externen Broschürendruck-PDF-Verweis nachführen.
-- Verbleibende Auditmeldungen der Werkzeugkette VitePress → Vite → esbuild separat prüfen und mit getesteten Updates beheben.
+- Paketupdates mit `npm audit`, Build, Linkprüfung und bei Änderungen an der Werkzeugkette zusätzlich mit der Browserprüfung kontrollieren.
 
-Die einmaligen Migrationswerkzeuge und historischen Vergleichsberichte sind nicht mehr Teil des aktiven Bestands. Frühere Fassungen bleiben in der Git-Historie nachvollziehbar. Veröffentlichte Artikelbilder liegen unter `public/bilder/`.
+Die einmaligen Migrationswerkzeuge, historischen Vergleichsberichte, alten Wiki-Sprungmarken und die frühere Gesamtübersicht mit ihrer Weiterleitung sind entfernt. Wiki-Quellenlinks bleiben erhalten. Veröffentlichte Artikelbilder liegen unter `public/bilder/`.
 
-## Writing Guide für die Hilfeseiten
-
-Diese Seite ist nur temporär für die Erstellung dieser Dokumentation. Auf ihr werden Absprachen gesammelt, wie Objekte/Bereiche hier in der Dokumentation und im SVWS-Client heißen.
-
-### Alles
-
-* Der Plural von "Schema" ist "Schemata".
-* Neutrale Bezeichnungen, wo es möglich ist. "Schüler" bleiben so, wie sie sind; gegebenenfalls "Schülerinnen" ebenfalls nutzen; im stringenten Wechsel sieht auch doof aus.
-* Sollen Pfeile verwendet werden, sollte ein echter Pfeil ➜ genutzt werden, keine Bastelllösungen wie > oder ->.
-* Die Laufbahnplanung in der Oberstufe heißt "Laufbahnplanung Oberstufe".
-* Bei Screenshots ist STRENG darauf zu achten, dass nur anoymisierte Daten verwendet werden.
-
-### SVWS-Client
-
-* Links im vertikalen Menü sind die **Apps**.
-* Das DataTable mit den eigentlichen Menüpunkten heißt **Auswahlliste**
-* Im rechten Datenbereich heißen die "Reiter" **Tabs**.
-* Unter den Tabs sind die **Untertabs**.
-* In manchen Bereichen steht noch eine **graue Schaltflächenleiste** (Bezeichnung Todo) zur Verfügung.
-
-### Schreibweisen und Groß- und Kleinschreibung
-
-SVWS-Client, SVWS-AdminClient, SchILD-NRW, SVWS-WeNoM, GOSt, SVWS-WebLuPO, ...
-
-### Web-Dokumentationen
-
-Die Beschreibung der einzelnen Funktionen selbst sollte ohne lange Prozessbeschreibungen nur darlegen, was da ist und wie man es benutzt.
-
-Tatsächliche Anleitungen, Tutorials und Prozessbeschreibungen (ZP10) und vor allem auch Dinge, die mit aktuellen Vorgaben (Prüfungsordnungen usw.) zu tun haben, sollen soweit wie möglich in sinnvoll gegliederte  **Anleitungen** (usw.?) ausgelagert werden.
-
-#### Grafiken, Schaubilder und Links
-
-* Grafiken werden als .png (Logos, einheitliche Farbflächen, Schaubilder, UI usw.) gespeichert.
-* Schaubilder/Schemas sind GraphML-Dateien und werden mit *yEd* erstellt. Die GraphML-Dateien werden ebenfalls in /graphics/ abgelegt.
-* Ältere Versionen von Grafiken und Schaubildern bleiben in der Regel in /graphics/ erhalten.
-* Alle Grafiken sollten direkt mit sinnvollen "Alternativtexten" und Mausover-Texten versehen werden.
-* In **Anleitungen** sollte wirklich *jeder* Schritt erwähnt und mit einem Screenshot versehen werden. Wir schreiben für nicht-technisch versierte Nutzer.
-* Bei Grafiken und Links sind wenn möglich *relative* Links und keine absoluten Pfade zu verwenden!
-* Grafiken werden im normalen Light-Mode (weißer Hintergrund) aufgenommen.
-
-Diagramme können (bald) mit Mermaid erstellt werden: Hier Beispiele:
-
-https://github.com/sametcn99/vitepress-mermaid-renderer/blob/main/docs/content/en/examples/basic.md?plain=1
-
-### Technische Umsetzung
-
-Die Dokumentation wird aus vielen [Markdown](https://de.wikipedia.org/wiki/Markdown)-Dokumenten erzeugt, die ähnlich wie Wikipedia ein spezielles Formatierungsformat verwendet. Diese Dateien werden mit Hilfe von [vitepress](https://vitepress.dev/) und der Konfigurationsdatei zu einer HTML-Seite gebaut, die dann mit dem Browser angezeigt werden kann.
-
-Die Sammlung dieser Markdown-Dokumente werden in einem [Git](https://git-scm.com/)-Repository auf [GitHub](https://github.com) vorgehalten und können beliebig eingesehen, bearbeitet und verändert werden. Eine ausführliche Anleitung zu Git findet sich [hier](https://docs.github.com/de/get-started/using-git/about-git).
-
-### Hervorherhebungen
-
-Hervorhebungen in **fett** und *kursiv* sollten spärlich eingesetzt werden.
-
-Bislang werden *real vorhandende Funktionen* in **fett** markiert. Ebenso der Hauptgegenstand des Artikels (einmalig). Also etwa **Stunde löschen** oder **Nutzer hinzufügen**. Es sollten nur diese nutzbaren Funktionen hervorgehoben werden.
-
-Andere Hervorhebungen können in *kursiv* gesetzt werden (siehe oben). Ebenso werden Feldinhalte in kursiv gesetzt. Also würde man etwa schreiben: "Tragen Sie in die **Kursart** den Wert *PUK* für *Pflichtunterricht im Klassenverband* ein.
-
-Bei **Anleitungen** empfhielt es sich, die Funktionen, die im Zuge der Anleitung tatsächlich bedient zu werden, als `Code`zu markieren. Also wäre alles, was tatsächlich anzuklicken ist, als Code hervorgehoben. Alternativen wären dann fett. Hier würde man schreiben: "Klicken Sie nun auf `Weiter`, mit **Abbrechen** kehren Sie ohne Änderungen vorzunehmen zum vorherigen Fenster zurück."
-
-Wichtiger als das Einhalten eines globalen Schemas ist aber eher der spärliche Einsatz von Hervorhebungen und Konsistenz innerhalb des Artikels oder der thematischen Artikelreihe. 
-
-#### Farbboxen
-
-```md
-::: info
-This is an info box. Ich bin grau.
-:::
-
-::: tip
-This is a tip. Ich bin etwas lila (eher blau).
-:::
-
-::: warning ACHTUNG
-This is a warning. Ich bin gelb.
-:::
-
-::: danger SUPER ACHTUNG
-This is a dangerous warning. Ich bin rot.
-:::
-
-::: details
-This is a details block. Ich bin grau, so wie Info.
-Der Unterschied ist, dass ich zum AUSKLAPPEN bin.
-:::
-```
-
-
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning ACHTUNG
-This is a warning.
-:::
-
-::: danger SUPER ACHTUNG
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
+Lokale Zwischenergebnisse unter `tmp/`, `test-results/` und `.vitepress/cache/` können bei Bedarf entfernt werden. `node_modules/` ist die lokale Installation; `.vitepress/dist/` enthält das benötigte Veröffentlichungsergebnis.

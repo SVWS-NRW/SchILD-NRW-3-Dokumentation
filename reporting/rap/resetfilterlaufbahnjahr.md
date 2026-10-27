@@ -1,7 +1,5 @@
 ---
 title: "ResetFilterLaufbahnJahr"
-source_pageid: 90
-source_revision: 518
 ---
 
 # ResetFilterLaufbahnJahr
@@ -18,4 +16,4 @@ Setzt den über FilterLaufbahnJahr gesetzten Filter zurück
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ResetFilterLaufbahnJahr) · Quellrevision 518.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ResetFilterLaufbahnJahr)

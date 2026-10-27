@@ -1,7 +1,5 @@
 ---
 title: "NurGewerteteAbschnitte"
-source_pageid: 75
-source_revision: 503
 ---
 
 # NurGewerteteAbschnitte
@@ -30,4 +28,4 @@ Der Standardwert ist **true**: Es werden nur gewertete Abschnitte angezeigt. Beh
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=NurGewerteteAbschnitte) · Quellrevision 503.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=NurGewerteteAbschnitte)

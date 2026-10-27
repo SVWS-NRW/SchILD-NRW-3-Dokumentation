@@ -1,7 +1,5 @@
 ---
 title: "Abiturprüfungsergebnisse gruppenweise eingeben"
-source_pageid: 393
-source_revision: 3389
 ---
 
 # Abiturprüfungsergebnisse gruppenweise eingeben
@@ -47,4 +45,4 @@ Wenn Sie stattdessen **Abbrechen** wählen, fragt das Programm beim Schließen n
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Pr%C3%BCfungsergebnisse_eingeben_(Gruppenprozesse_Abitur)) · Quellrevision 3389.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Pr%C3%BCfungsergebnisse_eingeben_(Gruppenprozesse_Abitur))

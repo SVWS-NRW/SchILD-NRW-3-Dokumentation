@@ -1,7 +1,5 @@
 ---
 title: "AssignFont"
-source_pageid: 19
-source_revision: 310
 ---
 
 # AssignFont
@@ -36,4 +34,4 @@ AssignFont(Richtext1,Label1.Font);
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=AssignFont) · Quellrevision 310.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=AssignFont)

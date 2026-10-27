@@ -1,7 +1,5 @@
 ---
 title: "Serienbrief zur Mahnung bei gefährdeter Versetzung"
-source_pageid: 1520
-source_revision: 6851
 ---
 
 # Serienbrief zur Mahnung bei gefährdeter Versetzung
@@ -31,4 +29,4 @@ Die allgemeine Verwendung von Briefvorlagen erläutert [Serienbriefe einrichten 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Serienbrief_Mahnung_gef%C3%A4hrdete_Versetzung) · Quellrevision 6851.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Serienbrief_Mahnung_gef%C3%A4hrdete_Versetzung)

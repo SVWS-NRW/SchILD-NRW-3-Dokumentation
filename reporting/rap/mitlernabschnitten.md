@@ -1,7 +1,5 @@
 ---
 title: "MitLernabschnitten"
-source_pageid: 70
-source_revision: 498
 ---
 
 # MitLernabschnitten
@@ -40,4 +38,4 @@ end
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=MitLernabschnitten) · Quellrevision 498.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=MitLernabschnitten)

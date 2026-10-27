@@ -1,7 +1,5 @@
 ---
 title: "Floskeln und Platzhalter verwalten"
-source_pageid: 258
-source_revision: 5450
 ---
 
 # Floskeln und Platzhalter verwalten
@@ -153,4 +151,4 @@ Sollen Floskeln zum Beispiel als Zeugnisbemerkungen für ganze Schülergruppen e
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Floskeln_bearbeiten_(Schulbezogene_Kataloge)) · Quellrevision 5450.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Floskeln_bearbeiten_(Schulbezogene_Kataloge))

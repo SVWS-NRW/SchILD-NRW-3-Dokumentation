@@ -1,7 +1,5 @@
 ---
 title: "ZP10-Abschlussnoten berechnen"
-source_pageid: 1162
-source_revision: 3931
 ---
 
 # ZP10-Abschlussnoten berechnen
@@ -34,4 +32,4 @@ Beachten Sie, dass die automatischen Werkzeuge als Unterstützung ohne Gewähr z
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschluss_berechnen_(Gruppenprozesse_Zentrale_Klausuren)) · Quellrevision 3931.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschluss_berechnen_(Gruppenprozesse_Zentrale_Klausuren))

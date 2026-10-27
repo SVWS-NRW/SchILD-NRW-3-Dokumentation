@@ -1,7 +1,5 @@
 ---
 title: "BK-Prüfungsnoten aus Teilleistungen übernehmen"
-source_pageid: 1281
-source_revision: 4703
 ---
 
 # BK-Prüfungsnoten aus Teilleistungen übernehmen
@@ -28,4 +26,4 @@ Klicken Sie dann auf `Noten holen`, um den Prozess zu beginnen. Über *Abbrechen
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kurse_algorithmisch_markieren_(Gruppenprozesse_BK-Abschluss)) · Quellrevision 4703.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kurse_algorithmisch_markieren_(Gruppenprozesse_BK-Abschluss))

@@ -1,7 +1,5 @@
 ---
 title: "Gespeicherte Grundschuldaten einer Gruppe löschen"
-source_pageid: 803
-source_revision: 2491
 ---
 
 # Gespeicherte Grundschuldaten einer Gruppe löschen
@@ -16,4 +14,4 @@ Dies sollte durchgeführt werden, wenn die Schülerinnen und Schüler die Erprob
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschuldaten_l%C3%B6schen_(Gruppenprozesse_Allgemein)) · Quellrevision 2491.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschuldaten_l%C3%B6schen_(Gruppenprozesse_Allgemein))

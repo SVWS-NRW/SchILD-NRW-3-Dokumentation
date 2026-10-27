@@ -1,7 +1,5 @@
 ---
 title: "Leistungsdaten für die Abiturberechnung übernehmen"
-source_pageid: 390
-source_revision: 3370
 ---
 
 # Leistungsdaten für die Abiturberechnung übernehmen
@@ -41,4 +39,4 @@ Wenn Sie später die Leistungsdaten einer einzelnen Person ändern, können Sie 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Leistungsdaten_holen_(Gruppenprozesse_Abitur)) · Quellrevision 3370.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Leistungsdaten_holen_(Gruppenprozesse_Abitur))

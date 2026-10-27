@@ -1,7 +1,5 @@
 ---
 title: "Bildungsgangschwerpunkte am Berufskolleg vorbereiten"
-source_pageid: 1296
-source_revision: 4742
 ---
 
 # Bildungsgangschwerpunkte am Berufskolleg vorbereiten
@@ -32,4 +30,4 @@ Der Eintrag des **Schwerpunkt**s findet dann in *Schüler ➜ Akt. Abschnitt* un
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schwerpunkte_(Schulbezogene_Kataloge)) · Quellrevision 4742.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schwerpunkte_(Schulbezogene_Kataloge))

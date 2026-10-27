@@ -1,7 +1,5 @@
 ---
 title: "ReplaceText"
-source_pageid: 84
-source_revision: 512
 ---
 
 # ReplaceText
@@ -35,4 +33,4 @@ Memo1.Text:=ReplaceText(Memo1.Text,'$VORNAME$',Schueler['Vorname');
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ReplaceText) · Quellrevision 512.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ReplaceText)

@@ -1,7 +1,5 @@
 ---
 title: "LoadVermerkeEx"
-source_pageid: 64
-source_revision: 492
 ---
 
 # LoadVermerkeEx
@@ -38,4 +36,4 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LoadVermerkeEx) · Quellrevision 492.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LoadVermerkeEx)

@@ -1,7 +1,5 @@
 ---
 title: "SetzeKlassenAdressArt"
-source_pageid: 118
-source_revision: 558
 ---
 
 # SetzeKlassenAdressArt
@@ -33,4 +31,4 @@ Procedure ReportBeforeOpenDatapipelines;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetzeKlassenAdressArt) · Quellrevision 558.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetzeKlassenAdressArt)

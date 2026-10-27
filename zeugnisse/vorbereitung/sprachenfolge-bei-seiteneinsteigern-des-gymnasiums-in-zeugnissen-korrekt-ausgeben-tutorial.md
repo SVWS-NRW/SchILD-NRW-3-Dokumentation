@@ -1,7 +1,5 @@
 ---
 title: "Sprachenfolgen bei Seiteneinstieg ins Gymnasium ausgeben"
-source_pageid: 857
-source_revision: 5522
 ---
 
 # Sprachenfolgen bei Seiteneinstieg ins Gymnasium ausgeben
@@ -40,4 +38,4 @@ Tragen Sie das Referenzniveau manuell ein. Sofern ein Latinum, Greacum oder Hebr
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachenfolge_bei_Seiteneinsteigern_des_Gymnasiums_in_Zeugnissen_korrekt_ausgeben_(Tutorial)) · Quellrevision 5522.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachenfolge_bei_Seiteneinsteigern_des_Gymnasiums_in_Zeugnissen_korrekt_ausgeben_(Tutorial))

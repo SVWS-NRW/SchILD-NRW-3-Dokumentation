@@ -1,7 +1,5 @@
 ---
 title: "Teilleistungsarten für einzelne Fach- und Kursarten zuweisen"
-source_pageid: 592
-source_revision: 5372
 ---
 
 # Teilleistungsarten für einzelne Fach- und Kursarten zuweisen
@@ -44,4 +42,4 @@ Im Beispiel sind den Schülern der Klasse 5b zwei vorbereitete Teilleistungsarte
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungsarten_individuell_zuweisen_(Gruppenprozesse_Teilleistungen)) · Quellrevision 5372.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungsarten_individuell_zuweisen_(Gruppenprozesse_Teilleistungen))

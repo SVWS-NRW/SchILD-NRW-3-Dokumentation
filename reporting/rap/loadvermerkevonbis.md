@@ -1,7 +1,5 @@
 ---
 title: "LoadVermerkeVonBis"
-source_pageid: 65
-source_revision: 493
 ---
 
 # LoadVermerkeVonBis
@@ -42,4 +40,4 @@ Alle Vermerke der gewählten Art, durch den Delimiter voneinander getrennt.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LoadVermerkeVonBis) · Quellrevision 493.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LoadVermerkeVonBis)

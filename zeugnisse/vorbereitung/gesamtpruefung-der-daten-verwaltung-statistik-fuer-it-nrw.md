@@ -1,7 +1,5 @@
 ---
 title: "Die Gesamtprüfung für die Statistik durchführen"
-source_pageid: 292
-source_revision: 4042
 ---
 
 # Die Gesamtprüfung für die Statistik durchführen
@@ -113,4 +111,4 @@ Es kann sich empfehlen, zu unterschiedlichen Zeiten des Schuljahres die Gesamtpr
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Gesamtpr%C3%BCfung_der_Daten_(Verwaltung_Statistik_f%C3%BCr_IT-NRW)) · Quellrevision 4042.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Gesamtpr%C3%BCfung_der_Daten_(Verwaltung_Statistik_f%C3%BCr_IT-NRW))

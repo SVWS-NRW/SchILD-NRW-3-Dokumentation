@@ -1,7 +1,5 @@
 ---
 title: "Reports und ihre Einsatzmöglichkeiten verstehen"
-source_pageid: 1271
-source_revision: 4665
 ---
 
 # Reports und ihre Einsatzmöglichkeiten verstehen
@@ -42,4 +40,4 @@ Die Abbildungen auf dieser Seite zeigen Beispiele für die unterschiedlichen Aus
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Was_ist_ein_Report%3F_(Einf%C3%BChrung)) · Quellrevision 4665.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Was_ist_ein_Report%3F_(Einf%C3%BChrung))

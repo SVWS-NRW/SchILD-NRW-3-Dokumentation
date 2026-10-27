@@ -1,7 +1,5 @@
 ---
 title: "ZP10-Prüfungsnoten aus Teilleistungen übernehmen"
-source_pageid: 1159
-source_revision: 3919
 ---
 
 # ZP10-Prüfungsnoten aus Teilleistungen übernehmen
@@ -50,4 +48,4 @@ Dann ist diese Vorbereitung abgeschlossen.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Pr%C3%BCfungsnoten_aus_Teilleistungen_holen_(Gruppenprozesse_Zentrale_Klausuren)) · Quellrevision 3919.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Pr%C3%BCfungsnoten_aus_Teilleistungen_holen_(Gruppenprozesse_Zentrale_Klausuren))

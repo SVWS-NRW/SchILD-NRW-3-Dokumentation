@@ -1,7 +1,5 @@
 ---
 title: "Kurse im Katalog verwalten"
-source_pageid: 482
-source_revision: 5445
 ---
 
 # Kurse im Katalog verwalten
@@ -141,4 +139,4 @@ Diese Funktion kann erst ausgeführt werden, wenn der Kurs einmal gespeichert wu
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kurse_(Schulbezogene_Kataloge)) · Quellrevision 5445.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kurse_(Schulbezogene_Kataloge))

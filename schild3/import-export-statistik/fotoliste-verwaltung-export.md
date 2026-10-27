@@ -1,7 +1,5 @@
 ---
 title: "Eine Fotoliste exportieren"
-source_pageid: 891
-source_revision: 5280
 ---
 
 # Eine Fotoliste exportieren
@@ -38,4 +36,4 @@ Für den automatischen Foto-Import gibt es ein kostenpflichtiges Programm der Fi
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fotoliste_(Verwaltung_Export)) · Quellrevision 5280.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fotoliste_(Verwaltung_Export))

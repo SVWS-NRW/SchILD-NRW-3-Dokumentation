@@ -1,7 +1,5 @@
 ---
 title: "PickDatum"
-source_pageid: 76
-source_revision: 504
 ---
 
 # PickDatum
@@ -37,4 +35,4 @@ End;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=PickDatum) · Quellrevision 504.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=PickDatum)

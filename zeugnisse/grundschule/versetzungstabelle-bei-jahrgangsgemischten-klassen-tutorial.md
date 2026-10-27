@@ -1,7 +1,5 @@
 ---
 title: "Frühere Versetzungstabellen für jahrgangsgemischte Klassen"
-source_pageid: 1212
-source_revision: 4230
 ---
 
 # Frühere Versetzungstabellen für jahrgangsgemischte Klassen
@@ -159,4 +157,4 @@ Förderschulen haben über die Grundschulen hinaus die Ansicht von weiterführen
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzungstabelle_bei_jahrgangsgemischten_Klassen_(Tutorial)) · Quellrevision 4230.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzungstabelle_bei_jahrgangsgemischten_Klassen_(Tutorial))

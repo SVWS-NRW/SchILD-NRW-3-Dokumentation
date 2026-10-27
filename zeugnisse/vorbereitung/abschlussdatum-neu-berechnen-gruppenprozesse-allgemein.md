@@ -1,7 +1,5 @@
 ---
 title: "Das voraussichtliche Abschlussdatum neu berechnen"
-source_pageid: 385
-source_revision: 5328
 ---
 
 # Das voraussichtliche Abschlussdatum neu berechnen
@@ -36,4 +34,4 @@ Nach diesem Gruppenprozess steht das neu berechnete Abschlussdatum auf der Regis
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschlussdatum_neu_berechnen_(Gruppenprozesse_Allgemein)) · Quellrevision 5328.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschlussdatum_neu_berechnen_(Gruppenprozesse_Allgemein))

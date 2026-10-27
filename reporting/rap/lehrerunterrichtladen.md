@@ -1,7 +1,5 @@
 ---
 title: "LehrerUnterrichtLaden"
-source_pageid: 59
-source_revision: 487
 ---
 
 # LehrerUnterrichtLaden
@@ -27,4 +25,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LehrerUnterrichtLaden) · Quellrevision 487.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LehrerUnterrichtLaden)

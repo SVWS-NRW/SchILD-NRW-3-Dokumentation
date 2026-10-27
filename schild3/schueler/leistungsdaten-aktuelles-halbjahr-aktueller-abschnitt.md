@@ -1,7 +1,5 @@
 ---
 title: "Fächer, Kurse und Leistungsdaten bearbeiten"
-source_pageid: 506
-source_revision: 7151
 ---
 
 # Fächer, Kurse und Leistungsdaten bearbeiten
@@ -135,5 +133,5 @@ In der gymnasialen Oberstufe würden den normalen Kursen die Kursarten *"Grundku
 
 ---
 
-[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Leistungsdaten_(Aktuelles_Halbjahr_/_Aktueller_Abschnitt>) · Quellrevision 7151.
+[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Leistungsdaten_(Aktuelles_Halbjahr_/_Aktueller_Abschnitt>)
 

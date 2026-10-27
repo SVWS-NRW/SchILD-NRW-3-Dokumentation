@@ -1,7 +1,5 @@
 ---
 title: "Programmversion und Kompilierungsdatum anzeigen"
-source_pageid: 486
-source_revision: 1469
 ---
 
 # Programmversion und Kompilierungsdatum anzeigen
@@ -30,4 +28,4 @@ Das Fenster zeigt die SchILD-Version und das Kompilierungsdatum sowie Copyright 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Info_(Verwaltung_Hilfe)) · Quellrevision 1469.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Info_(Verwaltung_Hilfe))

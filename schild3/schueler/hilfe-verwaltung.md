@@ -1,7 +1,5 @@
 ---
 title: "Hilfefunktionen und Programminformationen aufrufen"
-source_pageid: 405
-source_revision: 3745
 ---
 
 # Hilfefunktionen und Programminformationen aufrufen
@@ -28,4 +26,4 @@ Rufen Sie *Verwaltung* auf, findet sich in der Kopfzeile das Menü für *Hilfe*.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Hilfe_(Verwaltung)) · Quellrevision 3745.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Hilfe_(Verwaltung))

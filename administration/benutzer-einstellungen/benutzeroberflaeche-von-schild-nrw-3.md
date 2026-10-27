@@ -1,7 +1,5 @@
 ---
 title: "Die Benutzeroberfläche kennenlernen"
-source_pageid: 1546
-source_revision: 6899
 ---
 
 # Die Benutzeroberfläche kennenlernen
@@ -175,4 +173,4 @@ Eine Aktion suchen, ohne zuvor eine passende Auswahl getroffen zu haben.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzeroberfl%C3%A4che_von_SchILD-NRW_3) · Quellrevision 6899.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzeroberfl%C3%A4che_von_SchILD-NRW_3)

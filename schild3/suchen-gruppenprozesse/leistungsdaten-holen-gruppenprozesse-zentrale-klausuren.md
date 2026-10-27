@@ -1,7 +1,5 @@
 ---
 title: "Leistungsdaten für die Zentrale Prüfung übernehmen"
-source_pageid: 1146
-source_revision: 5918
 ---
 
 # Leistungsdaten für die Zentrale Prüfung übernehmen
@@ -32,4 +30,4 @@ Wollen Sie die ZP-Teilnoten in den Reiter *ZP 10/ZK* holen, wird der folgende Gr
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Leistungsdaten_holen_(Gruppenprozesse_Zentrale_Klausuren)) · Quellrevision 5918.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Leistungsdaten_holen_(Gruppenprozesse_Zentrale_Klausuren))

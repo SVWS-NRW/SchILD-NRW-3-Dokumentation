@@ -1,7 +1,5 @@
 ---
 title: "NurFaecherMitNoten"
-source_pageid: 74
-source_revision: 502
 ---
 
 # NurFaecherMitNoten
@@ -33,4 +31,4 @@ z.B. in einem Zeugnis: Fächer ohne Noten erscheinen nicht auf dem Zeugnis. Dami
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=NurFaecherMitNoten) · Quellrevision 502.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=NurFaecherMitNoten)

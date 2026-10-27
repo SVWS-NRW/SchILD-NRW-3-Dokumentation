@@ -1,7 +1,5 @@
 ---
 title: "Eine Datei für Startklar exportieren"
-source_pageid: 1171
-source_revision: 3951
 ---
 
 # Eine Datei für Startklar exportieren
@@ -32,4 +30,4 @@ Es wird eine Textdatei *Startklar_SCHULNUMMER.txt* erstellt, in der sich eine Ko
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Startklar_(Verwaltung_Export)) · Quellrevision 3951.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Startklar_(Verwaltung_Export))

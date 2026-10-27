@@ -1,7 +1,5 @@
 ---
 title: "Einen Lernabschnitt mit seinen Leistungsdaten löschen"
-source_pageid: 832
-source_revision: 5415
 ---
 
 # Einen Lernabschnitt mit seinen Leistungsdaten löschen
@@ -42,4 +40,4 @@ Wie bei allen anderen Löschoperationen auch sollte zuvor eine Datensicherung du
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschnittsdaten_l%C3%B6schen_(Gruppenprozesse_Lernabschnitte,_Versetzung)) · Quellrevision 5415.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschnittsdaten_l%C3%B6schen_(Gruppenprozesse_Lernabschnitte,_Versetzung))

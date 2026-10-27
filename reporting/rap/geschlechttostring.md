@@ -1,7 +1,5 @@
 ---
 title: "GeschlechtToString"
-source_pageid: 47
-source_revision: 339
 ---
 
 # GeschlechtToString
@@ -34,4 +32,4 @@ lAnrede:=GeschlechtToStr(Schueler['Geschlecht'],'Schüler','Schülerin')
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=GeschlechtToString) · Quellrevision 339.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=GeschlechtToString)

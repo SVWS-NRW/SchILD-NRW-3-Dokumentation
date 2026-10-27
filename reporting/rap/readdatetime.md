@@ -1,7 +1,5 @@
 ---
 title: "ReadDateTime"
-source_pageid: 81
-source_revision: 509
 ---
 
 # ReadDateTime
@@ -46,4 +44,4 @@ Procedure Label1OnGetText(var Text: String);
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ReadDateTime) · Quellrevision 509.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ReadDateTime)

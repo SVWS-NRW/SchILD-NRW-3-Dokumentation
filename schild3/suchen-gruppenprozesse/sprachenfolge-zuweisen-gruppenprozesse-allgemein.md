@@ -1,7 +1,5 @@
 ---
 title: "Eine Sprachenfolge gruppenweise zuweisen"
-source_pageid: 477
-source_revision: 2581
 ---
 
 # Eine Sprachenfolge gruppenweise zuweisen
@@ -26,4 +24,4 @@ Weisen Sie eine gemeinsame Sprachenfolge nur einer Gruppe mit tatsächlich gleic
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachenfolge_zuweisen_(Gruppenprozesse_Allgemein)) · Quellrevision 2581.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachenfolge_zuweisen_(Gruppenprozesse_Allgemein))

@@ -1,7 +1,5 @@
 ---
 title: "Den passenden Einstieg in den Reportdesigner finden"
-source_pageid: 1610
-source_revision: 7190
 ---
 
 # Den passenden Einstieg in den Reportdesigner finden
@@ -77,4 +75,4 @@ Weiterführend: [Hilfe und Fortbildung zum Reportdesigner](/reporting/reportdesi
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reportdesigner_-_Schnelleinstieg) · Quellrevision 7190.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reportdesigner_-_Schnelleinstieg)

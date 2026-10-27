@@ -1,7 +1,5 @@
 ---
 title: "Schulinterne Funktionen für Lehrkräfte vorbereiten"
-source_pageid: 1670
-source_revision: 7207
 ---
 
 # Schulinterne Funktionen für Lehrkräfte vorbereiten
@@ -16,4 +14,4 @@ Die Liste der Funktionen wird im Katalogbereich bearbeitet. Die individuelle Zuo
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulinterne_Funktionen_(Schulbezogene_Kataloge)) · Quellrevision 7207.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulinterne_Funktionen_(Schulbezogene_Kataloge))

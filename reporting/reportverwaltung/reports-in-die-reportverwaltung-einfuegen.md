@@ -1,7 +1,5 @@
 ---
 title: "Reports in die Reportverwaltung einfügen"
-source_pageid: 1572
-source_revision: 6685
 ---
 
 # Reports in die Reportverwaltung einfügen
@@ -89,4 +87,4 @@ Kontrollieren Sie das Ergebnis. Entscheiden Sie, ob der Report für Ihre Schule 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reports_in_die_Reportverwaltung_einf%C3%BCgen) · Quellrevision 6685.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reports_in_die_Reportverwaltung_einf%C3%BCgen)

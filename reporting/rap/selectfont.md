@@ -1,7 +1,5 @@
 ---
 title: "Selectfont"
-source_pageid: 98
-source_revision: 538
 ---
 
 # Selectfont
@@ -40,4 +38,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Selectfont) · Quellrevision 538.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Selectfont)

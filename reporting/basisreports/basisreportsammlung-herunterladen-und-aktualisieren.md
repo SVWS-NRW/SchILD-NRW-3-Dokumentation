@@ -1,7 +1,5 @@
 ---
 title: "Die Basisreportsammlung herunterladen und aktualisieren"
-source_pageid: 1609
-source_revision: 6846
 ---
 
 # Die Basisreportsammlung herunterladen und aktualisieren
@@ -80,4 +78,4 @@ Legen Sie sich im Reportverzeichnis einen Ordner wie „Standard“ an und kopie
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Herunterladen_und_aktualisieren) · Quellrevision 6846.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Herunterladen_und_aktualisieren)

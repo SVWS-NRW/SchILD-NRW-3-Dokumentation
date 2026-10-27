@@ -1,7 +1,5 @@
 ---
 title: "Fehlende Noten vor Konferenz und Zeugnisdruck suchen"
-source_pageid: 324
-source_revision: 5395
 ---
 
 # Fehlende Noten vor Konferenz und Zeugnisdruck suchen
@@ -42,4 +40,4 @@ Die im Fenster **Prüfung auf fehlende Noten** erstellte Liste der fehlenden Not
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_ohne_Noten_suchen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 5395.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_ohne_Noten_suchen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

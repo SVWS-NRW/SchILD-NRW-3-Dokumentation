@@ -1,7 +1,5 @@
 ---
 title: "KAoA-Maßnahmen gruppenweise erfassen"
-source_pageid: 1114
-source_revision: 3678
 ---
 
 # KAoA-Maßnahmen gruppenweise erfassen
@@ -28,4 +26,4 @@ Eventuell weißt der Gruppenprozess auf Eingaben hin, die nicht den Vorgaben ent
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=KAoA-Daten_eingeben_(Gruppenprozesse_Allgemein)) · Quellrevision 3678.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=KAoA-Daten_eingeben_(Gruppenprozesse_Allgemein))

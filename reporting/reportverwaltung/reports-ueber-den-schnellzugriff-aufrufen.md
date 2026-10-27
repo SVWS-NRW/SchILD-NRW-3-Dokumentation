@@ -1,7 +1,5 @@
 ---
 title: "Reports über den Schnellzugriff aufrufen"
-source_pageid: 1574
-source_revision: 7082
 ---
 
 # Reports über den Schnellzugriff aufrufen
@@ -34,4 +32,4 @@ Die weiteren Einstellungen erläutert [Individuelle Einstellungen](/administrati
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reports_%C3%BCber_den_Schnellzugriff_aufrufen) · Quellrevision 7082.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reports_%C3%BCber_den_Schnellzugriff_aufrufen)

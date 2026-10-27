@@ -1,7 +1,5 @@
 ---
 title: "FilterLaufbahnJahr"
-source_pageid: 41
-source_revision: 334
 ---
 
 # FilterLaufbahnJahr
@@ -43,4 +41,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterLaufbahnJahr) · Quellrevision 334.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterLaufbahnJahr)

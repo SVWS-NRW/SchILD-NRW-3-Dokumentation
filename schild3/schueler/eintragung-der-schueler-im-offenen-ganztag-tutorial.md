@@ -1,7 +1,5 @@
 ---
 title: "Ganztag und Betreuungsangebote erfassen"
-source_pageid: 356
-source_revision: 6958
 ---
 
 # Ganztag und Betreuungsangebote erfassen
@@ -40,4 +38,4 @@ Merkmale für Halbtagskinder können ebenfalls über einen Gruppenprozess gesetz
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eintragung_der_Sch%C3%BCler_im_offenen_Ganztag_(Tutorial)) · Quellrevision 6958.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eintragung_der_Sch%C3%BCler_im_offenen_Ganztag_(Tutorial))

@@ -1,7 +1,5 @@
 ---
 title: "AnzahlElemente"
-source_pageid: 18
-source_revision: 309
 ---
 
 # AnzahlElemente
@@ -36,4 +34,4 @@ if AnzahlElemente( txt, ',' ) > 2 then
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=AnzahlElemente) · Quellrevision 309.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=AnzahlElemente)

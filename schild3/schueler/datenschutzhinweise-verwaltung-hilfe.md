@@ -1,7 +1,5 @@
 ---
 title: "Datenschutzhinweise und Löschpflichten nachschlagen"
-source_pageid: 406
-source_revision: 5304
 ---
 
 # Datenschutzhinweise und Löschpflichten nachschlagen
@@ -44,4 +42,4 @@ und mehr.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenschutzhinweise_(Verwaltung_Hilfe)) · Quellrevision 5304.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenschutzhinweise_(Verwaltung_Hilfe))

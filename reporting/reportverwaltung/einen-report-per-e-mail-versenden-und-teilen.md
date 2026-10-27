@@ -1,7 +1,5 @@
 ---
 title: "Einen Report per E-Mail versenden und teilen"
-source_pageid: 1570
-source_revision: 6561
 ---
 
 # Einen Report per E-Mail versenden und teilen
@@ -35,4 +33,4 @@ Wenn Sie schülerindividuelle Reportausgaben gesammelt versenden möchten, verwe
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einen_Report_per_E-Mail_versenden_und_teilen) · Quellrevision 6561.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einen_Report_per_E-Mail_versenden_und_teilen)

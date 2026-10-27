@@ -1,7 +1,5 @@
 ---
 title: "Anrede"
-source_pageid: 17
-source_revision: 308
 ---
 
 # Anrede
@@ -39,4 +37,4 @@ lAnrede:=Anrede('Herr','','Meier','Frau','Dr.','Müller-Lüdenscheid')
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Anrede) · Quellrevision 308.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Anrede)

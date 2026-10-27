@@ -1,7 +1,5 @@
 ---
 title: "Mündliche ZP10-Prüfungen festlegen"
-source_pageid: 1161
-source_revision: 3927
 ---
 
 # Mündliche ZP10-Prüfungen festlegen
@@ -36,4 +34,4 @@ Somit kann dieses *Prüfungsprotokoll* nicht dazu dienen, auf die Schnelle zu ü
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=M%C3%BCndliche_Pr%C3%BCfungen_festlegen_(Gruppenprozesse_Zentrale_Klausuren)) · Quellrevision 3927.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=M%C3%BCndliche_Pr%C3%BCfungen_festlegen_(Gruppenprozesse_Zentrale_Klausuren))

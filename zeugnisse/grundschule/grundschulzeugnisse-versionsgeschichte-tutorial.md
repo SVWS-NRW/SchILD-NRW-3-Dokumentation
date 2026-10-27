@@ -1,7 +1,5 @@
 ---
 title: "Frühere Änderungen an Grundschulzeugnissen nachschlagen"
-source_pageid: 1458
-source_revision: 5860
 ---
 
 # Frühere Änderungen an Grundschulzeugnissen nachschlagen
@@ -105,4 +103,4 @@ Die Floskel für SuS mit Förderschwerpunkt wurde angepasst: FSP: Lernen + zield
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Versionsgeschichte_(Tutorial)) · Quellrevision 5860.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Versionsgeschichte_(Tutorial))

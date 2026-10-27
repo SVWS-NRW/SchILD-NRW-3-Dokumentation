@@ -1,7 +1,5 @@
 ---
 title: "FileOpenDlg"
-source_pageid: 35
-source_revision: 328
 ---
 
 # FileOpenDlg
@@ -35,4 +33,4 @@ Fn:=FileOpenDlg('*.txt','c:\Text','Textdateien|*.txt|Alle Dateien|*.*');
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FileOpenDlg) · Quellrevision 328.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FileOpenDlg)

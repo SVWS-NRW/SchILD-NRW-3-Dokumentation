@@ -1,7 +1,5 @@
 ---
 title: "Schulbezogene Angaben und Lehrbefähigungen erfassen"
-source_pageid: 277
-source_revision: 3759
 ---
 
 # Schulbezogene Angaben und Lehrbefähigungen erfassen
@@ -34,5 +32,5 @@ Welche Einträge für die Statistik benötigt werden und wie sie anzugeben sind,
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbezogene_Daten_(Lehrkr%C3%A4fte)) · Quellrevision 3759.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbezogene_Daten_(Lehrkr%C3%A4fte))
 

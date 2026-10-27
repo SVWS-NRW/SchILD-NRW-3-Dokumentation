@@ -1,7 +1,5 @@
 ---
 title: "Einen vorhandenen Report anpassen"
-source_pageid: 1568
-source_revision: 6680
 ---
 
 # Einen vorhandenen Report anpassen
@@ -97,4 +95,4 @@ Beispiele für mögliche Weiterentwicklungen:
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einen_vorhandenen_Report_anpassen) · Quellrevision 6680.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einen_vorhandenen_Report_anpassen)

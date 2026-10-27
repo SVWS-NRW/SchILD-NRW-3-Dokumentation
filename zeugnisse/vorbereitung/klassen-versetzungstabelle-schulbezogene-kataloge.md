@@ -1,7 +1,5 @@
 ---
 title: "Klassen, Folgeklassen und Prüfungsordnungen festlegen"
-source_pageid: 1652
-source_revision: 7104
 ---
 
 # Klassen, Folgeklassen und Prüfungsordnungen festlegen
@@ -102,4 +100,4 @@ Sind einer Klasse noch Schüler zugeordnet, kann die Klasse nicht gelöscht werd
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Klassen-/Versetzungstabelle_(Schulbezogene_Kataloge)) · Quellrevision 7104.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Klassen-/Versetzungstabelle_(Schulbezogene_Kataloge))

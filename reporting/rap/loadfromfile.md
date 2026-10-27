@@ -1,7 +1,5 @@
 ---
 title: "LoadFromFile"
-source_pageid: 61
-source_revision: 489
 ---
 
 # LoadFromFile
@@ -33,4 +31,4 @@ RichText1.RichText:=LoadFromFile(lFilename')
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LoadFromFile) · Quellrevision 489.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LoadFromFile)

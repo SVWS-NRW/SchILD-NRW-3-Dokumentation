@@ -1,7 +1,5 @@
 ---
 title: "GruppenDesBenutzers"
-source_pageid: 50
-source_revision: 343
 ---
 
 # GruppenDesBenutzers
@@ -40,4 +38,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=GruppenDesBenutzers) · Quellrevision 343.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=GruppenDesBenutzers)

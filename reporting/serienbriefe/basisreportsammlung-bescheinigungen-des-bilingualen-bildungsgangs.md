@@ -1,7 +1,5 @@
 ---
 title: "Bescheinigungen für den bilingualen Bildungsgang erstellen"
-source_pageid: 1590
-source_revision: 6859
 ---
 
 # Bescheinigungen für den bilingualen Bildungsgang erstellen
@@ -74,4 +72,4 @@ Nachfolgend sehen Sie ein Beispiel der zweiten Seite einer englischsprachigen bi
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Bescheinigungen_des_Bilingualen_Bildungsgangs) · Quellrevision 6859.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Bescheinigungen_des_Bilingualen_Bildungsgangs)

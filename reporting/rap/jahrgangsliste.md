@@ -1,7 +1,5 @@
 ---
 title: "JahrgangsListe"
-source_pageid: 54
-source_revision: 482
 ---
 
 # JahrgangsListe
@@ -39,4 +37,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=JahrgangsListe) · Quellrevision 482.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=JahrgangsListe)

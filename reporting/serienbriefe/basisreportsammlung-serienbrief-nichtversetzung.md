@@ -1,7 +1,5 @@
 ---
 title: "Serienbriefe zur Nichtversetzung erstellen"
-source_pageid: 1525
-source_revision: 6856
 ---
 
 # Serienbriefe zur Nichtversetzung erstellen
@@ -93,4 +91,4 @@ Zusätzlich können eine Excel-Übersicht und eine LibreCalc-Übersicht herunter
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Serienbrief_Nichtversetzung) · Quellrevision 6856.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Serienbrief_Nichtversetzung)

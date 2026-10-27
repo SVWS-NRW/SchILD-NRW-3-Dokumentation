@@ -1,7 +1,5 @@
 ---
 title: "Sprachfeststellungsprüfungen als Fremdsprachenersatz erfassen"
-source_pageid: 1436
-source_revision: 6084
 ---
 
 # Sprachfeststellungsprüfungen als Fremdsprachenersatz erfassen
@@ -230,4 +228,4 @@ Das Beispielfach hier wäre etwa *FSP-T* oder *FSP Türkisch*.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachpr%C3%BCfung_Feststellungspr%C3%BCfung_anstelle_von_Pflicht-_oder_Wahlpflichtfremdsprachen_(Tutorial)) · Quellrevision 6084.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachpr%C3%BCfung_Feststellungspr%C3%BCfung_anstelle_von_Pflicht-_oder_Wahlpflichtfremdsprachen_(Tutorial))

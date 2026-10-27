@@ -1,7 +1,5 @@
 ---
 title: "Teilleistungsarten allen Fächern einer Gruppe zuweisen"
-source_pageid: 322
-source_revision: 5387
 ---
 
 # Teilleistungsarten allen Fächern einer Gruppe zuweisen
@@ -34,4 +32,4 @@ Berücksichtigen Sie, dass bei diesem Gruppenprozess nicht nach Fächern oder Ku
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungsarten_global_zuweisen_(Gruppenprozesse_Teilleistungen)) · Quellrevision 5387.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungsarten_global_zuweisen_(Gruppenprozesse_Teilleistungen))

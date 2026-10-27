@@ -1,3 +1,4 @@
+import { siteBase } from './site-base.mjs'
 import { defineConfig } from 'vitepress'
 import navigation from './navigation.json'
 import { createSidebar } from './sidebar.mjs'
@@ -10,15 +11,16 @@ process.env.VITE_EXTRA_EXTENSIONS = extraExtensions
 
 export default defineConfig({
   lang: 'de-DE',
+  base: siteBase,
   vite: { define: { 'import.meta.env.VITE_EXTRA_EXTENSIONS': JSON.stringify(extraExtensions) } },
   title: 'SchILD-NRW 3',
   description: 'Dokumentation für SchILD-NRW 3.6.0: Praxisanleitungen, Reporting und Nachschlagewerk',
-  srcExclude: ['README.md', 'CONTRIBUTING.md', 'tests/**', 'scripts/**', 'node_modules/**'],
+  srcExclude: ['README.md', 'CONTRIBUTING.md', 'tests/**', 'scripts/**', 'node_modules/**', 'tmp/**', 'test-results/**'],
   transformHtml: compactSiteData,
   buildEnd: verifyBuiltHtml,
   markdown: {
     image: { lazyLoading: true },
-    config: configureMarkdown,
+    config: md => configureMarkdown(md, siteBase),
     container: containerLabels
   },
   themeConfig: {
@@ -63,7 +65,7 @@ export default defineConfig({
         }
       }
     },
-    socialLinks: [{ icon: 'github', link: 'https://github.com/Raffenberg/SchILD3_Doku' }]
+    socialLinks: [{ icon: 'github', link: 'https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation' }]
   }
 })
 

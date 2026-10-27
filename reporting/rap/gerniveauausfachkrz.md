@@ -1,7 +1,5 @@
 ---
 title: "GeRNiveauAusFachKrz"
-source_pageid: 46
-source_revision: 340
 ---
 
 # GeRNiveauAusFachKrz
@@ -34,4 +32,4 @@ GeRNiveauAusFachKrz('E5');
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=GeRNiveauAusFachKrz) · Quellrevision 340.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=GeRNiveauAusFachKrz)

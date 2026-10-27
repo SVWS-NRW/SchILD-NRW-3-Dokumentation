@@ -1,7 +1,5 @@
 ---
 title: "Wiederholungen"
-source_pageid: 133
-source_revision: 527
 ---
 
 # Wiederholungen
@@ -38,4 +36,4 @@ Procedure Label4711OnGetText(var Text: String);
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Wiederholungen) · Quellrevision 527.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Wiederholungen)

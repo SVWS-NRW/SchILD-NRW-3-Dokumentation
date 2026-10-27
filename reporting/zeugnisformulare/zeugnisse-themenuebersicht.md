@@ -1,7 +1,5 @@
 ---
 title: "Den Zeugnisdruck vorbereiten"
-source_pageid: 1619
-source_revision: 6861
 ---
 
 # Den Zeugnisdruck vorbereiten
@@ -62,4 +60,4 @@ Zeugnisdruck und Statusänderung in einem Vorgang
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisse_Themen%C3%BCbersicht) · Quellrevision 6861.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisse_Themen%C3%BCbersicht)

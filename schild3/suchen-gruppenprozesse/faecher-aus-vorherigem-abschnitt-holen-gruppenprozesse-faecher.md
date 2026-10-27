@@ -1,7 +1,5 @@
 ---
 title: "Fächer aus einem früheren Lernabschnitt übernehmen"
-source_pageid: 810
-source_revision: 5357
 ---
 
 # Fächer aus einem früheren Lernabschnitt übernehmen
@@ -30,4 +28,4 @@ Starten Sie dann den `Prozess` mit dem Schalter in der Gruppenprozess-Kopfzeile.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_aus_vorherigem_Abschnitt_holen_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 5357.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_aus_vorherigem_Abschnitt_holen_(Gruppenprozesse_F%C3%A4cher))

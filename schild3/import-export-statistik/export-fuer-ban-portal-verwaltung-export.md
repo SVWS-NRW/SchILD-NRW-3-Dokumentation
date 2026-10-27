@@ -1,7 +1,5 @@
 ---
 title: "Schülerdaten für das BAN-Portal vorbereiten und exportieren"
-source_pageid: 1421
-source_revision: 6993
 ---
 
 # Schülerdaten für das BAN-Portal vorbereiten und exportieren
@@ -116,4 +114,4 @@ Felder ohne Eintrag werden als *A - Ohne Abschluss* gewertet.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Export_f%C3%BCr_BAN-Portal_(Verwaltung_Export)) · Quellrevision 6993.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Export_f%C3%BCr_BAN-Portal_(Verwaltung_Export))

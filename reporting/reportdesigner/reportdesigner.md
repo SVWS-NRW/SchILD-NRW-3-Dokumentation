@@ -1,7 +1,5 @@
 ---
 title: "Den Reportdesigner öffnen und verwenden"
-source_pageid: 1526
-source_revision: 7142
 ---
 
 # Den Reportdesigner öffnen und verwenden
@@ -102,4 +100,4 @@ Auf der Internetseite des Herstellers finden Sie gute deutschsprachige Anleitung
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reportdesigner) · Quellrevision 7142.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reportdesigner)

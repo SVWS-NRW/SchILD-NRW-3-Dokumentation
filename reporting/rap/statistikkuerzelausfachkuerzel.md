@@ -1,7 +1,5 @@
 ---
 title: "StatistikKuerzelAusFachKuerzel"
-source_pageid: 123
-source_revision: 563
 ---
 
 # StatistikKuerzelAusFachKuerzel
@@ -35,4 +33,4 @@ then ShowMessage( ’Das Fach ist DEUTSCH’ );
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=StatistikKuerzelAusFachKuerzel) · Quellrevision 563.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=StatistikKuerzelAusFachKuerzel)

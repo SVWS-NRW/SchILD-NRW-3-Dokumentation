@@ -1,7 +1,5 @@
 ---
 title: "Basisreports auswählen und verwenden"
-source_pageid: 1611
-source_revision: 7189
 ---
 
 # Basisreports auswählen und verwenden
@@ -90,4 +88,4 @@ Vor dem Umzug nach GitHub
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreports_%26_Downloads_Themen%C3%BCbersicht) · Quellrevision 7189.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreports_%26_Downloads_Themen%C3%BCbersicht)

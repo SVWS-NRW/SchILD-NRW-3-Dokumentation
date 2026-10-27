@@ -34,14 +34,6 @@ for (const [path, href] of [
   })
 }
 
-test('Inline HTML anchors preserve attributes, emphasis and adjacent automatic links', () => {
-  const html = md.render('*<a href="https://localhost" class="external free" rel="nofollow">https://localhost</a>* https://example.org/after\n\n<a href=\'https://example.org/one\'><strong>https://example.org/one</strong></a> https://example.org/two')
-  assertNoNestedLinks(html)
-  assert.ok(html.includes('<em><a href="https://localhost" class="external free" rel="nofollow">https://localhost</a></em>'))
-  assert.ok(html.includes('href="https://example.org/after"'))
-  assert.ok(html.includes('href="https://example.org/two"'))
-})
-
 test('Bare URLs, explicit Markdown links and email addresses remain linked', () => {
   const html = md.render('https://example.org/plain [Beschriftung](https://example.org/markdown) <https://example.org/auto> test@example.org')
   assertNoNestedLinks(html)

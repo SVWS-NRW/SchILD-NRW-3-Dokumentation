@@ -1,7 +1,5 @@
 ---
 title: "RtfToPlaintext"
-source_pageid: 91
-source_revision: 519
 ---
 
 # RtfToPlaintext
@@ -32,4 +30,4 @@ Memo1.Text:=RtfToPlaintext(SchuelerLernabschnitte['ZeugnisBem'])
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=RtfToPlaintext) · Quellrevision 519.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=RtfToPlaintext)

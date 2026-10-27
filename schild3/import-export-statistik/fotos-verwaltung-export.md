@@ -1,7 +1,5 @@
 ---
 title: "Schülerfotos als Bilddateien exportieren"
-source_pageid: 893
-source_revision: 5281
 ---
 
 # Schülerfotos als Bilddateien exportieren
@@ -33,4 +31,4 @@ Für den automatischen Foto-Import gibt es ein kostenpflichtiges Programm der Fi
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fotos_(Verwaltung_Export)) · Quellrevision 5281.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fotos_(Verwaltung_Export))

@@ -1,7 +1,5 @@
 ---
 title: "Die Abitur-Gruppenprozesse im Ablauf verwenden"
-source_pageid: 1021
-source_revision: 3639
 ---
 
 # Die Abitur-Gruppenprozesse im Ablauf verwenden
@@ -31,4 +29,4 @@ Die Gruppenprozesse bilden in ihrer Reihenfolge den Verlauf des Abiturprozesses 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abitur_(Gruppenprozesse_Abitur)) · Quellrevision 3639.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abitur_(Gruppenprozesse_Abitur))

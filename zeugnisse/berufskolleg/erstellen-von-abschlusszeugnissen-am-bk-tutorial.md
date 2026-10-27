@@ -1,7 +1,5 @@
 ---
 title: "Abschlusszeugnisse an der Berufsschule erstellen"
-source_pageid: 1358
-source_revision: 6864
 ---
 
 # Abschlusszeugnisse an der Berufsschule erstellen
@@ -76,4 +74,4 @@ Der Zeugnisdruck ist jeweils getrennt für den konkreten Abschluss beziehungswei
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Erstellen_von_Abschlusszeugnissen_am_BK_(Tutorial)) · Quellrevision 6864.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Erstellen_von_Abschlusszeugnissen_am_BK_(Tutorial))

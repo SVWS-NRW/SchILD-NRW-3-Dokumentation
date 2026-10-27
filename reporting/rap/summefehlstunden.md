@@ -1,7 +1,5 @@
 ---
 title: "SummeFehlstunden"
-source_pageid: 125
-source_revision: 565
 ---
 
 # SummeFehlstunden
@@ -37,4 +35,4 @@ Var
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SummeFehlstunden) · Quellrevision 565.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SummeFehlstunden)

@@ -1,7 +1,5 @@
 ---
 title: "Jahrgänge und ihre Statistikzuordnung festlegen"
-source_pageid: 1649
-source_revision: 7089
 ---
 
 # Jahrgänge und ihre Statistikzuordnung festlegen
@@ -69,4 +67,4 @@ Wenn ein Folgejahrgang eingetragen ist, dann muss dies für alle bestehenden Jah
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Jahrg%C3%A4nge_(Schulbezogene_Kataloge)) · Quellrevision 7089.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Jahrg%C3%A4nge_(Schulbezogene_Kataloge))

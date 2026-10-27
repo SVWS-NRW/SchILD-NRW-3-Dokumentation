@@ -1,7 +1,5 @@
 ---
 title: "SelectOption"
-source_pageid: 102
-source_revision: 542
 ---
 
 # SelectOption
@@ -45,4 +43,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectOption) · Quellrevision 542.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectOption)

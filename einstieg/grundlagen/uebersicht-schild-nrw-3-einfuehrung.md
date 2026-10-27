@@ -1,7 +1,5 @@
 ---
 title: "SchILD-NRW 3 kennenlernen"
-source_pageid: 1263
-source_revision: 6968
 ---
 
 # SchILD-NRW 3 kennenlernen
@@ -61,4 +59,4 @@ Beziehen Sie [SchILD-NRW 3](<https://svws.nrw.de>) kostenfrei über die Webseite
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=%C3%9Cbersicht:_SchILD-NRW_3_(Einf%C3%BChrung)) · Quellrevision 6968.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=%C3%9Cbersicht:_SchILD-NRW_3_(Einf%C3%BChrung))

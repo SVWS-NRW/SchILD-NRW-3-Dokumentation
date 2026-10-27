@@ -1,7 +1,5 @@
 ---
 title: "Halbjahres- und Schuljahreswechsel durchführen"
-source_pageid: 728
-source_revision: 7170
 ---
 
 # Halbjahres- und Schuljahreswechsel durchführen
@@ -165,8 +163,6 @@ Die Eingangsjahrgänge der Schule sind nun leer, so dass die Schüler aus der *N
 
 Über die entsprechenden Werkzeuge sind ebenfalls passende Fächer, Kurse und Lehrkräfte einzutragen.
 
-[index.php?title=Kategorie:SchILD-NRW](</schild3/>) [index.php?title=Kategorie:Versetzung](</zeugnisse/>) [index.php?title=Kategorie:Zeugnisse](</zeugnisse/>)
-
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzung_ins_neue_Schuljahr_und_Abschnittswechsel_durchf%C3%BChren_(Einf%C3%BChrung_in_SchILD-NRW)) · Quellrevision 7170.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzung_ins_neue_Schuljahr_und_Abschnittswechsel_durchf%C3%BChren_(Einf%C3%BChrung_in_SchILD-NRW))

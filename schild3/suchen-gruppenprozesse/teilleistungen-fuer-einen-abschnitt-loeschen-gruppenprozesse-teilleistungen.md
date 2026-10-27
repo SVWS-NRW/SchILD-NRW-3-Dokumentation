@@ -1,7 +1,5 @@
 ---
 title: "Teilleistungen eines Lernabschnitts löschen"
-source_pageid: 320
-source_revision: 5374
 ---
 
 # Teilleistungen eines Lernabschnitts löschen
@@ -28,4 +26,4 @@ Berücksichtigen Sie, dass die Teilleistungen komplett aus den Leistungsdaten ge
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungen_f%C3%BCr_einen_Abschnitt_l%C3%B6schen_(Gruppenprozesse_Teilleistungen)) · Quellrevision 5374.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungen_f%C3%BCr_einen_Abschnitt_l%C3%B6schen_(Gruppenprozesse_Teilleistungen))

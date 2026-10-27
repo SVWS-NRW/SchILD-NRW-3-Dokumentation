@@ -1,6 +1,6 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { createMarkdownRenderer } from 'vitepress'
+import { createMarkdownRenderer, disposeMdItInstance } from 'vitepress'
 import { configureMarkdown, containerLabels } from '../.vitepress/markdown.mjs'
 const md = await createMarkdownRenderer(process.cwd(), {config:configureMarkdown,container:containerLabels})
 test('Hinweisboxen und verschachtelte Details behalten Inhalt und Icons', () => {
@@ -38,4 +38,12 @@ test('Markdown-Bilder behalten Originalverweis, Sonderzeichen und formatierte Un
  assert.match(html, /<em>Die <strong>Datei<\/strong> <code>Zeugniseinstellungen\.ini<\/code> bleibt erhalten\.<\/em>/)
  assert.equal((html.match(/<img /g)||[]).length,1)
  assert.equal((html.match(/<a /g)||[]).length,1)
+})
+
+test('Download-Attribute behalten den Veröffentlichungspfad', async () => {
+ disposeMdItInstance()
+ const prefixed = await createMarkdownRenderer(process.cwd(), { config: md => configureMarkdown(md, '/doku/') }, '/doku/')
+ const html = prefixed.render('[Datei](/dateien/test.xlsx){download}')
+ assert.match(html, /href="\/doku\/dateien\/test.xlsx"/)
+ assert.match(html, /download/)
 })

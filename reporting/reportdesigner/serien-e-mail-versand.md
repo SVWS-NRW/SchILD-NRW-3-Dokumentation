@@ -1,7 +1,5 @@
 ---
 title: "Reportausgaben als Serien-E-Mail versenden"
-source_pageid: 1577
-source_revision: 6822
 ---
 
 # Reportausgaben als Serien-E-Mail versenden
@@ -58,4 +56,4 @@ Reports mit Gruppenwechsel LSchueler.SchulwechselNr werden per E-Mail an die jew
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Serien-E-Mail-Versand) · Quellrevision 6822.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Serien-E-Mail-Versand)

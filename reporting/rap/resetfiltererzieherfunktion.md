@@ -1,7 +1,5 @@
 ---
 title: "ResetFilterErzieherfunktion"
-source_pageid: 89
-source_revision: 517
 ---
 
 # ResetFilterErzieherfunktion
@@ -18,4 +16,4 @@ Entfernt den über FilterErzieherfunktion gesetzten Filter
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ResetFilterErzieherfunktion) · Quellrevision 517.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ResetFilterErzieherfunktion)

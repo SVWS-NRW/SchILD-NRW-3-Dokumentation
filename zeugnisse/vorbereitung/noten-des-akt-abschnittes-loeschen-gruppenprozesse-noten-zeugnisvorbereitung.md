@@ -1,7 +1,5 @@
 ---
 title: "Noten eines ausgewählten Lernabschnitts löschen"
-source_pageid: 830
-source_revision: 2540
 ---
 
 # Noten eines ausgewählten Lernabschnitts löschen
@@ -32,4 +30,4 @@ Wie bei allen anderen Löschoperationen auch sollte zuvor eine Datensicherung in
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noten_des_akt._Abschnittes_l%C3%B6schen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 2540.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noten_des_akt._Abschnittes_l%C3%B6schen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

@@ -1,7 +1,5 @@
 ---
 title: "SetJgIntervall ASD"
-source_pageid: 110
-source_revision: 550
 ---
 
 # SetJgIntervall ASD
@@ -32,4 +30,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetJgIntervall_ASD) · Quellrevision 550.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetJgIntervall_ASD)

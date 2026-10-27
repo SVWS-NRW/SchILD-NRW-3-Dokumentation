@@ -1,7 +1,5 @@
 ---
 title: "Rufnamen und alle Vornamen korrekt führen"
-source_pageid: 1494
-source_revision: 6075
 ---
 
 # Rufnamen und alle Vornamen korrekt führen
@@ -71,4 +69,4 @@ Hinweis: Ist der offizielle Vorname in dem Beispiel Anna Miriam Tina (Rufname is
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Alle_Vornamen_anpassen_(Gruppenprozesse_Allgemein)) · Quellrevision 6075.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Alle_Vornamen_anpassen_(Gruppenprozesse_Allgemein))

@@ -1,7 +1,5 @@
 ---
 title: "Benötigte Schulen in NRW in den Katalog aufnehmen"
-source_pageid: 338
-source_revision: 5426
 ---
 
 # Benötigte Schulen in NRW in den Katalog aufnehmen
@@ -28,4 +26,4 @@ Beim Nutzen dieser Filterbedingung und nach Eingabe eines Ortes, Schulnummer o.�
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulen_in_NRW_(Allgemeine_Kataloge)) · Quellrevision 5426.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulen_in_NRW_(Allgemeine_Kataloge))

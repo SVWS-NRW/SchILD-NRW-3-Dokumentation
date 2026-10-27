@@ -1,7 +1,5 @@
 ---
 title: "Fehlstundensummen automatisch berechnen"
-source_pageid: 1230
-source_revision: 5201
 ---
 
 # Fehlstundensummen automatisch berechnen
@@ -33,4 +31,4 @@ Achten Sie darauf, dass
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehlstunden-Summen_autom._berechnen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 5201.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehlstunden-Summen_autom._berechnen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

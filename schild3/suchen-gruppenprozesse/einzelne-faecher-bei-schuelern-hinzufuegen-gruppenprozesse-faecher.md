@@ -1,7 +1,5 @@
 ---
 title: "Einzelne Fächer bei einer Schülergruppe ergänzen"
-source_pageid: 302
-source_revision: 5348
 ---
 
 # Einzelne Fächer bei einer Schülergruppe ergänzen
@@ -30,4 +28,4 @@ Ebenso lässt sich Epochalunterricht über Gruppenprozesse zuweisen.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einzelne_F%C3%A4cher_bei_Sch%C3%BClern_hinzuf%C3%BCgen_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 5348.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einzelne_F%C3%A4cher_bei_Sch%C3%BClern_hinzuf%C3%BCgen_(Gruppenprozesse_F%C3%A4cher))

@@ -1,7 +1,5 @@
 ---
 title: "Abitur von der Zulassung bis zum Zeugnis bearbeiten"
-source_pageid: 387
-source_revision: 4849
 ---
 
 # Abitur von der Zulassung bis zum Zeugnis bearbeiten
@@ -250,4 +248,4 @@ Der Abiturprozess ist abschlossen.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Komplette_Abiturberechnungen_durchf%C3%BChren_(Tutorial)) · Quellrevision 4849.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Komplette_Abiturberechnungen_durchf%C3%BChren_(Tutorial))

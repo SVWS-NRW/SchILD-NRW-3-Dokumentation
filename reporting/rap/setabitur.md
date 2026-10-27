@@ -1,7 +1,5 @@
 ---
 title: "SetAbitur"
-source_pageid: 105
-source_revision: 545
 ---
 
 # SetAbitur
@@ -38,4 +36,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetAbitur) · Quellrevision 545.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetAbitur)

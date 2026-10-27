@@ -1,7 +1,5 @@
 ---
 title: "Bemerkungen zum Lernabschnitt erfassen"
-source_pageid: 505
-source_revision: 5316
 ---
 
 # Bemerkungen zum Lernabschnitt erfassen
@@ -44,5 +42,5 @@ Unter den Bemerkungen wird hier auch der Bereich für die *Zeugnis- und Abschlus
 
 ---
 
-[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Bemerkungen_(Aktuelles_Halbjahr_/_Aktueller_Abschnitt>) · Quellrevision 5316.
+[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Bemerkungen_(Aktuelles_Halbjahr_/_Aktueller_Abschnitt>)
 

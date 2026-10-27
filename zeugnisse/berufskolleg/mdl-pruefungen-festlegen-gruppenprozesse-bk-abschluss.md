@@ -1,7 +1,5 @@
 ---
 title: "Mündliche Prüfungen am Berufskolleg festlegen"
-source_pageid: 1288
-source_revision: 4714
 ---
 
 # Mündliche Prüfungen am Berufskolleg festlegen
@@ -20,4 +18,4 @@ Die *Freiwilligen mündlichen Prüfungen*, sofern sie nach der Prüfungsordnung 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mdl._Pr%C3%BCfungen_festlegen_(Gruppenprozesse_BK-Abschluss)) · Quellrevision 4714.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mdl._Pr%C3%BCfungen_festlegen_(Gruppenprozesse_BK-Abschluss))

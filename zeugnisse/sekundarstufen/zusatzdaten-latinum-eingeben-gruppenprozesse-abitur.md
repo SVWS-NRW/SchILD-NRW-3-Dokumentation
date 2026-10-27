@@ -1,7 +1,5 @@
 ---
 title: "Latinum, Graecum und Hebraicum eintragen"
-source_pageid: 395
-source_revision: 3629
 ---
 
 # Latinum, Graecum und Hebraicum eintragen
@@ -32,4 +30,4 @@ Ein Klick auf `Abbrechen` beendet die Operation, ohne Daten zu verändern.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zusatzdaten_(Latinum...)_eingeben_(Gruppenprozesse_Abitur)) · Quellrevision 3629.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zusatzdaten_(Latinum...)_eingeben_(Gruppenprozesse_Abitur))

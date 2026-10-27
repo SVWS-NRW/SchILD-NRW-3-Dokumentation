@@ -1,7 +1,5 @@
 ---
 title: "Noten der Zentralen Prüfung 10 importieren"
-source_pageid: 1116
-source_revision: 3971
 ---
 
 # Noten der Zentralen Prüfung 10 importieren
@@ -58,4 +56,4 @@ Sind Datei und Fächer vorbereitet, öffnen Sie **Verwaltung → Import → ZP 1
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZP10-Daten_(Verwaltung_Import)) · Quellrevision 3971.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZP10-Daten_(Verwaltung_Import))

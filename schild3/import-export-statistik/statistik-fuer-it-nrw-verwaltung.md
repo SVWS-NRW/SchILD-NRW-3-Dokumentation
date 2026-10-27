@@ -1,7 +1,5 @@
 ---
 title: "Die Statistikfunktionen in SchILD-NRW verwenden"
-source_pageid: 296
-source_revision: 3359
 ---
 
 # Die Statistikfunktionen in SchILD-NRW verwenden
@@ -27,4 +25,4 @@ SchILD unterstützt Sie bei der Erstellung der Statistik, indem im Vorfeld Daten
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Statistik_f%C3%BCr_IT.NRW_(Verwaltung)) · Quellrevision 3359.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Statistik_f%C3%BCr_IT.NRW_(Verwaltung))

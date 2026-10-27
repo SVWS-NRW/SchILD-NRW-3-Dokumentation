@@ -1,7 +1,5 @@
 ---
 title: "Sommer- und Wintersemester am WBK benennen"
-source_pageid: 1337
-source_revision: 4932
 ---
 
 # Sommer- und Wintersemester am WBK benennen
@@ -30,4 +28,4 @@ Auch in der Kopfzeile von SchILD-NRW werden die Semesterkürzel korrekt angezeig
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sommer-_und_Wintersemester_an_WBKs_(Tutorial)) · Quellrevision 4932.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sommer-_und_Wintersemester_an_WBKs_(Tutorial))

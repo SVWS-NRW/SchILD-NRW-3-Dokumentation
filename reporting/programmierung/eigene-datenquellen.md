@@ -1,7 +1,5 @@
 ---
 title: "Eigene Datenquellen für Reports definieren"
-source_pageid: 1583
-source_revision: 6551
 ---
 
 # Eigene Datenquellen für Reports definieren
@@ -104,4 +102,4 @@ Somit können beispielsweise DBTextfelder basierend auf der eigenen Datenquelle 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eigene_Datenquellen_definieren) · Quellrevision 6551.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eigene_Datenquellen_definieren)

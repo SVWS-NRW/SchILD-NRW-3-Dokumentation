@@ -1,7 +1,5 @@
 ---
 title: "Im SchILD-NRW-Forum nach Hilfe suchen"
-source_pageid: 408
-source_revision: 5306
 ---
 
 # Im SchILD-NRW-Forum nach Hilfe suchen
@@ -33,4 +31,4 @@ Sollte Sie Ihr Problem nicht finden, melden Sie sich an und schildern Sie den Sa
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Forum_SchILD-NRW_besuchen_(Verwaltung_Hilfe)) · Quellrevision 5306.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Forum_SchILD-NRW_besuchen_(Verwaltung_Hilfe))

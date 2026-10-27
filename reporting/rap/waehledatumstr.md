@@ -1,7 +1,5 @@
 ---
 title: "WaehleDatumStr"
-source_pageid: 131
-source_revision: 525
 ---
 
 # WaehleDatumStr
@@ -32,4 +30,4 @@ Liefert (z.B.) 'Sonntag, 26. Mai 1996'
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=WaehleDatumStr) · Quellrevision 525.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=WaehleDatumStr)

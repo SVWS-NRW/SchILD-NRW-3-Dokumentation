@@ -1,7 +1,5 @@
 ---
 title: "Serienbrieftexte erstellen und wiederverwenden"
-source_pageid: 1562
-source_revision: 6850
 ---
 
 # Serienbrieftexte erstellen und wiederverwenden
@@ -214,4 +212,4 @@ Der Serienbrief wird nun mit den über MailMerge geladenen Daten aus der Datenba
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Einen_Serienbrieftext_erstellen_-_Schritt_f%C3%BCr_Schritt) · Quellrevision 6850.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Einen_Serienbrieftext_erstellen_-_Schritt_f%C3%BCr_Schritt)

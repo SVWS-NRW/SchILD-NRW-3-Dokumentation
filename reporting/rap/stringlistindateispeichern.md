@@ -1,7 +1,5 @@
 ---
 title: "StringListInDateiSpeichern"
-source_pageid: 1626
-source_revision: 6917
 ---
 
 # StringListInDateiSpeichern
@@ -35,4 +33,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=StringListInDateiSpeichern) · Quellrevision 6917.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=StringListInDateiSpeichern)

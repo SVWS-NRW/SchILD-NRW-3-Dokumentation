@@ -1,7 +1,5 @@
 ---
 title: "Eine Schülerin oder einen Schüler suchen"
-source_pageid: 565
-source_revision: 3357
 ---
 
 # Eine Schülerin oder einen Schüler suchen
@@ -37,4 +35,4 @@ In der Kopfzeile des Suchfensters kann auf den Reiter *Nach Erziehernamen suchen
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClersuche_(Sch%C3%BCler)) · Quellrevision 3357.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClersuche_(Sch%C3%BCler))

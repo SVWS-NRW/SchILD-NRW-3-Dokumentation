@@ -1,7 +1,5 @@
 ---
 title: "FileExists"
-source_pageid: 34
-source_revision: 327
 ---
 
 # FileExists
@@ -34,4 +32,4 @@ If FileExists('C:\Schild-NRW\Schild-Reports\Zeugnisse\Zeugnis_11.rtm') then...;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FileExists) · Quellrevision 327.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FileExists)

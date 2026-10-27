@@ -1,7 +1,5 @@
 ---
 title: "Schuldaten und Programmstand in der Vorschau prüfen"
-source_pageid: 287
-source_revision: 4004
 ---
 
 # Schuldaten und Programmstand in der Vorschau prüfen
@@ -22,4 +20,4 @@ Das Fenster ist in drei Elemente gegliedert:
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vorschau_(Verwaltung_Schule)) · Quellrevision 4004.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vorschau_(Verwaltung_Schule))

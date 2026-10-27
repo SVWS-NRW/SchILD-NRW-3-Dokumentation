@@ -1,7 +1,5 @@
 ---
 title: "Das Menüband für Schülerdaten verwenden"
-source_pageid: 378
-source_revision: 5237
 ---
 
 # Das Menüband für Schülerdaten verwenden
@@ -47,4 +45,4 @@ Im Bereich **Drucken** stehen **Drucken** und **Reports** zur Verfügung. Damit 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Sch%C3%BCler)) · Quellrevision 5237.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Sch%C3%BCler))

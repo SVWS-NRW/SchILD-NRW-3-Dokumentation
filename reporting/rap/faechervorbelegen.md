@@ -1,7 +1,5 @@
 ---
 title: "Faechervorbelegen"
-source_pageid: 32
-source_revision: 325
 ---
 
 # Faechervorbelegen
@@ -20,4 +18,4 @@ Erzeugt die Kopfzeile einer tabellarischen Leistungsübersicht. Dazu liest die P
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Faechervorbelegen) · Quellrevision 325.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Faechervorbelegen)

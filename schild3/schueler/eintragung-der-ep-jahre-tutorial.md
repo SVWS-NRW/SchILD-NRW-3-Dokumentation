@@ -1,7 +1,5 @@
 ---
 title: "Die Jahre der Schuleingangsphase eintragen"
-source_pageid: 1501
-source_revision: 7204
 ---
 
 # Die Jahre der Schuleingangsphase eintragen
@@ -48,4 +46,4 @@ Achten Sie nach Möglichkeit darauf, dass einer weiterführenden Schule das korr
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eintragung_der_EP-Jahre_(Tutorial)) · Quellrevision 7204.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eintragung_der_EP-Jahre_(Tutorial))

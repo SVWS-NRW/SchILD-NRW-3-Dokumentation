@@ -1,7 +1,5 @@
 ---
 title: "Das Menüband zur Schülerauswahl verwenden"
-source_pageid: 309
-source_revision: 4277
 ---
 
 # Das Menüband zur Schülerauswahl verwenden
@@ -50,4 +48,4 @@ Nutzen Sie die Schnellzugriffe zum Zurücksetzen der Auswahl und zum Laden oder 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Auswahl)) · Quellrevision 4277.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Auswahl))

@@ -1,7 +1,5 @@
 ---
 title: "Aufnahmebestätigungen aus Schüler Online importieren"
-source_pageid: 1182
-source_revision: 5202
 ---
 
 # Aufnahmebestätigungen aus Schüler Online importieren
@@ -16,4 +14,4 @@ Diese Datei kann in SchILD-NRW über *Verwaltung ➜ Import* ➜ **Aufnahmebest�
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Aufnahmebest%C3%A4tigung_(Verwaltung_Import)) · Quellrevision 5202.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Aufnahmebest%C3%A4tigung_(Verwaltung_Import))

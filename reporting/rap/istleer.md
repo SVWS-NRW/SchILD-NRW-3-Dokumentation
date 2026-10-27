@@ -1,7 +1,5 @@
 ---
 title: "IstLeer"
-source_pageid: 53
-source_revision: 346
 ---
 
 # IstLeer
@@ -37,4 +35,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=IstLeer) · Quellrevision 346.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=IstLeer)

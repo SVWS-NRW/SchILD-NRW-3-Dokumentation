@@ -1,7 +1,5 @@
 ---
 title: "Grafikfehler in Reports beheben"
-source_pageid: 1360
-source_revision: 6692
 ---
 
 # Grafikfehler in Reports beheben
@@ -34,4 +32,4 @@ Bei mehreren Bildern kann die Einstellung für alle Bilder erforderlich sein. Pr
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Problem_bei_der_Verwendung_von_Grafiken_(Tutorial)) · Quellrevision 6692.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Problem_bei_der_Verwendung_von_Grafiken_(Tutorial))

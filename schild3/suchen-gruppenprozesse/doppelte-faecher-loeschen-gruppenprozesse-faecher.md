@@ -1,7 +1,5 @@
 ---
 title: "Doppelte Fächereinträge entfernen"
-source_pageid: 479
-source_revision: 5359
 ---
 
 # Doppelte Fächereinträge entfernen
@@ -30,4 +28,4 @@ Gleichen Sie die vermuteten Doppelungen vor dem Löschen mit Kursart, Kurszuweis
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Doppelte_F%C3%A4cher_l%C3%B6schen_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 5359.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Doppelte_F%C3%A4cher_l%C3%B6schen_(Gruppenprozesse_F%C3%A4cher))

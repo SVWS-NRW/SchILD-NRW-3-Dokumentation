@@ -1,7 +1,5 @@
 ---
 title: "Abgeschlossene Fächer für Zeugnisse übernehmen"
-source_pageid: 789
-source_revision: 5410
 ---
 
 # Abgeschlossene Fächer für Zeugnisse übernehmen
@@ -47,4 +45,4 @@ Die Noten aus vorherigen Jahren werden dann mit vor- und nachgestelltem \* marki
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abgeschlossene_F%C3%A4cher_holen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 5410.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abgeschlossene_F%C3%A4cher_holen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

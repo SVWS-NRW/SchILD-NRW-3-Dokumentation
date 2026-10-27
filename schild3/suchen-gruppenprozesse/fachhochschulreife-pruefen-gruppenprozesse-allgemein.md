@@ -1,7 +1,5 @@
 ---
 title: "Die Fachhochschulreife für eine Schülergruppe prüfen"
-source_pageid: 1112
-source_revision: 3672
 ---
 
 # Die Fachhochschulreife für eine Schülergruppe prüfen
@@ -28,4 +26,4 @@ Die Prüfung von SchILD-NRW ist als Unterstützung ohne Gewähr zu verstehen. Di
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fachhochschulreife_pr%C3%BCfen_(Gruppenprozesse_Allgemein)) · Quellrevision 3672.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fachhochschulreife_pr%C3%BCfen_(Gruppenprozesse_Allgemein))

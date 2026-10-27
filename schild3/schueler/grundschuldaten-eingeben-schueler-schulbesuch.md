@@ -1,7 +1,5 @@
 ---
 title: "Daten zum Grundschulbesuch erfassen"
-source_pageid: 382
-source_revision: 3182
 ---
 
 # Daten zum Grundschulbesuch erfassen
@@ -24,4 +22,4 @@ Mit der Schaltfläche "**OK**" werden die eingegebenen Daten übernommen, mit de
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschuldaten_eingeben_(Sch%C3%BCler_Schulbesuch)) · Quellrevision 3182.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschuldaten_eingeben_(Sch%C3%BCler_Schulbesuch))

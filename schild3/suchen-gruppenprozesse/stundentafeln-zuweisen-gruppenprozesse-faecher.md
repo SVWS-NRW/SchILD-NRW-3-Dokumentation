@@ -1,7 +1,5 @@
 ---
 title: "Stundentafeln einer Schülergruppe zuweisen"
-source_pageid: 297
-source_revision: 5342
 ---
 
 # Stundentafeln einer Schülergruppe zuweisen
@@ -45,4 +43,4 @@ Die gewählten Fächer werden je nach Einstellung mit einem Mausklick auf `Über
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Stundentafeln_zuweisen_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 5342.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Stundentafeln_zuweisen_(Gruppenprozesse_F%C3%A4cher))

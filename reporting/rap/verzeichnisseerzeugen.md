@@ -1,7 +1,5 @@
 ---
 title: "VerzeichnisseErzeugen"
-source_pageid: 130
-source_revision: 524
 ---
 
 # VerzeichnisseErzeugen
@@ -39,4 +37,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=VerzeichnisseErzeugen) · Quellrevision 524.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=VerzeichnisseErzeugen)
