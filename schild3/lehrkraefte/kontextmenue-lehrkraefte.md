@@ -1,7 +1,5 @@
 ---
 title: "Aktionen für markierte Lehrkräfte ausführen"
-source_pageid: 1549
-source_revision: 6401
 ---
 
 # Aktionen für markierte Lehrkräfte ausführen
@@ -51,4 +49,4 @@ Fügen Sie die markierten Lehrkräfte zu einer allgemeinen Personengruppe hinzu.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kontextmen%C3%BC_(Lehrkr%C3%A4fte)) · Quellrevision 6401.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kontextmen%C3%BC_(Lehrkr%C3%A4fte))

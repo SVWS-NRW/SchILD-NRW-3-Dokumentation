@@ -1,7 +1,5 @@
 ---
 title: "Fachbezogene Bemerkungen aktivieren und erfassen"
-source_pageid: 820
-source_revision: 4392
 ---
 
 # Fachbezogene Bemerkungen aktivieren und erfassen
@@ -70,4 +68,4 @@ Ein Klick auf **Prozess** oben links bei den Gruppenprozessen startet die Eintra
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fachbezogene_Bemerkungen_(Tutorial)) · Quellrevision 4392.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fachbezogene_Bemerkungen_(Tutorial))

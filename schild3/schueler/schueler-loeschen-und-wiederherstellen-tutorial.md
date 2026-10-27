@@ -1,7 +1,5 @@
 ---
 title: "Schülerdatensätze löschen und wiederherstellen"
-source_pageid: 1240
-source_revision: 7219
 ---
 
 # Schülerdatensätze löschen und wiederherstellen
@@ -106,4 +104,4 @@ Klicken Sie auf das rote Filtersymbol, um die Standardeinstellung des Filters im
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BCler_l%C3%B6schen_und_wiederherstellen_(Tutorial)) · Quellrevision 7219.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BCler_l%C3%B6schen_und_wiederherstellen_(Tutorial))

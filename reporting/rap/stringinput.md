@@ -1,7 +1,5 @@
 ---
 title: "StringInput"
-source_pageid: 124
-source_revision: 564
 ---
 
 # StringInput
@@ -33,4 +31,4 @@ Label1.Caption:=StringInput('Bitte geben Sie das KFZ-Kennzeichen ein','NRW-4711'
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=StringInput) · Quellrevision 564.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=StringInput)

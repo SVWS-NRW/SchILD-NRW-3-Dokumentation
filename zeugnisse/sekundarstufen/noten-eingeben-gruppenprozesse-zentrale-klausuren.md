@@ -1,7 +1,5 @@
 ---
 title: "ZP10-Prüfungsnoten gruppenweise eingeben"
-source_pageid: 1160
-source_revision: 3921
 ---
 
 # ZP10-Prüfungsnoten gruppenweise eingeben
@@ -43,4 +41,4 @@ Ein Klick auf `Abbrechen` beendet den Gruppenprozess, ohne dass Änderungen an d
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noten_eingeben_(Gruppenprozesse_Zentrale_Klausuren)) · Quellrevision 3921.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noten_eingeben_(Gruppenprozesse_Zentrale_Klausuren))

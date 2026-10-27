@@ -1,7 +1,5 @@
 ---
 title: "Gruppenprozesse sicher anwenden"
-source_pageid: 243
-source_revision: 4537
 ---
 
 # Gruppenprozesse sicher anwenden
@@ -115,4 +113,4 @@ Anstelle dass bei jedem einzelnen Schüler der **Status** verändert werden muss
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einf%C3%BChrung_in_die_Gruppenprozesse_(Einf%C3%BChrung_in_SchILD-NRW)) · Quellrevision 4537.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einf%C3%BChrung_in_die_Gruppenprozesse_(Einf%C3%BChrung_in_SchILD-NRW))

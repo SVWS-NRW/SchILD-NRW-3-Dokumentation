@@ -1,7 +1,5 @@
 ---
 title: "Hilfe und Fortbildung zum Reportdesigner"
-source_pageid: 1614
-source_revision: 6815
 ---
 
 # Hilfe und Fortbildung zum Reportdesigner
@@ -60,4 +58,4 @@ Ein gedrucktes PDF-Dokument enthält eine seltsame Schrift? Erfahren Sie hier, w
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reportdesigner_Hilfe_%26_Wissen_Themen%C3%BCbersicht) · Quellrevision 6815.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reportdesigner_Hilfe_%26_Wissen_Themen%C3%BCbersicht)

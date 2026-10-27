@@ -1,7 +1,5 @@
 ---
 title: "Fächer und Teilleistungen für ZP10 und Zentrale Klausuren vorbereiten"
-source_pageid: 1154
-source_revision: 4344
 ---
 
 # Fächer und Teilleistungen für ZP10 und Zentrale Klausuren vorbereiten
@@ -108,4 +106,4 @@ Klicken Sie oben auf `Ausführen`, um den konfigurierten Gruppenprozess zu start
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_und_Teilleistungen_f%C3%BCr_ZP_10_und_ZK_(Tutorial)) · Quellrevision 4344.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_und_Teilleistungen_f%C3%BCr_ZP_10_und_ZK_(Tutorial))

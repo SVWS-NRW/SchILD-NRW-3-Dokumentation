@@ -1,7 +1,5 @@
 ---
 title: "Zulässige Noten, Punkte und Kürzel anzeigen"
-source_pageid: 407
-source_revision: 3742
 ---
 
 # Zulässige Noten, Punkte und Kürzel anzeigen
@@ -18,4 +16,4 @@ Weiterhin werden die eventuell eintragbaren Kürzel aufgeführt.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Notenliste_zeigen_(Verwaltung_Hilfe)) · Quellrevision 3742.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Notenliste_zeigen_(Verwaltung_Hilfe))

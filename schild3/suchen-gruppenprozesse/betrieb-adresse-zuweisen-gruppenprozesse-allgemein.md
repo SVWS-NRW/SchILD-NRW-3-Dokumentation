@@ -1,7 +1,5 @@
 ---
 title: "Einen Betrieb oder eine Adresse gruppenweise zuweisen"
-source_pageid: 802
-source_revision: 5340
 ---
 
 # Einen Betrieb oder eine Adresse gruppenweise zuweisen
@@ -20,4 +18,4 @@ Klicken Sie auf **Auswahl**, um eine vorhandene Adresse zu wählen. Neue Adresse
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Betrieb/Adresse_zuweisen_(Gruppenprozesse_Allgemein)) · Quellrevision 5340.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Betrieb/Adresse_zuweisen_(Gruppenprozesse_Allgemein))

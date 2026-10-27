@@ -1,7 +1,5 @@
 ---
 title: "Kursarten in Basisreports für SchILD-NRW 2"
-source_pageid: 1657
-source_revision: 7234
 ---
 
 # Kursarten in Basisreports für SchILD-NRW 2
@@ -22,4 +20,4 @@ Diese Einschränkung bezieht sich auf die frühere Sammlung und den Reportdesign
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Leistungs%C3%BCbersichten_Halbjahr) · Quellrevision 7234.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Leistungs%C3%BCbersichten_Halbjahr)

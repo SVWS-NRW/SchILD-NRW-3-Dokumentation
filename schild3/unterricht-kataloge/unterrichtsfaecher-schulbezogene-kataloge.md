@@ -1,7 +1,5 @@
 ---
 title: "Unterrichtsfächer und ihre Eigenschaften verwalten"
-source_pageid: 456
-source_revision: 6120
 ---
 
 # Unterrichtsfächer und ihre Eigenschaften verwalten
@@ -174,4 +172,4 @@ Im Fächerkatalog steht die Option **Ist prüfungsordnungsrelevant** zur Verfüg
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Unterrichtsf%C3%A4cher_(Schulbezogene_Kataloge)) · Quellrevision 6120.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Unterrichtsf%C3%A4cher_(Schulbezogene_Kataloge))

@@ -1,7 +1,5 @@
 ---
 title: "Teilleistungsarten im Katalog anlegen"
-source_pageid: 312
-source_revision: 5447
 ---
 
 # Teilleistungsarten im Katalog anlegen
@@ -64,4 +62,4 @@ Durch Klick auf **Excel-Export** und `Speichern` im folgenden Fenster kann die a
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungs-Arten_(Schulbezogene_Kataloge)) · Quellrevision 5447.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungs-Arten_(Schulbezogene_Kataloge))

@@ -1,7 +1,5 @@
 ---
 title: "Ausweisnummern löschen"
-source_pageid: 427
-source_revision: 5287
 ---
 
 # Ausweisnummern löschen
@@ -26,4 +24,4 @@ Wie bei allen Löschaktionen empfiehlt sich die vorherige Anlage eines Backups.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ausweisnummern_l%C3%B6schen_(Verwaltung_Werkzeuge)) · Quellrevision 5287.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ausweisnummern_l%C3%B6schen_(Verwaltung_Werkzeuge))

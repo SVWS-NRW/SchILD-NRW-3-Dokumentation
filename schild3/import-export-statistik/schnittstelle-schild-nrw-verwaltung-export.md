@@ -1,7 +1,5 @@
 ---
 title: "Daten über die SchILD-NRW-Schnittstelle austauschen"
-source_pageid: 354
-source_revision: 5871
 ---
 
 # Daten über die SchILD-NRW-Schnittstelle austauschen
@@ -104,4 +102,4 @@ Nach dem Import sind **Fehlerprotokoll und Stichprobe der Zieldaten** zu prüfen
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schnittstelle_SchILD-NRW_(Verwaltung_Export)) · Quellrevision 5871.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schnittstelle_SchILD-NRW_(Verwaltung_Export))

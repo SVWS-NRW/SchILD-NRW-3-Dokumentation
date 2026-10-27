@@ -1,7 +1,5 @@
 ---
 title: "PluginVersion"
-source_pageid: 78
-source_revision: 506
 ---
 
 # PluginVersion
@@ -32,4 +30,4 @@ procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=PluginVersion) · Quellrevision 506.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=PluginVersion)

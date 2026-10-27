@@ -1,7 +1,5 @@
 ---
 title: "Fotos einer Schülergruppe löschen"
-source_pageid: 648
-source_revision: 5332
 ---
 
 # Fotos einer Schülergruppe löschen
@@ -22,4 +20,4 @@ Sicherheitshalber sollte wie bei allein Löschvorgängen zuvor eine Datensicheru
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fotos_l%C3%B6schen_(Gruppenprozesse_Allgemein)) · Quellrevision 5332.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fotos_l%C3%B6schen_(Gruppenprozesse_Allgemein))

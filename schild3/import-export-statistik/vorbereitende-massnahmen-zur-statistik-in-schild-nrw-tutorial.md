@@ -1,7 +1,5 @@
 ---
 title: "Die amtliche Schulstatistik vorbereiten"
-source_pageid: 1199
-source_revision: 6530
 ---
 
 # Die amtliche Schulstatistik vorbereiten
@@ -259,4 +257,4 @@ Beachten Sie den Artikel [Statistikdaten für ASDPC exportieren](/schild3/import
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vorbereitende_Ma%C3%9Fnahmen_zur_Statistik_in_SchILD-NRW_(Tutorial)) · Quellrevision 6530.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vorbereitende_Ma%C3%9Fnahmen_zur_Statistik_in_SchILD-NRW_(Tutorial))

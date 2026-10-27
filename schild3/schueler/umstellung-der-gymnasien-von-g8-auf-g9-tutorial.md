@@ -1,7 +1,5 @@
 ---
 title: "Ein Gymnasium schrittweise von G8 auf G9 umstellen"
-source_pageid: 911
-source_revision: 5494
 ---
 
 # Ein Gymnasium schrittweise von G8 auf G9 umstellen
@@ -136,4 +134,4 @@ Denken Sie bei diesen SuS auch daran, das neue *Abschlussdatum* zu berechnen.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Umstellung_der_Gymnasien_von_G8_auf_G9_(Tutorial)) · Quellrevision 5494.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Umstellung_der_Gymnasien_von_G8_auf_G9_(Tutorial))

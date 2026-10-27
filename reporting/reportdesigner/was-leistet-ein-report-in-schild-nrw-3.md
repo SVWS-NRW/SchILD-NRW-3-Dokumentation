@@ -1,7 +1,5 @@
 ---
 title: "Wie ein Report Daten zu einer Ausgabe zusammenführt"
-source_pageid: 1564
-source_revision: 6678
 ---
 
 # Wie ein Report Daten zu einer Ausgabe zusammenführt
@@ -130,4 +128,4 @@ Ein häufiges Fehlerbild: Das Entlassdatum erscheint als „30. Dezember 1899“
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Was_leistet_ein_Report_in_SchILD-NRW_3%3F) · Quellrevision 6678.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Was_leistet_ein_Report_in_SchILD-NRW_3%3F)

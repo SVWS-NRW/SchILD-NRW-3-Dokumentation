@@ -1,7 +1,5 @@
 ---
 title: "Die Basisreportsammlung im Überblick"
-source_pageid: 1527
-source_revision: 6844
 ---
 
 # Die Basisreportsammlung im Überblick
@@ -81,4 +79,4 @@ Die hier aufgeführten Beispiele sollen Sie motivieren, die Basisreportsammlung 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Ein_%C3%9Cberblick) · Quellrevision 6844.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Ein_%C3%9Cberblick)

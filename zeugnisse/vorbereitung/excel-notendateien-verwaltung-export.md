@@ -1,7 +1,5 @@
 ---
 title: "Noten über Excel-Dateien austauschen"
-source_pageid: 873
-source_revision: 2697
 ---
 
 # Noten über Excel-Dateien austauschen
@@ -87,4 +85,4 @@ Klicken Sie auf **Importieren**, um die Notendateien einzulesen.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Excel-Notendateien_(Verwaltung_Export)) · Quellrevision 2697.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Excel-Notendateien_(Verwaltung_Export))

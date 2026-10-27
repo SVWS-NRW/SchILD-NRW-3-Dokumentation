@@ -1,7 +1,5 @@
 ---
 title: "Zeitabhängige Lehrkräftedaten und Unterricht pflegen"
-source_pageid: 274
-source_revision: 7205
 ---
 
 # Zeitabhängige Lehrkräftedaten und Unterricht pflegen
@@ -62,8 +60,6 @@ Um die Reststunden passend einzustellen kann es helfen, sich aus den *zeitabhän
 
 Klicken Sie für eine Übersicht auf **Unterricht zeigen**.
 
-[index.php?title=Kategorie:Lehrkräfte](</schild3/lehrkraefte>) [index.php?title=Kategorie:SchILD-NRW](</schild3/>) [index.php?title=Kategorie:Statistik](</schild3/import-export-statistik>) [index.php?title=Kategorie:UVD](</schild3/import-export-statistik>)
-
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeitabh%C3%A4ngige_Daten_(Lehrkr%C3%A4fte)) · Quellrevision 7205.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeitabh%C3%A4ngige_Daten_(Lehrkr%C3%A4fte))

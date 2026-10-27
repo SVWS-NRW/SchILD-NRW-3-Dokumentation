@@ -1,7 +1,5 @@
 ---
 title: "Daten für den Schulträger verschlüsselt exportieren"
-source_pageid: 905
-source_revision: 5400
 ---
 
 # Daten für den Schulträger verschlüsselt exportieren
@@ -46,4 +44,4 @@ Das Format entspricht den Schnittstellendateien und kann in einem Tabellenkalkul
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%BCr_Schultr%C3%A4ger_(Verwaltung_Export)) · Quellrevision 5400.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%BCr_Schultr%C3%A4ger_(Verwaltung_Export))

@@ -1,7 +1,5 @@
 ---
 title: "Orte und ihre Reihenfolge verwalten"
-source_pageid: 377
-source_revision: 4421
 ---
 
 # Orte und ihre Reihenfolge verwalten
@@ -24,4 +22,4 @@ Ein Klick auf *Excel-Export* erzeugt eine Excel-Liste der Katalogeinträge.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Orte_(Allgemeine_Kataloge)) · Quellrevision 4421.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Orte_(Allgemeine_Kataloge))

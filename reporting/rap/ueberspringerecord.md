@@ -1,7 +1,5 @@
 ---
 title: "UeberspringeRecord"
-source_pageid: 129
-source_revision: 523
 ---
 
 # UeberspringeRecord
@@ -41,4 +39,4 @@ Bitte beachten Sie, dass die Funktion beim letzten Datensatz nicht weiterspringe
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=UeberspringeRecord) · Quellrevision 523.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=UeberspringeRecord)

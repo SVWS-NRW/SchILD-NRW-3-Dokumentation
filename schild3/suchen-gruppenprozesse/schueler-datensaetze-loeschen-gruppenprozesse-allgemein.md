@@ -1,7 +1,5 @@
 ---
 title: "Schülerdatensätze endgültig löschen"
-source_pageid: 1237
-source_revision: 4383
 ---
 
 # Schülerdatensätze endgültig löschen
@@ -46,4 +44,4 @@ Die Prüfung auf abgelaufene **Löschfristen** kann auch mit Löschmarkierung ve
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BCler-Datens%C3%A4tze_l%C3%B6schen_(Gruppenprozesse_Allgemein)) · Quellrevision 4383.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BCler-Datens%C3%A4tze_l%C3%B6schen_(Gruppenprozesse_Allgemein))

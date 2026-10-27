@@ -1,7 +1,5 @@
 ---
 title: "Häufige Fehler vor dem Zeugnisdruck vermeiden"
-source_pageid: 1426
-source_revision: 7108
 ---
 
 # Häufige Fehler vor dem Zeugnisdruck vermeiden
@@ -65,4 +63,4 @@ Drucken Sie die Zeugnisse erst auf Normalpapier und kontrollieren Sie, ob alles 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Beliebte_Fehler_beim_Zeugnisdruck_(Tutorial)) · Quellrevision 7108.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Beliebte_Fehler_beim_Zeugnisdruck_(Tutorial))

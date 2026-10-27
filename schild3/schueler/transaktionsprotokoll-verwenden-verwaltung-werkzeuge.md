@@ -1,7 +1,5 @@
 ---
 title: "Fehler von Gruppenprozessen im Transaktionsprotokoll prüfen"
-source_pageid: 917
-source_revision: 5297
 ---
 
 # Fehler von Gruppenprozessen im Transaktionsprotokoll prüfen
@@ -42,4 +40,4 @@ Soll ein weiteres Transaktionsprotokoll erzeugt werden, muss die Protokollierung
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Transaktionsprotokoll_verwenden_(Verwaltung_Werkzeuge)) · Quellrevision 5297.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Transaktionsprotokoll_verwenden_(Verwaltung_Werkzeuge))

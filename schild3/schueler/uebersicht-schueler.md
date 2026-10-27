@@ -1,7 +1,5 @@
 ---
 title: "Leistungen über mehrere Lernabschnitte vergleichen"
-source_pageid: 546
-source_revision: 5323
 ---
 
 # Leistungen über mehrere Lernabschnitte vergleichen
@@ -36,4 +34,4 @@ Aktivieren Sie **Erste Spalte fixieren**, damit die Fächer und Kurse beim seitl
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=%C3%9Cbersicht_(Sch%C3%BCler)) · Quellrevision 5323.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=%C3%9Cbersicht_(Sch%C3%BCler))

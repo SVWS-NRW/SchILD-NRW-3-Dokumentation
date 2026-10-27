@@ -1,7 +1,5 @@
 ---
 title: "Das eigene Kennwort ändern"
-source_pageid: 388
-source_revision: 3081
 ---
 
 # Das eigene Kennwort ändern
@@ -27,4 +25,4 @@ Wählen Sie modernen Standards entsprechende Kennwörter.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kennwort_%C3%A4ndern_(Verwaltung_Schule)) · Quellrevision 3081.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kennwort_%C3%A4ndern_(Verwaltung_Schule))

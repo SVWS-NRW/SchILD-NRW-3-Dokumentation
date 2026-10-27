@@ -1,7 +1,5 @@
 ---
 title: "ReplaceStandardVar"
-source_pageid: 83
-source_revision: 511
 ---
 
 # ReplaceStandardVar
@@ -34,4 +32,4 @@ Procedure DetailBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ReplaceStandardVar) · Quellrevision 511.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ReplaceStandardVar)

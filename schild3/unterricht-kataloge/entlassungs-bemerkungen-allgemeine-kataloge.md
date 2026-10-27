@@ -1,7 +1,5 @@
 ---
 title: "Entlassungsbemerkungen im Katalog pflegen"
-source_pageid: 369
-source_revision: 4677
 ---
 
 # Entlassungsbemerkungen im Katalog pflegen
@@ -22,4 +20,4 @@ Verschieben Sie hierzu mit Hilfe der Pfeile am linken Rand Ihre Favoriten nach o
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Entlassungs-Bemerkungen_(Allgemeine_Kataloge)) · Quellrevision 4677.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Entlassungs-Bemerkungen_(Allgemeine_Kataloge))

@@ -1,7 +1,5 @@
 ---
 title: "Projektkurse, Facharbeiten und ihre Themen erfassen"
-source_pageid: 1303
-source_revision: 4850
 ---
 
 # Projektkurse, Facharbeiten und ihre Themen erfassen
@@ -145,4 +143,4 @@ Konsultieren Sie bei Bedarf die ausführlicheren Artikel zu *Teilleistungen* in 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Thema_von_Projektkurs_und_Facharbeit_erfassen_(Tutorial)) · Quellrevision 4850.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Thema_von_Projektkurs_und_Facharbeit_erfassen_(Tutorial))

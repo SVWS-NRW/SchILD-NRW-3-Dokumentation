@@ -1,7 +1,5 @@
 ---
 title: "Eine Datenbank migrieren und mit SchILD-NRW 3 verbinden"
-source_pageid: 1096
-source_revision: 7136
 ---
 
 # Eine Datenbank migrieren und mit SchILD-NRW 3 verbinden
@@ -174,4 +172,4 @@ Beachten Sie, dass in diesem Modus kein Fenster mit weiteren Informationen und e
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schild-NRW-Daten_in_eine_andere_Datenbank_%C3%BCbertragen_(migrieren)_(Tutorial)) · Quellrevision 7136.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schild-NRW-Daten_in_eine_andere_Datenbank_%C3%BCbertragen_(migrieren)_(Tutorial))

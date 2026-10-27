@@ -1,7 +1,5 @@
 ---
 title: "Statistikdateien unter Windows registrieren"
-source_pageid: 295
-source_revision: 4108
 ---
 
 # Statistikdateien unter Windows registrieren
@@ -66,4 +64,4 @@ Das Starten von SchILD-NRW als Windows-Administrator erfolgt durch das Anklicken
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Hilfe_bei_Problemen_(Verwaltung_Statistik_f%C3%BCr_IT-NRW)) · Quellrevision 4108.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Hilfe_bei_Problemen_(Verwaltung_Statistik_f%C3%BCr_IT-NRW))

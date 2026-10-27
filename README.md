@@ -41,9 +41,15 @@ npx playwright install chromium
 npm run docs:check-browser
 ```
 
-Sie prüft Themenmenü, Programmreferenz, Weiterblättern und breite Tabellen auf Desktop und Smartphone sowie Suche, Artikelindex und einen bestehenden Weiterleitungslink. Es gibt keinen vollständigen Artikelscan und keinen dauernden Vergleich mit alten Wiki-Fassungen.
+Sie prüft Themenmenü, Programmreferenz, Weiterblättern und breite Tabellen auf Desktop und Smartphone sowie Suche und Artikelindex. Es gibt keinen vollständigen Artikelscan und keinen dauernden Vergleich mit alten Wiki-Fassungen.
 
 Auf GitHub läuft **Dokumentation prüfen** bei jedem Pull Request nach `dev`. **Bedienung prüfen** läuft bei Änderungen an Theme, Werkzeugen, Tests, Abhängigkeiten und den ausgewählten Darstellungsseiten. Bei Bedarf kann der Browserlauf auch manuell gestartet werden. Fehleraufnahmen liegen als GitHub-Artefakt vor; lokale Ausgaben unter `test-results/` gehören nicht in Git.
+
+## Technischer Paketstand
+
+VitePress 1.6.4 und `markdown-it-container` 4.0.0 bleiben die stabilen Grundlagen. Die Vite-Abhängigkeit von VitePress ist über `overrides` in `package.json` auf **Vite 6.4.5** festgelegt. Diese gezielte Abweichung von der VitePress-Standardabhängigkeit behebt die gemeldeten Vite-/esbuild-Lücken und verwendet den vom vorhandenen Vue-Plugin unterstützten Vite-6-Zweig. Die mitgelieferten Build- und Browserprüfungen decken die verwendeten Funktionen ab.
+
+Bei einem späteren stabilen VitePress-Update prüfen, ob die Festlegung entfallen kann. Nach Paketänderungen `npm ci` ausführen. Entwicklungs- und Vorschau-Server bleiben lokal.
 
 ## Veröffentlichen
 
@@ -64,9 +70,11 @@ Nach dem Upload Startseite, tiefe Artikellinks, Suche, Bilder und Mobilmenü auf
 - Bildungsgangwechsel am Berufskolleg und Versetzung bei jahrgangsgemischten Klassen fachlich nachprüfen.
 - Zielrelease 3.6.0 und passende Serverversion mit dem tatsächlich ausgelieferten Programm abgleichen.
 - Schnittstellen-Sonderfälle und den offenen externen Broschürendruck-PDF-Verweis nachführen.
-- Verbleibende Auditmeldungen der Werkzeugkette VitePress → Vite → esbuild separat prüfen und mit getesteten Updates beheben.
+- Paketupdates mit `npm audit`, Build, Linkprüfung und bei Änderungen an der Werkzeugkette zusätzlich mit der Browserprüfung kontrollieren.
 
-Die einmaligen Migrationswerkzeuge und historischen Vergleichsberichte sind nicht mehr Teil des aktiven Bestands. Frühere Fassungen bleiben in der Git-Historie nachvollziehbar. Veröffentlichte Artikelbilder liegen unter `public/bilder/`.
+Die einmaligen Migrationswerkzeuge, historischen Vergleichsberichte, alten Wiki-Sprungmarken und die frühere Gesamtübersicht mit ihrer Weiterleitung sind entfernt. Wiki-Quellenlinks bleiben erhalten. Veröffentlichte Artikelbilder liegen unter `public/bilder/`.
+
+Lokale Zwischenergebnisse unter `tmp/`, `test-results/` und `.vitepress/cache/` können bei Bedarf entfernt werden. `node_modules/` ist die lokale Installation; `.vitepress/dist/` enthält das benötigte Veröffentlichungsergebnis.
 
 ## Writing Guide für die Hilfeseiten
 
@@ -128,7 +136,7 @@ Andere Hervorhebungen können in *kursiv* gesetzt werden (siehe oben). Ebenso we
 
 Bei **Anleitungen** empfhielt es sich, die Funktionen, die im Zuge der Anleitung tatsächlich bedient zu werden, als `Code`zu markieren. Also wäre alles, was tatsächlich anzuklicken ist, als Code hervorgehoben. Alternativen wären dann fett. Hier würde man schreiben: "Klicken Sie nun auf `Weiter`, mit **Abbrechen** kehren Sie ohne Änderungen vorzunehmen zum vorherigen Fenster zurück."
 
-Wichtiger als das Einhalten eines globalen Schemas ist aber eher der spärliche Einsatz von Hervorhebungen und Konsistenz innerhalb des Artikels oder der thematischen Artikelreihe. 
+Wichtiger als das Einhalten eines globalen Schemas ist aber eher der spärliche Einsatz von Hervorhebungen und Konsistenz innerhalb des Artikels oder der thematischen Artikelreihe.
 
 #### Farbboxen
 
@@ -175,3 +183,9 @@ This is a dangerous warning.
 ::: details
 This is a details block.
 :::
+
+## Offizielles Repository und Veröffentlichung
+
+Die Entwicklung erfolgt in `SVWS-NRW/SchILD-NRW-3-Dokumentation`, mit Arbeitsbranches und Pull Requests nach `dev`. Die Veröffentlichung bleibt an `main` gebunden.
+
+Der Standardpfad ist `/SchILD-NRW-3-Dokumentation/`, entsprechend der bestehenden GitHub-Pages-Konfiguration. Lokal ist die Website daher unter diesem Unterpfad erreichbar. Mit `DOCS_BASE=/` kann für eine spätere Domain-Veröffentlichung am Website-Stamm gebaut werden.

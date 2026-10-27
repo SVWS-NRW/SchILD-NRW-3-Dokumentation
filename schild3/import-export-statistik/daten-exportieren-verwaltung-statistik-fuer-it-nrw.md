@@ -1,7 +1,5 @@
 ---
 title: "Statistikdaten für ASDPC exportieren"
-source_pageid: 294
-source_revision: 4106
 ---
 
 # Statistikdaten für ASDPC exportieren
@@ -71,4 +69,4 @@ Ihre Dateien wurden exportiert und können nun im Statistikprogramm entsprechend
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Daten_Exportieren_(Verwaltung_Statistik_f%C3%BCr_IT-NRW)) · Quellrevision 4106.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Daten_Exportieren_(Verwaltung_Statistik_f%C3%BCr_IT-NRW))

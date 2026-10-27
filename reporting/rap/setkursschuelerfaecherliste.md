@@ -1,7 +1,5 @@
 ---
 title: "SetKursSchuelerFaecherListe"
-source_pageid: 111
-source_revision: 551
 ---
 
 # SetKursSchuelerFaecherListe
@@ -33,4 +31,4 @@ In einer KursListe können in einem Subreport die Leistungsdaten in diesen Fäch
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetKursSchuelerFaecherListe) · Quellrevision 551.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetKursSchuelerFaecherListe)

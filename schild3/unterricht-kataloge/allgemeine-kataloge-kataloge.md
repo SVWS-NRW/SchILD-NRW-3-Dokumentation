@@ -1,7 +1,5 @@
 ---
 title: "Katalogeinträge anlegen, sortieren und anzeigen"
-source_pageid: 259
-source_revision: 5416
 ---
 
 # Katalogeinträge anlegen, sortieren und anzeigen
@@ -69,4 +67,4 @@ Die Kataloge können im Excel-Format exportiert werden, um außerhalb von SchILD
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Allgemeine_Kataloge_(Kataloge)) · Quellrevision 5416.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Allgemeine_Kataloge_(Kataloge))

@@ -1,7 +1,5 @@
 ---
 title: "Unterrichtsdaten aus UVD.TXT importieren"
-source_pageid: 907
-source_revision: 5276
 ---
 
 # Unterrichtsdaten aus UVD.TXT importieren
@@ -34,4 +32,4 @@ Eine Aktivierung der Option **In Sekundarstufe II Kurse anlegen** ist eventuell 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Unterrichts-Daten_als_UVD-TXT_(Verwaltung_Import)) · Quellrevision 5276.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Unterrichts-Daten_als_UVD-TXT_(Verwaltung_Import))

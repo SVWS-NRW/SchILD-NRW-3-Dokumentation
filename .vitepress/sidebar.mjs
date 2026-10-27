@@ -11,7 +11,7 @@ export function createSidebar(navigation, root = new URL('../', import.meta.url)
     const explicitTopics = new Set(groups[0].items.filter(item => item.items?.length).map(item => item.link))
     const topics = groups[0].items.map(item => {
       if (item.items?.length) return { ...item, collapsed: true }
-      if (item.link.endsWith('/')) return item
+      if (item.link.endsWith('/') || item.link.startsWith('/druck/')) return item
       const source = readFileSync(fileURLToPath(new URL(`.${item.link}.md`, root)), 'utf8')
       const items = [...source.matchAll(/^- \[([^\]]+)\]\((\/[^\s)]+)\)/gm)]
         .map(([, text, link]) => ({ text, link }))
@@ -42,6 +42,9 @@ export function createSidebar(navigation, root = new URL('../', import.meta.url)
   }
   // The image catalogue belongs to Help while keeping its existing public URL.
   if (result['/hilfe/']) result['/bilder/'] = result['/hilfe/']
+  for (const section of Object.keys(navigation.sidebar)) {
+    result[`/druck/${section.slice(1, -1)}.md`] = result[section]
+  }
   // File matches must precede directory matches at equal path depth.
   return { ...exactArticles, ...result }
 }

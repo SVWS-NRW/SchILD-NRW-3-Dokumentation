@@ -1,7 +1,5 @@
 ---
 title: "Abiturdaten als Textdatei exportieren"
-source_pageid: 1175
-source_revision: 3953
 ---
 
 # Abiturdaten als Textdatei exportieren
@@ -26,4 +24,4 @@ Es wird für jedes Abiturfach eine eigene Zeile erzeugt.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abiturdaten_(Verwaltung_Export)) · Quellrevision 3953.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abiturdaten_(Verwaltung_Export))

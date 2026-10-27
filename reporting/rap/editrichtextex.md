@@ -1,7 +1,5 @@
 ---
 title: "EditRichTextEx"
-source_pageid: 29
-source_revision: 321
 ---
 
 # EditRichTextEx
@@ -33,4 +31,4 @@ RichText1.RichText:=EditRichTextEx('','Zeugnisbemerkung');
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=EditRichTextEx) · Quellrevision 321.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=EditRichTextEx)

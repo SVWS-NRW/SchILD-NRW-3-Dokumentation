@@ -1,7 +1,5 @@
 ---
 title: "AufzaehlungRTF"
-source_pageid: 21
-source_revision: 312
 ---
 
 # AufzaehlungRTF
@@ -61,4 +59,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=AufzaehlungRTF) · Quellrevision 312.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=AufzaehlungRTF)

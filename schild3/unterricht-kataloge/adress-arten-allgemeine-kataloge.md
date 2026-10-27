@@ -1,7 +1,5 @@
 ---
 title: "Adressarten im Katalog vorbereiten"
-source_pageid: 493
-source_revision: 5425
 ---
 
 # Adressarten im Katalog vorbereiten
@@ -33,4 +31,4 @@ Ob ein Eintrag zwar im Katalog vorhanden, im Dropdown-Menü aber ausgeblendet wi
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Adress-Arten_(Allgemeine_Kataloge)) · Quellrevision 5425.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Adress-Arten_(Allgemeine_Kataloge))

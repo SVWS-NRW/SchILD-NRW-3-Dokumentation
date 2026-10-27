@@ -1,7 +1,5 @@
 ---
 title: "Zeugnispakete nach Schulform auswählen"
-source_pageid: 1621
-source_revision: 6809
 ---
 
 # Zeugnispakete nach Schulform auswählen
@@ -42,4 +40,4 @@ Erfahren Sie in folgendem Artikel Schritt für Schritt, wie Sie [Zeugnisformular
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnispakete_auf_GitHub) · Quellrevision 6809.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnispakete_auf_GitHub)

@@ -1,7 +1,5 @@
 ---
 title: "Aufnahmebögen verwenden und anpassen"
-source_pageid: 1559
-source_revision: 6860
 ---
 
 # Aufnahmebögen verwenden und anpassen
@@ -33,4 +31,4 @@ Weitere Zugänge finden Sie unter [Basisreports auswählen und verwenden](/repor
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Aufnahmeb%C3%B6gen) · Quellrevision 6860.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Aufnahmeb%C3%B6gen)

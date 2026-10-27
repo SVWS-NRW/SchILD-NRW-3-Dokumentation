@@ -1,7 +1,5 @@
 ---
 title: "LehrerKursartStatistikLaden"
-source_pageid: 58
-source_revision: 486
 ---
 
 # LehrerKursartStatistikLaden
@@ -28,4 +26,4 @@ Procedure DetailBeforeGenerate;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LehrerKursartStatistikLaden) · Quellrevision 486.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LehrerKursartStatistikLaden)

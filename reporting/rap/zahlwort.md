@@ -1,7 +1,5 @@
 ---
 title: "Zahlwort"
-source_pageid: 134
-source_revision: 528
 ---
 
 # Zahlwort
@@ -34,4 +32,4 @@ Ergebnis: 'Drei-Komma-Fünf-Eins'
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zahlwort) · Quellrevision 528.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zahlwort)

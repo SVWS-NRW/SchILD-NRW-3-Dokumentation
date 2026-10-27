@@ -1,7 +1,5 @@
 ---
 title: "Migrationshintergrund automatisch setzen"
-source_pageid: 278
-source_revision: 5338
 ---
 
 # Migrationshintergrund automatisch setzen
@@ -26,4 +24,4 @@ Der Gruppenprozess passt dieses Merkmal anhand der vorhandenen Einträge an.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Migrationshintergrund_automatisch_setzen_(Gruppenprozesse_Allgemein)) · Quellrevision 5338.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Migrationshintergrund_automatisch_setzen_(Gruppenprozesse_Allgemein))

@@ -1,7 +1,5 @@
 ---
 title: "Jahrgang und Nationalität mit JaNa exportieren"
-source_pageid: 979
-source_revision: 5278
 ---
 
 # Jahrgang und Nationalität mit JaNa exportieren
@@ -35,4 +33,4 @@ Beispiel eines Gymnasiums:
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Jahrgang_und_Nationalit%C3%A4t_(Verwaltung_Export)) · Quellrevision 5278.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Jahrgang_und_Nationalit%C3%A4t_(Verwaltung_Export))

@@ -1,7 +1,5 @@
 ---
 title: "Leistungsübersichten für Halbjahr und Schuljahr"
-source_pageid: 1666
-source_revision: 7233
 ---
 
 # Leistungsübersichten für Halbjahr und Schuljahr
@@ -138,4 +136,4 @@ Mit dem Parameter SchulbesuchsjahreAusgeben wird gesteuert, ob die Anzahl der Sc
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Leistungs%C3%BCbersichten_Halbjahr-Schuljahr) · Quellrevision 7233.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Leistungs%C3%BCbersichten_Halbjahr-Schuljahr)

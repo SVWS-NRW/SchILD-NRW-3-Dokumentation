@@ -1,7 +1,5 @@
 ---
 title: "Das Menüband der Reportverwaltung"
-source_pageid: 1043
-source_revision: 6528
 ---
 
 # Das Menüband der Reportverwaltung
@@ -67,4 +65,4 @@ Die Arbeitsschritte zeigt [Daten aus zurückliegenden Abschnitten drucken](/repo
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Reportverwaltung)) · Quellrevision 6528.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Reportverwaltung))

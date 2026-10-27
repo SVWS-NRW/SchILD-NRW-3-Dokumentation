@@ -1,7 +1,5 @@
 ---
 title: "Betriebe und allgemeine Adressen verwalten"
-source_pageid: 846
-source_revision: 4420
 ---
 
 # Betriebe und allgemeine Adressen verwalten
@@ -30,4 +28,4 @@ Zu jeder Adresse können beliebig viele *Ansprechpartner* mit Name, Abteilung, T
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Allgemeine_Adressen_(Allgemeine_Kataloge)) · Quellrevision 4420.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Allgemeine_Adressen_(Allgemeine_Kataloge))

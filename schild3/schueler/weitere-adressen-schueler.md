@@ -1,7 +1,5 @@
 ---
 title: "Betriebe und weitere Adressen zuordnen"
-source_pageid: 491
-source_revision: 5919
 ---
 
 # Betriebe und weitere Adressen zuordnen
@@ -78,4 +76,4 @@ Wurde die Aufnahme der neuen Adresse abgeschlossen, lässt sich dieses Fenster u
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Weitere_Adressen_(Sch%C3%BCler)) · Quellrevision 5919.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Weitere_Adressen_(Sch%C3%BCler))

@@ -1,7 +1,5 @@
 ---
 title: "Sportbefreiungsgründe im Katalog pflegen"
-source_pageid: 367
-source_revision: 4418
 ---
 
 # Sportbefreiungsgründe im Katalog pflegen
@@ -20,4 +18,4 @@ Eine benutzerdefinierte Sortierreihenfolge kann durch Wechsel auf *Benutzerdefin
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sportbefreiungen_(Allgemeine_Kataloge)) · Quellrevision 4418.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sportbefreiungen_(Allgemeine_Kataloge))

@@ -1,7 +1,5 @@
 ---
 title: "SelectString"
-source_pageid: 103
-source_revision: 543
 ---
 
 # SelectString
@@ -38,4 +36,4 @@ begin
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectString) · Quellrevision 543.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectString)

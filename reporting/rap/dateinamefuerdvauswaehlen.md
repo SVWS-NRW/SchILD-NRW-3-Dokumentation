@@ -1,7 +1,5 @@
 ---
 title: "DateinameFuerDVAuswaehlen"
-source_pageid: 25
-source_revision: 316
 ---
 
 # DateinameFuerDVAuswaehlen
@@ -33,4 +31,4 @@ Hinweis: Wenn der RTF-Text aus einer externen Datei geladen wird, so wird deren 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=DateinameFuerDVAuswaehlen) · Quellrevision 316.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=DateinameFuerDVAuswaehlen)

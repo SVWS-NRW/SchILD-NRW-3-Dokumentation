@@ -1,7 +1,5 @@
 ---
 title: "Die schulische Herkunft an BK und WBK erfassen"
-source_pageid: 310
-source_revision: 3574
 ---
 
 # Die schulische Herkunft an BK und WBK erfassen
@@ -58,4 +56,4 @@ Wenn Sie die Schule *Sonstige/keine Schule* eintragen, lässt sich die Schule na
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eintragung_Herkunft_am_BK/WBK_(Tutorial)) · Quellrevision 3574.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eintragung_Herkunft_am_BK/WBK_(Tutorial))

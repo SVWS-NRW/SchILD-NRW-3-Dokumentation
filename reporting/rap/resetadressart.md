@@ -1,7 +1,5 @@
 ---
 title: "ResetAdressArt"
-source_pageid: 86
-source_revision: 514
 ---
 
 # ResetAdressArt
@@ -32,4 +30,4 @@ Procedure ReportAfterPrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ResetAdressArt) · Quellrevision 514.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ResetAdressArt)

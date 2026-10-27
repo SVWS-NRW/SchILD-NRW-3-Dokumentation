@@ -1,7 +1,5 @@
 ---
 title: "Die Fächerfolge in Leistungsdaten am BK neu sortieren"
-source_pageid: 824
-source_revision: 4232
 ---
 
 # Die Fächerfolge in Leistungsdaten am BK neu sortieren
@@ -30,4 +28,4 @@ Bei einer großen Schülergruppe können Sie den Gruppenprozess auch nacheinande
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_in_Leistungsdaten_neu_sortieren_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 4232.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_in_Leistungsdaten_neu_sortieren_(Gruppenprozesse_F%C3%A4cher))

@@ -1,7 +1,5 @@
 ---
 title: "Schülerspezifische Kursarten auswählen und sortieren"
-source_pageid: 483
-source_revision: 5451
 ---
 
 # Schülerspezifische Kursarten auswählen und sortieren
@@ -40,4 +38,4 @@ Benötigte Einträge werden über **+** aus den angebotenen Kursarten aufgenomme
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClerspezifische_Kursarten_(Schulbezogene_Kataloge)) · Quellrevision 5451.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClerspezifische_Kursarten_(Schulbezogene_Kataloge))

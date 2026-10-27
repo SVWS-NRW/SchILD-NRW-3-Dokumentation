@@ -1,7 +1,5 @@
 ---
 title: "Einzelne Fächer bei einer Schülergruppe löschen"
-source_pageid: 300
-source_revision: 5345
 ---
 
 # Einzelne Fächer bei einer Schülergruppe löschen
@@ -28,4 +26,4 @@ Ein weiterer Anwendungsfall wäre es, über eine Stundentafel jeweils allen Sch�
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einzelne_F%C3%A4cher_bei_Sch%C3%BClern_l%C3%B6schen_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 5345.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einzelne_F%C3%A4cher_bei_Sch%C3%BClern_l%C3%B6schen_(Gruppenprozesse_F%C3%A4cher))

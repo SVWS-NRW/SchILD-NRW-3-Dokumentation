@@ -1,7 +1,5 @@
 ---
 title: "Sprachenfolge, Prüfungen und Abschlüsse dokumentieren"
-source_pageid: 538
-source_revision: 4971
 ---
 
 # Sprachenfolge, Prüfungen und Abschlüsse dokumentieren
@@ -76,4 +74,4 @@ Bei Sprachprüfungen steht die zusätzliche Angabe **Zeugnisbezeichnung** zur Ve
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Laufbahninfo_(Sch%C3%BCler)) · Quellrevision 4971.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Laufbahninfo_(Sch%C3%BCler))

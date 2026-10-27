@@ -1,7 +1,5 @@
 ---
 title: "Stundentafeln für Jahrgänge und Klassen vorbereiten"
-source_pageid: 326
-source_revision: 5443
 ---
 
 # Stundentafeln für Jahrgänge und Klassen vorbereiten
@@ -50,4 +48,4 @@ Erst mit dem Gruppenprozess Stundentafeln zuweisen werden diese bei den Schüler
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Stundentafel_(Schulbezogene_Kataloge)) · Quellrevision 5443.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Stundentafel_(Schulbezogene_Kataloge))

@@ -1,7 +1,5 @@
 ---
 title: "FileSaveDlg"
-source_pageid: 36
-source_revision: 329
 ---
 
 # FileSaveDlg
@@ -35,4 +33,4 @@ Fn:=FileSaveDlg('*.txt','c:\Text','Textdateien|*.txt|Alle Dateien|*.*');
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FileSaveDlg) · Quellrevision 329.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FileSaveDlg)

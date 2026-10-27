@@ -1,7 +1,5 @@
 ---
 title: "FilterLaufbahnJahrgangASD"
-source_pageid: 42
-source_revision: 335
 ---
 
 # FilterLaufbahnJahrgangASD
@@ -42,4 +40,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterLaufbahnJahrgangASD) · Quellrevision 335.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterLaufbahnJahrgangASD)

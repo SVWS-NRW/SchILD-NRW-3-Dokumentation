@@ -1,7 +1,5 @@
 ---
 title: "Setzefilter"
-source_pageid: 117
-source_revision: 557
 ---
 
 # Setzefilter
@@ -47,4 +45,4 @@ Noch ein Hinweis: Manchmal funktioniert die Filterung in der Vorschau des Design
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Setzefilter) · Quellrevision 557.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Setzefilter)

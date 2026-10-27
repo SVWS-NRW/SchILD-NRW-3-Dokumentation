@@ -1,7 +1,5 @@
 ---
 title: "NotenDurchschnitt"
-source_pageid: 71
-source_revision: 6995
 ---
 
 # NotenDurchschnitt
@@ -46,4 +44,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=NotenDurchschnitt) · Quellrevision 6995.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=NotenDurchschnitt)

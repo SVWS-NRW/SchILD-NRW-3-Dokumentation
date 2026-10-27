@@ -1,7 +1,5 @@
 ---
 title: "Den Abitur-Reiter für einzelne Prüflinge verwenden"
-source_pageid: 1118
-source_revision: 3696
 ---
 
 # Den Abitur-Reiter für einzelne Prüflinge verwenden
@@ -70,4 +68,4 @@ Die automatische Kursmarkierung und die Berechnung von Zulassung und Abiturergeb
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abitur_(Sch%C3%BCler)) · Quellrevision 3696.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abitur_(Sch%C3%BCler))

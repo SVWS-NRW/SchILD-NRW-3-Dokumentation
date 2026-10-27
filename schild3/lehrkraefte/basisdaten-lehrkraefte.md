@@ -1,7 +1,5 @@
 ---
 title: "Stamm- und Kontaktdaten der Lehrkräfte pflegen"
-source_pageid: 236
-source_revision: 5307
 ---
 
 # Stamm- und Kontaktdaten der Lehrkräfte pflegen
@@ -66,4 +64,4 @@ Bitte beachten Sie dabei, dass die Bilder (möglichst im jpg-Format) vorher in e
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisdaten_(Lehrkr%C3%A4fte)) · Quellrevision 5307.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisdaten_(Lehrkr%C3%A4fte))

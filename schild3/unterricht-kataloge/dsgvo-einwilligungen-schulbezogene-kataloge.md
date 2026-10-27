@@ -1,7 +1,5 @@
 ---
 title: "DSGVO-Einwilligungen im Katalog vorbereiten"
-source_pageid: 257
-source_revision: 5453
 ---
 
 # DSGVO-Einwilligungen im Katalog vorbereiten
@@ -62,4 +60,4 @@ Durch Klick auf **Excel-Export** und **Speichern** im folgenden Fenster kann die
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=DSGVO-Einwilligungen_(Schulbezogene_Kataloge)) · Quellrevision 5453.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=DSGVO-Einwilligungen_(Schulbezogene_Kataloge))

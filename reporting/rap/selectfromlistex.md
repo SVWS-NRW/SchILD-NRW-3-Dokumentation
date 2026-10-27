@@ -1,7 +1,5 @@
 ---
 title: "SelectFromListEx"
-source_pageid: 100
-source_revision: 540
 ---
 
 # SelectFromListEx
@@ -44,4 +42,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectFromListEx) · Quellrevision 540.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectFromListEx)

@@ -1,7 +1,5 @@
 ---
 title: "Fehler bei der Statistikvorbereitung und Abgabe beheben"
-source_pageid: 1197
-source_revision: 4935
 ---
 
 # Fehler bei der Statistikvorbereitung und Abgabe beheben
@@ -108,4 +106,4 @@ Nach dem Versand sollten Sie innerhalb der Arbeitszeiten von IT.NRW eine Eingang
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehleranalyse_zur_Statistik_(Tutorial)) · Quellrevision 4935.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehleranalyse_zur_Statistik_(Tutorial))

@@ -1,7 +1,5 @@
 ---
 title: "Früheres Verfahren: Eine leere Datenbank anlegen"
-source_pageid: 1141
-source_revision: 5197
 ---
 
 # Früheres Verfahren: Eine leere Datenbank anlegen
@@ -29,4 +27,4 @@ eine neue, leere Datenbank für diese Schule erzeugt werden, die sich dann befü
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenbank_anlegen_(Verwaltung_Datenbank)) · Quellrevision 5197.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenbank_anlegen_(Verwaltung_Datenbank))

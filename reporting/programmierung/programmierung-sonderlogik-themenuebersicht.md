@@ -1,7 +1,5 @@
 ---
 title: "Programmierung, Datenquellen und Subreports"
-source_pageid: 1613
-source_revision: 6784
 ---
 
 # Programmierung, Datenquellen und Subreports
@@ -44,4 +42,4 @@ Gemeinsame Bestandteile zur Laufzeit nachladen
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Programmierung_%26_Sonderlogik_Themen%C3%BCbersicht) · Quellrevision 6784.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Programmierung_%26_Sonderlogik_Themen%C3%BCbersicht)

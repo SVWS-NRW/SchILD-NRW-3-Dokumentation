@@ -1,7 +1,5 @@
 ---
 title: "LehrerAuswaehlen"
-source_pageid: 56
-source_revision: 484
 ---
 
 # LehrerAuswaehlen
@@ -40,4 +38,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LehrerAuswaehlen) · Quellrevision 484.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LehrerAuswaehlen)

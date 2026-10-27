@@ -1,7 +1,5 @@
 ---
 title: "PipelineOeffnen"
-source_pageid: 77
-source_revision: 505
 ---
 
 # PipelineOeffnen
@@ -31,4 +29,4 @@ procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=PipelineOeffnen) · Quellrevision 505.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=PipelineOeffnen)

@@ -1,7 +1,5 @@
 ---
 title: "Bezeichnungen für telefonische Kontakte vorbereiten"
-source_pageid: 347
-source_revision: 5424
 ---
 
 # Bezeichnungen für telefonische Kontakte vorbereiten
@@ -32,4 +30,4 @@ Auf dem Karteireiter *Schüler ➜ Erziehungsberechtigte* können nun weitere Te
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Telef._Ansprechpartner_(Allgemeine_Kataloge)) · Quellrevision 5424.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Telef._Ansprechpartner_(Allgemeine_Kataloge))

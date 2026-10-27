@@ -1,7 +1,5 @@
 ---
 title: "ResetFaechervorbelegung"
-source_pageid: 88
-source_revision: 516
 ---
 
 # ResetFaechervorbelegung
@@ -34,4 +32,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ResetFaechervorbelegung) · Quellrevision 516.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ResetFaechervorbelegung)

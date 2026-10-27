@@ -12,18 +12,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Raffenberg/SchILD3_Doku.git"
+    "url": "git+https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Raffenberg/SchILD3_Doku/issues"
+    "url": "https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation/issues"
   },
-  "homepage": "https://github.com/Raffenberg/SchILD3_Doku#readme",
+  "homepage": "https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation#readme",
   "devDependencies": {
     "markdown-it-container": "^4.0.0",
     "vitepress": "^1.6.4"
+  },
+  "overrides": {
+    "vitepress": {
+      "vite": "6.4.5"
+    }
   }
 }

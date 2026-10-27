@@ -1,7 +1,5 @@
 ---
 title: "LehrerDatenLaden"
-source_pageid: 57
-source_revision: 485
 ---
 
 # LehrerDatenLaden
@@ -41,4 +39,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LehrerDatenLaden) · Quellrevision 485.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LehrerDatenLaden)

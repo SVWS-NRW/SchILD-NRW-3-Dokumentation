@@ -1,7 +1,5 @@
 ---
 title: "Das Verzeichnis der Dokumentenablage ändern"
-source_pageid: 1338
-source_revision: 6690
 ---
 
 # Das Verzeichnis der Dokumentenablage ändern
@@ -47,4 +45,4 @@ Wenn sich der individuelle Schülerpfad durch die neue Dateimaske ändert, lasse
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Verzeichnis_der_Dokumentenverwaltung_%C3%A4ndern_(Tutorial)) · Quellrevision 6690.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Verzeichnis_der_Dokumentenverwaltung_%C3%A4ndern_(Tutorial))

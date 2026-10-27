@@ -1,7 +1,5 @@
 ---
 title: "Kataloge vorbereiten und Einträge verwenden"
-source_pageid: 1268
-source_revision: 5065
 ---
 
 # Kataloge vorbereiten und Einträge verwenden
@@ -43,4 +41,4 @@ Bei vielen Arbeitsprozessen in SchILD-NRW gilt somit: Zuerst wird im Katalog vor
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vom_Katalog_zum_Eintrag_(Einf%C3%BChrung)) · Quellrevision 5065.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vom_Katalog_zum_Eintrag_(Einf%C3%BChrung))

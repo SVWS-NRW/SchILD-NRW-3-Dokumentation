@@ -1,7 +1,5 @@
 ---
 title: "Mahnbriefe drucken"
-source_pageid: 1407
-source_revision: 6299
 ---
 
 # Mahnbriefe drucken
@@ -120,4 +118,4 @@ Anhand der Schulform, des Jahrgangs, der Prüfung auf Wiederholer und Verweildau
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mahnbriefe_drucken_(Tutorial)) · Quellrevision 6299.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mahnbriefe_drucken_(Tutorial))

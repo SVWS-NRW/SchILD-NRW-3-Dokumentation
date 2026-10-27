@@ -1,7 +1,5 @@
 ---
 title: "Lernbereichsnoten gruppenweise eingeben"
-source_pageid: 323
-source_revision: 5393
 ---
 
 # Lernbereichsnoten gruppenweise eingeben
@@ -36,4 +34,4 @@ Lassen Sie zunächst den Gruppenprozess Versetzungs-/Abschluss-Berechnung durchl
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Lernbereichsnoten_eingeben_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 5393.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Lernbereichsnoten_eingeben_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

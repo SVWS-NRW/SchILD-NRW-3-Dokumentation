@@ -1,7 +1,5 @@
 ---
 title: "Klassenunterricht mit Stundentafeln anlegen"
-source_pageid: 291
-source_revision: 5509
 ---
 
 # Klassenunterricht mit Stundentafeln anlegen
@@ -78,4 +76,4 @@ Sollten nun noch Veränderungen vorgenommen werden müssen, dann geschieht dies 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Klassenunterrichte_anlegen_(Tutorial)) · Quellrevision 5509.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Klassenunterrichte_anlegen_(Tutorial))

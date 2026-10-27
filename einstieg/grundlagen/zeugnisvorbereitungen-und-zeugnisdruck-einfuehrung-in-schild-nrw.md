@@ -1,7 +1,5 @@
 ---
 title: "Zeugnisse vorbereiten, drucken und archivieren"
-source_pageid: 561
-source_revision: 7105
 ---
 
 # Zeugnisse vorbereiten, drucken und archivieren
@@ -362,4 +360,4 @@ Nehmen Sie das Tutorial zu den *Häufigen Fehlern beim Zeugnisdruck* zur Kenntni
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisvorbereitungen_und_Zeugnisdruck_(Einf%C3%BChrung_in_SchILD-NRW)) · Quellrevision 7105.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisvorbereitungen_und_Zeugnisdruck_(Einf%C3%BChrung_in_SchILD-NRW))

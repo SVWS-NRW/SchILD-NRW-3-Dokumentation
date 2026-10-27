@@ -1,7 +1,5 @@
 ---
 title: "ZeugnisDatenquellenOeffnen"
-source_pageid: 136
-source_revision: 530
 ---
 
 # ZeugnisDatenquellenOeffnen
@@ -27,4 +25,4 @@ procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZeugnisDatenquellenOeffnen) · Quellrevision 530.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZeugnisDatenquellenOeffnen)

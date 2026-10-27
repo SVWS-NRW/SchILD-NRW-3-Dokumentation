@@ -1,7 +1,5 @@
 ---
 title: "Fehlende Lernabschnittsdaten ergänzen"
-source_pageid: 741
-source_revision: 4790
 ---
 
 # Fehlende Lernabschnittsdaten ergänzen
@@ -18,4 +16,4 @@ Nach einem Halbjahres- oder Schuljahreswechsel sollten für alle aktuellen Schü
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehlende_Abschnittsdaten_anlegen_(Verwaltung_Werkzeuge)) · Quellrevision 4790.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehlende_Abschnittsdaten_anlegen_(Verwaltung_Werkzeuge))

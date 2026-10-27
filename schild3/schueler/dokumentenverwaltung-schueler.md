@@ -1,7 +1,5 @@
 ---
 title: "Dokumente eines Schulkindes ablegen und aufrufen"
-source_pageid: 1355
-source_revision: 6589
 ---
 
 # Dokumente eines Schulkindes ablegen und aufrufen
@@ -45,4 +43,4 @@ Für die Dokumentenablage gilt keine einheitliche gesetzliche Zehnjahresfrist. N
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Dokumentenverwaltung_(Sch%C3%BCler)) · Quellrevision 6589.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Dokumentenverwaltung_(Sch%C3%BCler))

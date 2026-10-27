@@ -1,7 +1,5 @@
 ---
 title: "Aufbau und Regeln der SchILD-NRW-Schnittstelle verstehen"
-source_pageid: 861
-source_revision: 6953
 ---
 
 # Aufbau und Regeln der SchILD-NRW-Schnittstelle verstehen
@@ -110,4 +108,4 @@ Falls bei einem Zweitimport Felder leer sind, die in SchILD-NRW 3 bereits gefül
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schnittstelle_SchILD_-_Vorbemerkungen) · Quellrevision 6953.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schnittstelle_SchILD_-_Vorbemerkungen)

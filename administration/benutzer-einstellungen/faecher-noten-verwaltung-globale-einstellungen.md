@@ -1,7 +1,5 @@
 ---
 title: "Fächer, Noten und Eingabemodi einstellen"
-source_pageid: 402
-source_revision: 3316
 ---
 
 # Fächer, Noten und Eingabemodi einstellen
@@ -101,4 +99,4 @@ Dies kann die Lesbarkeit und den Überblick in den Leistungsdaten deutlich verbe
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher,_Noten_(Verwaltung_Globale_Einstellungen)) · Quellrevision 3316.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher,_Noten_(Verwaltung_Globale_Einstellungen))

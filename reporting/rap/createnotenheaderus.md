@@ -1,7 +1,5 @@
 ---
 title: "CreateNotenHeaderUS"
-source_pageid: 24
-source_revision: 315
 ---
 
 # CreateNotenHeaderUS
@@ -34,4 +32,4 @@ CreateNotenHeaderUS('D,E,M,F,L');
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=CreateNotenHeaderUS) · Quellrevision 315.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=CreateNotenHeaderUS)

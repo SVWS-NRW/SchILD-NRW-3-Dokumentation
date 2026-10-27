@@ -1,7 +1,5 @@
 ---
 title: "FilterAdresse"
-source_pageid: 38
-source_revision: 331
 ---
 
 # FilterAdresse
@@ -26,4 +24,4 @@ Siehe „SelectAdressName“
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterAdresse) · Quellrevision 331.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterAdresse)

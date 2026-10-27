@@ -1,7 +1,5 @@
 ---
 title: "Früheres Verfahren: Eine SQLite-Datenbank importieren"
-source_pageid: 1211
-source_revision: 5198
 ---
 
 # Früheres Verfahren: Eine SQLite-Datenbank importieren
@@ -94,4 +92,4 @@ Nach einem Neustart des Programms steht die importierte Datenbank zur Auswahl.  
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenbank_importieren_(aus_SQLite)_(Verwaltung_Datenbank)) · Quellrevision 5198.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenbank_importieren_(aus_SQLite)_(Verwaltung_Datenbank))

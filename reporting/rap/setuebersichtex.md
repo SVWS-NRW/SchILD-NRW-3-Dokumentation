@@ -1,7 +1,5 @@
 ---
 title: "SetUebersichtEx"
-source_pageid: 115
-source_revision: 555
 ---
 
 # SetUebersichtEx
@@ -32,4 +30,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetUebersichtEx) · Quellrevision 555.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetUebersichtEx)

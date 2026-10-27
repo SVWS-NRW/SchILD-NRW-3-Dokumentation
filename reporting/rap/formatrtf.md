@@ -1,7 +1,5 @@
 ---
 title: "FormatRTF"
-source_pageid: 45
-source_revision: 338
 ---
 
 # FormatRTF
@@ -38,4 +36,4 @@ begin
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FormatRTF) · Quellrevision 338.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FormatRTF)

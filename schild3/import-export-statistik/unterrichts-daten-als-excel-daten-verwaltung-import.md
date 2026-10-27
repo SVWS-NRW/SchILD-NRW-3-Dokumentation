@@ -1,7 +1,5 @@
 ---
 title: "Unterrichtsdaten aus Excel importieren"
-source_pageid: 878
-source_revision: 5401
 ---
 
 # Unterrichtsdaten aus Excel importieren
@@ -101,4 +99,4 @@ Beispiel 5: 2-stündiger Sportkurs "Hockey" in Jahrgang 08 im 2. Hj. 2022/23, wi
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Unterrichts-Daten_(als_Excel-Daten)_(Verwaltung_Import)) · Quellrevision 5401.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Unterrichts-Daten_(als_Excel-Daten)_(Verwaltung_Import))

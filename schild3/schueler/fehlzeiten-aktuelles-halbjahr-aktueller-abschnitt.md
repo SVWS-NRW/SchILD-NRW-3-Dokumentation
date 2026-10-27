@@ -1,7 +1,5 @@
 ---
 title: "Fehlzeiten tagesbezogen erfassen und auswerten"
-source_pageid: 531
-source_revision: 5321
 ---
 
 # Fehlzeiten tagesbezogen erfassen und auswerten
@@ -71,5 +69,5 @@ Auf Fehlzeiten kann im Reportbaukasten mit den entsprechenden Datenquellen zugeg
 
 ---
 
-[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehlzeiten_(Aktuelles_Halbjahr_/_Aktueller_Abschnitt>) · Quellrevision 5321.
+[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehlzeiten_(Aktuelles_Halbjahr_/_Aktueller_Abschnitt>)
 

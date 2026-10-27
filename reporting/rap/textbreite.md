@@ -1,7 +1,5 @@
 ---
 title: "Textbreite"
-source_pageid: 126
-source_revision: 520
 ---
 
 # Textbreite
@@ -33,4 +31,4 @@ lblStern.Left := lblFach.Left + wt;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Textbreite) · Quellrevision 520.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Textbreite)

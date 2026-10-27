@@ -1,7 +1,5 @@
 ---
 title: "JSON-Dateien lesen und verstehen"
-source_pageid: 1414
-source_revision: 5634
 ---
 
 # JSON-Dateien lesen und verstehen
@@ -44,4 +42,4 @@ Hier im Screenshot wurde das Programm Notepad++ mit dem Plugin JSON Viewer verwe
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Das_JSON-Dateiformat_(Tutorial)) · Quellrevision 5634.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Das_JSON-Dateiformat_(Tutorial))

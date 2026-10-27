@@ -1,7 +1,5 @@
 ---
 title: "Persönliche Daten in Individualdaten I erfassen"
-source_pageid: 241
-source_revision: 7023
 ---
 
 # Persönliche Daten in Individualdaten I erfassen
@@ -104,4 +102,4 @@ SchILD-NRW ordnet beim Speichern eine als zweite Staatsangehörigkeit eingetrage
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individualdaten_I_(Sch%C3%BCler)) · Quellrevision 7023.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individualdaten_I_(Sch%C3%BCler))

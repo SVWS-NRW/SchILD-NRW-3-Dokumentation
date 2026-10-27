@@ -1,7 +1,5 @@
 ---
 title: "Herkunftssprachlichen Unterricht und Sprachprüfungen erfassen"
-source_pageid: 1438
-source_revision: 5776
 ---
 
 # Herkunftssprachlichen Unterricht und Sprachprüfungen erfassen
@@ -129,4 +127,4 @@ Zeugnisbemerkung:
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Herkunftssprachlicher_Unterricht_(Tutorial)) · Quellrevision 5776.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Herkunftssprachlicher_Unterricht_(Tutorial))

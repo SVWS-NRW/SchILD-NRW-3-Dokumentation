@@ -1,7 +1,5 @@
 ---
 title: "SetBKAbschluss"
-source_pageid: 107
-source_revision: 547
 ---
 
 # SetBKAbschluss
@@ -26,4 +24,4 @@ Analog zu [SetAbitur](/reporting/rap/setabitur)
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetBKAbschluss) · Quellrevision 547.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetBKAbschluss)

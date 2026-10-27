@@ -1,7 +1,5 @@
 ---
 title: "Neue Schülerinnen und Schüler aufnehmen"
-source_pageid: 357
-source_revision: 5486
 ---
 
 # Neue Schülerinnen und Schüler aufnehmen
@@ -68,4 +66,4 @@ Die Schüler können nun per weiterem Gruppenprozess ihren Einstiegsklassen zuge
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Neuaufnahmen_in_Schild-NRW_(Tutorial)) · Quellrevision 5486.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Neuaufnahmen_in_Schild-NRW_(Tutorial))

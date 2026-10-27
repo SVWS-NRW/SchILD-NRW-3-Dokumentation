@@ -1,7 +1,5 @@
 ---
 title: "Begriffe des Reportdesigners"
-source_pageid: 1581
-source_revision: 6550
 ---
 
 # Begriffe des Reportdesigners
@@ -140,4 +138,4 @@ Erzeugt eine neue Seite, z. B. bei Gruppen oder Datensatzwechseln.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Glossar_zum_Reportdesigner) · Quellrevision 6550.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Glossar_zum_Reportdesigner)

@@ -1,7 +1,5 @@
 ---
 title: "Noten für vorbereitete Teilleistungen eingeben"
-source_pageid: 321
-source_revision: 5382
 ---
 
 # Noten für vorbereitete Teilleistungen eingeben
@@ -54,4 +52,4 @@ Die Notenerfassung mit GradeHub und WeNoM ist dem SVWS-Server zugeordnet. Einric
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noteneingabe_(nur_vorbereitete_TL)_(Gruppenprozesse_Teilleistungen)) · Quellrevision 5382.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noteneingabe_(nur_vorbereitete_TL)_(Gruppenprozesse_Teilleistungen))

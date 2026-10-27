@@ -1,7 +1,5 @@
 ---
 title: "FilterLaufbahnStufen"
-source_pageid: 43
-source_revision: 336
 ---
 
 # FilterLaufbahnStufen
@@ -34,4 +32,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterLaufbahnStufen) · Quellrevision 336.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterLaufbahnStufen)

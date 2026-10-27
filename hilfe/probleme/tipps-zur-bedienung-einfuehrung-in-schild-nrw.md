@@ -1,7 +1,5 @@
 ---
 title: "SchILD-NRW im Alltag bedienen"
-source_pageid: 1257
-source_revision: 6101
 ---
 
 # SchILD-NRW im Alltag bedienen
@@ -124,5 +122,5 @@ Im Reiter **Schüler** lassen sich die Reports nun im Kopfband im Bereich *Druck
 
 ---
 
-[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Tipps_zur_Bedienung_(Einf%C3%BChrung_in_SchILD-NRW))>) · Quellrevision 6101.
+[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Tipps_zur_Bedienung_(Einf%C3%BChrung_in_SchILD-NRW))>)
 

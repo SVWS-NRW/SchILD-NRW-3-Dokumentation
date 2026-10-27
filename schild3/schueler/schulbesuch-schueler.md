@@ -1,7 +1,5 @@
 ---
 title: "Den bisherigen Schulbesuch und Schulwechsel erfassen"
-source_pageid: 381
-source_revision: 5091
 ---
 
 # Den bisherigen Schulbesuch und Schulwechsel erfassen
@@ -119,4 +117,4 @@ Die Auswahllisten der Abschlussarten berücksichtigen das **Entlassdatum**. Trag
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbesuch_(Sch%C3%BCler)) · Quellrevision 5091.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbesuch_(Sch%C3%BCler))

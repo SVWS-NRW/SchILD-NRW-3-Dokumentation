@@ -1,7 +1,5 @@
 ---
 title: "Bestaetigung"
-source_pageid: 22
-source_revision: 313
 ---
 
 # Bestaetigung
@@ -40,4 +38,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Bestaetigung) · Quellrevision 313.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Bestaetigung)

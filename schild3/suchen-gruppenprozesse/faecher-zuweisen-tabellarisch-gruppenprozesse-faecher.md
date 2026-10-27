@@ -1,7 +1,5 @@
 ---
 title: "Fächer in einer Tabelle zuweisen und bearbeiten"
-source_pageid: 805
-source_revision: 5354
 ---
 
 # Fächer in einer Tabelle zuweisen und bearbeiten
@@ -91,4 +89,4 @@ Haben Sie ihre Änderungen vorgenommen, klicken Sie links über der Tabelle auf 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_zuweisen_(tabellarisch)_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 5354.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_zuweisen_(tabellarisch)_(Gruppenprozesse_F%C3%A4cher))

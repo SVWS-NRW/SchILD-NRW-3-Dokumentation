@@ -1,7 +1,5 @@
 ---
 title: "ReplaceTextEx"
-source_pageid: 85
-source_revision: 513
 ---
 
 # ReplaceTextEx
@@ -37,4 +35,4 @@ Memo1.Text:=ReplaceTextEx(Memo1.Text,'$VORNAME$',Schueler['Vorname']);
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ReplaceTextEx) · Quellrevision 513.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ReplaceTextEx)

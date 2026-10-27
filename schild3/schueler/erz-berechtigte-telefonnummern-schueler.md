@@ -1,7 +1,5 @@
 ---
 title: "Erziehungsberechtigte und Telefonnummern erfassen"
-source_pageid: 380
-source_revision: 4690
 ---
 
 # Erziehungsberechtigte und Telefonnummern erfassen
@@ -54,4 +52,4 @@ Das Feld **Für Weitergabe gesperrt** kann bearbeitet werden. Prüfen Sie bei Ko
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Erz.-Berechtigte_/_Telefonnummern_(Sch%C3%BCler)) · Quellrevision 4690.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Erz.-Berechtigte_/_Telefonnummern_(Sch%C3%BCler))

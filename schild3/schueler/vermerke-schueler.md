@@ -1,7 +1,5 @@
 ---
 title: "Vermerke zu Schülerdatensätzen führen"
-source_pageid: 1345
-source_revision: 6072
 ---
 
 # Vermerke zu Schülerdatensätzen führen
@@ -50,4 +48,4 @@ Falls Sie an Ihrer Schule Vermerke nicht verwenden möchten, kann der Reiter üb
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vermerke_(Sch%C3%BCler)) · Quellrevision 6072.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vermerke_(Sch%C3%BCler))

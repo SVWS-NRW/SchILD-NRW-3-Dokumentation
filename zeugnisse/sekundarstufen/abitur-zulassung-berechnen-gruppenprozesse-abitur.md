@@ -1,7 +1,5 @@
 ---
 title: "Die Abiturzulassung berechnen"
-source_pageid: 392
-source_revision: 3385
 ---
 
 # Die Abiturzulassung berechnen
@@ -48,4 +46,4 @@ Für einen einzelnen Schüler kann der Prozess auch unter dem Karteireiter *Sch�
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abitur-Zulassung_berechnen_(Gruppenprozesse_Abitur)) · Quellrevision 3385.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abitur-Zulassung_berechnen_(Gruppenprozesse_Abitur))

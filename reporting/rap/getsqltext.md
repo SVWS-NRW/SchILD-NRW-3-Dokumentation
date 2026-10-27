@@ -1,7 +1,5 @@
 ---
 title: "GetSqlText"
-source_pageid: 49
-source_revision: 342
 ---
 
 # GetSqlText
@@ -34,4 +32,4 @@ ShowMessage('Abfragetext: ' + GetSqlText(Schueler))
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=GetSqlText) · Quellrevision 342.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=GetSqlText)

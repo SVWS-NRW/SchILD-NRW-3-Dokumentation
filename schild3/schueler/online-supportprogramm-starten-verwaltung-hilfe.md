@@ -1,7 +1,5 @@
 ---
 title: "Den Online-Support mit der Fachberatung starten"
-source_pageid: 1088
-source_revision: 3643
 ---
 
 # Den Online-Support mit der Fachberatung starten
@@ -42,4 +40,4 @@ Achten Sie bitte darauf, nicht auf eventuelle Phishingangriffe hereinzufallen, d
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Online-Supportprogramm_starten_(Verwaltung_Hilfe)) · Quellrevision 3643.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Online-Supportprogramm_starten_(Verwaltung_Hilfe))

@@ -1,7 +1,5 @@
 ---
 title: "Frühere Versionshinweise zu SchILD-NRW 3 nachschlagen"
-source_pageid: 1442
-source_revision: 6234
 ---
 
 # Frühere Versionshinweise zu SchILD-NRW 3 nachschlagen
@@ -288,4 +286,4 @@ Port=
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versionsgeschichte_von_SchILD-NRW_3) · Quellrevision 6234.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versionsgeschichte_von_SchILD-NRW_3)

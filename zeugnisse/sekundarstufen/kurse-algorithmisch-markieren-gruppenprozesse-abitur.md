@@ -1,7 +1,5 @@
 ---
 title: "Kurse für die Abiturzulassung algorithmisch markieren"
-source_pageid: 391
-source_revision: 3379
 ---
 
 # Kurse für die Abiturzulassung algorithmisch markieren
@@ -44,4 +42,4 @@ Es schließt sich hier der Gruppenprozess **Abiturzulassung berechnen** an, der 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kurse_algorithmisch_markieren_(Gruppenprozesse_Abitur)) · Quellrevision 3379.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kurse_algorithmisch_markieren_(Gruppenprozesse_Abitur))

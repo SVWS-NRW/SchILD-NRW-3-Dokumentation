@@ -1,7 +1,5 @@
 ---
 title: "Reports übersichtlich und wartbar gestalten"
-source_pageid: 1560
-source_revision: 6847
 ---
 
 # Reports übersichtlich und wartbar gestalten
@@ -82,4 +80,4 @@ Dieser Abschnitt behandelt ausschließlich den Einsatz von Code innerhalb von Re
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Designrichtlinien) · Quellrevision 6847.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Designrichtlinien)

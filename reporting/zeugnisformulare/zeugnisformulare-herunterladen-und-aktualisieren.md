@@ -1,7 +1,5 @@
 ---
 title: "Zeugnisformulare herunterladen und bereitstellen"
-source_pageid: 1617
-source_revision: 6863
 ---
 
 # Zeugnisformulare herunterladen und bereitstellen
@@ -66,4 +64,4 @@ Nicht jedes Zeugnisformular benötigt einen eigenen Kopf-Report; viele Formulare
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisformulare_herunterladen_und_aktualisieren) · Quellrevision 6863.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisformulare_herunterladen_und_aktualisieren)

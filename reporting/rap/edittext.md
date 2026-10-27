@@ -1,7 +1,5 @@
 ---
 title: "EditText"
-source_pageid: 30
-source_revision: 319
 ---
 
 # EditText
@@ -30,4 +28,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=EditText) · Quellrevision 319.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=EditText)

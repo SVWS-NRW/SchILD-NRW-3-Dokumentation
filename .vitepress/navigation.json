@@ -40,6 +40,10 @@
             "link": "/einstieg/"
           },
           {
+            "text": "Druckansicht",
+            "link": "/druck/einstieg.html"
+          },
+          {
             "text": "Grundlagen",
             "link": "/einstieg/grundlagen",
             "items": [
@@ -113,6 +117,10 @@
           {
             "text": "Übersicht",
             "link": "/schild3/"
+          },
+          {
+            "text": "Druckansicht",
+            "link": "/druck/schild3.html"
           },
           {
             "text": "Schülerinnen und Schüler",
@@ -700,6 +708,10 @@
             "link": "/zeugnisse/"
           },
           {
+            "text": "Druckansicht",
+            "link": "/druck/zeugnisse.html"
+          },
+          {
             "text": "Zeugnisse vorbereiten",
             "link": "/zeugnisse/vorbereitung",
             "items": [
@@ -1179,6 +1191,10 @@
             "link": "/reporting/"
           },
           {
+            "text": "Druckansicht",
+            "link": "/druck/reporting.html"
+          },
+          {
             "text": "Reports verwenden und verwalten",
             "link": "/reporting/reportverwaltung",
             "collapsed": true,
@@ -1465,6 +1481,10 @@
             "link": "/administration/"
           },
           {
+            "text": "Druckansicht",
+            "link": "/druck/administration.html"
+          },
+          {
             "text": "Installation und Betrieb",
             "link": "/administration/installation",
             "items": [
@@ -1670,6 +1690,10 @@
             "link": "/hilfe/"
           },
           {
+            "text": "Druckansicht",
+            "link": "/druck/hilfe.html"
+          },
+          {
             "text": "Bedienung",
             "link": "/hilfe/bedienung",
             "items": [
@@ -1835,6 +1859,10 @@
           {
             "text": "Übersicht",
             "link": "/programmreferenz/"
+          },
+          {
+            "text": "Druckansicht",
+            "link": "/druck/programmreferenz.html"
           }
         ]
       },

@@ -1,7 +1,5 @@
 ---
 title: "Das Menüband der Lehrkräfte verwenden"
-source_pageid: 271
-source_revision: 5236
 ---
 
 # Das Menüband der Lehrkräfte verwenden
@@ -51,4 +49,4 @@ Die angezeigten Spalten lassen sich über das Kontextmenü der Lehrkräftetabell
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Lehrkr%C3%A4fte)) · Quellrevision 5236.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Men%C3%BCband_(Lehrkr%C3%A4fte))

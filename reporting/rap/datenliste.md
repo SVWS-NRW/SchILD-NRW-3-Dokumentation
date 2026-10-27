@@ -1,7 +1,5 @@
 ---
 title: "Datenliste"
-source_pageid: 26
-source_revision: 317
 ---
 
 # Datenliste
@@ -32,4 +30,4 @@ lblBesuchteKlassen.Caption := DatenListe( SchuelerLaufbahn, 'Klasse', ', ', fal
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenliste) · Quellrevision 317.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenliste)

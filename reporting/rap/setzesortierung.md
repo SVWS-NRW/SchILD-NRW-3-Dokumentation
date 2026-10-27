@@ -1,7 +1,5 @@
 ---
 title: "SetzeSortierung"
-source_pageid: 119
-source_revision: 7171
 ---
 
 # SetzeSortierung
@@ -36,4 +34,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetzeSortierung) · Quellrevision 7171.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetzeSortierung)

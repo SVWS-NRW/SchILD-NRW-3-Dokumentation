@@ -6,8 +6,18 @@ export const containerLabels = {
   dangerLabel: 'Achtung', detailsLabel: 'Details'
 }
 
-export function configureMarkdown(md) {
+export function configureMarkdown(md, base = '/') {
   configureHintBoxes(md)
+  // VitePress skips its base-path handling for links with a download attribute.
+  const renderToken = md.renderer.renderToken
+  md.renderer.renderToken = function (tokens, i, options) {
+    const token = tokens[i]
+    const href = token.attrGet('href')
+    if (token.type === 'link_open' && base !== '/' && token.attrGet('download') !== null && href?.startsWith('/') && !href.startsWith('//') && !href.startsWith(base)) {
+      token.attrSet('href', base.slice(0, -1) + href)
+    }
+    return renderToken.call(this, tokens, i, options)
+  }
   md.disable('emoji')
 
   // VitePress 1.6 leaves escaped characters as text_special inside image labels.
@@ -44,10 +54,4 @@ export function configureMarkdown(md) {
     return `<div class="interface-table-scroll" tabindex="0" role="region" aria-label="${md.utils.escapeHtml(tokens[i].meta.title)}">` + opening.replace('<table', '<table class="interface-fields"') + `<colgroup>${columns}</colgroup>`
   }
   md.renderer.rules.table_close = (tokens, i, options, env, self) => tableClose(tokens, i, options, env, self) + (tokens[i].meta?.fieldTable ? '</div>\n' : '')
-
-
-  // VitePress 1.6's Vue-aware html_inline rule does not update linkLevel.
-  // Its eager inline linkifier can therefore create <a> inside HTML <a>.
-  // Keep the core linkify pass: it respects HTML anchors and still links URLs.
-  md.inline.ruler.disable('linkify')
 }

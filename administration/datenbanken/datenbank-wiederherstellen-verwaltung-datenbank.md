@@ -1,7 +1,5 @@
 ---
 title: "Eine Datenbanksicherung wiederherstellen"
-source_pageid: 1140
-source_revision: 5200
 ---
 
 # Eine Datenbanksicherung wiederherstellen
@@ -68,4 +66,4 @@ Die Sicherung wird nun vom Datenbankserver eingelesen... bitte warten Sie einen 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenbank_wiederherstellen_(Verwaltung_Datenbank)) · Quellrevision 5200.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenbank_wiederherstellen_(Verwaltung_Datenbank))

@@ -1,7 +1,5 @@
 ---
 title: "SelectStringEx"
-source_pageid: 104
-source_revision: 544
 ---
 
 # SelectStringEx
@@ -39,4 +37,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectStringEx) · Quellrevision 544.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectStringEx)

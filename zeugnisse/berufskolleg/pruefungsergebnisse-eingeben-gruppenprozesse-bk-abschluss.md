@@ -1,7 +1,5 @@
 ---
 title: "Schriftliche BK-Prüfungsnoten gruppenweise eingeben"
-source_pageid: 1285
-source_revision: 4701
 ---
 
 # Schriftliche BK-Prüfungsnoten gruppenweise eingeben
@@ -20,4 +18,4 @@ Geben Sie die Noten je nach verwendetem Verfahren mit oder ohne Tendenzen ein, d
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Pr%C3%BCfungsergebnisse_eingeben_(Gruppenprozesse_BK-Abschluss)) · Quellrevision 4701.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Pr%C3%BCfungsergebnisse_eingeben_(Gruppenprozesse_BK-Abschluss))

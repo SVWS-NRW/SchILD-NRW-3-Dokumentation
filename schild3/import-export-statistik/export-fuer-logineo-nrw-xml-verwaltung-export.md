@@ -1,7 +1,5 @@
 ---
 title: "Daten für LOGINEO NRW als XML exportieren"
-source_pageid: 1173
-source_revision: 4026
 ---
 
 # Daten für LOGINEO NRW als XML exportieren
@@ -71,4 +69,4 @@ Es folgt der Importprozess, bei dem durch Logineo NRW auch Lösungen für auftre
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Export_f%C3%BCr_Logineo_NRW_(XML)_(Verwaltung_Export)) · Quellrevision 4026.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Export_f%C3%BCr_Logineo_NRW_(XML)_(Verwaltung_Export))

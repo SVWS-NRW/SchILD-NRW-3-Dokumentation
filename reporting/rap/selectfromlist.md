@@ -1,7 +1,5 @@
 ---
 title: "SelectFromList"
-source_pageid: 99
-source_revision: 539
 ---
 
 # SelectFromList
@@ -43,4 +41,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectFromList) · Quellrevision 539.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectFromList)

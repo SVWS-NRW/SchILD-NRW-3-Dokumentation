@@ -1,7 +1,5 @@
 ---
 title: "Abschlüsse am Berufskolleg berechnen und prüfen"
-source_pageid: 1278
-source_revision: 4782
 ---
 
 # Abschlüsse am Berufskolleg berechnen und prüfen
@@ -120,4 +118,4 @@ Beachten Sie, dass die automatischen Werkzeuge als Unterstützung ohne Gewähr z
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=BK-Abschluss_(Sch%C3%BCler)) · Quellrevision 4782.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=BK-Abschluss_(Sch%C3%BCler))

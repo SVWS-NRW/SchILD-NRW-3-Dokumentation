@@ -1,7 +1,5 @@
 ---
 title: "SelectAdressArt"
-source_pageid: 95
-source_revision: 535
 ---
 
 # SelectAdressArt
@@ -34,4 +32,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectAdressArt) · Quellrevision 535.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectAdressArt)

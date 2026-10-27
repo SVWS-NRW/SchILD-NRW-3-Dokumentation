@@ -1,7 +1,5 @@
 ---
 title: "Lernstandsberichte für die Grundschule erstellen"
-source_pageid: 362
-source_revision: 3566
 ---
 
 # Lernstandsberichte für die Grundschule erstellen
@@ -20,4 +18,4 @@ Nachdem der Report entpackt und in der Ordnerstruktur unterhalb von *Schild-Repo
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Lernstandsberichte_(Tutorial)) · Quellrevision 3566.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Lernstandsberichte_(Tutorial))

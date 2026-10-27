@@ -1,7 +1,5 @@
 ---
 title: "SelectErzFunktion"
-source_pageid: 97
-source_revision: 537
 ---
 
 # SelectErzFunktion
@@ -26,4 +24,4 @@ Siehe „Filtererzieherfunktion“
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectErzFunktion) · Quellrevision 537.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectErzFunktion)

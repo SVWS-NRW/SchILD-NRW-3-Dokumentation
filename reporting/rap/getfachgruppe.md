@@ -1,7 +1,5 @@
 ---
 title: "GetFachgruppe"
-source_pageid: 48
-source_revision: 341
 ---
 
 # GetFachgruppe
@@ -28,4 +26,4 @@ Klartextname
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=GetFachgruppe) · Quellrevision 341.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=GetFachgruppe)

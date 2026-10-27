@@ -1,7 +1,5 @@
 ---
 title: "Schuleinstellungen aufrufen"
-source_pageid: 289
-source_revision: 4406
 ---
 
 # Schuleinstellungen aufrufen
@@ -23,4 +21,4 @@ Die Unterpunkte von *Schule* sind
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schule_(Verwaltung)) · Quellrevision 4406.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schule_(Verwaltung))

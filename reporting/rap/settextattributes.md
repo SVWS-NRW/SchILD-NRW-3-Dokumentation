@@ -1,7 +1,5 @@
 ---
 title: "SetTextAttributes"
-source_pageid: 113
-source_revision: 553
 ---
 
 # SetTextAttributes
@@ -34,4 +32,4 @@ Formatiert den gesamten Text des Richtextelementes in dem gewünschten Zeichensa
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetTextAttributes) · Quellrevision 553.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetTextAttributes)

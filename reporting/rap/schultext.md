@@ -1,7 +1,5 @@
 ---
 title: "SchulText"
-source_pageid: 94
-source_revision: 534
 ---
 
 # SchulText
@@ -35,4 +33,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchulText) · Quellrevision 534.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchulText)

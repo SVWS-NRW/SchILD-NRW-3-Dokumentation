@@ -1,7 +1,5 @@
 ---
 title: "Die Datenbankverbindung durch Pings aufrechterhalten"
-source_pageid: 1497
-source_revision: 6098
 ---
 
 # Die Datenbankverbindung durch Pings aufrechterhalten
@@ -26,4 +24,4 @@ Der Wert gibt den Abstand zwischen den Pings in **Minuten** an. Im Beispiel wird
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenbankverbindung_durch_automatische_Pings_am_Leben_erhalten_(Tutorial)) · Quellrevision 6098.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenbankverbindung_durch_automatische_Pings_am_Leben_erhalten_(Tutorial))

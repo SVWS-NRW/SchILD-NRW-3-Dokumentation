@@ -1,7 +1,5 @@
 ---
 title: "Zeugnisse als Broschüre drucken"
-source_pageid: 1086
-source_revision: 6866
 ---
 
 # Zeugnisse als Broschüre drucken
@@ -48,4 +46,4 @@ Die beschriebenen Schritte lassen sich in der Regel auch auf PDF-Reader anderer 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnis-Brosch%C3%BCrendruck_mit_dem_Foxit_Reader_(Tutorial)) · Quellrevision 6866.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnis-Brosch%C3%BCrendruck_mit_dem_Foxit_Reader_(Tutorial))

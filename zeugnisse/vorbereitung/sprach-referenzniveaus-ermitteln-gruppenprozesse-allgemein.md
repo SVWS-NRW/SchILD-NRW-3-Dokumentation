@@ -1,7 +1,5 @@
 ---
 title: "Sprachreferenzniveaus aus Leistungsdaten ermitteln"
-source_pageid: 478
-source_revision: 2580
 ---
 
 # Sprachreferenzniveaus aus Leistungsdaten ermitteln
@@ -38,4 +36,4 @@ Da Latinum, Graecum und Hebraicum nicht Teil des GeR sind, werden deren Haken be
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprach-Referenzniveaus_ermitteln_(Gruppenprozesse_Allgemein)) · Quellrevision 2580.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprach-Referenzniveaus_ermitteln_(Gruppenprozesse_Allgemein))

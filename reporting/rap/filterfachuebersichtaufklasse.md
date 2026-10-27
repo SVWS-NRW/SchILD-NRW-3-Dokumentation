@@ -1,7 +1,5 @@
 ---
 title: "FilterFachUebersichtAufKlasse"
-source_pageid: 40
-source_revision: 333
 ---
 
 # FilterFachUebersichtAufKlasse
@@ -40,4 +38,4 @@ Der Aufruf sollte nur in Verbindung mit der Datenquelle "Fachuebersicht" erfolge
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterFachUebersichtAufKlasse) · Quellrevision 333.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterFachUebersichtAufKlasse)

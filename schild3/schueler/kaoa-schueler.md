@@ -1,7 +1,5 @@
 ---
 title: "KAoA-Module erfassen und archivieren"
-source_pageid: 626
-source_revision: 5069
 ---
 
 # KAoA-Module erfassen und archivieren
@@ -56,4 +54,4 @@ Da häufig Klassen oder Jahrgangsstufen zusammen die Module von KAoA absolvieren
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=KAoA_(Sch%C3%BCler)) · Quellrevision 5069.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=KAoA_(Sch%C3%BCler))

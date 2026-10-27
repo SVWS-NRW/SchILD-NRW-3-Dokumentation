@@ -1,7 +1,5 @@
 ---
 title: "Schüler mit kombinierten Filterbedingungen auswählen"
-source_pageid: 290
-source_revision: 4778
 ---
 
 # Schüler mit kombinierten Filterbedingungen auswählen
@@ -76,4 +74,4 @@ Klicken Sie auf **Testen**, um die zusammengestellten Bedingungen zu prüfen. Mi
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzung_des_Sch%C3%BClerfilters_(Tutorial)) · Quellrevision 4778.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzung_des_Sch%C3%BClerfilters_(Tutorial))

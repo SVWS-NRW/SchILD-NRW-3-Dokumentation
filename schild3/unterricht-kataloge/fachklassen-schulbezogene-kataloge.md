@@ -1,7 +1,5 @@
 ---
 title: "Fachklassen am Berufskolleg verwalten"
-source_pageid: 1415
-source_revision: 5649
 ---
 
 # Fachklassen am Berufskolleg verwalten
@@ -72,4 +70,4 @@ Der grüne Pfeil im Screenshot weist auf die Funktion zum `Speichern & schließe
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fachklassen_(Schulbezogene_Kataloge)) · Quellrevision 5649.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fachklassen_(Schulbezogene_Kataloge))

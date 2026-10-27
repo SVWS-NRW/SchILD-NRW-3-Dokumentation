@@ -1,7 +1,5 @@
 ---
 title: "MehrfachauswahlEx"
-source_pageid: 69
-source_revision: 497
 ---
 
 # MehrfachauswahlEx
@@ -44,4 +42,4 @@ end
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=MehrfachauswahlEx) · Quellrevision 497.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=MehrfachauswahlEx)

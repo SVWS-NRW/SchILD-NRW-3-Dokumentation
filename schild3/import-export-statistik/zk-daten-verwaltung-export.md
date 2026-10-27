@@ -1,7 +1,5 @@
 ---
 title: "Daten zu Zentralen Klausuren exportieren"
-source_pageid: 929
-source_revision: 5282
 ---
 
 # Daten zu Zentralen Klausuren exportieren
@@ -49,4 +47,4 @@ Diese Datei kann mit den üblichen Tabellenkalkulationsprogrammen geöffnet und 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZK-Daten_(Verwaltung_Export)) · Quellrevision 5282.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZK-Daten_(Verwaltung_Export))

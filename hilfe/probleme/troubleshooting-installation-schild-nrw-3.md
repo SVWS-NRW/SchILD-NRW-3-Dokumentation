@@ -1,7 +1,5 @@
 ---
 title: "Installations- und Verbindungsprobleme beheben"
-source_pageid: 1455
-source_revision: 7120
 ---
 
 # Installations- und Verbindungsprobleme beheben
@@ -50,4 +48,4 @@ Entscheidend ist das von SchILD verwendete **Arbeitsverzeichnis**: Die `.con`-Da
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Troubleshooting_Installation_SchILD-NRW_3) · Quellrevision 7120.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Troubleshooting_Installation_SchILD-NRW_3)

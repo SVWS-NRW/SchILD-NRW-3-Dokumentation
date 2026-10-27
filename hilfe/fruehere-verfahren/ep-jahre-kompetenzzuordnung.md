@@ -1,7 +1,5 @@
 ---
 title: "Frühere Korrektur der EP-Jahre für die Kompetenzzuordnung"
-source_pageid: 361
-source_revision: 6062
 ---
 
 # Frühere Korrektur der EP-Jahre für die Kompetenzzuordnung
@@ -29,4 +27,4 @@ Der damalige Hinweis bezeichnete den Wert als nicht statistikrelevant, wies aber
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Ankreuzzeugnis_(Tutorial)) · Quellrevision 6062.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Ankreuzzeugnis_(Tutorial))

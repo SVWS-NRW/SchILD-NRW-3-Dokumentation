@@ -1,7 +1,5 @@
 ---
 title: "Gespeicherte Schülerfotos neu skalieren"
-source_pageid: 743
-source_revision: 5285
 ---
 
 # Gespeicherte Schülerfotos neu skalieren
@@ -26,4 +24,4 @@ Anpassen der Standardgröße für Fotos in den Einstellungen.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fotos_neu_skalieren_(Verwaltung_Werkzeuge)) · Quellrevision 5285.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fotos_neu_skalieren_(Verwaltung_Werkzeuge))

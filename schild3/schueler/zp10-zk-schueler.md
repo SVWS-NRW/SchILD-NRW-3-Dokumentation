@@ -1,7 +1,5 @@
 ---
 title: "Daten der Zentralen Prüfung 10 erfassen"
-source_pageid: 1115
-source_revision: 6076
 ---
 
 # Daten der Zentralen Prüfung 10 erfassen
@@ -108,4 +106,4 @@ Diese Abläufe werden üblicherweise durch die entsprechenden *Gruppenprozesse* 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZP10_ZK_(Sch%C3%BCler)) · Quellrevision 6076.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZP10_ZK_(Sch%C3%BCler))

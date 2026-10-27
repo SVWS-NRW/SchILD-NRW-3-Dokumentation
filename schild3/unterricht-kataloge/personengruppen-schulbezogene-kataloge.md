@@ -1,7 +1,5 @@
 ---
 title: "Personengruppen und ihre Kontakte verwalten"
-source_pageid: 313
-source_revision: 7022
 ---
 
 # Personengruppen und ihre Kontakte verwalten
@@ -109,4 +107,4 @@ Verwenden Sie in Reports, in denen Personengruppen und die zugehörigen Personen
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Personengruppen_(Schulbezogene_Kataloge)) · Quellrevision 7022.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Personengruppen_(Schulbezogene_Kataloge))
