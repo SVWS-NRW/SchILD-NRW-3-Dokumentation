@@ -3,6 +3,7 @@ import { defineAsyncComponent } from 'vue'
 import Layout from './Layout.vue'
 import { updateReferenceSelection } from './reference-state'
 import './style.css'
+import './home.css'
 import './print.css'
 import { installPrintLayout } from './print.mjs'
 
