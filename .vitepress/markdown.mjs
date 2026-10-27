@@ -1,4 +1,5 @@
 import { configureHintBoxes } from './hint-boxes.mjs'
+import { configureOverviewLinks } from './overview-links.mjs'
 
 // Keep literal punctuation in configuration and code examples unchanged.
 export const containerLabels = {
@@ -8,6 +9,7 @@ export const containerLabels = {
 
 export function configureMarkdown(md, base = '/') {
   configureHintBoxes(md)
+  configureOverviewLinks(md)
   // VitePress skips its base-path handling for links with a download attribute.
   const renderToken = md.renderer.renderToken
   md.renderer.renderToken = function (tokens, i, options) {
