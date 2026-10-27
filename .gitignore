@@ -31,3 +31,7 @@ yarn-error.log*
 *.sln
 *.sw?
 .eslintcache
+
+# Documentation checks
+__pycache__/
+test-results/

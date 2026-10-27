@@ -1,7 +1,5 @@
 ---
 title: "Daten als Excel-, Text- oder CSV-Datei exportieren"
-source_pageid: 464
-source_revision: 6881
 ---
 
 # Daten als Excel-, Text- oder CSV-Datei exportieren
@@ -160,4 +158,4 @@ Beim Text- und Excel-Export stehen auch Angaben zur **Klassenleitung und stellve
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenexport_im_xlsx-_oder_txt-Format_(Tutorial)) · Quellrevision 6881.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenexport_im_xlsx-_oder_txt-Format_(Tutorial))

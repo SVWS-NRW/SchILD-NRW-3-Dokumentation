@@ -1,7 +1,5 @@
 ---
 title: "Übergangsempfehlungen für Jahrgang 4 eintragen"
-source_pageid: 1259
-source_revision: 4612
 ---
 
 # Übergangsempfehlungen für Jahrgang 4 eintragen
@@ -69,4 +67,4 @@ Wiederholen Sie diesen Vorgang für alle unterschiedlichen Übergangsempfehlunge
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=%C3%9Cbergangsempfehlungen_in_Klasse_04_setzen_(Tutorial)) · Quellrevision 4612.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=%C3%9Cbergangsempfehlungen_in_Klasse_04_setzen_(Tutorial))

@@ -1,7 +1,5 @@
 ---
 title: "Individuelle Schülergruppen anlegen und verwenden"
-source_pageid: 797
-source_revision: 5488
 ---
 
 # Individuelle Schülergruppen anlegen und verwenden
@@ -84,4 +82,4 @@ Diese können nun über andere Prozesse weiterverarbeitet werden, z.B. kann mit 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individuelle_Sch%C3%BClergruppen_bearbeiten_und_nutzen_(Tutorial)) · Quellrevision 5488.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individuelle_Sch%C3%BClergruppen_bearbeiten_und_nutzen_(Tutorial))

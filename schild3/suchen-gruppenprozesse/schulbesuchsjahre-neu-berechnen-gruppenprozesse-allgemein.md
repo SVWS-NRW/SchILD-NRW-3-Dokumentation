@@ -1,7 +1,5 @@
 ---
 title: "Schulbesuchsjahre neu berechnen"
-source_pageid: 386
-source_revision: 5330
 ---
 
 # Schulbesuchsjahre neu berechnen
@@ -48,4 +46,4 @@ Das dritte EP-Jahr wird aber bei der Berechnung der Erfüllung der Vollzeitschul
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbesuchsjahre_neu_berechnen_(Gruppenprozesse_Allgemein)) · Quellrevision 5330.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbesuchsjahre_neu_berechnen_(Gruppenprozesse_Allgemein))

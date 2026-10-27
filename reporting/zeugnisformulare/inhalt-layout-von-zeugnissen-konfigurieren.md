@@ -1,8 +1,6 @@
 ---
 title: "Inhalt und Layout von Zeugnissen konfigurieren"
 pageClass: zeugnisoptionen
-source_pageid: 1618
-source_revision: 6791
 ---
 
 # Inhalt und Layout von Zeugnissen konfigurieren
@@ -178,4 +176,4 @@ Die bisherige Beschreibung nennt bei `UnterschriftenVorsitzZAA=I` außerdem die 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Inhalt_%26_Layout_von_Zeugnissen_konfigurieren) · Quellrevision 6791.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Inhalt_%26_Layout_von_Zeugnissen_konfigurieren)

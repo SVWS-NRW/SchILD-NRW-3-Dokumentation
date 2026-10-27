@@ -1,7 +1,5 @@
 ---
 title: "Nicht ersetzte Platzhalter in Bemerkungen auflösen"
-source_pageid: 786
-source_revision: 2579
 ---
 
 # Nicht ersetzte Platzhalter in Bemerkungen auflösen
@@ -20,4 +18,4 @@ Ist dies der Fall, kann sie durch den Gruppenprozess "Platzhalter in Memofeldern
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Platzhalter_in_Memo-Feldern_ersetzen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 2579.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Platzhalter_in_Memo-Feldern_ersetzen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

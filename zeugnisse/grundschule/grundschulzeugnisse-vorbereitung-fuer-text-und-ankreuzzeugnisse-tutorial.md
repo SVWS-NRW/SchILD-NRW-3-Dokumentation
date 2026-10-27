@@ -1,7 +1,5 @@
 ---
 title: "Grundschulzeugnisse mit Fächern und Stundentafeln vorbereiten"
-source_pageid: 1045
-source_revision: 5531
 ---
 
 # Grundschulzeugnisse mit Fächern und Stundentafeln vorbereiten
@@ -319,5 +317,5 @@ Nehmen Sie im Rahmen der Vorbereitung von Grundschulzeugnissen den Anhang zur [K
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Vorbereitung_f%C3%BCr_Text-_und_Ankreuzzeugnisse_(Tutorial)) · Quellrevision 5531.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Vorbereitung_f%C3%BCr_Text-_und_Ankreuzzeugnisse_(Tutorial))
 

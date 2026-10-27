@@ -1,7 +1,5 @@
 ---
 title: "Individual- und Lernabschnittsdaten gruppenweise ändern"
-source_pageid: 383
-source_revision: 5010
 ---
 
 # Individual- und Lernabschnittsdaten gruppenweise ändern
@@ -66,4 +64,4 @@ Bei Berufskollegs können auch **Fachklasse und Schwerpunkt** per Gruppenprozess
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individualdaten_%C3%A4ndern_(Gruppenprozesse_Allgemein)) · Quellrevision 5010.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individualdaten_%C3%A4ndern_(Gruppenprozesse_Allgemein))

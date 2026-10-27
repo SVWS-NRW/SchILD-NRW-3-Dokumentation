@@ -1,7 +1,5 @@
 ---
 title: "Datenbank, Benutzer und Ordner verstehen"
-source_pageid: 1121
-source_revision: 5914
 ---
 
 # Datenbank, Benutzer und Ordner verstehen
@@ -37,4 +35,4 @@ Für die Benutzung des SVWS-Servers und SchILD-NRW werden vier unterschiedliche 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FAQ) · Quellrevision 5914.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FAQ)

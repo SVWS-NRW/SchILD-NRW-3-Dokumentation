@@ -1,7 +1,5 @@
 ---
 title: "Ergebnisse der Versetzungs- und Abschlussberechnung prüfen"
-source_pageid: 543
-source_revision: 6090
 ---
 
 # Ergebnisse der Versetzungs- und Abschlussberechnung prüfen
@@ -50,5 +48,5 @@ Die Ergebnisse der Berechnungen werden für jeden Lernabschnitt gespeichert. Ent
 
 ---
 
-[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ergebnis_Versetzungs-/Abschluss-Berechnung_(Aktuelles_Halbjahr_/_Aktueller_Abschnitt>) · Quellrevision 6090.
+[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ergebnis_Versetzungs-/Abschluss-Berechnung_(Aktuelles_Halbjahr_/_Aktueller_Abschnitt>)
 

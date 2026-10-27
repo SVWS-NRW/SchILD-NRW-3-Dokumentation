@@ -1,7 +1,5 @@
 ---
 title: "Benutzerfunktionen aufrufen"
-source_pageid: 351
-source_revision: 5402
 ---
 
 # Benutzerfunktionen aufrufen
@@ -20,4 +18,4 @@ source_revision: 5402
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzer_(Verwaltung_Schule)) · Quellrevision 5402.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzer_(Verwaltung_Schule))

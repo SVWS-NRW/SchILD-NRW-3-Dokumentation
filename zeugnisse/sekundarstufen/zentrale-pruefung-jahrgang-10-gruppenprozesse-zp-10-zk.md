@@ -1,7 +1,5 @@
 ---
 title: "Die ZP10-Gruppenprozesse im Ablauf verwenden"
-source_pageid: 1158
-source_revision: 3896
 ---
 
 # Die ZP10-Gruppenprozesse im Ablauf verwenden
@@ -38,4 +36,4 @@ Nach dem Abschluss des ZP-10-Prozesses sind die Notenmitteilungen zu drucken. Um
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zentrale_Pr%C3%BCfung_Jahrgang_10_(Gruppenprozesse_ZP_10/ZK)) · Quellrevision 3896.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zentrale_Pr%C3%BCfung_Jahrgang_10_(Gruppenprozesse_ZP_10/ZK))

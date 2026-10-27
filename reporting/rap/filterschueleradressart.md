@@ -1,7 +1,5 @@
 ---
 title: "FilterSchuelerAdressArt"
-source_pageid: 44
-source_revision: 337
 ---
 
 # FilterSchuelerAdressArt
@@ -37,4 +35,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterSchuelerAdressArt) · Quellrevision 337.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterSchuelerAdressArt)

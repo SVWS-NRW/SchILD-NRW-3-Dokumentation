@@ -1,7 +1,5 @@
 ---
 title: "EditRichText"
-source_pageid: 28
-source_revision: 320
 ---
 
 # EditRichText
@@ -32,4 +30,4 @@ RichText1.RichText:=EditRichText('Hier den Text eingeben!');
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=EditRichText) · Quellrevision 320.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=EditRichText)

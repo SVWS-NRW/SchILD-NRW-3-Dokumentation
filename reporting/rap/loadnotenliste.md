@@ -1,7 +1,5 @@
 ---
 title: "LoadNotenliste"
-source_pageid: 62
-source_revision: 490
 ---
 
 # LoadNotenliste
@@ -24,4 +22,4 @@ Die zu ladende Textdatei muss pro Zeile ein Paar der Form 'Numerischer Wert=Klar
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LoadNotenliste) · Quellrevision 490.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LoadNotenliste)

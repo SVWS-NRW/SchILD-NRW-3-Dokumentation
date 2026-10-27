@@ -1,7 +1,5 @@
 ---
 title: "LernfelderZuFachklasse"
-source_pageid: 60
-source_revision: 488
 ---
 
 # LernfelderZuFachklasse
@@ -37,4 +35,4 @@ End;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LernfelderZuFachklasse) · Quellrevision 488.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LernfelderZuFachklasse)

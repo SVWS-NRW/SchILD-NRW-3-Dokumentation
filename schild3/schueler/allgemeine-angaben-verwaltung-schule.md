@@ -1,7 +1,5 @@
 ---
 title: "Allgemeine Schuldaten und Organisation einstellen"
-source_pageid: 230
-source_revision: 4735
 ---
 
 # Allgemeine Schuldaten und Organisation einstellen
@@ -147,4 +145,4 @@ Um den Zeitraum, in dem diese Lehrkraft diese Funktion ausgefüllt hat eintragen
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Allgemeine_Angaben_(Verwaltung_Schule)) · Quellrevision 4735.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Allgemeine_Angaben_(Verwaltung_Schule))

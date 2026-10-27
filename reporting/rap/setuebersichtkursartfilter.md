@@ -1,7 +1,5 @@
 ---
 title: "SetUebersichtKursartFilter"
-source_pageid: 116
-source_revision: 556
 ---
 
 # SetUebersichtKursartFilter
@@ -38,4 +36,4 @@ Damit werden in der Leistungsübersicht nur Fächer mit den Kursarten AGGT und Z
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetUebersichtKursartFilter) · Quellrevision 556.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetUebersichtKursartFilter)

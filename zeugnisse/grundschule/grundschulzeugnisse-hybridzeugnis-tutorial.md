@@ -1,7 +1,5 @@
 ---
 title: "Hybridzeugnisse für die Grundschule erstellen"
-source_pageid: 1404
-source_revision: 6865
 ---
 
 # Hybridzeugnisse für die Grundschule erstellen
@@ -51,4 +49,4 @@ Darüber lässt sich die Fächerreihenfolge festlegen, ebenso ab welchem Jahrgan
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Hybridzeugnis_(Tutorial)) · Quellrevision 6865.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Hybridzeugnis_(Tutorial))

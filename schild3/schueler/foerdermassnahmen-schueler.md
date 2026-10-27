@@ -1,7 +1,5 @@
 ---
 title: "Fördermaßnahmen dokumentieren"
-source_pageid: 317
-source_revision: 3755
 ---
 
 # Fördermaßnahmen dokumentieren
@@ -77,4 +75,4 @@ Diese Datenquelle verknüpft die Fördermaßnahmen mit den Schülerdaten. Gedruc
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%B6rderma%C3%9Fnahmen_(Sch%C3%BCler)) · Quellrevision 3755.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%B6rderma%C3%9Fnahmen_(Sch%C3%BCler))

@@ -1,7 +1,5 @@
 ---
 title: "Teilleistungen einrichten, erfassen und ausgeben"
-source_pageid: 480
-source_revision: 4788
 ---
 
 # Teilleistungen einrichten, erfassen und ausgeben
@@ -128,4 +126,4 @@ Für eine Übersicht verwenden Sie einen Report, der die gewünschten Teilleistu
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungen_einrichten_und_verwalten_(Tutorial)) · Quellrevision 4788.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungen_einrichten_und_verwalten_(Tutorial))

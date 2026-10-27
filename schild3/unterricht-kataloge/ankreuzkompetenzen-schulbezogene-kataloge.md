@@ -1,7 +1,5 @@
 ---
 title: "Ankreuzkompetenzen und Bewertungsstufen vorbereiten"
-source_pageid: 1076
-source_revision: 5883
 ---
 
 # Ankreuzkompetenzen und Bewertungsstufen vorbereiten
@@ -158,4 +156,4 @@ Nutzen Sie hierzu die Anleitung für Ankreuzzeugnisse in der Grundschule.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ankreuzkompetenzen_(Schulbezogene_Kataloge)) · Quellrevision 5883.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ankreuzkompetenzen_(Schulbezogene_Kataloge))

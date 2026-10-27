@@ -1,7 +1,5 @@
 ---
 title: "Reports mit Object Pascal erweitern"
-source_pageid: 1569
-source_revision: 6683
 ---
 
 # Reports mit Object Pascal erweitern
@@ -145,4 +143,4 @@ Siehe auch: [Auflistung aller unterstützten RAP-Funktionen](</reporting/> "Kate
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Programmierung_in_Reports) · Quellrevision 6683.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Programmierung_in_Reports)

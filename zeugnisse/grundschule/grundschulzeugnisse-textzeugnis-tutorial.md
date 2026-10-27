@@ -1,7 +1,5 @@
 ---
 title: "Textzeugnisse für die Grundschule erstellen"
-source_pageid: 360
-source_revision: 4436
 ---
 
 # Textzeugnisse für die Grundschule erstellen
@@ -235,4 +233,4 @@ Im allgemeinen Artikel zum Zeugnisdruck finden sich [typische Fehler](</einstieg
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Textzeugnis_(Tutorial)) · Quellrevision 4436.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Textzeugnis_(Tutorial))

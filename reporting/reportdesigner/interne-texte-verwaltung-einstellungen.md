@@ -1,7 +1,5 @@
 ---
 title: "E-Mail-Standardtexte festlegen"
-source_pageid: 924
-source_revision: 6582
 ---
 
 # E-Mail-Standardtexte festlegen
@@ -24,4 +22,4 @@ Für den Einzelversand lesen Sie [Einen Report per E-Mail versenden und teilen](
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Interne_Texte_(Verwaltung_Einstellungen)) · Quellrevision 6582.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Interne_Texte_(Verwaltung_Einstellungen))

@@ -1,7 +1,5 @@
 ---
 title: "Individuelle Schülergruppen im Katalog verwalten"
-source_pageid: 314
-source_revision: 7155
 ---
 
 # Individuelle Schülergruppen im Katalog verwalten
@@ -60,4 +58,4 @@ Im Fenster "Mitglieder der Gruppe" können durch einen Klick auf "Markierte Sch�
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClergruppe_bearbeiten_(Schulbezogene_Kataloge)) · Quellrevision 7155.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClergruppe_bearbeiten_(Schulbezogene_Kataloge))

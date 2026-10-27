@@ -1,7 +1,5 @@
 ---
 title: "ThemaProjektKurs"
-source_pageid: 127
-source_revision: 521
 ---
 
 # ThemaProjektKurs
@@ -28,4 +26,4 @@ End;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ThemaProjektKurs) · Quellrevision 521.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ThemaProjektKurs)

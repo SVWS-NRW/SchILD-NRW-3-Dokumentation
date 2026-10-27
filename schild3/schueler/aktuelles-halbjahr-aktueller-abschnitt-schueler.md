@@ -1,7 +1,5 @@
 ---
 title: "Lernabschnitte und aktuelle Laufbahndaten verwalten"
-source_pageid: 503
-source_revision: 5662
 ---
 
 # Lernabschnitte und aktuelle Laufbahndaten verwalten
@@ -198,4 +196,4 @@ Achten Sie bei Abgangs- und Abschlusszeugnissen darauf, auch die *Sprachenfolge*
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Aktuelles_Halbjahr_/_Aktueller_Abschnitt_(Sch%C3%BCler)) · Quellrevision 5662.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Aktuelles_Halbjahr_/_Aktueller_Abschnitt_(Sch%C3%BCler))

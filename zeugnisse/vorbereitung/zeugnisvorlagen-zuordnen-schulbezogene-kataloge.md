@@ -1,7 +1,5 @@
 ---
 title: "Zeugnisvorlagen für den Gruppendruck zuordnen"
-source_pageid: 932
-source_revision: 6867
 ---
 
 # Zeugnisvorlagen für den Gruppendruck zuordnen
@@ -57,4 +55,4 @@ Die angelegten Einträge können dauerhaft bestehen bleiben. Zu jedem Abschnitts
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisvorlagen_zuordnen_(Schulbezogene_Kataloge)) · Quellrevision 6867.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisvorlagen_zuordnen_(Schulbezogene_Kataloge))

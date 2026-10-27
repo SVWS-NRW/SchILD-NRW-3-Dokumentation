@@ -1,7 +1,5 @@
 ---
 title: "Zeugnisse drucken und eine Schülergruppe ausschulen"
-source_pageid: 1183
-source_revision: 6870
 ---
 
 # Zeugnisse drucken und eine Schülergruppe ausschulen
@@ -82,4 +80,4 @@ Zeugnisdruck und Ausschulen sind abgeschlossen. Gegebenenfalls folgt noch die Be
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisse_drucken_und_Sch%C3%BCler_ausschulen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 6870.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisse_drucken_und_Sch%C3%BCler_ausschulen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

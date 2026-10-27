@@ -1,7 +1,5 @@
 ---
 title: "DatenZeigerBewegen"
-source_pageid: 27
-source_revision: 318
 ---
 
 # DatenZeigerBewegen
@@ -31,4 +29,4 @@ DatensatzZeigerBewegen( Lernabschnitte, -1 );
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=DatenZeigerBewegen) · Quellrevision 318.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=DatenZeigerBewegen)

@@ -1,7 +1,5 @@
 ---
 title: "Daten für LOGINEO NRW LMS als CSV exportieren"
-source_pageid: 1177
-source_revision: 3964
 ---
 
 # Daten für LOGINEO NRW LMS als CSV exportieren
@@ -36,4 +34,4 @@ Konsultieren Sie zum Import die Dokumentation von Logineo LMS.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Export_f%C3%BCr_Logineo_LMS_(CSV)_(Verwaltung_Export)) · Quellrevision 3964.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Export_f%C3%BCr_Logineo_LMS_(CSV)_(Verwaltung_Export))

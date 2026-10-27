@@ -1,7 +1,5 @@
 ---
 title: "Einen Subreport dynamisch einbinden"
-source_pageid: 1567
-source_revision: 7224
 ---
 
 # Einen Subreport dynamisch einbinden
@@ -82,4 +80,4 @@ Dies ist insbesondere bei einheitlich zu haltenden Reports (z. B. Listen, Serien
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einen_Subreport_dynamisch_in_einen_Report_einbinden) · Quellrevision 7224.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einen_Subreport_dynamisch_in_einen_Report_einbinden)

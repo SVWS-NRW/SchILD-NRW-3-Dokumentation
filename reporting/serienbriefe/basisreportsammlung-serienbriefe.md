@@ -1,7 +1,5 @@
 ---
 title: "Serienbriefe einrichten und drucken"
-source_pageid: 1503
-source_revision: 7123
 ---
 
 # Serienbriefe einrichten und drucken
@@ -220,4 +218,4 @@ Mit Hilfe des Bearbeitungsfensters haben Sie die Möglichkeit, ohne den Report s
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Serienbriefe) · Quellrevision 7123.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Serienbriefe)

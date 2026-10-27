@@ -1,7 +1,5 @@
 ---
 title: "Erziehungsberechtigte über Personengruppen zuordnen"
-source_pageid: 847
-source_revision: 6877
 ---
 
 # Erziehungsberechtigte über Personengruppen zuordnen
@@ -26,4 +24,4 @@ Sie können anschließend auf dem Reiter der Erzieher einen Klick mit der **rech
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Erzieher_mit_Funktionen_(Tutorial)) · Quellrevision 6877.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Erzieher_mit_Funktionen_(Tutorial))

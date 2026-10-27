@@ -1,7 +1,5 @@
 ---
 title: "Ausweisnummern automatisch vergeben"
-source_pageid: 433
-source_revision: 5336
 ---
 
 # Ausweisnummern automatisch vergeben
@@ -30,4 +28,4 @@ Somit ließen sich zum Beispiel Schülerausweisnummern mit "30000" beginnen, so 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ausweisnummern_automatisch_generieren_(Gruppenprozesse_Allgemein)) · Quellrevision 5336.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ausweisnummern_automatisch_generieren_(Gruppenprozesse_Allgemein))

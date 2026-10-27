@@ -1,7 +1,5 @@
 ---
 title: "Globale Programmeinstellungen festlegen"
-source_pageid: 738
-source_revision: 4966
 ---
 
 # Globale Programmeinstellungen festlegen
@@ -95,4 +93,4 @@ Hier lassen sich Regeln für von Nutzern vergebene Kennwörter festlegen. Achten
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Globale_Einstellungen_(Verwaltung_Einstellungen)) · Quellrevision 4966.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Globale_Einstellungen_(Verwaltung_Einstellungen))

@@ -1,7 +1,5 @@
 ---
 title: "Die Sprachenfolge aus Leistungsdaten ermitteln"
-source_pageid: 281
-source_revision: 5339
 ---
 
 # Die Sprachenfolge aus Leistungsdaten ermitteln
@@ -50,4 +48,4 @@ Fremdspracheneinträge, die nicht in den Leistungsdaten auftauchen, werden nicht
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachenfolge_aus_Leistungsdaten_ermitteln_(Gruppenprozesse_Allgemein)) · Quellrevision 5339.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sprachenfolge_aus_Leistungsdaten_ermitteln_(Gruppenprozesse_Allgemein))

@@ -1,8 +1,6 @@
 ---
 title: "Dateien und Felder der SchILD-NRW-Schnittstelle nachschlagen"
 pageClass: reference-tables
-source_pageid: 862
-source_revision: 7114
 ---
 
 # Dateien und Felder der SchILD-NRW-Schnittstelle nachschlagen
@@ -1291,4 +1289,4 @@ Allgemeine Kursarten
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schnittstellenbeschreibung) · Quellrevision 7114.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schnittstellenbeschreibung)

@@ -1,7 +1,5 @@
 ---
 title: "CreateNotenHeader"
-source_pageid: 23
-source_revision: 314
 ---
 
 # CreateNotenHeader
@@ -52,4 +50,4 @@ Dieser Aufruf würde nur die Fächer D, M und alle Englisch-Fächer berücksicht
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=CreateNotenHeader) · Quellrevision 314.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=CreateNotenHeader)

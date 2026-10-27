@@ -1,7 +1,5 @@
 ---
 title: "GeR-Sprachniveaus erfassen und berechnen"
-source_pageid: 768
-source_revision: 5511
 ---
 
 # GeR-Sprachniveaus erfassen und berechnen
@@ -80,4 +78,4 @@ Diese wurde nun in *Laufbahninfo ➜ Sprachenfolgen* erzeugt.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eingabe_der_GeR-Niveaus_(Tutorial)) · Quellrevision 5511.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eingabe_der_GeR-Niveaus_(Tutorial))

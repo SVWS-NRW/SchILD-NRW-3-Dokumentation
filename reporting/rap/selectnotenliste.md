@@ -1,7 +1,5 @@
 ---
 title: "SelectNotenliste"
-source_pageid: 101
-source_revision: 541
 ---
 
 # SelectNotenliste
@@ -22,4 +20,4 @@ Siehe auch : [LoadNotenliste](/reporting/rap/loadnotenliste)
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectNotenliste) · Quellrevision 541.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SelectNotenliste)

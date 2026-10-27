@@ -1,7 +1,5 @@
 ---
 title: "Mahnungsdruck über den Gruppenprozess vorbereiten"
-source_pageid: 1542
-source_revision: 6301
 ---
 
 # Mahnungsdruck über den Gruppenprozess vorbereiten
@@ -16,4 +14,4 @@ Die Abläufe zum Setzen der Mahndaten und zum Drucken der weiterentwickelten Mah
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mahnungsdruck_einleiten_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 6301.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mahnungsdruck_einleiten_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

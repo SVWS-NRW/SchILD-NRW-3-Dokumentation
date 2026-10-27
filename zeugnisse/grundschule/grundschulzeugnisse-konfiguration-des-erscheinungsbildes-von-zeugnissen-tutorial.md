@@ -1,8 +1,6 @@
 ---
 title: "Das Erscheinungsbild von Grundschulzeugnissen konfigurieren"
 pageClass: zeugnisoptionen
-source_pageid: 1247
-source_revision: 6798
 ---
 
 # Das Erscheinungsbild von Grundschulzeugnissen konfigurieren
@@ -177,4 +175,4 @@ Hier werden generelle Einstellungen zu Inhalten vorgenommen.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Konfiguration_des_Erscheinungsbildes_von_Zeugnissen_(Tutorial)) · Quellrevision 6798.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Konfiguration_des_Erscheinungsbildes_von_Zeugnissen_(Tutorial))

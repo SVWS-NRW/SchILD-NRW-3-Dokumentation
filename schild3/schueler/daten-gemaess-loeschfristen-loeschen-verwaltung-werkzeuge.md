@@ -1,7 +1,5 @@
 ---
 title: "Daten auf abgelaufene Aufbewahrungsfristen prüfen und löschen"
-source_pageid: 430
-source_revision: 5290
 ---
 
 # Daten auf abgelaufene Aufbewahrungsfristen prüfen und löschen
@@ -106,4 +104,4 @@ Mit der Option **Basisdaten für die Ehemaligenverwaltung behalten** steuern Sie
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Daten_gem%C3%A4%C3%9F_l%C3%B6schfristen_l%C3%B6schen_(Verwaltung_Werkzeuge)) · Quellrevision 5290.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Daten_gem%C3%A4%C3%9F_l%C3%B6schfristen_l%C3%B6schen_(Verwaltung_Werkzeuge))

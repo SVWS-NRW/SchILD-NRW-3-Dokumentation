@@ -1,7 +1,5 @@
 ---
 title: "Mündliche Abiturprüfungen in den ersten drei Fächern festlegen"
-source_pageid: 394
-source_revision: 3436
 ---
 
 # Mündliche Abiturprüfungen in den ersten drei Fächern festlegen
@@ -31,4 +29,4 @@ Die festgesetzten Prüfungen können dann unter dem Karteireiter "Abitur" einges
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mdl._Pr%C3%BCfungen_A1-A3_festlegen_(Gruppenprozesse_Abitur)) · Quellrevision 3436.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Mdl._Pr%C3%BCfungen_A1-A3_festlegen_(Gruppenprozesse_Abitur))

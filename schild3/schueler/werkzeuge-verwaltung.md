@@ -1,7 +1,5 @@
 ---
 title: "Verwaltungswerkzeuge aufrufen"
-source_pageid: 428
-source_revision: 5405
 ---
 
 # Verwaltungswerkzeuge aufrufen
@@ -18,4 +16,4 @@ An BKs wird hier zusätzlich noch die Option eingeblendet, für Schüler *Duplik
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Werkzeuge_(Verwaltung)) · Quellrevision 5405.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Werkzeuge_(Verwaltung))

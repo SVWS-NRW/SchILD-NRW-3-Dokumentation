@@ -1,7 +1,5 @@
 ---
 title: "Die Zulassung zu BK-Prüfungen prüfen"
-source_pageid: 1286
-source_revision: 4708
 ---
 
 # Die Zulassung zu BK-Prüfungen prüfen
@@ -26,4 +24,4 @@ Wird ein Abitur als Abschluss angestrebt, ist das Verfahren hierzu im Reiter *Sc
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zulassung_pr%C3%BCfen(Gruppenprozesse_BK-Abschluss)) · Quellrevision 4708.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zulassung_pr%C3%BCfen(Gruppenprozesse_BK-Abschluss))

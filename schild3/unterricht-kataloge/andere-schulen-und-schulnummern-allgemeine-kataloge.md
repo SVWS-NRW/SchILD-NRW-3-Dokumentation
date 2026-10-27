@@ -1,7 +1,5 @@
 ---
 title: "Herkunftsschulen außerhalb von NRW erfassen"
-source_pageid: 341
-source_revision: 4427
 ---
 
 # Herkunftsschulen außerhalb von NRW erfassen
@@ -34,4 +32,4 @@ In der Statistik wird diese Herkunftsart mit dem Kürzel *XS* erfasst. Gleiches 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Andere_Schulen_und_Schulnummern_(Allgemeine_Kataloge)) · Quellrevision 4427.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Andere_Schulen_und_Schulnummern_(Allgemeine_Kataloge))

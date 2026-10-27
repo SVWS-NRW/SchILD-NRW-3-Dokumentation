@@ -1,7 +1,5 @@
 ---
 title: "ZP10-Abschlussnoten in Leistungsdaten übertragen"
-source_pageid: 1163
-source_revision: 3932
 ---
 
 # ZP10-Abschlussnoten in Leistungsdaten übertragen
@@ -30,4 +28,4 @@ Im Fall der ZP 10 sind nun die Notenmitteilungen zu drucken. Auf der [Seite des 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschlussnote_in_Leistungsdaten_%C3%BCbertragen_(Gruppenprozesse_Zentrale_Klausuren)) · Quellrevision 3932.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschlussnote_in_Leistungsdaten_%C3%BCbertragen_(Gruppenprozesse_Zentrale_Klausuren))

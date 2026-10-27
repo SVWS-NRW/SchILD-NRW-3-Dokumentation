@@ -1,7 +1,5 @@
 ---
 title: "SortierungVon"
-source_pageid: 122
-source_revision: 562
 ---
 
 # SortierungVon
@@ -44,4 +42,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SortierungVon) · Quellrevision 562.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SortierungVon)

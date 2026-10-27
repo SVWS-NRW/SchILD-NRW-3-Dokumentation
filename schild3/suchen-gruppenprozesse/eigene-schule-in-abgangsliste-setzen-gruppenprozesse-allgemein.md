@@ -1,7 +1,5 @@
 ---
 title: "Die eigene Schule in die Schulbesuchsliste übernehmen"
-source_pageid: 646
-source_revision: 5331
 ---
 
 # Die eigene Schule in die Schulbesuchsliste übernehmen
@@ -56,4 +54,4 @@ Wenn Sie die Schule manuell bei *Schüler ➜ Schulbesuch* eintragen, müssen Si
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eigene_Schule_in_Abgangsliste_setzen_(Gruppenprozesse_Allgemein)) · Quellrevision 5331.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eigene_Schule_in_Abgangsliste_setzen_(Gruppenprozesse_Allgemein))

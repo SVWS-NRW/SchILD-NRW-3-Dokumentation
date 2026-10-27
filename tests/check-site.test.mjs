@@ -15,3 +15,15 @@ test('Prüft relative und kodierte Links, Sprungmarken und fehlende Bilder', asy
   assert.equal((await checkSite(root)).errors.length,3)
  } finally {await fs.rm(root,{recursive:true,force:true})}
 })
+
+test('Prüft Links und Bilder unter dem offiziellen Veröffentlichungspfad', async () => {
+ const root = await fs.mkdtemp(path.join(tmpdir(),'docs-base-'))
+ try {
+  await fs.writeFile(path.join(root,'index.html'),'<a href="/doku/ziel.html#gruen">Ziel</a><img src="/doku/bild.png">')
+  await fs.writeFile(path.join(root,'ziel.html'),'<h1 id="gruen">Ziel</h1><a href="/doku/">Start</a>')
+  await fs.writeFile(path.join(root,'bild.png'),'test')
+  assert.deepEqual((await checkSite(root, '/doku/')).errors,[])
+  await fs.appendFile(path.join(root,'index.html'),'<a href="/ziel.html">Falscher Stamm</a>')
+  assert.equal((await checkSite(root, '/doku/')).errors.length,1)
+ } finally {await fs.rm(root,{recursive:true,force:true})}
+})

@@ -1,7 +1,5 @@
 ---
 title: "Vermerkarten im Katalog vorbereiten"
-source_pageid: 315
-source_revision: 5460
 ---
 
 # Vermerkarten im Katalog vorbereiten
@@ -52,4 +50,4 @@ Durch Klick auf "Excel-Export" und "Speichern" im folgenden Fenster kann die akt
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vermerk-Arten_(Schulbezogene_Kataloge)) · Quellrevision 5460.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vermerk-Arten_(Schulbezogene_Kataloge))

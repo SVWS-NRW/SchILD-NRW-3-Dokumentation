@@ -1,7 +1,5 @@
 ---
 title: "Den Halbjahreswechsel am Berufskolleg durchführen"
-source_pageid: 1357
-source_revision: 5056
 ---
 
 # Den Halbjahreswechsel am Berufskolleg durchführen
@@ -48,4 +46,4 @@ Hierzu lassen sich die allgemeinen Tutorials hinzuziehen.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Halbjahreswechsel_am_BK_(Tutorial)) · Quellrevision 5056.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Halbjahreswechsel_am_BK_(Tutorial))

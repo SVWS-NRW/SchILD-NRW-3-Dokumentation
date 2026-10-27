@@ -1,7 +1,5 @@
 ---
 title: "Kurse tabellarisch einer Schülergruppe zuweisen"
-source_pageid: 1664
-source_revision: 7168
 ---
 
 # Kurse tabellarisch einer Schülergruppe zuweisen
@@ -80,4 +78,4 @@ Haben Sie Änderungen vorgenommen und nicht gespeichert, erscheint eine Textmeld
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kurse_zuweisen_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 7168.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kurse_zuweisen_(Gruppenprozesse_F%C3%A4cher))

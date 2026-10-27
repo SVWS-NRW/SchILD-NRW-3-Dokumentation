@@ -1,7 +1,5 @@
 ---
 title: "Noten, Mahnungen und fachbezogene Fehlstunden eingeben"
-source_pageid: 475
-source_revision: 5390
 ---
 
 # Noten, Mahnungen und fachbezogene Fehlstunden eingeben
@@ -64,4 +62,4 @@ Möchten Sie in der Sekundarstufe I *Noten mit Tendenz* geben, können Sie diese
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noten,_Mahnungen_und_Fehlstd._eingeben_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 5390.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noten,_Mahnungen_und_Fehlstd._eingeben_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

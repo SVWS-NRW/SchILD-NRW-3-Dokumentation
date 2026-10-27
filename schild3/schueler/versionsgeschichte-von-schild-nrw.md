@@ -1,7 +1,5 @@
 ---
 title: "Versionsgeschichte und neuere Releases finden"
-source_pageid: 1530
-source_revision: 6389
 ---
 
 # Versionsgeschichte und neuere Releases finden
@@ -292,4 +290,4 @@ Port=
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versionsgeschichte_von_SchILD-NRW) · Quellrevision 6389.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versionsgeschichte_von_SchILD-NRW)

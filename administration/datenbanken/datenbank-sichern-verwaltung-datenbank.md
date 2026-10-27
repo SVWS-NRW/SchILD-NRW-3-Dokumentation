@@ -1,7 +1,5 @@
 ---
 title: "Die Datenbank sichern"
-source_pageid: 1136
-source_revision: 5199
 ---
 
 # Die Datenbank sichern
@@ -58,4 +56,4 @@ Die SVWS-Dokumentation beschreibt zusätzlich [manuelle und automatisierte Daten
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenbank_sichern_(Verwaltung_Datenbank)) · Quellrevision 5199.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Datenbank_sichern_(Verwaltung_Datenbank))

@@ -1,7 +1,5 @@
 ---
 title: "Früherer Import von Lehrerdaten aus Lehrer.txt"
-source_pageid: 862
-source_revision: 7114
 ---
 
 # Früherer Import von Lehrerdaten aus Lehrer.txt
@@ -24,4 +22,4 @@ Diese Beschreibung dient der Einordnung früherer Datenübernahmen. Der damalige
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schnittstellenbeschreibung) · Quellrevision 7114.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schnittstellenbeschreibung)

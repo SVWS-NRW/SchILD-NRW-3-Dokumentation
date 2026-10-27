@@ -1,7 +1,5 @@
 ---
 title: "Konferenz- und Zeugnisdatum setzen"
-source_pageid: 325
-source_revision: 3155
 ---
 
 # Konferenz- und Zeugnisdatum setzen
@@ -24,4 +22,4 @@ Der beschriebene Gruppenprozess bezieht sich immer auf die im Container angezeig
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Konferenz-/Zeugnis-Datum_setzen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 3155.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Konferenz-/Zeugnis-Datum_setzen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

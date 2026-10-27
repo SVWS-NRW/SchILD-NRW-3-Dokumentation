@@ -1,7 +1,5 @@
 ---
 title: "Die passenden Einstellungen finden"
-source_pageid: 410
-source_revision: 5404
 ---
 
 # Die passenden Einstellungen finden
@@ -22,4 +20,4 @@ Weitere Bereiche sind:
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einstellungen_(Verwaltung)) · Quellrevision 5404.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einstellungen_(Verwaltung))

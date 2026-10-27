@@ -1,7 +1,5 @@
 ---
 title: "SetAdressArt"
-source_pageid: 106
-source_revision: 546
 ---
 
 # SetAdressArt
@@ -32,4 +30,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetAdressArt) · Quellrevision 546.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetAdressArt)

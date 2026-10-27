@@ -1,7 +1,5 @@
 ---
 title: "Wiedervorlagen für eine Schülergruppe anlegen"
-source_pageid: 384
-source_revision: 5325
 ---
 
 # Wiedervorlagen für eine Schülergruppe anlegen
@@ -62,4 +60,4 @@ Beim Erst-Start von SchILD an einem nächstfolgenden Tag werden die Wiedervorlag
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eintrag_in_die_Wiedervorlage_machen_(Gruppenprozesse_Allgemein)) · Quellrevision 5325.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Eintrag_in_die_Wiedervorlage_machen_(Gruppenprozesse_Allgemein))

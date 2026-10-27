@@ -1,7 +1,5 @@
 ---
 title: "Filterbedingungen erstellen, testen und speichern"
-source_pageid: 1298
-source_revision: 4755
 ---
 
 # Filterbedingungen erstellen, testen und speichern
@@ -136,4 +134,4 @@ Entfernen Sie hier auch mit dem **X** die Angabe, ob eine Prüfung angesetzt wur
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClerfilter_(Auswahl)) · Quellrevision 4755.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClerfilter_(Auswahl))

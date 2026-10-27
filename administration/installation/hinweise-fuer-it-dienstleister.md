@@ -1,7 +1,5 @@
 ---
 title: "Installation und Betrieb für IT-Dienstleister planen"
-source_pageid: 730
-source_revision: 6911
 ---
 
 # Installation und Betrieb für IT-Dienstleister planen
@@ -154,4 +152,4 @@ Die in den Schulen für die SchILD-Administration verantwortlichen Personen kön
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Hinweise_f%C3%BCr_IT-Dienstleister) · Quellrevision 6911.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Hinweise_f%C3%BCr_IT-Dienstleister)

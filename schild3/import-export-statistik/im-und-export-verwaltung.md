@@ -1,7 +1,5 @@
 ---
 title: "Den passenden Import oder Export wählen"
-source_pageid: 863
-source_revision: 6912
 ---
 
 # Den passenden Import oder Export wählen
@@ -50,4 +48,4 @@ Eine nachträgliche Korrektur solcher automatischen Umdeutungen ist mitunter nic
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Im-_und_Export_(Verwaltung)) · Quellrevision 6912.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Im-_und_Export_(Verwaltung))

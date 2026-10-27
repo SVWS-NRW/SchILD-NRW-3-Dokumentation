@@ -1,7 +1,5 @@
 ---
 title: "Schriftarten und Sonderzeichen in PDF-Ausgaben"
-source_pageid: 1427
-source_revision: 6572
 ---
 
 # Schriftarten und Sonderzeichen in PDF-Ausgaben
@@ -39,4 +37,4 @@ Die folgende Tabelle enthält die beschriebenen Kombinationen und ihre Auswirkun
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Probleme_mit_fehlenden_Schriftarten_im_pdf-Dokument_(Tutorial)) · Quellrevision 6572.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Probleme_mit_fehlenden_Schriftarten_im_pdf-Dokument_(Tutorial))

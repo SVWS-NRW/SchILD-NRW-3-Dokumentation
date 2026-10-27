@@ -1,7 +1,5 @@
 ---
 title: "ReplaceDefault"
-source_pageid: 82
-source_revision: 510
 ---
 
 # ReplaceDefault
@@ -51,4 +49,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ReplaceDefault) · Quellrevision 510.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ReplaceDefault)

@@ -1,7 +1,5 @@
 ---
 title: "Die Ordnerstruktur der Reportverwaltung"
-source_pageid: 1571
-source_revision: 6684
 ---
 
 # Die Ordnerstruktur der Reportverwaltung
@@ -37,4 +35,4 @@ Legen Sie einen Ordner `Zeugnisse` mit Unterordnern für Schuljahr und Halbjahr 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Die_Ordnerstruktur_der_Reportverwaltung) · Quellrevision 6684.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Die_Ordnerstruktur_der_Reportverwaltung)

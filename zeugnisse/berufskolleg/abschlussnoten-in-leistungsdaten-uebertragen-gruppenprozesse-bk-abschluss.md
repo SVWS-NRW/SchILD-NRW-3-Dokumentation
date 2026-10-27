@@ -1,7 +1,5 @@
 ---
 title: "BK-Abschlussnoten in Leistungsdaten übertragen"
-source_pageid: 1334
-source_revision: 4903
 ---
 
 # BK-Abschlussnoten in Leistungsdaten übertragen
@@ -20,4 +18,4 @@ Wenn Sie danach unter **BK-Abschluss** erneut **Leistungsdaten holen** ausführe
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschlussnoten_in_Leistungsdaten_%C3%BCbertragen(Gruppenprozesse_BK-Abschluss)) · Quellrevision 4903.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschlussnoten_in_Leistungsdaten_%C3%BCbertragen(Gruppenprozesse_BK-Abschluss))

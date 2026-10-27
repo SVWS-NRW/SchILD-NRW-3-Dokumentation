@@ -1,7 +1,5 @@
 ---
 title: "Ortsteile im Katalog verwalten"
-source_pageid: 345
-source_revision: 1901
 ---
 
 # Ortsteile im Katalog verwalten
@@ -18,4 +16,4 @@ Durch Eingabe der Ortsteile kann nun auch gezielt danach gefiltert werden, was f
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ortsteile_(Allgemeine_Kataloge)) · Quellrevision 1901.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ortsteile_(Allgemeine_Kataloge))

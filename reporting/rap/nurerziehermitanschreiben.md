@@ -1,7 +1,5 @@
 ---
 title: "NurErzieherMitAnschreiben"
-source_pageid: 72
-source_revision: 500
 ---
 
 # NurErzieherMitAnschreiben
@@ -38,4 +36,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=NurErzieherMitAnschreiben) · Quellrevision 500.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=NurErzieherMitAnschreiben)

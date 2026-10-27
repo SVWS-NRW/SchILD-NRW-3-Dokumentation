@@ -1,7 +1,5 @@
 ---
 title: "QuotedStr"
-source_pageid: 80
-source_revision: 508
 ---
 
 # QuotedStr
@@ -34,4 +32,4 @@ Setzefilter(Klassenlehrer_mit_Noten,'Fachkrz=' + QuotedStr('M'));
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=QuotedStr) · Quellrevision 508.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=QuotedStr)

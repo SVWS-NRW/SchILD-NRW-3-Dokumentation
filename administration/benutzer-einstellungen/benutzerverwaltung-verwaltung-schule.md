@@ -1,7 +1,5 @@
 ---
 title: "Benutzer und Berechtigungen verwalten"
-source_pageid: 280
-source_revision: 6115
 ---
 
 # Benutzer und Berechtigungen verwalten
@@ -85,4 +83,4 @@ Es empfiehlt sich nur dann Benutzer für das gesamte Kollegium anzulegen, wenn a
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzerverwaltung_(Verwaltung_Schule)) · Quellrevision 6115.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzerverwaltung_(Verwaltung_Schule))

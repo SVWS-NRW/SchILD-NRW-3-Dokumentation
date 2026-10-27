@@ -1,7 +1,5 @@
 ---
 title: "KursBezIgnorieren"
-source_pageid: 55
-source_revision: 483
 ---
 
 # KursBezIgnorieren
@@ -42,4 +40,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=KursBezIgnorieren) · Quellrevision 483.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=KursBezIgnorieren)

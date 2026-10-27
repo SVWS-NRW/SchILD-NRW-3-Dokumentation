@@ -1,7 +1,5 @@
 ---
 title: "Den schulischen Teil der Fachhochschulreife berechnen"
-source_pageid: 1110
-source_revision: 4658
 ---
 
 # Den schulischen Teil der Fachhochschulreife berechnen
@@ -69,4 +67,4 @@ Die automatische Berechnung durch SchILD-NRW ist als Unterstützung ohne Gewähr
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FHR_(Sch%C3%BCler)) · Quellrevision 4658.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FHR_(Sch%C3%BCler))

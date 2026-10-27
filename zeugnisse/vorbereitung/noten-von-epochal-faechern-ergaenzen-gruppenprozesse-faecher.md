@@ -1,7 +1,5 @@
 ---
 title: "Epochalfächer und ihre Noten ergänzen"
-source_pageid: 823
-source_revision: 5355
 ---
 
 # Epochalfächer und ihre Noten ergänzen
@@ -34,4 +32,4 @@ Dieser Gruppenprozess ergänzt für die ausgewählte Schülermenge im aktuellen 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noten_von_Epochal-F%C3%A4chern_erg%C3%A4nzen_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 5355.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Noten_von_Epochal-F%C3%A4chern_erg%C3%A4nzen_(Gruppenprozesse_F%C3%A4cher))

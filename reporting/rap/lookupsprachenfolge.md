@@ -1,7 +1,5 @@
 ---
 title: "LookupSprachenfolge"
-source_pageid: 67
-source_revision: 495
 ---
 
 # LookupSprachenfolge
@@ -37,4 +35,4 @@ Procedure DetailBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LookupSprachenfolge) · Quellrevision 495.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LookupSprachenfolge)

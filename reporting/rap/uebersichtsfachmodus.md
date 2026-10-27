@@ -1,7 +1,5 @@
 ---
 title: "UebersichtsfachModus"
-source_pageid: 128
-source_revision: 522
 ---
 
 # UebersichtsfachModus
@@ -48,4 +46,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=UebersichtsfachModus) · Quellrevision 522.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=UebersichtsfachModus)

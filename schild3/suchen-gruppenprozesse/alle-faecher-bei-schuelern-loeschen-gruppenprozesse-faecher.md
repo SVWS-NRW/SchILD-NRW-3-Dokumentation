@@ -1,7 +1,5 @@
 ---
 title: "Alle Fächer einer Schülergruppe löschen"
-source_pageid: 301
-source_revision: 5346
 ---
 
 # Alle Fächer einer Schülergruppe löschen
@@ -28,4 +26,4 @@ Damit in der neuen Klasse der korrekte Unterricht eingetragen werden kann, könn
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Alle_F%C3%A4cher_bei_Sch%C3%BClern_l%C3%B6schen_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 5346.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Alle_F%C3%A4cher_bei_Sch%C3%BClern_l%C3%B6schen_(Gruppenprozesse_F%C3%A4cher))

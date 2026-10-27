@@ -1,7 +1,5 @@
 ---
 title: "SVWS-Server und SchILD-NRW 3 installieren"
-source_pageid: 852
-source_revision: 7228
 ---
 
 # SVWS-Server und SchILD-NRW 3 installieren
@@ -595,9 +593,7 @@ Bitte schreiben Sie alle Fehlermeldungen in das Ticketsystem bei Github, es sei 
 
 :::
 
-[index.php?title=Kategorie:Installation](/administration/) [index.php?title=Kategorie:SchILD-NRW](/schild3/) [index.php?title=Kategorie:SVWS-Server](/administration/) [index.php?title=Kategorie:Administration](/administration/) [index.php?title=Kategorie:Video](/hilfe/)
-
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Installation_SVWS-Server_und_SchILD-NRW_3) · Quellrevision 7228.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Installation_SVWS-Server_und_SchILD-NRW_3)
 

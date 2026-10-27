@@ -1,7 +1,5 @@
 ---
 title: "Platzhalter für Serienbriefe"
-source_pageid: 1502
-source_revision: 6914
 ---
 
 # Platzhalter für Serienbriefe
@@ -217,4 +215,4 @@ Sie können so gestaltete RTF-Texte auch in eine externe RTF-Datei abspeichern u
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Serienbriefe_Platzhalter) · Quellrevision 6914.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Serienbriefe_Platzhalter)

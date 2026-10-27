@@ -1,7 +1,5 @@
 ---
 title: "Die Sortierung der Schülerauswahl ändern"
-source_pageid: 785
-source_revision: 5489
 ---
 
 # Die Sortierung der Schülerauswahl ändern
@@ -46,4 +44,4 @@ Die festgelegte Sortierung bleibt erhalten, auch wenn in SchILD nun weitergearbe
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sortierung_des_Sch%C3%BClercontainers_%C3%A4ndern_(Tutorial)) · Quellrevision 5489.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sortierung_des_Sch%C3%BClercontainers_%C3%A4ndern_(Tutorial))

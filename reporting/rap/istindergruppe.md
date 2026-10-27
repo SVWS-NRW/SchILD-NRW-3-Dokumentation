@@ -1,7 +1,5 @@
 ---
 title: "IstInDerGruppe"
-source_pageid: 52
-source_revision: 345
 ---
 
 # IstInDerGruppe
@@ -38,4 +36,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=IstInDerGruppe) · Quellrevision 345.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=IstInDerGruppe)

@@ -1,7 +1,5 @@
 ---
 title: "Sonderzeichen mit der Windows-Zeichentabelle einfügen"
-source_pageid: 429
-source_revision: 5300
 ---
 
 # Sonderzeichen mit der Windows-Zeichentabelle einfügen
@@ -30,4 +28,4 @@ Prüfen Sie, ob beim Suchen im Sekretariat nach "Emil" das "i" als "Ĩ", "ĩ", "
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeichentabelle_von_Windows_aufrufen_(Verwaltung_Werkzeuge)) · Quellrevision 5300.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeichentabelle_von_Windows_aufrufen_(Verwaltung_Werkzeuge))

@@ -1,7 +1,5 @@
 ---
 title: "Bildungsgangwechsel am Berufskolleg vorbereiten"
-source_pageid: 311
-source_revision: 5087
 ---
 
 # Bildungsgangwechsel am Berufskolleg vorbereiten
@@ -194,4 +192,4 @@ Fand der Abgleich statt, wird das *Duplikat* automatisch gelöscht.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Umgang_mit_Bildungsgangswechlsern_am_BK_(Tutorial)) · Quellrevision 5087.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Umgang_mit_Bildungsgangswechlsern_am_BK_(Tutorial))

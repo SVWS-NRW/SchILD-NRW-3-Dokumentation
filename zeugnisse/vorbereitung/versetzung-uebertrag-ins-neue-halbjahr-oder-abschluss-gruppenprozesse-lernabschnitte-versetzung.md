@@ -1,7 +1,5 @@
 ---
 title: "Schülergruppen getrennt in einen neuen Abschnitt übertragen"
-source_pageid: 615
-source_revision: 5414
 ---
 
 # Schülergruppen getrennt in einen neuen Abschnitt übertragen
@@ -71,4 +69,4 @@ Ein Klick auf `Übernehmen` startet den Gruppenprozess und führt den Abschnitts
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzung/%C3%9Cbertrag_ins_neue_Halbjahr_oder_Abschluss_(Gruppenprozesse_Lernabschnitte,_Versetzung)) · Quellrevision 5414.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzung/%C3%9Cbertrag_ins_neue_Halbjahr_oder_Abschluss_(Gruppenprozesse_Lernabschnitte,_Versetzung))

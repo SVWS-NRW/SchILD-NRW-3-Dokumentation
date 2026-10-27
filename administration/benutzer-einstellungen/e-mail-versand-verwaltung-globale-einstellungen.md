@@ -1,7 +1,5 @@
 ---
 title: "Den E-Mail-Versand einrichten"
-source_pageid: 920
-source_revision: 6132
 ---
 
 # Den E-Mail-Versand einrichten
@@ -50,4 +48,4 @@ Bei den individuellen Einstellungen wird dann die "SMTP-Schaltfläche" sichtbar 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=E-Mail-Versand_(Verwaltung_Globale_Einstellungen)) · Quellrevision 6132.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=E-Mail-Versand_(Verwaltung_Globale_Einstellungen))

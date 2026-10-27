@@ -1,7 +1,5 @@
 ---
 title: "Einwilligungen und Lernplattform-Zustimmungen verwalten"
-source_pageid: 596
-source_revision: 5751
 ---
 
 # Einwilligungen und Lernplattform-Zustimmungen verwalten
@@ -44,4 +42,4 @@ Für zuvor ausgewählte Klassen, Jahrgänge oder andere Gruppen können Sie die 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einwilligung_(Sch%C3%BCler)) · Quellrevision 5751.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einwilligung_(Sch%C3%BCler))

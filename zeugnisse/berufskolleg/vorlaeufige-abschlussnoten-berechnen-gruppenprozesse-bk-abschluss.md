@@ -1,7 +1,5 @@
 ---
 title: "Vorläufige BK-Abschlussnoten berechnen"
-source_pageid: 1333
-source_revision: 4905
 ---
 
 # Vorläufige BK-Abschlussnoten berechnen
@@ -28,4 +26,4 @@ Die sich aus *gut (2)* und *befriedigend (3)* ergebende Gesamtnote kann SchILD-N
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vorl%C3%A4ufige_Abschlussnoten_berechnen_(Gruppenprozesse_BK-Abschluss)) · Quellrevision 4905.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vorl%C3%A4ufige_Abschlussnoten_berechnen_(Gruppenprozesse_BK-Abschluss))

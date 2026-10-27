@@ -1,7 +1,5 @@
 ---
 title: "Reportausgaben und Zeugnisse archivieren"
-source_pageid: 1573
-source_revision: 7124
 ---
 
 # Reportausgaben und Zeugnisse archivieren
@@ -140,4 +138,4 @@ Die Gruppe kann auch ansonsten im Report "unsichtbar" sein, das heißt, dass sie
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Dokumentenverwaltung_und_Zeugnisarchivierung) · Quellrevision 7124.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Dokumentenverwaltung_und_Zeugnisarchivierung)

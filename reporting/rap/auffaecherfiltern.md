@@ -1,7 +1,5 @@
 ---
 title: "AufFaecherFiltern"
-source_pageid: 20
-source_revision: 311
 ---
 
 # AufFaecherFiltern
@@ -34,4 +32,4 @@ AufFaecherFiltern('D,E,M');
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=AufFaecherFiltern) · Quellrevision 311.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=AufFaecherFiltern)

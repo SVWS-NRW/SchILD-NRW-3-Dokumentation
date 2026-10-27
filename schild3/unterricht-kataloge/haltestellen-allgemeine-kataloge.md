@@ -1,7 +1,5 @@
 ---
 title: "Haltestellen für den Schulweg verwalten"
-source_pageid: 336
-source_revision: 4422
 ---
 
 # Haltestellen für den Schulweg verwalten
@@ -26,4 +24,4 @@ Neben den üblichen Sortiermöglichkeiten kann hier auch nach der Entfernung sor
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Haltestellen_(Allgemeine_Kataloge)) · Quellrevision 4422.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Haltestellen_(Allgemeine_Kataloge))

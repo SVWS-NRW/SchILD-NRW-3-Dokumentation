@@ -1,7 +1,5 @@
 ---
 title: "Teilleistungsarten aus Fachvorlagen zuweisen"
-source_pageid: 591
-source_revision: 5363
 ---
 
 # Teilleistungsarten aus Fachvorlagen zuweisen
@@ -64,4 +62,4 @@ Im Beispiel sind den Schülern der Klasse 5a fünf vorbereitete Teilleistungsart
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungsarten_aus_Vorlage_zuweisen_(Gruppenprozesse_Teilleistungen)) · Quellrevision 5363.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Teilleistungsarten_aus_Vorlage_zuweisen_(Gruppenprozesse_Teilleistungen))

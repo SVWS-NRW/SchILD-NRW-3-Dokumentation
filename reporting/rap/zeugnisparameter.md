@@ -1,7 +1,5 @@
 ---
 title: "ZeugnisParameter"
-source_pageid: 137
-source_revision: 531
 ---
 
 # ZeugnisParameter
@@ -60,4 +58,4 @@ Wiederbeginn des Unterrichts am 10. Februar 2006 um 8:00 Uhr.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZeugnisParameter) · Quellrevision 531.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZeugnisParameter)

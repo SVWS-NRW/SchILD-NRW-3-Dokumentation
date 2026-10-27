@@ -1,7 +1,5 @@
 ---
 title: "Vermerke oder Merkmale gruppenweise löschen"
-source_pageid: 650
-source_revision: 5334
 ---
 
 # Vermerke oder Merkmale gruppenweise löschen
@@ -22,4 +20,4 @@ Abschließend muss die Ausführung des Gruppenprozesses über den Knopf `Prozess
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vermerke/Merkmale_l%C3%B6schen_(Gruppenprozesse_Allgemein)) · Quellrevision 5334.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vermerke/Merkmale_l%C3%B6schen_(Gruppenprozesse_Allgemein))

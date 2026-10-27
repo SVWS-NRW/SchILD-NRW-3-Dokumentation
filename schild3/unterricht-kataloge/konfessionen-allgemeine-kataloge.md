@@ -1,7 +1,5 @@
 ---
 title: "Konfessionen und Zeugnisbezeichnungen festlegen"
-source_pageid: 372
-source_revision: 4417
 ---
 
 # Konfessionen und Zeugnisbezeichnungen festlegen
@@ -38,4 +36,4 @@ In Schulen, in denen verschiedene Personen Daten im Sekretariat eingeben, sollte
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Konfessionen_(Allgemeine_Kataloge)) · Quellrevision 4417.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Konfessionen_(Allgemeine_Kataloge))

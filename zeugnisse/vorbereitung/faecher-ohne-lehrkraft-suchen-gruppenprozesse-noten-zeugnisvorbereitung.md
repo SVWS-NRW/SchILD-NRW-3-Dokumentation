@@ -1,7 +1,5 @@
 ---
 title: "Fächer ohne zugeordnete Lehrkraft suchen"
-source_pageid: 399
-source_revision: 3251
 ---
 
 # Fächer ohne zugeordnete Lehrkraft suchen
@@ -26,4 +24,4 @@ Prüfen Sie die Zuordnung der Lehrkräfte vor Beginn der Notenerfassung. Jede Le
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_ohne_Lehrkraft_suchen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 3251.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%A4cher_ohne_Lehrkraft_suchen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

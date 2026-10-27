@@ -1,7 +1,5 @@
 ---
 title: "Teilstandorte und Schulmerkmale festlegen"
-source_pageid: 288
-source_revision: 4007
 ---
 
 # Teilstandorte und Schulmerkmale festlegen
@@ -26,4 +24,4 @@ Handelte es sich bei Ihrer Schule um ein *Internat*, wäre dies hier zu wählen.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Weitere_Angaben_(Verwaltung_Schule)) · Quellrevision 4007.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Weitere_Angaben_(Verwaltung_Schule))

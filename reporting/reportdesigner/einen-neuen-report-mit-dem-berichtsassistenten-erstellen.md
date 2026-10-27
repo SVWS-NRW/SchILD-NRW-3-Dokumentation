@@ -1,7 +1,5 @@
 ---
 title: "Einen Report mit dem Berichtsassistenten erstellen"
-source_pageid: 1566
-source_revision: 6681
 ---
 
 # Einen Report mit dem Berichtsassistenten erstellen
@@ -309,4 +307,4 @@ Je nach Bedarf können weitere Anpassungen erfolgen (z. B. größere Zeilenhöhe
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einen_neuen_Report_mit_dem_Berichtsassistenten_erstellen) · Quellrevision 6681.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einen_neuen_Report_mit_dem_Berichtsassistenten_erstellen)

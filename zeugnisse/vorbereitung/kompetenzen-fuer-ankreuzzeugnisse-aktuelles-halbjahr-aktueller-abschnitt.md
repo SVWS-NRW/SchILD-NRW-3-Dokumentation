@@ -1,7 +1,5 @@
 ---
 title: "Ankreuzkompetenzen im Lernabschnitt bewerten"
-source_pageid: 1233
-source_revision: 4379
 ---
 
 # Ankreuzkompetenzen im Lernabschnitt bewerten
@@ -42,5 +40,5 @@ Nehmen Sie hier bitte den Artikel *Kataloge* **Ankreuzkompetenzen** sowie das Tu
 
 ---
 
-[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kompetenzen_f%C3%BCr_Ankreuzzeugnisse_((Aktuelles_Halbjahr_/_Aktueller_Abschnitt)>) · Quellrevision 4379.
+[Originalartikel im Wiki](<https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kompetenzen_f%C3%BCr_Ankreuzzeugnisse_((Aktuelles_Halbjahr_/_Aktueller_Abschnitt)>)
 

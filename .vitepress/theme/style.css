@@ -70,7 +70,6 @@
 .program-reference-menu .reference-ancestor { color: var(--vp-c-text-1); }
 .program-reference-menu .reference-active { color: var(--vp-c-brand-1); }
 .program-reference-menu a:focus-visible, .program-reference-menu summary:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: 2px; border-radius: 2px; }
-figcaption,
 .vp-doc p:has(> img) + p > em:only-child,
 .vp-doc p:has(> a > img) + p > em:only-child {
   font-size: 0.9rem;
@@ -178,3 +177,23 @@ figcaption,
 .vp-doc p:has(> img), .vp-doc p:has(> a > img) { margin-bottom: 4px; }
 .vp-doc p:has(> img) + p:has(> em:only-child),
 .vp-doc p:has(> a > img) + p:has(> em:only-child) { margin-top: 4px; }
+
+.vp-doc h1:has(.article-print-controls) { position: relative; padding-right: 48px; }
+.article-print-controls { position: absolute; top: 0; right: 0; line-height: 1; }
+.article-print-icon {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 36px; height: 36px; padding: 0; border: 1px solid var(--vp-c-divider);
+  border-radius: 6px; color: var(--vp-c-text-2); background: var(--vp-c-bg);
+  cursor: pointer;
+}
+.article-print-icon:hover { color: var(--vp-c-brand-1); border-color: var(--vp-c-brand-1); }
+.article-print-icon:focus-visible, .book-toolbar button:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: 3px; }
+.article-print-icon:disabled, .book-toolbar button:disabled { cursor: wait; opacity: 0.6; }
+.book-toolbar { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 20px 0; }
+.book-toolbar button { padding: 8px 14px; border-radius: 6px; background: var(--vp-c-brand-1); color: var(--vp-c-white); font-weight: 600; }
+.book-toolbar p { flex-basis: 100%; }
+.book-toc { padding: 16px 24px; border: 1px solid var(--vp-c-divider); border-radius: 8px; }
+.book-toc .book-child { margin-left: 20px; }
+.book-article { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--vp-c-divider); }
+.book-article-source { font-size: 13px; color: var(--vp-c-text-2); }
+.print-action-error { max-width: 260px; font-size: 13px; }

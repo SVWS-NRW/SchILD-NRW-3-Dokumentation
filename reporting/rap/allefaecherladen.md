@@ -1,7 +1,5 @@
 ---
 title: "AlleFaecherLaden"
-source_pageid: 16
-source_revision: 307
 ---
 
 # AlleFaecherLaden
@@ -33,4 +31,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=AlleFaecherLaden) · Quellrevision 307.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=AlleFaecherLaden)

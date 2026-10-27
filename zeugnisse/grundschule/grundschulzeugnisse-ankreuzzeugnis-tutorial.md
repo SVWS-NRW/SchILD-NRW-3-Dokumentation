@@ -1,7 +1,5 @@
 ---
 title: "Ankreuzzeugnisse für die Grundschule erstellen"
-source_pageid: 361
-source_revision: 6062
 ---
 
 # Ankreuzzeugnisse für die Grundschule erstellen
@@ -197,4 +195,4 @@ In SchILD-NRW 3 werden die Jahrgänge **01 und 02** und die **EP-Jahre E1, E2 un
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Ankreuzzeugnis_(Tutorial)) · Quellrevision 6062.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Grundschulzeugnisse_Ankreuzzeugnis_(Tutorial))

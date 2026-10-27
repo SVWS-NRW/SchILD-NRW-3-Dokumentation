@@ -1,7 +1,5 @@
 ---
 title: "EinzelElement"
-source_pageid: 31
-source_revision: 324
 ---
 
 # EinzelElement
@@ -33,4 +31,4 @@ if einzelelement( txt, ',', 2 ) = '2' then
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=EinzelElement) · Quellrevision 324.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=EinzelElement)

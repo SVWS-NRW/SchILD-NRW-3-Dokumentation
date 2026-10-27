@@ -1,7 +1,5 @@
 ---
 title: "Zugeordnete Zeugnisformulare gesammelt drucken"
-source_pageid: 1620
-source_revision: 6869
 ---
 
 # Zugeordnete Zeugnisformulare gesammelt drucken
@@ -59,4 +57,4 @@ Achten Sie darauf, dass der Druck für **die ganze Gruppe** aktiviert ist.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zugeordnete_Zeugnisformulare_drucken_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 6869.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zugeordnete_Zeugnisformulare_drucken_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

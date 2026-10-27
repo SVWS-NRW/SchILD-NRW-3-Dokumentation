@@ -1,7 +1,5 @@
 ---
 title: "Daten aus zurückliegenden Abschnitten drucken"
-source_pageid: 1576
-source_revision: 6688
 ---
 
 # Daten aus zurückliegenden Abschnitten drucken
@@ -34,4 +32,4 @@ Die Auswahl des Abschnitts und das Zurückstellen sind auch im [Menüband der Re
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Daten_aus_zur%C3%BCckliegenden_Abschnitten_drucken) · Quellrevision 6688.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Daten_aus_zur%C3%BCckliegenden_Abschnitten_drucken)

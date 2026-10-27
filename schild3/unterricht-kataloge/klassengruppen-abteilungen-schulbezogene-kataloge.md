@@ -1,7 +1,5 @@
 ---
 title: "Abteilungen und Klassengruppen einrichten"
-source_pageid: 459
-source_revision: 5428
 ---
 
 # Abteilungen und Klassengruppen einrichten
@@ -26,4 +24,4 @@ Klicken Sie dann auf das kleine "**+**" vor der Abteilung und fügen Sie Klassen
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Klassengruppen/Abteilungen_(Schulbezogene_Kataloge)) · Quellrevision 5428.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Klassengruppen/Abteilungen_(Schulbezogene_Kataloge))

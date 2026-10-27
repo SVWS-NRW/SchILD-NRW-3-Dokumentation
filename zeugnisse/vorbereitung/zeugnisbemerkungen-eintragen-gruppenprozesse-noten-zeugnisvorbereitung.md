@@ -1,7 +1,5 @@
 ---
 title: "Zeugnisbemerkungen für eine Schülergruppe erfassen"
-source_pageid: 398
-source_revision: 3253
 ---
 
 # Zeugnisbemerkungen für eine Schülergruppe erfassen
@@ -62,4 +60,4 @@ Die Übernahme der Bemerkungen erfolgt durch Klicken auf die Schaltfläche **OK*
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisbemerkungen_eintragen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 3253.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisbemerkungen_eintragen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

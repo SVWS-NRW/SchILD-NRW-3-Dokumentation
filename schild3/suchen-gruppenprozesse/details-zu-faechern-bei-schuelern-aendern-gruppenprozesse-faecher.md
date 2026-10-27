@@ -1,7 +1,5 @@
 ---
 title: "Fachdetails für eine Schülergruppe ändern oder leeren"
-source_pageid: 299
-source_revision: 5344
 ---
 
 # Fachdetails für eine Schülergruppe ändern oder leeren
@@ -36,4 +34,4 @@ Sie können über den Reiter **Leeren** auch Felder auswählen, die gelöscht we
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Details_zu_F%C3%A4chern_bei_Sch%C3%BClern_%C3%A4ndern_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 5344.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Details_zu_F%C3%A4chern_bei_Sch%C3%BClern_%C3%A4ndern_(Gruppenprozesse_F%C3%A4cher))

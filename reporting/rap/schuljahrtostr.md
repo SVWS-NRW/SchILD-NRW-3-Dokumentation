@@ -1,7 +1,5 @@
 ---
 title: "SchuljahrToStr"
-source_pageid: 92
-source_revision: 532
 ---
 
 # SchuljahrToStr
@@ -35,4 +33,4 @@ Ergebnis (z.B.): lSchuljahrStr = '2005/06.2'
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchuljahrToStr) · Quellrevision 532.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchuljahrToStr)

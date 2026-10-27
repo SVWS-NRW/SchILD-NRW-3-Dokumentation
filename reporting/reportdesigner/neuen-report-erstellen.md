@@ -1,7 +1,5 @@
 ---
 title: "Einen Report ohne Assistenten erstellen"
-source_pageid: 1565
-source_revision: 6679
 ---
 
 # Einen Report ohne Assistenten erstellen
@@ -123,4 +121,4 @@ Reports können nur verwendet werden, wenn sie im SchILD-Reportverzeichnis – o
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einen_neuen_Report_erstellen) · Quellrevision 6679.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einen_neuen_Report_erstellen)

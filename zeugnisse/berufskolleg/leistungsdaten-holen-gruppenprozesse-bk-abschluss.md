@@ -1,7 +1,5 @@
 ---
 title: "Leistungsdaten für den BK-Abschluss übernehmen"
-source_pageid: 1266
-source_revision: 4720
 ---
 
 # Leistungsdaten für den BK-Abschluss übernehmen
@@ -63,4 +61,4 @@ Mit **Prüfungsnoten aus Teilleistungen holen** können Sie auch andere vorberei
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Leistungsdaten_holen_(Gruppenprozesse_BK-Abschluss)) · Quellrevision 4720.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Leistungsdaten_holen_(Gruppenprozesse_BK-Abschluss))

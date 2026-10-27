@@ -1,7 +1,5 @@
 ---
 title: "Leistungsübersichten für Q1 und Q2"
-source_pageid: 1658
-source_revision: 7232
 ---
 
 # Leistungsübersichten für Q1 und Q2
@@ -117,4 +115,4 @@ Der Parameter **Teilleistungsarten** enthält eine kommagetrennte Liste mit gena
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Leistungs%C3%BCbersichten_Jg._Q1_bis_Q2) · Quellrevision 7232.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Basisreportsammlung:_Leistungs%C3%BCbersichten_Jg._Q1_bis_Q2)

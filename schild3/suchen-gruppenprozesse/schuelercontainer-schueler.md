@@ -1,7 +1,5 @@
 ---
 title: "Die Schülerauswahl im Container verwenden"
-source_pageid: 231
-source_revision: 5084
 ---
 
 # Die Schülerauswahl im Container verwenden
@@ -123,4 +121,4 @@ Mit dieser Option kann die Sperrung aufgehoben werden.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClercontainer_(Sch%C3%BCler)) · Quellrevision 5084.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Sch%C3%BClercontainer_(Sch%C3%BCler))

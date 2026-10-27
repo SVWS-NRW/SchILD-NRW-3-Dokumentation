@@ -1,7 +1,5 @@
 ---
 title: "Das Statistikfehlerprotokoll anzeigen und abarbeiten"
-source_pageid: 293
-source_revision: 4049
 ---
 
 # Das Statistikfehlerprotokoll anzeigen und abarbeiten
@@ -58,4 +56,4 @@ Bewerten Sie verbleibende Meldungen anhand der Eintragungshilfen und korrigieren
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehlerprotokoll_anzeigen_(Verwaltung_Statistik_f%C3%BCr_IT-NRW)) · Quellrevision 4049.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehlerprotokoll_anzeigen_(Verwaltung_Statistik_f%C3%BCr_IT-NRW))

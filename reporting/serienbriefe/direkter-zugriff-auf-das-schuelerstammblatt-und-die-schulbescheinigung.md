@@ -1,7 +1,5 @@
 ---
 title: "Stammblatt und Schulbescheinigung direkt aufrufen"
-source_pageid: 1575
-source_revision: 6566
 ---
 
 # Stammblatt und Schulbescheinigung direkt aufrufen
@@ -28,4 +26,4 @@ Anschließend stehen die beiden Standards in der Schülerdatenübersicht unter *
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Direkter_Zugriff_auf_das_Sch%C3%BClerstammblatt_und_die_Schulbescheinigung) · Quellrevision 6566.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Direkter_Zugriff_auf_das_Sch%C3%BClerstammblatt_und_die_Schulbescheinigung)

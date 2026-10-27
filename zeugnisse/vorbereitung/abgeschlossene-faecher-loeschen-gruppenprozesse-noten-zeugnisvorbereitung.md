@@ -1,7 +1,5 @@
 ---
 title: "Übernommene abgeschlossene Fächer entfernen"
-source_pageid: 801
-source_revision: 5411
 ---
 
 # Übernommene abgeschlossene Fächer entfernen
@@ -31,4 +29,4 @@ Weiterhin können über dieses Kontextmenü abgeschlossene Fächer geholt werden
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abgeschlossene_F%C3%A4cher_l%C3%B6schen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 5411.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abgeschlossene_F%C3%A4cher_l%C3%B6schen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

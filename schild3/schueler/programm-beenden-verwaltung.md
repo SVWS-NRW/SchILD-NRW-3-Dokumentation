@@ -1,7 +1,5 @@
 ---
 title: "SchILD-NRW beenden"
-source_pageid: 409
-source_revision: 3207
 ---
 
 # SchILD-NRW beenden
@@ -28,4 +26,4 @@ Das Beenden nicht mehr genutzter Programme zur Beschränkung des Zugriffs ist Te
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Programm_beenden_(Verwaltung)) · Quellrevision 3207.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Programm_beenden_(Verwaltung))

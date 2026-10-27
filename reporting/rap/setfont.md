@@ -1,7 +1,5 @@
 ---
 title: "SetFont"
-source_pageid: 108
-source_revision: 548
 ---
 
 # SetFont
@@ -34,4 +32,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetFont) · Quellrevision 548.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetFont)

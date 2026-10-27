@@ -1,7 +1,5 @@
 ---
 title: "Schulbezogene Kataloge aufrufen"
-source_pageid: 452
-source_revision: 5427
 ---
 
 # Schulbezogene Kataloge aufrufen
@@ -18,4 +16,4 @@ Die Steuerung der Kataloge, also das Festlegen der Reihenfolge der Einträge, de
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbezogene_Kataloge_(Kataloge)) · Quellrevision 5427.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schulbezogene_Kataloge_(Kataloge))

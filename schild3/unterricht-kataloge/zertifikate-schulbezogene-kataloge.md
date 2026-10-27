@@ -1,7 +1,5 @@
 ---
 title: "Zertifikate am Berufskolleg verwalten und zuordnen"
-source_pageid: 1313
-source_revision: 5028
 ---
 
 # Zertifikate am Berufskolleg verwalten und zuordnen
@@ -42,4 +40,4 @@ Der eigentliche Druck der Zertifikate findet in der Regel nicht über SchILD-NRW
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zertifikate_(Schulbezogene_Kataloge)) · Quellrevision 5028.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zertifikate_(Schulbezogene_Kataloge))

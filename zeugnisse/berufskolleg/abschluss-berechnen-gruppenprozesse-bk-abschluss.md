@@ -1,7 +1,5 @@
 ---
 title: "Abschlüsse am Berufskolleg berechnen"
-source_pageid: 1292
-source_revision: 4732
 ---
 
 # Abschlüsse am Berufskolleg berechnen
@@ -33,4 +31,4 @@ Ein Protokolleintrag könnte wie folgt aussehen:
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschluss_berechnen_(Gruppenprozesse_BK-Abschluss)) · Quellrevision 4732.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abschluss_berechnen_(Gruppenprozesse_BK-Abschluss))

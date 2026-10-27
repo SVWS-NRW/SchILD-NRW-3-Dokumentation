@@ -1,7 +1,5 @@
 ---
 title: "FilterAdressArt"
-source_pageid: 37
-source_revision: 330
 ---
 
 # FilterAdressArt
@@ -26,4 +24,4 @@ Siehe „SelectAdressArt“
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterAdressArt) · Quellrevision 330.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterAdressArt)

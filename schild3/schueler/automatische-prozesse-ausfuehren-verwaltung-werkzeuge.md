@@ -1,7 +1,5 @@
 ---
 title: "Automatische Prüfprozesse manuell starten"
-source_pageid: 371
-source_revision: 4789
 ---
 
 # Automatische Prüfprozesse manuell starten
@@ -30,4 +28,4 @@ Ein falsches Systemdatum von Windows kann zu unerwünschten Ergebnissen führen!
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Automatische_Prozesse_ausf%C3%BChren_(Verwaltung_Werkzeuge)) · Quellrevision 4789.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Automatische_Prozesse_ausf%C3%BChren_(Verwaltung_Werkzeuge))

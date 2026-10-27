@@ -1,7 +1,5 @@
 ---
 title: "FileAge"
-source_pageid: 33
-source_revision: 326
 ---
 
 # FileAge
@@ -34,4 +32,4 @@ If FileAge('C:\Schild-NRW\Schild-Reports\Zeugnisse\Zeugnis_11.rtm') < StrToDate(
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FileAge) · Quellrevision 326.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FileAge)

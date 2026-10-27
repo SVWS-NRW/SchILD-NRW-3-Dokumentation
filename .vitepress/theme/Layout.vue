@@ -8,6 +8,7 @@ import { data as articles } from '../../hilfe/artikel.data.mjs'
 import { articleIndexLink } from '../article-index.mjs'
 import VPHome from 'vitepress/dist/client/theme-default/components/VPHome.vue'
 import ReferenceSidebar from './ReferenceSidebar.vue'
+import ArticlePrintIcon from './ArticlePrintIcon.vue'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
 import navigation from '../navigation.json'
 import reference from '../program-reference.json'
@@ -21,7 +22,7 @@ const { page, theme, frontmatter } = data
 const mounted = ref(false)
 onMounted(() => { mounted.value = true })
 const indexMode = computed(() => page.value.relativePath === 'hilfe/alle-artikel.md' || (mounted.value && articleIndexSelection.value))
-const referenceMode = computed(() => !indexMode.value && (page.value.relativePath.startsWith('programmreferenz/') || (mounted.value && !!referenceSelection.value)))
+const referenceMode = computed(() => !indexMode.value && (page.value.relativePath.startsWith('programmreferenz/') || page.value.relativePath === 'druck/programmreferenz.md' || (mounted.value && !!referenceSelection.value)))
 const helpSidebar = computed(() => theme.value.sidebar['/hilfe/'].map(group => ({
   ...group,
   items: group.items.map(item => item.link === '/hilfe/alle-artikel'
@@ -62,7 +63,7 @@ provide(dataSymbol, {
 <template>
   <div :class="{ 'program-reference-view': referenceMode }">
     <DefaultTheme.Layout>
-      <template #doc-before><VPHome v-if="indexHome" /></template>
+      <template #doc-before><VPHome v-if="indexHome" /><ArticlePrintIcon v-if="!page.relativePath.startsWith('druck/')" :key="page.relativePath" /></template>
       <template #sidebar-nav-before>
         <ReferenceSidebar v-if="referenceMode" />
         <div v-if="referenceMode" class="reference-areas">

@@ -1,7 +1,5 @@
 ---
 title: "Anzeige und Bedienung individuell einstellen"
-source_pageid: 404
-source_revision: 6945
 ---
 
 # Anzeige und Bedienung individuell einstellen
@@ -140,4 +138,4 @@ Ein Klick auf den Report öffnet den gewohnten Druckdialog.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individuelle_Einstellungen_(Verwaltung_Einstellungen)) · Quellrevision 6945.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individuelle_Einstellungen_(Verwaltung_Einstellungen))

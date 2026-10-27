@@ -1,7 +1,5 @@
 ---
 title: "WaehleDatumUndZeit"
-source_pageid: 132
-source_revision: 526
 ---
 
 # WaehleDatumUndZeit
@@ -31,4 +29,4 @@ If WaehleDatum('Bitte Beginn der Veranstaltung
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=WaehleDatumUndZeit) · Quellrevision 526.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=WaehleDatumUndZeit)

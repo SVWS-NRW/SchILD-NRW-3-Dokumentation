@@ -1,7 +1,5 @@
 ---
 title: "ZensurToStr"
-source_pageid: 135
-source_revision: 529
 ---
 
 # ZensurToStr
@@ -33,4 +31,4 @@ Label1.Caption:=ZensurToStr('3');
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZensurToStr) · Quellrevision 529.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=ZensurToStr)

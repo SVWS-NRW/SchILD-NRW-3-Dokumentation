@@ -1,7 +1,5 @@
 ---
 title: "Daten für iServ exportieren"
-source_pageid: 374
-source_revision: 5279
 ---
 
 # Daten für iServ exportieren
@@ -48,4 +46,4 @@ Alle ausgewählten **Schülerstatus** werden berücksichtigt. Im zweiten Halbjah
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Export_f%C3%BCr_iServ_(Verwaltung_Export)) · Quellrevision 5279.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Export_f%C3%BCr_iServ_(Verwaltung_Export))

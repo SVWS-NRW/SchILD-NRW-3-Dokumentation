@@ -1,7 +1,5 @@
 ---
 title: "Text-, CSV- und Tabellendateien bearbeiten"
-source_pageid: 1382
-source_revision: 5209
 ---
 
 # Text-, CSV- und Tabellendateien bearbeiten
@@ -16,4 +14,4 @@ Zur Auswertung der Daten lohnt sich ein Blick auf die Diagramm- und Statistikfun
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Weitere_Programme_f%C3%BCr_Dateioperationen_(Tipps)) · Quellrevision 5209.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Weitere_Programme_f%C3%BCr_Dateioperationen_(Tipps))

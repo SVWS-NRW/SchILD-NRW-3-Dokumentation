@@ -1,7 +1,5 @@
 ---
 title: "FilterErzieherfunktion"
-source_pageid: 39
-source_revision: 332
 ---
 
 # FilterErzieherfunktion
@@ -34,4 +32,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterErzieherfunktion) · Quellrevision 332.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FilterErzieherfunktion)

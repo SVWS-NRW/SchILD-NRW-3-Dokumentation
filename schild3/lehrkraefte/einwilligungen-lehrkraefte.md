@@ -1,7 +1,5 @@
 ---
 title: "Einwilligungen der Lehrkräfte dokumentieren"
-source_pageid: 401
-source_revision: 6392
 ---
 
 # Einwilligungen der Lehrkräfte dokumentieren
@@ -30,4 +28,4 @@ Für mehrere Lehrkräfte markieren Sie zuerst die gewünschten Personen. Klicken
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einwilligungen_(Lehrkr%C3%A4fte)) · Quellrevision 6392.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einwilligungen_(Lehrkr%C3%A4fte))

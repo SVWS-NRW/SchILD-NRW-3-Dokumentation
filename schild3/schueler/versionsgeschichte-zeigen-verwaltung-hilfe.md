@@ -1,7 +1,5 @@
 ---
 title: "Die Versionsgeschichte öffnen"
-source_pageid: 1180
-source_revision: 3976
 ---
 
 # Die Versionsgeschichte öffnen
@@ -20,4 +18,4 @@ Die [Seite zur Versionsgeschichte](/schild3/schueler/versionsgeschichte-von-schi
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versionsgeschichte_zeigen_(Verwaltung_Hilfe)) · Quellrevision 3976.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versionsgeschichte_zeigen_(Verwaltung_Hilfe))

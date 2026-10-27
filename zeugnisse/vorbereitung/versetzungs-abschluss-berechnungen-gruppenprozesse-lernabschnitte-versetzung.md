@@ -1,7 +1,5 @@
 ---
 title: "Versetzung und Abschlüsse gruppenweise berechnen"
-source_pageid: 413
-source_revision: 4021
 ---
 
 # Versetzung und Abschlüsse gruppenweise berechnen
@@ -42,4 +40,4 @@ Führen Sie vorher **Gruppenprozesse → Noten, Zeugnisvorbereitung → Fächer 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzungs-Abschluss-berechnungen_(Gruppenprozesse_Lernabschnitte,_Versetzung)) · Quellrevision 4021.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzungs-Abschluss-berechnungen_(Gruppenprozesse_Lernabschnitte,_Versetzung))

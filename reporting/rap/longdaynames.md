@@ -1,7 +1,5 @@
 ---
 title: "LongDayNames"
-source_pageid: 66
-source_revision: 494
 ---
 
 # LongDayNames
@@ -32,4 +30,4 @@ Label27.Caption:=LongDayNames(1); //(*Sonntag*)
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LongDayNames) · Quellrevision 494.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=LongDayNames)

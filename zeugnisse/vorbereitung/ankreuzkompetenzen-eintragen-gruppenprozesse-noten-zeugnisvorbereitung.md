@@ -1,7 +1,5 @@
 ---
 title: "Ankreuzkompetenzen einer Schülergruppe zuweisen"
-source_pageid: 1080
-source_revision: 3570
 ---
 
 # Ankreuzkompetenzen einer Schülergruppe zuweisen
@@ -36,4 +34,4 @@ Beachten Sie, dass Ankreuzkompetenzen über die entsprechenden Fach- und Schulko
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ankreuzkompetenzen_eintragen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 3570.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Ankreuzkompetenzen_eintragen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

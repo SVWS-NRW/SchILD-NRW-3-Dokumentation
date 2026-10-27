@@ -1,7 +1,5 @@
 ---
 title: "Daten für SDS und MNSpro exportieren"
-source_pageid: 252
-source_revision: 3957
 ---
 
 # Daten für SDS und MNSpro exportieren
@@ -44,4 +42,4 @@ Bitte nutzen Sie die Dokumentation und den Support Ihrer Lernplattform für den 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Export_f%C3%BCr_SDS_(MNS-Pro)(Verwaltung_Export)) · Quellrevision 3957.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Export_f%C3%BCr_SDS_(MNS-Pro)(Verwaltung_Export))

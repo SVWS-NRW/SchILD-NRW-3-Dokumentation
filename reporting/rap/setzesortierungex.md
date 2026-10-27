@@ -1,7 +1,5 @@
 ---
 title: "SetzeSortierungEx"
-source_pageid: 120
-source_revision: 7172
 ---
 
 # SetzeSortierungEx
@@ -34,4 +32,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetzeSortierungEx) · Quellrevision 7172.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetzeSortierungEx)

@@ -1,7 +1,5 @@
 ---
 title: "NurFaecherMitAufsZeugnisFlag"
-source_pageid: 73
-source_revision: 501
 ---
 
 # NurFaecherMitAufsZeugnisFlag
@@ -40,4 +38,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=NurFaecherMitAufsZeugnisFlag) · Quellrevision 501.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=NurFaecherMitAufsZeugnisFlag)

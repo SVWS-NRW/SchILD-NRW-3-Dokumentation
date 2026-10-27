@@ -1,7 +1,5 @@
 ---
 title: "Fahrschülerarten im Katalog vorbereiten"
-source_pageid: 376
-source_revision: 5420
 ---
 
 # Fahrschülerarten im Katalog vorbereiten
@@ -20,4 +18,4 @@ Der Eintrag wird dann in den *Individualdaten I* unter *Zusatzdaten* gesetzt und
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fahrsch%C3%BCler-Arten_(Allgemeine_Kataloge)) · Quellrevision 5420.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fahrsch%C3%BCler-Arten_(Allgemeine_Kataloge))

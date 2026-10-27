@@ -1,7 +1,5 @@
 ---
 title: "Reports zwischen SchILD-NRW 2 und 3 umstellen"
-source_pageid: 1547
-source_revision: 6562
 ---
 
 # Reports zwischen SchILD-NRW 2 und 3 umstellen
@@ -58,4 +56,4 @@ Es ist deshalb zu empfehlen, vorhandene Reports aus SchILD-NRW 2 an SchILD-NRW 3
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kompatibilit%C3%A4t_der_Reports_in_SchILD-NRW_2_und_SchILD-NRW_3) · Quellrevision 6562.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kompatibilit%C3%A4t_der_Reports_in_SchILD-NRW_2_und_SchILD-NRW_3)

@@ -1,7 +1,5 @@
 ---
 title: "Kursunterricht anlegen und zuweisen"
-source_pageid: 358
-source_revision: 5247
 ---
 
 # Kursunterricht anlegen und zuweisen
@@ -55,4 +53,4 @@ Prüfen Sie vor der Schülerzuweisung Fach, Jahrgang, Kursart und Abschnitt. Ein
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kursunterrichte_anlegen_(Tutorial)) · Quellrevision 5247.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Kursunterrichte_anlegen_(Tutorial))

@@ -1,7 +1,5 @@
 ---
 title: "Gesamtfehlstunden gruppenweise eingeben"
-source_pageid: 344
-source_revision: 5408
 ---
 
 # Gesamtfehlstunden gruppenweise eingeben
@@ -26,4 +24,4 @@ Wählen Sie zuerst unter **Verwaltung → Einstellungen → Globale Einstellunge
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehlstunden-Summen_manuell_eingeben_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)) · Quellrevision 5408.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Fehlstunden-Summen_manuell_eingeben_(Gruppenprozesse_Noten,_Zeugnisvorbereitung))

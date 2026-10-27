@@ -1,7 +1,5 @@
 ---
 title: "Einwanderungsgeschichte und Förderung in Individualdaten II erfassen"
-source_pageid: 379
-source_revision: 7201
 ---
 
 # Einwanderungsgeschichte und Förderung in Individualdaten II erfassen
@@ -81,4 +79,4 @@ Hier können auf individueller Basis Merkmale zugeordnet werden. Es können nur 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individualdaten_II_(Sch%C3%BCler)) · Quellrevision 7201.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Individualdaten_II_(Sch%C3%BCler))

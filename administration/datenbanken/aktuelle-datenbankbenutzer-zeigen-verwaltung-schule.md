@@ -1,7 +1,5 @@
 ---
 title: "Angemeldete Datenbankbenutzer anzeigen"
-source_pageid: 389
-source_revision: 3083
 ---
 
 # Angemeldete Datenbankbenutzer anzeigen
@@ -18,4 +16,4 @@ Schließen Sie das Fenster mit **OK**.
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Aktuelle_Datenbankbenutzer_zeigen_(Verwaltung_Schule)) · Quellrevision 3083.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Aktuelle_Datenbankbenutzer_zeigen_(Verwaltung_Schule))

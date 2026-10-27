@@ -1,7 +1,5 @@
 ---
 title: "Praktikumstage"
-source_pageid: 79
-source_revision: 507
 ---
 
 # Praktikumstage
@@ -32,4 +30,4 @@ End;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Praktikumstage) · Quellrevision 507.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Praktikumstage)

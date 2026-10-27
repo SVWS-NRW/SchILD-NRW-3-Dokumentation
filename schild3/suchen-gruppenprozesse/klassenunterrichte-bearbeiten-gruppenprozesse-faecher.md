@@ -1,7 +1,5 @@
 ---
 title: "Nicht kursgebundenen Klassenunterricht bearbeiten"
-source_pageid: 298
-source_revision: 5343
 ---
 
 # Nicht kursgebundenen Klassenunterricht bearbeiten
@@ -28,4 +26,4 @@ Neueingaben von Fächern erfolgt über den gesonderten *Gruppenprozesse ➜ Fäc
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Klassenunterrichte_bearbeiten_(Gruppenprozesse_F%C3%A4cher)) · Quellrevision 5343.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Klassenunterrichte_bearbeiten_(Gruppenprozesse_F%C3%A4cher))

@@ -1,6 +1,8 @@
 # Dokumentation und Wiki im Vergleich
 
-Du findest hier eine tabellarische Zuordnung aller Artikel in Vite-Press und aller Artikel im SchILD-NRW 3 Wiki.
+Du findest hier eine tabellarische Zuordnung aller Artikel in VitePress und aller Artikel im SchILD-NRW 3 Wiki.
+
+Stand: 27. Oktober 2026. Neue, entfernte oder umbenannte Artikel müssen hier nachgeführt werden. Ein fehlender eigener Markdown-Artikel bedeutet nicht zwangsläufig, dass die Inhalte fehlen; sie können in anderen Artikeln aufgegangen sein.
 
 | Artikel der neuen Dokumentation | Zugehörige Wiki-Artikel |
 | --- | --- |
@@ -38,7 +40,6 @@ Du findest hier eine tabellarische Zuordnung aller Artikel in Vite-Press und all
 | [Gruppenprozesse sicher anwenden](/einstieg/grundlagen/einfuehrung-in-die-gruppenprozesse-einfuehrung-in-schild-nrw.html "einstieg/grundlagen/einfuehrung-in-die-gruppenprozesse-einfuehrung-in-schild-nrw.md") | [Einführung in die Gruppenprozesse (Einführung in SchILD-NRW)](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Einf%C3%BChrung_in_die_Gruppenprozesse_%28Einf%C3%BChrung_in_SchILD-NRW%29) |
 | [Datenbank, Benutzer und Ordner verstehen](/einstieg/grundlagen/faq.html "einstieg/grundlagen/faq.md") | [FAQ](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=FAQ) |
 | [Installation – Einstieg](/einstieg/grundlagen/installation.html "einstieg/grundlagen/installation.md") | — (kein Wiki-Quellenlink) |
-| [SchILD-NRW 3 verstehen – frühere Gesamtübersicht (Weiterleitung)](/einstieg/grundlagen/schild-nrw-3.html "einstieg/grundlagen/schild-nrw-3.md") | Kein Wiki-Link im Artikel; frühere Vorlage: [SchILD-NRW 3](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3) |
 | [SchILD-NRW 3 kennenlernen](/einstieg/grundlagen/uebersicht-schild-nrw-3-einfuehrung.html "einstieg/grundlagen/uebersicht-schild-nrw-3-einfuehrung.md") | [Übersicht: SchILD-NRW 3 (Einführung)](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=%C3%9Cbersicht:_SchILD-NRW_3_%28Einf%C3%BChrung%29) |
 | [Halbjahres- und Schuljahreswechsel durchführen](/einstieg/grundlagen/versetzung-ins-neue-schuljahr-und-abschnittswechsel-durchfuehren-einfuehrung-in-schild-nrw.html "einstieg/grundlagen/versetzung-ins-neue-schuljahr-und-abschnittswechsel-durchfuehren-einfuehrung-in-schild-nrw.md") | [Versetzung ins neue Schuljahr und Abschnittswechsel durchführen (Einführung in SchILD-NRW)](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Versetzung_ins_neue_Schuljahr_und_Abschnittswechsel_durchf%C3%BChren_%28Einf%C3%BChrung_in_SchILD-NRW%29); [Schuljahres-/Abschnittswechsel (Verwaltung Schule)](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Schuljahres-%2FAbschnittswechsel_%28Verwaltung_Schule%29) (Wiki-Weiterleitung) |
 | [Kataloge vorbereiten und Einträge verwenden](/einstieg/grundlagen/vom-katalog-zum-eintrag-einfuehrung.html "einstieg/grundlagen/vom-katalog-zum-eintrag-einfuehrung.md") | [Vom Katalog zum Eintrag (Einführung)](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Vom_Katalog_zum_Eintrag_%28Einf%C3%BChrung%29) |
@@ -46,6 +47,7 @@ Du findest hier eine tabellarische Zuordnung aller Artikel in Vite-Press und all
 | [Von SchILD-NRW 2 auf SchILD-NRW 3 umsteigen](/einstieg/grundlagen/wesentliche-unterschiede-zu-schild-nrw-2.html "einstieg/grundlagen/wesentliche-unterschiede-zu-schild-nrw-2.md") | [Wesentliche Unterschiede zu SchILD-NRW 2](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Wesentliche_Unterschiede_zu_SchILD-NRW_2) |
 | [Zeugnisse vorbereiten, drucken und archivieren](/einstieg/grundlagen/zeugnisvorbereitungen-und-zeugnisdruck-einfuehrung-in-schild-nrw.html "einstieg/grundlagen/zeugnisvorbereitungen-und-zeugnisdruck-einfuehrung-in-schild-nrw.md") | [Zeugnisvorbereitungen und Zeugnisdruck (Einführung in SchILD-NRW)](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Zeugnisvorbereitungen_und_Zeugnisdruck_%28Einf%C3%BChrung_in_SchILD-NRW%29) |
 | [Einstieg](/einstieg/ "einstieg/index.md") | — (kein Wiki-Quellenlink) |
+| [Dokumentation und Wiki im Vergleich](/hilfe/artikel-wiki-zuordnung.html "hilfe/artikel-wiki-zuordnung.md") | — (kein Wiki-Quellenlink) |
 | [Alle Artikel A–Z](/hilfe/alle-artikel.html "hilfe/alle-artikel.md") | — (kein Wiki-Quellenlink) |
 | [Artikel schreiben und bearbeiten](/hilfe/artikel-schreiben.html "hilfe/artikel-schreiben.md") | — (kein Wiki-Quellenlink) |
 | [SchILD-NRW im Alltag bedienen – Übersicht](/hilfe/bedienung.html "hilfe/bedienung.md") | — (kein Wiki-Quellenlink) |
@@ -541,6 +543,7 @@ Du findest hier eine tabellarische Zuordnung aller Artikel in Vite-Press und all
 | — (kein eigener Markdown-Artikel) | [Musterseite für Wiki-Autoren](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Musterseite_f%C3%BCr_Wiki-Autoren) |
 | — (kein eigener Markdown-Artikel) | [RAP-Funktionen](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=RAP-Funktionen) |
 | — (kein eigener Markdown-Artikel) | [Reportverwaltung, Reportverwendung & Einstellungen Themenübersicht](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Reportverwaltung,_Reportverwendung_%26_Einstellungen_Themen%C3%BCbersicht) |
+| — (kein eigener Markdown-Artikel) | [SchILD-NRW 3](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3) |
 | — (kein eigener Markdown-Artikel) | [SchILD-NRW 3 - Anwenderhandbuch](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3_-_Anwenderhandbuch) |
 | — (kein eigener Markdown-Artikel) | [SVWS-Client](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SVWS-Client) |
 | — (kein eigener Markdown-Artikel) | [SVWS-Server](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SVWS-Server) |

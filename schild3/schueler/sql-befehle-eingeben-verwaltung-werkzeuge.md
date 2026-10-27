@@ -1,7 +1,5 @@
 ---
 title: "SQL-Befehle über die Verwaltungswerkzeuge ausführen"
-source_pageid: 432
-source_revision: 5296
 ---
 
 # SQL-Befehle über die Verwaltungswerkzeuge ausführen
@@ -40,4 +38,4 @@ Für eigenmächtig veränderte Datenbanken können u.U. keine Garantie oder Supp
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SQL-Befehle_eingeben_(Verwaltung_Werkzeuge)) · Quellrevision 5296.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SQL-Befehle_eingeben_(Verwaltung_Werkzeuge))

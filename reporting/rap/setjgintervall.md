@@ -1,7 +1,5 @@
 ---
 title: "SetJgIntervall"
-source_pageid: 109
-source_revision: 549
 ---
 
 # SetJgIntervall
@@ -35,4 +33,4 @@ Procedure ReportBeforePrint;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetJgIntervall) · Quellrevision 549.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SetJgIntervall)

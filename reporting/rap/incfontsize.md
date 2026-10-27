@@ -1,7 +1,5 @@
 ---
 title: "IncFontSize"
-source_pageid: 51
-source_revision: 344
 ---
 
 # IncFontSize
@@ -34,4 +32,4 @@ end;
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=IncFontSize) · Quellrevision 344.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=IncFontSize)

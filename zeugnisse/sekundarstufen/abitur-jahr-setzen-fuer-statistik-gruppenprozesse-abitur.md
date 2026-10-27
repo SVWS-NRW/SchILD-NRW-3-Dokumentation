@@ -1,7 +1,5 @@
 ---
 title: "Das Abiturjahr für die Statistik setzen"
-source_pageid: 397
-source_revision: 3631
 ---
 
 # Das Abiturjahr für die Statistik setzen
@@ -20,4 +18,4 @@ Der gesetzte Wert ist im Reiter *Schüler ➜ Abitur* unter **Weitere Angaben** 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abitur-Jahr_setzen_(f%C3%BCr_Statistik)_(Gruppenprozesse_Abitur)) · Quellrevision 3631.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Abitur-Jahr_setzen_(f%C3%BCr_Statistik)_(Gruppenprozesse_Abitur))

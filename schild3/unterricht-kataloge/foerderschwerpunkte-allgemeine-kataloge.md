@@ -1,7 +1,5 @@
 ---
 title: "Förderschwerpunkte im Katalog vorbereiten"
-source_pageid: 329
-source_revision: 5422
 ---
 
 # Förderschwerpunkte im Katalog vorbereiten
@@ -71,4 +69,4 @@ Folgende Bezeichnungen stehen hier zur Verfügung:
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%B6rderschwerpunkte_(Allgemeine_Kataloge)) · Quellrevision 5422.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=F%C3%B6rderschwerpunkte_(Allgemeine_Kataloge))

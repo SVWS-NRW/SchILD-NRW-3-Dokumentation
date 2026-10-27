@@ -1,7 +1,5 @@
 ---
 title: "Alte Schuljahresdaten aufräumen"
-source_pageid: 431
-source_revision: 5293
 ---
 
 # Alte Schuljahresdaten aufräumen
@@ -46,4 +44,4 @@ Nutzen Sie zur Datenpflege bitte die am Rechtsrahmen ausgerichtete automatische 
 
 ---
 
-[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Aufr%C3%A4umen_(Verwaltung_Werkzeuge)) · Quellrevision 5293.
+[Originalartikel im Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Aufr%C3%A4umen_(Verwaltung_Werkzeuge))
