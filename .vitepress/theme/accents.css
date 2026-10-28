@@ -39,7 +39,8 @@
   .schild-home .VPHero {
     background: radial-gradient(ellipse at 25% 30%, var(--schild-glow), transparent 65%);
   }
-  .schild-home .VPHomeFeatures .VPFeature {
+  .schild-home .VPHomeFeatures .VPFeature,
+  .VPDocFooter .pager-link {
     border: 1px solid var(--schild-border);
     border-radius: 14px;
     background: var(--vp-c-bg);
@@ -47,7 +48,8 @@
   }
   .schild-home .VPHomeFeatures .title { font-size: 17px; }
   .schild-home .VPFeature .link-text-icon { transform: none; transition: none; }
-  .schild-home .VPHomeFeatures a.VPFeature:focus-visible {
+  .schild-home .VPHomeFeatures a.VPFeature:focus-visible,
+  .VPDocFooter .pager-link:focus-visible {
     border-color: var(--schild-hover-border);
     box-shadow: var(--schild-shadow);
   }
@@ -81,26 +83,24 @@
   .vp-doc table { border-radius: 8px; }
   .vp-doc th, .vp-doc td { border-color: var(--schild-border); }
   .vp-doc th, .vp-doc tr:nth-child(2n) { background: var(--schild-table-bg); }
-  .VPDocFooter .pager-link {
-    border-radius: 12px;
-    background: var(--vp-sidebar-bg-color);
-    border-color: var(--schild-border);
-  }
 
   a:focus-visible, button:focus-visible, summary:focus-visible {
     outline: 2px solid var(--vp-c-brand-1);
     outline-offset: 4px;
   }
   @media (hover: hover) and (pointer: fine) {
-    .schild-home .VPHomeFeatures a.VPFeature:hover {
+    .schild-home .VPHomeFeatures a.VPFeature:hover,
+    .VPDocFooter .pager-link:hover {
       border-color: var(--schild-hover-border);
       box-shadow: var(--schild-shadow);
       transform: translateY(-2px);
     }
   }
   @media (prefers-reduced-motion: reduce) {
-    .schild-home .VPHomeFeatures .VPFeature { transition: none; }
-    .schild-home .VPHomeFeatures a.VPFeature:hover { transform: none; }
+    .schild-home .VPHomeFeatures .VPFeature,
+    .VPDocFooter .pager-link { transition: none; }
+    .schild-home .VPHomeFeatures a.VPFeature:hover,
+    .VPDocFooter .pager-link:hover { transform: none; }
   }
   @media (forced-colors: active) {
     .schild-home .VPHero .name.clip {
