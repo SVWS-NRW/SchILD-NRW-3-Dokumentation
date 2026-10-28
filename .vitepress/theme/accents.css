@@ -83,7 +83,7 @@
   .vp-doc th, .vp-doc tr:nth-child(2n) { background: var(--schild-table-bg); }
   .VPDocFooter .pager-link {
     border-radius: 12px;
-    background: var(--vp-c-bg-soft);
+    background: var(--vp-sidebar-bg-color);
     border-color: var(--schild-border);
   }
 
