@@ -6,6 +6,7 @@ import assert from 'node:assert/strict'
 import {isolateVideoEmbeds} from './browser_test_embeds.mjs'
 import {checkPrintLayout} from './browser_print.mjs'
 import {checkSectionPrint} from './browser_section_print.mjs'
+import {checkAccents} from './browser_accents.mjs'
 const {chromium} = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const base = 'http://127.0.0.1:4189' + prefix
 const server = spawn(process.execPath,['node_modules/vitepress/bin/vitepress.js','preview','--host','127.0.0.1','--port','4189'],{stdio:'ignore'})
@@ -106,6 +107,7 @@ try {
  assert(await page.locator('ol.article-index a').count()>400)
  await checkPrintLayout(page)
  await checkSectionPrint(page)
+ await checkAccents(page, base)
  assert.deepEqual(errors,[])
  console.log('OK: Rubrikdruck mit 106 Artikeln, Drucksymbol, Drucklayout und Zustandswiederherstellung, ODS-/XLSX-Downloads aus Markdown, Markdown-Bilder mit Originalverweis und Bildunterschrift, Themenmenü, Bilderkatalog mit unverändertem Hilfemenü und Neuladen, Programmreferenz, Weiterblättern, Tabellen bei 390/1440 Pixeln, Suche und Artikelindex.')
 } catch(error) {
