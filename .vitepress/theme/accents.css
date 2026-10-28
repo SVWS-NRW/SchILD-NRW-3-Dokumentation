@@ -1,0 +1,114 @@
+/* Selected visual accents only. Typography, spacing, article text colours,
+   overview structure and print layout retain the existing theme defaults. */
+@media screen {
+  :root {
+    --vp-c-brand-1: #245bb5;
+    --vp-c-brand-2: #1f509f;
+    --vp-c-brand-3: #245bb5;
+    --vp-c-brand-soft: rgb(36 91 181 / 9%);
+    --vp-sidebar-bg-color: #f3f6fa;
+    --vp-button-brand-bg: #245bb5;
+    --vp-button-brand-hover-bg: #1f509f;
+    --vp-button-brand-active-bg: #194486;
+    --schild-border: #dce3ec;
+    --schild-hover-border: #9bafca;
+    --schild-shadow: 0 6px 20px rgb(25 53 85 / 8%);
+    --schild-table-bg: #f5f7fb;
+    --schild-glow: rgb(36 91 181 / 7%);
+    --schild-title-gradient: linear-gradient(110deg, #245bb5 15%, #087c80 90%);
+  }
+  :root.dark {
+    --vp-c-brand-1: #8bb6ff;
+    --vp-c-brand-2: #adcaff;
+    --vp-c-brand-3: #245bb5;
+    --vp-c-brand-soft: rgb(139 182 255 / 12%);
+    --vp-sidebar-bg-color: #191c22;
+    --vp-button-brand-hover-bg: #306bc9;
+    --schild-border: #343e4d;
+    --schild-hover-border: #6d8caf;
+    --schild-shadow: 0 6px 20px rgb(0 0 0 / 18%);
+    --schild-table-bg: #242932;
+    --schild-glow: rgb(90 150 240 / 8%);
+    --schild-title-gradient: linear-gradient(110deg, #8bb6ff 15%, #65d4ca 90%);
+  }
+
+  .schild-home {
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: var(--schild-title-gradient);
+  }
+  .schild-home .VPHero {
+    background: radial-gradient(ellipse at 25% 30%, var(--schild-glow), transparent 65%);
+  }
+  .schild-home .VPHomeFeatures .VPFeature {
+    border: 1px solid var(--schild-border);
+    border-radius: 14px;
+    background: var(--vp-c-bg);
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+  }
+  .schild-home .VPHomeFeatures .title { font-size: 17px; }
+  .schild-home .VPFeature .link-text-icon { transform: none; transition: none; }
+  .schild-home .VPHomeFeatures a.VPFeature:focus-visible {
+    border-color: var(--schild-hover-border);
+    box-shadow: var(--schild-shadow);
+  }
+
+  .VPSidebarItem.is-active > .item {
+    padding-inline-start: 6px;
+    border-radius: 6px;
+    background: var(--vp-c-brand-soft);
+    box-shadow: -3px 0 var(--vp-c-brand-1);
+  }
+  .program-reference-menu a.reference-active {
+    padding-inline-start: 6px;
+    border-radius: 6px;
+    background: var(--vp-c-brand-soft);
+    box-shadow: -3px 0 var(--vp-c-brand-1);
+  }
+  .VPDocAsideOutline .outline-link.active { font-weight: 600; }
+  .VPNavBarSearch .DocSearch-Button { border: 1px solid var(--schild-border); border-radius: 10px; }
+
+  .vp-doc p > img:only-child,
+  .vp-doc p > a:only-child > img:only-child {
+    border: 1px solid var(--schild-border);
+    border-radius: 8px;
+    box-shadow: 0 3px 12px rgb(20 40 70 / 5%);
+  }
+  .vp-doc p:has(> img) + p > em:only-child,
+  .vp-doc p:has(> a > img) + p > em:only-child {
+    display: block;
+    line-height: 1.55;
+  }
+  .vp-doc table { border-radius: 8px; }
+  .vp-doc th, .vp-doc td { border-color: var(--schild-border); }
+  .vp-doc th, .vp-doc tr:nth-child(2n) { background: var(--schild-table-bg); }
+  .VPDocFooter .pager-link {
+    border-radius: 12px;
+    background: var(--vp-sidebar-bg-color);
+    border-color: var(--schild-border);
+  }
+
+  a:focus-visible, button:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--vp-c-brand-1);
+    outline-offset: 4px;
+  }
+  @media (hover: hover) and (pointer: fine) {
+    .schild-home .VPHomeFeatures a.VPFeature:hover {
+      border-color: var(--schild-hover-border);
+      box-shadow: var(--schild-shadow);
+      transform: translateY(-2px);
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .schild-home .VPHomeFeatures .VPFeature { transition: none; }
+    .schild-home .VPHomeFeatures a.VPFeature:hover { transform: none; }
+  }
+  @media (forced-colors: active) {
+    .schild-home .VPHero .name.clip {
+      background: none;
+      color: CanvasText;
+      -webkit-text-fill-color: CanvasText;
+    }
+    .VPSidebarItem.is-active > .item,
+    .program-reference-menu a.reference-active { outline: 1px solid Highlight; }
+  }
+}
