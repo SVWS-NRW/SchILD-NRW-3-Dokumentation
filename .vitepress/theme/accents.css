@@ -53,11 +53,13 @@
   }
 
   .VPSidebarItem.is-active > .item {
+    padding-inline-start: 6px;
     border-radius: 6px;
     background: var(--vp-c-brand-soft);
     box-shadow: -3px 0 var(--vp-c-brand-1);
   }
   .program-reference-menu a.reference-active {
+    padding-inline-start: 6px;
     border-radius: 6px;
     background: var(--vp-c-brand-soft);
     box-shadow: -3px 0 var(--vp-c-brand-1);
