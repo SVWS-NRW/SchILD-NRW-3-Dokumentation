@@ -67,7 +67,33 @@
     box-shadow: -3px 0 var(--vp-c-brand-1);
   }
   .VPDocAsideOutline .outline-link.active { font-weight: 600; }
-  .VPNavBarSearch .DocSearch-Button { border: 1px solid var(--schild-border); border-radius: 10px; }
+  .VPNavBarSearch .DocSearch-Button {
+    border: 1px solid var(--schild-border);
+    border-radius: 10px;
+    background: var(--vp-sidebar-bg-color);
+  }
+  .VPNavBarSearch .DocSearch-Button:hover {
+    background: var(--vp-sidebar-bg-color);
+    border-color: var(--schild-hover-border);
+  }
+  .VPNavBarSearch .DocSearch-Button .DocSearch-Search-Icon { color: var(--vp-c-brand-1); }
+  .VPNavBarSearch .DocSearch-Button .DocSearch-Button-Key {
+    background: var(--vp-c-bg);
+    border-color: var(--schild-border);
+  }
+  .VPLocalSearchBox .search-bar {
+    background: var(--vp-sidebar-bg-color);
+    border-color: var(--schild-border);
+  }
+  .VPLocalSearchBox .search-bar:focus-within { border-color: var(--vp-c-brand-1); }
+  .VPSwitchAppearance {
+    --vp-input-border-color: var(--schild-border);
+    --vp-input-switch-bg-color: var(--vp-sidebar-bg-color);
+  }
+  .VPSwitch.VPSwitchAppearance:hover { border-color: var(--schild-hover-border); }
+  .VPSwitchAppearance .check { background: var(--vp-c-bg); }
+  .VPSwitchAppearance .check .icon > span,
+  .dark .VPSwitchAppearance .check .icon > span { color: var(--vp-c-brand-1); }
 
   .vp-doc p > img:only-child,
   .vp-doc p > a:only-child > img:only-child {
