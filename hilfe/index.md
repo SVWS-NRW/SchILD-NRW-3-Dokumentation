@@ -6,7 +6,6 @@ Finden Sie Bedienhinweise, grenzen Sie Fehler ein und erreichen Sie die passende
 
 - [SchILD-NRW im Alltag bedienen](/hilfe/bedienung)
 - [Fehler eingrenzen und Unterstützung finden](/hilfe/probleme)
-- [Versionen und Änderungen nachschlagen](/hilfe/versionshinweise)
 - [Frühere Verfahren und Umstellungen nachschlagen](/hilfe/fruehere-verfahren)
 
 ## Weitere Zugänge
