@@ -3,7 +3,7 @@ import assert from 'node:assert/strict'
 import fs from 'node:fs/promises'
 import {tmpdir} from 'node:os'
 import path from 'node:path'
-import {checkSite} from '../scripts/check-site.mjs'
+import {checkSite} from './check-site.mjs'
 test('Prüft relative und kodierte Links, Sprungmarken und fehlende Bilder', async () => {
  const root = await fs.mkdtemp(path.join(tmpdir(),'docs-links-'))
  try {

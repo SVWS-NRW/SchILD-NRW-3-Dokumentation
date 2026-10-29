@@ -25,7 +25,7 @@ Die im Terminal angezeigte lokale Adresse im Browser öffnen. Bilder und Downloa
 
 Die Artikel direkt in den Markdown-Dateien bearbeiten. Änderungen erfolgen auf einem eigenen Branch mit Pull Request gegen `dev`. Den Merge übernimmt der Verantwortliche.
 
-Unter **Hilfe** stehen [Artikel schreiben und bearbeiten](hilfe/artikel-schreiben.md) mit den gemeinsamen Schreibregeln und [Markdown und Gestaltung](hilfe/markdown-und-gestaltung.md) mit kopierbaren Beispielen. Die [Anleitung zur technischen Mitarbeit](CONTRIBUTING.md) erklärt Branches, lokale Vorschau, Menüzuordnung und Einreichen einer Änderung.
+Unter **Hilfe** stehen [Artikel schreiben und bearbeiten](hilfe/artikel-schreiben.md) mit den gemeinsamen Schreibregeln und [Markdown und Gestaltung](hilfe/markdown-und-gestaltung.md) mit kopierbaren Beispielen. Die [Anleitung zur technischen Mitarbeit](CONTRIBUTING.md) erklärt lokale Vorschau, Dateien und Menüzuordnung. Der [verbindliche Redaktions- und Veröffentlichungsworkflow](WORKFLOW.md) regelt Branches, Pull Requests, Freigaben und Veröffentlichungen.
 
 ## Prüfen
 
@@ -49,7 +49,7 @@ npm run docs:check-browser
 
 Sie prüft Themenmenü, Programmreferenz, Weiterblättern und breite Tabellen auf Desktop und Smartphone sowie Suche und Artikelindex. Es gibt keinen vollständigen Artikelscan und keinen dauernden Vergleich mit alten Wiki-Fassungen.
 
-Auf GitHub läuft **Dokumentation prüfen** bei jedem Pull Request nach `dev`. **Bedienung prüfen** läuft bei Änderungen an Theme, Werkzeugen, Tests, Abhängigkeiten und den ausgewählten Darstellungsseiten. Bei Bedarf kann der Browserlauf auch manuell gestartet werden. Fehleraufnahmen liegen als GitHub-Artefakt vor; lokale Ausgaben unter `test-results/` gehören nicht in Git.
+Auf GitHub laufen **Dokumentation prüfen** (`docs-check`) und **Bedienung prüfen** (`browser-check`) bei jedem Pull Request mit Ziel `dev` oder `master`, unabhängig von den geänderten Dateien. Beide Prüf-Workflows können außerdem manuell gestartet werden. Prüfskripte, kleine Tests und Browserprüfungen liegen gemeinsam unter `scripts/`; die npm-Befehle bleiben der einheitliche Einstieg. Fehleraufnahmen liegen als GitHub-Artefakt vor; lokale Ausgaben unter `test-results/` gehören nicht in Git.
 
 ## Technischer Paketstand
 
@@ -66,7 +66,7 @@ npm run docs:preview
 
 Veröffentlicht wird ausschließlich der Inhalt von `.vitepress/dist` über statisches HTTPS-Hosting. Entwicklungs- und Vorschau-Server werden nicht öffentlich betrieben. Die Zieladresse ist `https://schild3.svws-nrw.de/`. Standardbuild und lokale Vorschau verwenden die Domainwurzel `/`; dies ist in `.vitepress/site-base.mjs` festgelegt. Ein anderer Unterpfad kann über `DOCS_BASE` angegeben werden.
 
-Ein Merge nach `master` startet `.github/workflows/deploy.yml`: Build, Link- und Bildprüfung sowie Veröffentlichung auf GitHub Pages. Manuelle Läufe auf anderen Branches prüfen nur den Build. Das Workflow-Artefakt `schild3-domain` enthält die fertige Website für die Domainwurzel des Nginx-Servers. Für die GitHub-Pages-Vorschau wird bei Bedarf zusätzlich mit dem von GitHub vorgegebenen Unterpfad gebaut. Die Anbindung der Zieladresse auf dem bestehenden Nginx-Server erfolgt getrennt; der Workflow ändert weder DNS noch diesen Server.
+Ein Merge nach `master` startet `.github/workflows/deploy.yml`: Build, Link- und Bildprüfung sowie Veröffentlichung auf GitHub Pages. Ein manueller Lauf dieses Workflows auf `master` veröffentlicht ebenfalls; auf anderen Branches wird nur gebaut. Im regulären Ablauf ist der manuelle Veröffentlichungslauf nicht nötig; Einzelheiten stehen im [Workflow](WORKFLOW.md). Das Workflow-Artefakt `schild3-domain` enthält die fertige Website für die Domainwurzel des Nginx-Servers. Für die GitHub-Pages-Vorschau wird bei Bedarf zusätzlich mit dem von GitHub vorgegebenen Unterpfad gebaut. Die Anbindung der Zieladresse auf dem bestehenden Nginx-Server erfolgt getrennt; der Workflow ändert weder DNS noch diesen Server.
 
 Die veröffentlichende Stelle legt Hosting und Zieladresse fest und ergänzt die benötigten Anbieter-/Datenschutzangaben und Nutzungsrechte. Externe Videoeinbettungen berücksichtigen. Die im Repository hinterlegte Lizenz steht in [LICENSE](LICENSE). Vorhandene Quellenverweise bleiben erhalten.
 
