@@ -83,3 +83,108 @@ Nach dem Upload Startseite, tiefe Artikellinks, Suche, Bilder und Mobilmenü auf
 Die einmaligen Migrationswerkzeuge, historischen Vergleichsberichte, alten Wiki-Sprungmarken und die frühere Gesamtübersicht mit ihrer Weiterleitung sind entfernt. Wiki-Quellenlinks bleiben erhalten. Veröffentlichte Artikelbilder liegen unter `public/bilder/`.
 
 Lokale Zwischenergebnisse unter `tmp/`, `test-results/` und `.vitepress/cache/` können bei Bedarf entfernt werden. `node_modules/` ist die lokale Installation; `.vitepress/dist/` enthält das benötigte Veröffentlichungsergebnis.
+
+## Writing Guide für die Hilfeseiten
+
+Diese Seite ist nur temporär für die Erstellung dieser Dokumentation. Auf ihr werden Absprachen gesammelt, wie Objekte/Bereiche hier in der Dokumentation und im SVWS-Client heißen.
+
+### Alles
+
+* Der Plural von "Schema" ist "Schemata".
+* Neutrale Bezeichnungen, wo es möglich ist. "Schüler" bleiben so, wie sie sind; gegebenenfalls "Schülerinnen" ebenfalls nutzen; im stringenten Wechsel sieht auch doof aus.
+* Sollen Pfeile verwendet werden, sollte ein echter Pfeil ➜ genutzt werden, keine Bastelllösungen wie > oder ->.
+* Die Laufbahnplanung in der Oberstufe heißt "Laufbahnplanung Oberstufe".
+* Bei Screenshots ist STRENG darauf zu achten, dass nur anoymisierte Daten verwendet werden.
+
+### SVWS-Client
+
+* Links im vertikalen Menü sind die **Apps**.
+* Das DataTable mit den eigentlichen Menüpunkten heißt **Auswahlliste**
+* Im rechten Datenbereich heißen die "Reiter" **Tabs**.
+* Unter den Tabs sind die **Untertabs**.
+* In manchen Bereichen steht noch eine **graue Schaltflächenleiste** (Bezeichnung Todo) zur Verfügung.
+
+### Schreibweisen und Groß- und Kleinschreibung
+SVWS-Client, SVWS-AdminClient, SchILD-NRW, SVWS-WeNoM, GOSt, SVWS-WebLuPO, ...
+
+### Web-Dokumentationen
+
+Die Beschreibung der einzelnen Funktionen selbst sollte ohne lange Prozessbeschreibungen nur darlegen, was da ist und wie man es benutzt.
+
+Tatsächliche Anleitungen, Tutorials und Prozessbeschreibungen (ZP10) und vor allem auch Dinge, die mit aktuellen Vorgaben (Prüfungsordnungen usw.) zu tun haben, sollen soweit wie möglich in sinnvoll gegliederte  **Anleitungen** (usw.?) ausgelagert werden.
+
+#### Grafiken, Schaubilder und Links
+
++ Grafiken werden als .png (Logos, einheitliche Farbflächen, Schaubilder, UI usw.) gespeichert.
++ Schaubilder/Schemas sind GraphML-Dateien und werden mit *yEd* erstellt. Die GraphML-Dateien werden ebenfalls in /graphics/ abgelegt.
++ Ältere Versionen von Grafiken und Schaubildern bleiben in der Regel in /graphics/ erhalten.
++ Alle Grafiken sollten direkt mit sinnvollen "Alternativtexten" und Mausover-Texten versehen werden.
++ In **Anleitungen** sollte wirklich *jeder* Schritt erwähnt und mit einem Screenshot versehen werden. Wir schreiben für nicht-technisch versierte Nutzer.
++ Bei Grafiken und Links sind wenn möglich *relative* Links und keine absoluten Pfade zu verwenden!
++ Grafiken werden im normalen Light-Mode (weißer Hintergrund) aufgenommen.
+
+Diagramme können (bald) mit Mermaid erstellt werden: Hier Beispiele:
+
+https://github.com/sametcn99/vitepress-mermaid-renderer/blob/main/docs/content/en/examples/basic.md?plain=1
+
+### Technische Umsetzung
+Die Dokumentation wird aus vielen [Markdown](https://de.wikipedia.org/wiki/Markdown)-Dokumenten erzeugt, die ähnlich wie Wikipedia ein spezielles Formatierungsformat verwendet. Diese Dateien werden mit Hilfe von [vitepress](https://vitepress.dev/) und der Konfigurationsdatei zu einer HTML-Seite gebaut, die dann mit dem Browser angezeigt werden kann.
+
+Die Sammlung dieser Markdown-Dokumente werden in einem [Git](https://git-scm.com/)-Repository auf [GitHub](https://github.com) vorgehalten und können beliebig eingesehen, bearbeitet und verändert werden. Eine ausführliche Anleitung zu Git findet sich [hier](https://docs.github.com/de/get-started/using-git/about-git).
+
+### Hervorherhebungen
+
+Hervorhebungen in **fett** und *kursiv* sollten spärlich eingesetzt werden.
+
+Bislang werden *real vorhandende Funktionen* in **fett** markiert. Ebenso der Hauptgegenstand des Artikels (einmalig). Also etwa **Stunde löschen** oder **Nutzer hinzufügen**. Es sollten nur diese nutzbaren Funktionen hervorgehoben werden.
+
+Andere Hervorhebungen können in *kursiv* gesetzt werden (siehe oben). Ebenso werden Feldinhalte in kursiv gesetzt. Also würde man etwa schreiben: "Tragen Sie in die **Kursart** den Wert *PUK* für *Pflichtunterricht im Klassenverband* ein.
+
+Bei **Anleitungen** empfhielt es sich, die Funktionen, die im Zuge der Anleitung tatsächlich bedient zu werden, als `Code`zu markieren. Also wäre alles, was tatsächlich anzuklicken ist, als Code hervorgehoben. Alternativen wären dann fett. Hier würde man schreiben: "Klicken Sie nun auf `Weiter`, mit **Abbrechen** kehren Sie ohne Änderungen vorzunehmen zum vorherigen Fenster zurück."
+
+Wichtiger als das Einhalten eines globalen Schemas ist aber eher der spärliche Einsatz von Hervorhebungen und Konsistenz innerhalb des Artikels oder der thematischen Artikelreihe. 
+
+#### Farbboxen
+
+```md
+::: info
+This is an info box. Ich bin grau.
+:::
+
+::: tip
+This is a tip. Ich bin etwas lila (eher blau).
+:::
+
+::: warning ACHTUNG
+This is a warning. Ich bin gelb.
+:::
+
+::: danger SUPER ACHTUNG
+This is a dangerous warning. Ich bin rot.
+:::
+
+::: details
+This is a details block. Ich bin grau, so wie Info.
+Der Unterschied ist, dass ich zum AUSKLAPPEN bin.
+:::
+```
+
+::: info
+This is an info box.
+:::
+
+::: tip
+This is a tip.
+:::
+
+::: warning ACHTUNG
+This is a warning.
+:::
+
+::: danger SUPER ACHTUNG
+This is a dangerous warning.
+:::
+
+::: details
+This is a details block.
+:::
