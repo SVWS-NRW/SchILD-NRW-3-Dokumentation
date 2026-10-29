@@ -15,7 +15,7 @@ export default defineConfig({
   vite: { define: { 'import.meta.env.VITE_EXTRA_EXTENSIONS': JSON.stringify(extraExtensions) } },
   title: 'SchILD-NRW 3',
   description: 'Dokumentation für SchILD-NRW 3.6.0: Praxisanleitungen, Reporting und Nachschlagewerk',
-  srcExclude: ['README.md', 'CONTRIBUTING.md', 'tests/**', 'scripts/**', 'node_modules/**', 'tmp/**', 'test-results/**'],
+  srcExclude: ['README.md', 'CONTRIBUTING.md', 'WORKFLOW.md', 'scripts/**', 'node_modules/**', 'tmp/**', 'test-results/**'],
   transformHtml: compactSiteData,
   buildEnd: verifyBuiltHtml,
   markdown: {

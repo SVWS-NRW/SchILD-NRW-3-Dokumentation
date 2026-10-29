@@ -2,19 +2,11 @@ name: Bedienung prüfen
 on:
   workflow_dispatch:
   pull_request:
-    branches: [dev]
-    paths:
-      - '.vitepress/**'
-      - 'tests/**'
-      - 'scripts/**'
-      - 'package*.json'
-      - '.github/workflows/**'
-      - 'hilfe/alle-artikel.md'
-      - 'schild3/import-export-statistik/schnittstellenbeschreibung.md'
+    branches: [dev, master]
 permissions:
   contents: read
 jobs:
-  browser:
+  browser-check:
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:

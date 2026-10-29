@@ -7,6 +7,8 @@ Die öffentlichen Hinweise unter **Hilfe** sind die gemeinsame Grundlage für di
 
 Diese Datei beschreibt die technische Mitarbeit im Repository. Die Schreibregeln und Formatbeispiele werden ausschließlich auf den beiden Hilfeseiten gepflegt.
 
+Für den täglichen Ablauf gilt der [verbindliche Redaktions- und Veröffentlichungsworkflow](WORKFLOW.md). Er regelt insbesondere die Veröffentlichungsfähigkeit von `dev`, die Freigabeausnahmen für die beiden Verantwortlichen und die Übernahme nach `master`.
+
 ## Lokal beginnen
 
 Benötigt werden Git und Node.js 22. Für einen neuen lokalen Klon:
@@ -41,7 +43,7 @@ npm run docs:build
 npm run docs:check
 ```
 
-Den Artikel außerdem in der lokalen Vorschau gegenlesen und Bilder, Verweise und Darstellung ansehen. Bei Änderungen an Menü, Suche oder Gestaltung zusätzlich `npm run docs:check-browser` ausführen. Die benötigte Playwright-Installation ist in der [README](README.md) beschrieben.
+Den Artikel außerdem in der lokalen Vorschau gegenlesen und Bilder, Verweise und Darstellung ansehen. Bei Änderungen an Menü, Suche oder Gestaltung zusätzlich `npm run docs:check-browser` ausführen. Die benötigte Playwright-Installation ist in der [README](README.md) beschrieben. Alle Prüfdateien liegen unter `scripts/`; auf GitHub laufen die Dokumentations- und Browserprüfungen bei jedem PR gegen `dev` und `master`.
 
 ## Änderung einreichen
 
@@ -49,5 +51,6 @@ Den Artikel außerdem in der lokalen Vorschau gegenlesen und Bilder, Verweise un
 2. Den Branch nach GitHub pushen und einen Pull Request gegen `dev` öffnen.
 3. Im Pull Request kurz erklären, was geändert wurde, worauf fachliche Änderungen beruhen und was geprüft wurde.
 4. Die automatischen Prüfungen abwarten und gegebenenfalls Fehler beheben.
+5. Die [Freigabe- und Merge-Regeln](WORKFLOW.md#freigabe-und-merge-nach-dev) einhalten. Nur veröffentlichungsfähige Änderungen nach `dev` übernehmen.
 
 `dev` und `master` werden nicht direkt beschrieben. Den Merge übernimmt der Verantwortliche. Fehler oder fachliche Ergänzungsvorschläge können auch über die [Issues des Repositorys](https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation/issues) gemeldet werden.
