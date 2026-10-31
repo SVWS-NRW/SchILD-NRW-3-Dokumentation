@@ -1796,6 +1796,21 @@
             "link": "/hilfe/videotutorials"
           },
           {
+            "text": "Mitarbeiten",
+            "link": "/hilfe/mitarbeiten",
+            "autoSubmenu": false
+          },
+          {
+            "text": "Mit VS Code bearbeiten",
+            "link": "/hilfe/vscode-editor",
+            "autoSubmenu": false
+          },
+          {
+            "text": "Mit GitHub bearbeiten",
+            "link": "/hilfe/github-editor",
+            "autoSubmenu": false
+          },
+          {
             "text": "Artikel schreiben und bearbeiten",
             "link": "/hilfe/artikel-schreiben"
           },

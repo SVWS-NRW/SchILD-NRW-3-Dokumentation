@@ -4,6 +4,8 @@ title: Artikel schreiben und bearbeiten
 
 # Artikel schreiben und bearbeiten
 
+Den Bearbeitungsablauf bis zum Änderungsvorschlag erläutern [Mit VS Code im Browser bearbeiten](/hilfe/vscode-editor) und [Mit dem GitHub-Editor bearbeiten](/hilfe/github-editor). Einen Überblick bietet [An der Dokumentation mitarbeiten](/hilfe/mitarbeiten).
+
 Schreiben Sie so, dass auch Personen ohne Vorkenntnisse den beschriebenen Arbeitsschritt verstehen. Diese Hinweise gelten für neue Artikel und für die Überarbeitung bestehender Texte. Kopierbare Bausteine finden Sie unter [Markdown und Gestaltung](/hilfe/markdown-und-gestaltung).
 
 ## Eine klare Aufgabe beschreiben

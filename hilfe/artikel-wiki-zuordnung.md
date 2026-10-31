@@ -2,10 +2,13 @@
 
 Du findest hier eine tabellarische Zuordnung aller Artikel in VitePress und aller Artikel im SchILD-NRW 3 Wiki.
 
-Stand: 27. Oktober 2026. Neue, entfernte oder umbenannte Artikel müssen hier nachgeführt werden. Ein fehlender eigener Markdown-Artikel bedeutet nicht zwangsläufig, dass die Inhalte fehlen; sie können in anderen Artikeln aufgegangen sein.
+Stand: 31. Oktober 2026. Neue, entfernte oder umbenannte Artikel müssen hier nachgeführt werden. Ein fehlender eigener Markdown-Artikel bedeutet nicht zwangsläufig, dass die Inhalte fehlen; sie können in anderen Artikeln aufgegangen sein.
 
 | Artikel der neuen Dokumentation | Zugehörige Wiki-Artikel |
 | --- | --- |
+| [An der Dokumentation mitarbeiten](/hilfe/mitarbeiten.html "hilfe/mitarbeiten.md") | — (neue redaktionelle Hilfe) |
+| [Mit VS Code im Browser bearbeiten](/hilfe/vscode-editor.html "hilfe/vscode-editor.md") | — (neue redaktionelle Hilfe) |
+| [Mit dem GitHub-Editor bearbeiten](/hilfe/github-editor.html "hilfe/github-editor.md") | — (neue redaktionelle Hilfe) |
 | [Benutzer, Berechtigungen und Einstellungen verwalten](/administration/benutzer-einstellungen.html "administration/benutzer-einstellungen.md") | — (kein Wiki-Quellenlink) |
 | [Benutzerfunktionen aufrufen](/administration/benutzer-einstellungen/benutzer-verwaltung-schule.html "administration/benutzer-einstellungen/benutzer-verwaltung-schule.md") | [Benutzer (Verwaltung Schule)](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzer_%28Verwaltung_Schule%29) |
 | [Die Benutzeroberfläche kennenlernen](/administration/benutzer-einstellungen/benutzeroberflaeche-von-schild-nrw-3.html "administration/benutzer-einstellungen/benutzeroberflaeche-von-schild-nrw-3.md") | [Benutzeroberfläche von SchILD-NRW 3](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=Benutzeroberfl%C3%A4che_von_SchILD-NRW_3) |

@@ -7,6 +7,7 @@ import {isolateVideoEmbeds} from './browser_test_embeds.mjs'
 import {checkPrintLayout} from './browser_print.mjs'
 import {checkSectionPrint} from './browser_section_print.mjs'
 import {checkAccents} from './browser_accents.mjs'
+import {checkEditorLinks} from './browser_editor_links.mjs'
 const {chromium} = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const base = 'http://127.0.0.1:4189' + prefix
 const server = spawn(process.execPath,['node_modules/vitepress/bin/vitepress.js','preview','--host','127.0.0.1','--port','4189'],{stdio:'ignore'})
@@ -22,6 +23,8 @@ try {
  page=await context.newPage()
  page.setDefaultTimeout(15000)
  page.setDefaultNavigationTimeout(20000)
+ await fs.mkdir('test-results',{recursive:true})
+ await checkEditorLinks(page,base)
  page.on('pageerror',e=>errors.push(e.message))
  async function goto(route){const r=await page.goto(base+route,{waitUntil:'networkidle'});assert(r.ok());await page.locator('.vp-doc h1').waitFor()}
  async function openMenu(width){if(width<960){await page.locator('.VPLocalNav .menu').click();await page.locator('.VPSidebar.open').waitFor()}}
