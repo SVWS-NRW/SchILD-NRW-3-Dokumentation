@@ -4,7 +4,7 @@ Der **Stift** neben dem Drucksymbol öffnet den GitHub-Dateieditor für den ange
 
 Speichern Sie Ihren Vorschlag in einem eigenen **Branch** und reichen Sie ihn als **Pull Request gegen `dev`** ein. Dadurch können die Verantwortlichen die Änderung vor der Übernahme prüfen. Weitere Erläuterungen stehen unter [An der Dokumentation mitarbeiten](/hilfe/mitarbeiten).
 
-Die übernommenen Bildschirmbeispiele zeigen die SchILD-NRW-2-Dokumentation. Die Schritte sind hier gleich; die Schaltflächen dieser Dokumentation öffnen das Repository `SVWS-NRW/SchILD-NRW-3-Dokumentation`.
+Die Bildschirmbeispiele zeigen die SchILD-NRW-2-Dokumentation. Der Ablauf gilt für beide Dokumentationen; die Schaltflächen öffnen jeweils das zugehörige Repository.
 
 ## Artikel öffnen und bearbeiten
 

@@ -79,7 +79,7 @@ Verwenden Sie nummerierte Listen für eine Reihenfolge und Aufzählungen für gl
 
 [Zum Abschnitt Listen auf dieser Seite](#listen)
 
-[Repository der Dokumentation](https://github.com/Raffenberg/SchILD3_Doku)
+[SVWS-NRW auf GitHub](https://github.com/SVWS-NRW)
 ```
 
 **Darstellung:**
@@ -88,7 +88,7 @@ Verwenden Sie nummerierte Listen für eine Reihenfolge und Aufzählungen für gl
 
 [Zum Abschnitt Listen auf dieser Seite](#listen)
 
-[Repository der Dokumentation](https://github.com/Raffenberg/SchILD3_Doku)
+[SVWS-NRW auf GitHub](https://github.com/SVWS-NRW)
 
 Interne Links beginnen mit `/` und enthalten die Artikeladresse ohne `.md`. Einen Abschnitt erreichen Sie über dessen Sprungmarke nach `#`. Verwenden Sie die Adresse der tatsächlich gerenderten Überschrift; raten Sie die Schreibweise bei Sonderzeichen nicht. Bestehende Sprungmarken dürfen bei einer Umbenennung nicht verloren gehen.
 
@@ -148,7 +148,7 @@ ZeugnisMitRand=J
 ZeugnisMitRand=J
 ```
 
-Soll ein Beispiel selbst drei Backticks zeigen, verwenden Sie außen vier Backticks – wie im Quelltext dieses Abschnitts. Eine farbige Darstellung von Code bedeutet nicht, dass das Beispiel auch in SchILD-NRW 3 ausgeführt oder fachlich geprüft wurde.
+Soll ein Beispiel selbst drei Backticks zeigen, verwenden Sie außen vier Backticks – wie im Quelltext dieses Abschnitts. Eine farbige Darstellung von Code bedeutet nicht, dass das Beispiel auch im dokumentierten Programm ausgeführt oder fachlich geprüft wurde.
 
 ## Tabellen
 
@@ -190,7 +190,7 @@ Ein senkrechter Strich innerhalb einer Tabellenzelle benötigt einen einzelnen B
 
 ### Breite Feldtabellen
 
-Die [Schnittstellenbeschreibung](/schild3/import-export-statistik/schnittstellenbeschreibung) zeigt ein vorhandenes Tabellenformat für Feldbeschreibungen. Es verwendet genau die sechs Überschriften „Spalte“, „Beschreibung“, „Header-Text“, „Datentyp“, „Darf leer sein?“ und „Bemerkung“. Daraus entstehen zentral einheitliche Spalten und ein per Tastatur bedienbarer Scrollbereich.
+Für Feldbeschreibungen steht ein gemeinsames Tabellenformat zur Verfügung. Verwenden Sie genau die sechs Überschriften „Spalte“, „Beschreibung“, „Header-Text“, „Datentyp“, „Darf leer sein?“ und „Bemerkung“. Daraus entstehen zentral einheitliche Spalten und ein per Tastatur bedienbarer Scrollbereich.
 
 Für die zugehörige breitere Seitendarstellung wird im vorhandenen Seitenkopf die Angabe `pageClass: reference-tables` ergänzt. Verwenden Sie für solche Nachschlageartikel die vorhandene Schnittstellenbeschreibung als Vorlage, statt eigene Breiten oder Inline-Stile in den Artikel zu schreiben.
 

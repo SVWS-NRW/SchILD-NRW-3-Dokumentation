@@ -1816,7 +1816,7 @@
             "autoSubmenu": false
           },
           {
-            "text": "Artikel schreiben und bearbeiten",
+            "text": "Artikel schreiben",
             "link": "/hilfe/artikel-schreiben"
           },
           {
@@ -1834,6 +1834,11 @@
           {
             "text": "Alle Artikel A–Z",
             "link": "/hilfe/alle-artikel"
+          },
+          {
+            "text": "Quelltexte und Originaldateien",
+            "link": "/hilfe/quelltexte-und-originaldateien",
+            "autoSubmenu": false
           }
         ]
       },
