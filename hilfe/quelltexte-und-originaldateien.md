@@ -1,6 +1,46 @@
 # Quelltexte und Originaldateien
 
-Das [gesicherte Wiki-Quelltextarchiv](/dateien/quellen/wiki-quelltexte.zip) bewahrt die bei der Migration erfassten Originaltexte des SchILD-NRW-3-Wikis. Es wurde am 18. Oktober 2026 erstellt und wird hier unverändert bereitgestellt. Die ursprüngliche Datei heißt `Zielbestand-Punkt2.zip`.
+Hier finden Sie die bei der Migration gesicherten Wiki-Texte, Originaldateien und Offline-Inhaltskopien vom 18. Oktober 2026. Für einen reinen Textvergleich genügt das kleine [Wiki-Quelltextarchiv](/dateien/quellen/wiki-quelltexte.zip). Für Bilder, Anhänge und die Offline-Seiten laden Sie zusätzlich die vier Teile der erweiterten Quellsicherung herunter.
+
+## Quellsicherung mit Originaldateien herunterladen
+
+Die Quellsicherung ist wegen der Größenbegrenzung von GitHub in vier Dateien aufgeteilt. **Sie benötigen alle vier Teile.** Es handelt sich nicht um vier unabhängig entpackbare ZIP-Archive.
+
+| Download | Größe |
+| --- | --- |
+| [Quellsicherung – Teil 1 von 4](/dateien/quellen/SchILD3-Quellsicherung-2026-10-18-001.zip){download} | 50 MiB |
+| [Quellsicherung – Teil 2 von 4](/dateien/quellen/SchILD3-Quellsicherung-2026-10-18-002.zip){download} | 50 MiB |
+| [Quellsicherung – Teil 3 von 4](/dateien/quellen/SchILD3-Quellsicherung-2026-10-18-003.zip){download} | 50 MiB |
+| [Quellsicherung – Teil 4 von 4](/dateien/quellen/SchILD3-Quellsicherung-2026-10-18-004.zip){download} | 48,1 MiB |
+
+### Die vier Teile unter Windows zusammensetzen
+
+1. Speichern Sie alle vier Dateien im selben Ordner. Behalten Sie die Dateinamen bei; vermeiden Sie zusätzliche Zusätze wie `(1)` durch mehrfaches Herunterladen.
+2. Öffnen Sie diesen Ordner im Windows-Explorer. Klicken Sie in die Adresszeile, geben Sie `cmd` ein und drücken Sie die Eingabetaste. Die Eingabeaufforderung öffnet sich in diesem Ordner.
+3. Kopieren Sie den folgenden Befehl vollständig in das Fenster und bestätigen Sie mit der Eingabetaste. Er verbindet die vier Teile in der richtigen Reihenfolge. Die heruntergeladenen Dateien bleiben erhalten.
+
+```bat
+copy /b SchILD3-Quellsicherung-2026-10-18-001.zip+SchILD3-Quellsicherung-2026-10-18-002.zip+SchILD3-Quellsicherung-2026-10-18-003.zip+SchILD3-Quellsicherung-2026-10-18-004.zip SchILD3-Quellsicherung-2026-10-18.zip
+```
+
+4. Im Ordner liegt nun zusätzlich `SchILD3-Quellsicherung-2026-10-18.zip`. Diese Datei muss **207.714.929 Bytes** groß sein. Entpacken Sie diese zusammengesetzte Datei über **Alle extrahieren** in einen eigenen Ordner.
+5. Öffnen Sie dort `index.html` für die Offline-Inhaltsseiten. Einzelheiten zur Sicherung stehen in `Sicherungsbericht.md` und `backup-summary.json`.
+
+### Inhalt der erweiterten Quellsicherung
+
+| Bestandteil | Inhalt |
+| --- | --- |
+| `wiki-files` | Gesicherte Originaldateien des Wikis; laut Sicherungsprotokoll wurden 1.033 Dateien überprüft. |
+| `offline-html` und `index.html` | 469 Inhaltskopien mit lokal zugeordneten Bildern und einer Einstiegsseite. Externe Links und Videos benötigen weiterhin eine Internetverbindung. |
+| `rendered-html` und `rendered-api` | Gerenderte Fassungen der 469 Artikel sowie die zugehörigen API-Antworten. |
+| `packages` und `unpacked` | Acht damals gesicherte Downloadpakete und deren entpackte Inhalte. |
+| Berichte und Prüflisten | Bestandsangaben, Prüfsummen und Ergebnisse der Sicherung. |
+
+Die Sicherung hält den damaligen Stand fest. Das Protokoll nennt einen fehlgeschlagenen externen Download von `broschuerendruck.pdf`; diese Datei ist nicht als erfolgreich gesichert ausgewiesen. Die Sicherung ist kein aktuelles Software- oder Reportpaket.
+
+## Wiki-Quelltexte separat herunterladen
+
+Das kleine [Wiki-Quelltextarchiv herunterladen](/dateien/quellen/wiki-quelltexte.zip){download} bewahrt die ursprünglichen MediaWiki-Texte und Bestandslisten. Es wird unverändert bereitgestellt; die ursprüngliche Datei heißt `Zielbestand-Punkt2.zip`.
 
 ## Inhalt des Quelltextarchivs
 
