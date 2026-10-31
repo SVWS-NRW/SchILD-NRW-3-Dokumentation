@@ -1801,6 +1801,10 @@
             "autoSubmenu": false
           },
           {
+            "text": "Redaktionsworkflow",
+            "link": "https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation/blob/dev/WORKFLOW.md"
+          },
+          {
             "text": "Mit VS Code bearbeiten",
             "link": "/hilfe/vscode-editor",
             "autoSubmenu": false
