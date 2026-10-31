@@ -6,6 +6,7 @@ Stand: 31. Oktober 2026. Neue, entfernte oder umbenannte Artikel müssen hier na
 
 | Artikel der neuen Dokumentation | Zugehörige Wiki-Artikel |
 | --- | --- |
+| [Quelltexte und Originaldateien](/hilfe/quelltexte-und-originaldateien.html "hilfe/quelltexte-und-originaldateien.md") | — (gesichertes Wiki-Quellarchiv) |
 | [Verbindlicher Redaktions- und Veröffentlichungsworkflow](/hilfe/redaktionsworkflow.html "hilfe/redaktionsworkflow.md") | — (Redaktionshinweise aus WORKFLOW.md) |
 | [An der Dokumentation mitarbeiten](/hilfe/mitarbeiten.html "hilfe/mitarbeiten.md") | — (neue redaktionelle Hilfe) |
 | [Mit VS Code im Browser bearbeiten](/hilfe/vscode-editor.html "hilfe/vscode-editor.md") | — (neue redaktionelle Hilfe) |
