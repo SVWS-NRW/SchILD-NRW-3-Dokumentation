@@ -57,6 +57,6 @@ Den Artikel außerdem in der lokalen Vorschau gegenlesen und Bilder, Verweise un
 2. Den Branch nach GitHub pushen und einen Pull Request gegen `dev` öffnen.
 3. Im Pull Request kurz erklären, was geändert wurde, worauf fachliche Änderungen beruhen und was geprüft wurde.
 4. Die automatischen Prüfungen abwarten und gegebenenfalls Fehler beheben.
-5. Die [Freigabe- und Merge-Regeln](https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation/blob/dev/WORKFLOW.md#freigabe-und-merge-nach-dev) einhalten. Nur veröffentlichungsfähige Änderungen nach `dev` übernehmen.
+5. Die [Freigabe- und Merge-Regeln](/hilfe/redaktionsworkflow#freigabe-und-merge-nach-dev) einhalten. Nur veröffentlichungsfähige Änderungen nach `dev` übernehmen.
 
 `dev` und `master` werden nicht direkt beschrieben. Den Merge übernimmt der Verantwortliche. Fehler oder fachliche Ergänzungsvorschläge können auch über die [Issues des Repositorys](https://github.com/SVWS-NRW/SchILD-NRW-3-Dokumentation/issues) gemeldet werden.
