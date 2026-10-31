@@ -106,7 +106,6 @@
     display: block;
     line-height: 1.55;
   }
-  .vp-doc table { border-radius: 8px; }
   .vp-doc th, .vp-doc td { border-color: var(--schild-border); }
   .vp-doc th, .vp-doc tr:nth-child(2n) { background: var(--schild-table-bg); }
 

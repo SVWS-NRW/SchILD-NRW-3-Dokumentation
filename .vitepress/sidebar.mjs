@@ -10,6 +10,8 @@ export function createSidebar(navigation, root = new URL('../', import.meta.url)
   for (const [section, groups] of Object.entries(navigation.sidebar)) {
     const explicitTopics = new Set(groups[0].items.filter(item => item.items?.length).map(item => item.link))
     const topics = groups[0].items.map(item => {
+      if (!item.link.startsWith('/')) return item
+      if (item.autoSubmenu === false) return item
       if (item.items?.length) return { ...item, collapsed: true }
       if (item.link.endsWith('/') || item.link.startsWith('/druck/')) return item
       const source = readFileSync(fileURLToPath(new URL(`.${item.link}.md`, root)), 'utf8')
