@@ -3,20 +3,13 @@ layout: home
 pageClass: schild-home
 hero:
   name: SchILD-NRW 3
-  tagline: Dokumentation für SchILD-NRW 3
-  actions:
-    - theme: brand
-      text: Erste Schritte
-      link: /einstieg/
-    - theme: alt
-      text: Programmreferenz
-      link: /programmreferenz/
+  tagline: Dokumentation
 features:
   - title: Einstieg
     details: Grundlagen kennenlernen, sich orientieren und die ersten Schritte mit SchILD-NRW 3 gehen.
     link: /einstieg/
     linkText: Zur Rubrik
-  - title: Arbeiten mit SchILD
+  - title: Arbeiten mit SchILD3
     details: Schülerdaten, Lehrkräfte, Unterricht und Gruppenprozesse.
     link: /schild3/
     linkText: Zur Rubrik
