@@ -57,6 +57,7 @@ Um die Sicherheit des Betriebssystems zu gewährleisten, stattet Windows die unt
 - Das Verzeichnis, in dem der SVWS-Server die Datenbanken ablegt. In diesem Verzeichnis hat nur der Server Zugriff, **Nutzer sollen hier nichts lesen** oder verändern können.
 - Das Verzeichnis, in dem das reine Programm SchILD-NRW3 installiert wird. **Nutzer haben hier keine Schreibrechte** und es werden hier keine Arbeitsdaten erstellt.
 - Das SVWS-Arbeitsverzeichnis, in dem die Daten der Nutzer liegen, zum Beispiel die Reports oder die Export- und Importdateien. Hier haben Nutzer für die tägliche Arbeit Zugriff. Soll dieses Verzeichnis nach der Installation verändert werden, lässt sich dies über die *Admin.ini* im SchILD-NRW-3-Installationsverzeichnis mit dem Eintrag `GroupDir=D:\SVWS-Arbeitsverzeichnis` umstellen.
+- Sie können auch *SchILD-NRW 3 mit einem Parameter starten*, um zur Laufzeit ein zu verwendendes SVWS-Arbeitsverzeichnis zu setzen. Hierbei wird die Admin.ini ignoriert. Starten Sie zum Beispiel `SchILD3.exe -GROUPDIR:S:\Anderes-SVWS-Arbeitsverzeichnis` über eine Verknüpfung. Nutzen Sie dies, um unterschiedliche Schulen zwar eine einzige SchILD-3-Installation verwerden zu lassen, die anschließend alle ein eigenes SVWS-Arbeitsverzeichnis verwenden.
 
 ## Systemvoraussetzungen
 
