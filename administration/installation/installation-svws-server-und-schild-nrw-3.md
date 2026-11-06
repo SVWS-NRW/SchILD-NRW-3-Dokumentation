@@ -534,6 +534,10 @@ Anstatt die SMTP-Einstellungen in den globalen Einstellungen von SchILD-NRW 3 vo
 
 Dies kann beispielsweise sinnvoll sein, wenn ein Schulträger oder kommunaler IT-Dienstleister einen gemeinsamen E-Mail-Provider für mehrere Schulen zur Verfügung stellt.
 
+::: tip Eigenes SVWS-Arbeitsverzeichnis ohne Admin.ini setzen
+Sie können auch SchILD-NRW 3 mit einem Parameter starten, um ein zu verwendendes SVWS-Arbeitsverzeichnis zu setzen. Hierbei wird die Admin.ini ignoriert. Starten Sie `SchILD3.exe -GROUPDIR:S:\Anderes-SVWS-Arbeitsverzeichnis` hierzu.
+:::
+
 ## Deinstallieren der Programme
 
 ### Deinstallation über die Einstellungen von Windows
