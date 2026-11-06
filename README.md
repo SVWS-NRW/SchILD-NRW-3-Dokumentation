@@ -68,7 +68,7 @@ Veröffentlicht wird ausschließlich der Inhalt von `.vitepress/dist` über stat
 
 Ein Merge nach `master` startet `.github/workflows/deploy.yml`: Build, Link- und Bildprüfung sowie Veröffentlichung auf GitHub Pages. Ein manueller Lauf dieses Workflows auf `master` veröffentlicht ebenfalls; auf anderen Branches wird nur gebaut. Im regulären Ablauf ist der manuelle Veröffentlichungslauf nicht nötig; Einzelheiten stehen im [Workflow](WORKFLOW.md). Das Workflow-Artefakt `schild3-domain` enthält die fertige Website für die Domainwurzel des Nginx-Servers. Für die GitHub-Pages-Vorschau wird bei Bedarf zusätzlich mit dem von GitHub vorgegebenen Unterpfad gebaut. Die Anbindung der Zieladresse auf dem bestehenden Nginx-Server erfolgt getrennt; der Workflow ändert weder DNS noch diesen Server.
 
-Die veröffentlichende Stelle legt Hosting und Zieladresse fest und ergänzt die benötigten Anbieter-/Datenschutzangaben und Nutzungsrechte. Externe Videoeinbettungen berücksichtigen. Die im Repository hinterlegte Lizenz steht in [LICENSE](LICENSE). Vorhandene Quellenverweise bleiben erhalten.
+Die veröffentlichende Stelle legt Hosting und Zieladresse fest und ergänzt die benötigten Anbieter-/Datenschutzangaben und Nutzungsrechte. Externe Videoeinbettungen berücksichtigen. Die im Repository hinterlegte Lizenz steht in [LICENSE](LICENSE.md). Vorhandene Quellenverweise bleiben erhalten.
 
 Nach dem Upload Startseite, tiefe Artikellinks, Suche, Bilder und Mobilmenü auf der tatsächlichen Zieladresse prüfen.
 
