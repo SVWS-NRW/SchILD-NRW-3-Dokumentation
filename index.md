@@ -3,7 +3,7 @@ layout: home
 pageClass: schild-home
 hero:
   name: SchILD-NRW 3
-  tagline: Dokumentation für SchILD-NRW 3
+  tagline: Dokumentation
   actions:
     - theme: brand
       text: Erste Schritte

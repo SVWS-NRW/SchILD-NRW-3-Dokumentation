@@ -9,6 +9,7 @@ import { articleIndexLink } from '../article-index.mjs'
 import VPHome from 'vitepress/dist/client/theme-default/components/VPHome.vue'
 import ReferenceSidebar from './ReferenceSidebar.vue'
 import ArticlePrintIcon from './ArticlePrintIcon.vue'
+import SiteFooter from './SiteFooter.vue'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
 import navigation from '../navigation.json'
 import reference from '../program-reference.json'
@@ -70,6 +71,7 @@ provide(dataSymbol, {
           <VPSidebarGroup :items="referenceAreas" />
         </div>
       </template>
+      <template #layout-bottom><SiteFooter /></template>
     </DefaultTheme.Layout>
   </div>
 </template>
