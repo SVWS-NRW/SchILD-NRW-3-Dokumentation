@@ -2,7 +2,7 @@
 
 Schlagen Sie eine Funktion alphabetisch nach. Die Funktionsartikel enthalten die dokumentierten Angaben und Beispiele; Quellen stehen am jeweiligen Artikel.
 
-Die vollständige Referenz umfasst **122 RAP-Funktionsartikel**. Die Funktionen sind alphabetisch geordnet.
+Die vollständige Referenz umfasst **123 RAP-Funktionsartikel**. Die Funktionen sind alphabetisch geordnet.
 
 ## A
 
@@ -87,6 +87,7 @@ Die vollständige Referenz umfasst **122 RAP-Funktionsartikel**. Die Funktionen 
 - [LoadVermerkeEx](/reporting/rap/loadvermerkeex)
 - [LoadVermerkeVonBis](/reporting/rap/loadvermerkevonbis)
 - [LongDayNames](/reporting/rap/longdaynames)
+- [LocateRecord](/reporting/rap/locaterecord)
 - [LookupSprachenfolge](/reporting/rap/lookupsprachenfolge)
 
 ## M
