@@ -30,9 +30,9 @@ export async function checkAccents(page, base) {
   const originalDark = await page.evaluate(() => document.documentElement.classList.contains('dark'))
   for (const width of [1440, 390]) {
     await page.setViewportSize({ width, height: 900 })
-    for (const dark of [false, true]) {
-      for (const route of ['/', ...sections.map(section => `/${section}/`)]) {
-        assert((await page.goto(base + route)).ok())
+    for (const route of ['/', ...sections.map(section => `/${section}/`)]) {
+      assert((await page.goto(base + route)).ok())
+      for (const dark of [false, true]) {
         await page.evaluate(dark => document.documentElement.classList.toggle('dark', dark), dark)
         assert(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 2), `Überlauf: ${route} ${width}`)
         assert.equal(await page.locator('.doc-context, .section-portal, .home-section-heading').count(), 0)
