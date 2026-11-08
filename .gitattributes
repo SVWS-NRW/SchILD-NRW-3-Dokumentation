@@ -1,0 +1,5 @@
+# Textdateien mit LF-Zeilenenden ein- und auschecken.
+* text=auto eol=lf
+
+# Veröffentlichte Dateien und Downloads bytegenau erhalten.
+public/** -text

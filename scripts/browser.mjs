@@ -3,11 +3,11 @@ const prefix = siteBase.slice(0, -1)
 import {spawn} from 'node:child_process'
 import fs from 'node:fs/promises'
 import assert from 'node:assert/strict'
-import {isolateVideoEmbeds} from './browser_test_embeds.mjs'
-import {checkPrintLayout} from './browser_print.mjs'
-import {checkSectionPrint} from './browser_section_print.mjs'
-import {checkAccents} from './browser_accents.mjs'
-import {checkEditorLinks} from './browser_editor_links.mjs'
+import {isolateVideoEmbeds} from './browser-test-embeds.mjs'
+import {checkPrintLayout} from './browser-print.mjs'
+import {checkSectionPrint} from './browser-section-print.mjs'
+import {checkAccents} from './browser-accents.mjs'
+import {checkEditorLinks} from './browser-editor-links.mjs'
 const {chromium} = await import(process.env.PLAYWRIGHT_MODULE || 'playwright')
 const base = 'http://127.0.0.1:4189' + prefix
 const server = spawn(process.execPath,['node_modules/vitepress/bin/vitepress.js','preview','--host','127.0.0.1','--port','4189'],{stdio:'ignore'})
