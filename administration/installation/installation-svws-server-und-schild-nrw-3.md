@@ -61,11 +61,12 @@ Um die Sicherheit des Betriebssystems zu gewährleisten, stattet Windows die unt
 Sofern Sie einen Wechsel von SchILD-NRW 2 nach SchILD-NRW 3 mit SVWS-Server durchführen wollen, empfehlen wir Ihnen einige vorbereitende Maßnahmen in SchILD-NRW 2:
 
 1.  **Datenbank sichern:** Sichern Sie zunächst die vorhandene Datenbank, bevor Sie die weiteren Schritte durchführen. Achten Sie darauf, dass keine weitere Person auf die Datenbank zugreift.
-2.  **Papierkorb leeren:** Rufen Sie den Menüpunkt *Auswahl ➜ Papierkorb zeigen* auf. Löschen Sie alle Schüler im Papierkorb, um unvollständige Datensätze bei der Migration zu vermeiden.
-3.  **Datensätze reduzieren:** Rufen Sie den Menüpunkt *Extras ➜ Löschfristen prüfen* auf. Löschen Sie alle Daten gemäß VO-DV I und VO-DV II um die Vorgaben einzuhalten und die Datenmenge zu reduzieren.
-4.  **Datenbank automatisch prüfen:** Rufen Sie den Menüpunkt *Extras ➜ Automatische Prozesse ausführen* auf. Die Datenbank wird in der Folge auf grundlegende Konsistenzen überprüft. Fehlende Konsistenzen werden angelegt.
-5.  **Datenbank komprimieren und reparieren:** Rufen Sie den Menüpunkt *Datei ➜ Datenbank komprimieren und reparieren* auf. Dieser Prozess entfernt unnötigen Ballast, der sich bei der Arbeit mit der Datenbank angesammelt hat.
-6.  **Optional - Migrationstool verwenden:** Die Migration in eine neue SchILD-NRW 2 Datenbank kann hertnäckige Probleme beheben.
+2.  **$$$$-Klassen löschen:** Sichten Sie in der Klassen-/Versetzungstabelle sichtbare und unsichtbare Klassen. Filtern und löschen Sie Schülerinnen und Schüler in diesen Klassen. Löschen Sie die $$$$-Klasse.
+3.  **Papierkorb leeren:** Rufen Sie den Menüpunkt *Auswahl ➜ Papierkorb zeigen* auf. Löschen Sie alle Schüler im Papierkorb, um unvollständige Datensätze bei der Migration zu vermeiden.
+4.  **Datensätze reduzieren:** Rufen Sie den Menüpunkt *Extras ➜ Löschfristen prüfen* auf. Löschen Sie alle Daten gemäß VO-DV I und VO-DV II um die Vorgaben einzuhalten und die Datenmenge zu reduzieren.
+5.  **Datenbank automatisch prüfen:** Rufen Sie den Menüpunkt *Extras ➜ Automatische Prozesse ausführen* auf. Die Datenbank wird in der Folge auf grundlegende Konsistenzen überprüft. Fehlende Konsistenzen werden angelegt.
+6.  **Datenbank komprimieren und reparieren:** Rufen Sie den Menüpunkt *Datei ➜ Datenbank komprimieren und reparieren* auf. Dieser Prozess entfernt unnötigen Ballast, der sich bei der Arbeit mit der Datenbank angesammelt hat.
+7.  **Optional - Migrationstool verwenden:** Die Migration in eine neue SchILD-NRW 2 Datenbank kann hertnäckige Probleme beheben.
 
 ## Einzelplatzinstallation
 
