@@ -81,6 +81,13 @@
     background: var(--vp-c-bg);
     border-color: var(--schild-border);
   }
+  .VPNavBarMenuLink.active > span {
+    border-radius: 6px;
+   background: var(--vp-c-brand-soft);
+    padding: 4px 8px;
+    margin-inline: -8px;
+    line-height: 1.5;
+  }  
   .VPLocalSearchBox .search-bar {
     background: var(--vp-sidebar-bg-color);
     border-color: var(--schild-border);
