@@ -48,9 +48,20 @@ function adjacentReference(offset: number) {
   const article = referencePosition.value < 0 ? undefined : referenceArticles[referencePosition.value + offset]
   return article ? { text: article.text, link: article.link } : false
 }
+const activeNavContext = computed(() => indexMode.value ? '/hilfe/' : referenceMode.value ? '/programmreferenz/' : '')
+const contextualNav = computed(() => navigation.nav.map(item => ({
+  ...item,
+  activeMatch: activeNavContext.value
+    ? (item.link === activeNavContext.value ? '^' : '(?!)')
+    : item.activeMatch || '^' + item.link
+})))
 provide(dataSymbol, {
   ...data,
-  theme: computed(() => indexMode.value ? { ...theme.value, sidebar: helpSidebar.value } : theme.value),
+  theme: computed(() => ({
+    ...theme.value,
+    nav: contextualNav.value,
+    ...(indexMode.value ? { sidebar: helpSidebar.value } : {})
+  })),
   frontmatter: computed(() => indexMode.value ? {
     ...frontmatter.value,
     ...(indexHome.value ? { layout: 'doc', aside: false } : {}),
