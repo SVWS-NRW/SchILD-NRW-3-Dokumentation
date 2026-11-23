@@ -44,12 +44,6 @@ Verwenden Sie die Namen aus der Programmoberfläche. Für mehrere Felder oder Sc
 
 Nehmen Sie Schulform-, Versions- oder Berechtigungsunterschiede nur auf, wenn sie belegt sind. Verlinken Sie vollständige Arbeitsabläufe, statt sie in jedem Referenzartikel erneut zu erklären.
 
-### RAP-Funktionsreferenzen
-
-Erhalten Sie Signaturen, Bezeichner und Code wörtlich. Beschreiben Sie Parameter mit Name, Typ und Bedeutung, soweit diese Angaben vorliegen. Bei einer Prozedur darf kein Rückgabewert erfunden werden; dokumentierte `var`-Ausgaben gehören zu den Parametern. Aus fehlenden Angaben lässt sich nicht ableiten, dass eine Funktion keine Parameter oder keinen Rückgabewert hat.
-
-Schreiben Sie Pascal-Beispiele in Codeblöcke und die Erläuterungen außerhalb des Codes. Erklären Sie beabsichtigte Codekorrekturen im Änderungsvorschlag. Bezeichnen Sie ein Beispiel nur dann als „getestet“ oder „ausgeführt“, wenn es tatsächlich in der passenden Laufzeit geprüft wurde.
-
 ### Themenübersichten
 
 Beantworten Sie zuerst „Wo beginne ich?“. Verbinden Sie die Detailartikel zu einem nachvollziehbaren Weg und bieten Sie danach Zugänge zu Sonderfällen an. Zusammenfassende Aussagen müssen aus den verlinkten Fachartikeln belegbar sein.
