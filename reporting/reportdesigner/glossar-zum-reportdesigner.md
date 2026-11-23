@@ -120,7 +120,7 @@ Ereignis kurz vor der Ausgabe. Häufig genutzt zur Steuerung von Sichtbarkeit.
 
 ### RAP-Funktionen
 
-Erweiterungen für SchILD-NRW. Bieten Sonderlogik, z. B. für Abschluss- oder Abschnittsinformationen.
+Funktionen für Berechnungen in Reports. Sie bieten Sonderlogik, z. B. für Abschluss- oder Abschnittsinformationen.
 
 ### Variable
 
